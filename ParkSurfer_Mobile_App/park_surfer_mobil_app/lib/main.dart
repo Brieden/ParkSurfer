@@ -19,9 +19,69 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     LatLng cartago = LatLng(9.8575, -83.921);
-
     return Scaffold(
-      appBar: AppBar(title: Text('Home')),
+      appBar: AppBar(title: Text('ParkSurfer')),
+      drawer: Drawer(
+        child: ListView(
+          padding: EdgeInsets.zero,
+          children: <Widget>[
+            DrawerHeader(
+              child: Image(
+                image: AssetImage('images/logo_with_text.png'),
+              ),
+              decoration: BoxDecoration(
+                color: Colors.blue,
+              ),
+            ),
+            ExpansionTile(
+              title: Text("Latin America"),
+              children: <Widget>[
+                ListTile(
+                  title: Text('...'),
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                ),
+                ListTile(
+                  title: Text('Costa Rica'),
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                ),
+                ListTile(
+                  title: Text('...'),
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                ),
+              ],
+            ),
+            ExpansionTile(
+              title: Text("Europe"),
+              children: <Widget>[
+                ListTile(
+                  title: Text('...'),
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                ),
+                ListTile(
+                  title: Text('Switzerland'),
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                ),
+                ListTile(
+                  title: Text('...'),
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
       body: Padding(
         padding: EdgeInsets.all(8.0),
         child: Column(
