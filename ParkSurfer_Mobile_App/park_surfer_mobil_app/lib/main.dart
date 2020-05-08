@@ -17,7 +17,7 @@ class ParkSurferHome extends StatelessWidget {
 
 class MapPage extends StatefulWidget {
   @override
-  State<StatefulWidget> createState() {
+  MapPageState createState() {
     return MapPageState();
   }
 }
@@ -30,6 +30,14 @@ class MapPageState extends State<MapPage> {
   static LatLng london = LatLng(51.5, -0.09);
   static LatLng paris = LatLng(48.8566, 2.3522);
   static LatLng dublin = LatLng(53.3498, -6.2603);
+
+  MapController mapController;
+
+  @override
+  void initState() {
+    super.initState();
+    mapController = MapController();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -51,7 +59,6 @@ class MapPageState extends State<MapPage> {
     }).toList();
 
     return Scaffold(
-      key: _scaffoldKey,
       appBar: AppBar(title: Text('ParkSurfer')),
       drawer: Drawer(
         child: ListView(
@@ -77,8 +84,7 @@ class MapPageState extends State<MapPage> {
                   onTap: () {
                     _handleTap(paris);
                     Navigator.pop(context);
-
-//                        mapController.move(dublin, 5.0);
+                    mapController.move(dublin, 5.0);
                   },
                 ),
                 ListTile(
@@ -96,7 +102,20 @@ class MapPageState extends State<MapPage> {
                 ),
                 ListTile(
                   title: Text('Switzerland'),
-                  onTap: () {},
+                  onTap: () {
+                    var bounds = LatLngBounds();
+                    bounds.extend(dublin);
+                    bounds.extend(paris);
+                    bounds.extend(london);
+                    mapController.fitBounds(
+                      bounds,
+                      options: FitBoundsOptions(
+                        padding: EdgeInsets.only(left: 15.0, right: 15.0),
+                      ),
+                    );
+
+                    Navigator.pop(context);
+                  },
                 ),
                 ListTile(
                   title: Text('...'),
@@ -107,22 +126,36 @@ class MapPageState extends State<MapPage> {
           ],
         ),
       ),
+      key: _scaffoldKey,
       body: Padding(
         padding: EdgeInsets.all(8.0),
         child: Column(
           children: [
             Padding(
               padding: EdgeInsets.only(top: 8.0, bottom: 8.0),
-              child: Text('Tap to add pins'),
+              child: Row(
+                children: <Widget>[
+                  MaterialButton(
+                    child: Text('Dublin'),
+                    onPressed: () {
+                      mapController.move(dublin, 5.0);
+                    },
+                  ),
+                ],
+              ),
             ),
             Flexible(
               child: FlutterMap(
-                options: MapOptions(center: london, zoom: 5.0),
+                mapController: mapController,
+                options: MapOptions(
+                  center: LatLng(51.5, -0.09),
+                  zoom: 5.0,
+                ),
                 layers: [
                   TileLayerOptions(
-                    urlTemplate:
-                        'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-                  ),
+                      urlTemplate:
+                          'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                      subdomains: ['a', 'b', 'c']),
                   MarkerLayerOptions(markers: markers)
                 ],
               ),
