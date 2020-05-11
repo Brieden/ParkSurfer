@@ -1,11 +1,65 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong/latlong.dart';
+import 'dart:convert';
+import 'dart:async' show Future;
+import 'package:flutter/services.dart' show rootBundle;
+
+class Park {
+  final int id;
+  final int capacity;
+  int demand;
+  final String name;
+  final num centerPositionLon;
+  final num centerPositionLat;
+
+  Park(
+      {this.id,
+      this.capacity,
+      this.demand,
+      this.centerPositionLat,
+      this.centerPositionLon,
+      this.name});
+
+  factory Park.fromJson(Map<String, dynamic> json) {
+    return Park(
+      id: json['ID'] as int,
+      capacity: json['Capacity'] as int,
+      demand: json['Demand'] as int,
+      name: json['Name'] as String,
+      centerPositionLat: json['CenterPositionLat'] as num,
+      centerPositionLon: json['CenterPositionLon'] as num,
+    );
+  }
+}
+
+List<Park> parseParks(String responseBody) {
+  final parsed = json.decode(responseBody).cast<Map<String, dynamic>>();
+
+  return parsed.map<Park>((json) => Park.fromJson(json)).toList();
+}
+
+Future wait(int seconds) {
+  return new Future.delayed(Duration(seconds: seconds), () => {});
+}
+
+var path = "assets/Costa_Rica.json";
+
+Future<String> _loadAParkAsset() async {
+  return await rootBundle.loadString(path);
+}
+
+Future<List<Park>> _loadPark() async {
+  String jsonString = await _loadAParkAsset();
+  print('JSON Loaded');
+  return compute(parseParks, jsonString);
+}
 
 void main() => runApp(ParkSurferHome());
 
 class ParkSurferHome extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -26,10 +80,9 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
   List<LatLng> tappedPoints = [];
+  static LatLng costaRica = LatLng(9.95, -84);
   static LatLng cartago = LatLng(9.8575, -83.921);
-  static LatLng london = LatLng(51.5, -0.09);
-  static LatLng paris = LatLng(48.8566, 2.3522);
-  static LatLng dublin = LatLng(53.3498, -6.2603);
+  static LatLng switzerland = LatLng(46.8, 8.233333);
 
   MapController mapController;
 
@@ -50,7 +103,7 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
 
     // Create a animation controller that has a duration and a TickerProvider.
     var controller = AnimationController(
-        duration: const Duration(milliseconds: 5000), vsync: this); //500
+        duration: const Duration(milliseconds: 10000), vsync: this); //500
     // The animation determines what path the animation will take. You can try different Curves values, although I found
     // fastOutSlowIn to be my favorite.
     Animation<double> animation =
@@ -73,91 +126,129 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
     controller.forward();
   }
 
-  @override
-  Widget build(BuildContext context) {
-    var markers = tappedPoints.map((latlng) {
-      return Marker(
-        width: 80.0,
-        height: 80.0,
-        point: london,
+  var circleMarker = <CircleMarker>[];
+  var markers = <Marker>[];
+
+  void newSnackBar(einPark) {
+    _scaffoldKey.currentState.showSnackBar(SnackBar(
+      backgroundColor: Colors.green.shade400,
+      content: Card(
+        color: Colors.green.shade900,
+        margin: EdgeInsets.all(0),
+        child: ListTile(
+          leading: Icon(
+            Icons.person_add,
+            color: Colors.green.shade300,
+            size: 72,
+          ),
+          onTap: () {
+            print("Booked");
+            einPark.demand += 1;
+            _scaffoldKey.currentState.hideCurrentSnackBar();
+            newSnackBar(einPark);
+          },
+          title: einPark.name.isEmpty ? Text('Park') : Text(einPark.name),
+          subtitle: Text("Capacity: " +
+              einPark.capacity.toString() +
+              " Demand: " +
+              einPark.demand.toString() +
+              "\nClick to Book"),
+          isThreeLine: true,
+        ),
+      ),
+      duration: Duration(seconds: 3),
+    ));
+  }
+
+  void _addMarkerFromList(parkList) {
+    for (Park einPark in parkList) {
+      markers.add(Marker(
+        width: 50.0,
+        height: 50.0,
+        point: LatLng(einPark.centerPositionLon, einPark.centerPositionLat),
+        anchorPos: AnchorPos.align(AnchorAlign.top),
         builder: (ctx) => Container(
             child: GestureDetector(
           onTap: () {
-            _scaffoldKey.currentState.showSnackBar(SnackBar(
-              content: Text('Tapped on blue FlutterLogo Marker'),
-            ));
+            print('on Tap marker');
+            newSnackBar(einPark);
           },
-          child: FlutterLogo(),
+          child: Icon(
+            Icons.person_pin_circle,
+            size: 50.0,
+            color: Colors.green.withOpacity(0.7),
+          ),
         )),
-      );
-    }).toList();
+      ));
+    }
+  }
 
+  @override
+  Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('ParkSurfer')),
+      appBar: AppBar(
+        title: Text('ParkSurfer'),
+        backgroundColor: Colors.green.shade700,
+      ),
       drawer: Drawer(
-        child: ListView(
-          padding: EdgeInsets.zero,
-          children: <Widget>[
-            DrawerHeader(
-              child: Image(
-                image: AssetImage('images/logo_with_text.png'),
+        child: Container(
+          color: Colors.green.shade200,
+          child: ListView(
+            padding: EdgeInsets.zero,
+            children: <Widget>[
+              DrawerHeader(
+                child: Image(
+                  image: AssetImage('images/logo_with_text.png'),
+                ),
+                decoration: BoxDecoration(
+                  color: Colors.green.shade400,
+                ),
               ),
-              decoration: BoxDecoration(
-                color: Colors.blue,
+              ExpansionTile(
+                title: Text("Latin America"),
+                backgroundColor: Colors.green.shade100,
+                children: <Widget>[
+                  ListTile(
+                    title: Text('...'),
+                    onTap: () {},
+                  ),
+                  ListTile(
+                    title: Text('Costa Rica'),
+                    onTap: () {
+                      _handleTap(costaRica);
+                      Navigator.pop(context);
+                      _animatedMapMove(costaRica, 7.0);
+                    },
+                  ),
+                  ListTile(
+                    title: Text('...'),
+                    onTap: () {},
+                  ),
+                ],
               ),
-            ),
-            ExpansionTile(
-              title: Text("Latin America"),
-              children: <Widget>[
-                ListTile(
-                  title: Text('...'),
-                  onTap: () {},
-                ),
-                ListTile(
-                  title: Text('Costa Rica'),
-                  onTap: () {
-                    _handleTap(paris);
-                    Navigator.pop(context);
-                    _animatedMapMove(cartago, 10.0);
-                  },
-                ),
-                ListTile(
-                  title: Text('...'),
-                  onTap: () {},
-                ),
-              ],
-            ),
-            ExpansionTile(
-              title: Text("Europe"),
-              children: <Widget>[
-                ListTile(
-                  title: Text('...'),
-                  onTap: () {},
-                ),
-                ListTile(
-                  title: Text('Switzerland'),
-                  onTap: () {
-                    var bounds = LatLngBounds();
-                    bounds.extend(dublin);
-                    bounds.extend(paris);
-                    bounds.extend(london);
-                    mapController.fitBounds(
-                      bounds,
-                      options: FitBoundsOptions(
-                        padding: EdgeInsets.only(left: 15.0, right: 15.0),
-                      ),
-                    );
-
-                    Navigator.pop(context);
-                  },
-                ),
-                ListTile(
-                  title: Text('...'),
-                  onTap: () {},
-                ),
-              ],
-            ),
-          ],
+              ExpansionTile(
+                title: Text("Europe"),
+                backgroundColor: Colors.green.shade100,
+                children: <Widget>[
+                  ListTile(
+                    title: Text('...'),
+                    onTap: () {},
+                  ),
+                  ListTile(
+                    title: Text('Switzerland'),
+                    onTap: () {
+                      _animatedMapMove(switzerland, 7);
+                      Navigator.pop(context);
+                    },
+                  ),
+                  ListTile(
+                    title: Text('...'),
+                    onTap: () {},
+                  ),
+                ],
+              ),
+            ],
+          ),
         ),
       ),
       key: _scaffoldKey,
@@ -170,9 +261,12 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
               child: Row(
                 children: <Widget>[
                   MaterialButton(
-                    child: Text('Dublin'),
+                    child: Text('Add Park Markers in Costa Rica'),
                     onPressed: () {
-                      mapController.move(dublin, 5.0);
+                      _animatedMapMove(cartago, 13);
+                      _loadPark().then((value) {
+                        _addMarkerFromList(value);
+                      });
                     },
                   ),
                 ],
@@ -182,15 +276,15 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
               child: FlutterMap(
                 mapController: mapController,
                 options: MapOptions(
-                  center: LatLng(51.5, -0.09),
-                  zoom: 5.0,
+                  center: costaRica,
+                  zoom: 2,
                 ),
                 layers: [
                   TileLayerOptions(
                       urlTemplate:
                           'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                       subdomains: ['a', 'b', 'c']),
-                  MarkerLayerOptions(markers: markers)
+                  MarkerLayerOptions(markers: markers),
                 ],
               ),
             ),
