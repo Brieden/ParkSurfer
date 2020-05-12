@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -6,6 +8,8 @@ import 'package:latlong/latlong.dart';
 import 'dart:convert';
 import 'dart:async' show Future;
 import 'package:flutter/services.dart' show rootBundle;
+
+import 'package:geolocator/geolocator.dart';
 
 class Park {
   final int id;
@@ -269,6 +273,13 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
                       });
                     },
                   ),
+                  MaterialButton(
+                      child: Text('My pos'),
+                      onPressed: () {
+                        print('press');
+                        _getYourLocation()
+                            .then((posi) => _animatedMapMove(posi, 17));
+                      })
                 ],
               ),
             ),
@@ -292,6 +303,22 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
         ),
       ),
     );
+  }
+
+  Future<LatLng> _getYourLocation() async {
+    _scaffoldKey.currentState.showSnackBar(SnackBar(
+        content: Card(
+            child: ListTile(
+          title: Text('try to find your location'),
+          trailing: Icon(Icons.gps_fixed),
+        )),
+        duration: Duration(seconds: 30)));
+
+    Position position = await Geolocator()
+        .getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+    print(position);
+    _scaffoldKey.currentState.hideCurrentSnackBar();
+    return LatLng(position.latitude, position.longitude);
   }
 
   void _handleTap(LatLng latlng) {
