@@ -4,6 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
+import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
 import 'package:latlong/latlong.dart';
 import 'dart:convert';
 import 'dart:async' show Future;
@@ -43,10 +44,6 @@ List<Park> parseParks(String responseBody) {
   final parsed = json.decode(responseBody).cast<Map<String, dynamic>>();
 
   return parsed.map<Park>((json) => Park.fromJson(json)).toList();
-}
-
-Future wait(int seconds) {
-  return new Future.delayed(Duration(seconds: seconds), () => {});
 }
 
 var path = "assets/Costa_Rica.json";
@@ -89,6 +86,7 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
   static LatLng switzerland = LatLng(46.8, 8.233333);
 
   MapController mapController;
+  final PopupController _popupController = PopupController();
 
   @override
   void initState() {
@@ -267,9 +265,12 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
                   MaterialButton(
                     child: Text('Add Park Markers in Costa Rica'),
                     onPressed: () {
-                      _animatedMapMove(cartago, 13);
+//                      _animatedMapMove(cartago, 13);
                       _loadPark().then((value) {
                         _addMarkerFromList(value);
+                        setState(() {
+                          markers = List.from(markers);
+                        });
                       });
                     },
                   ),
@@ -287,6 +288,12 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
               child: FlutterMap(
                 mapController: mapController,
                 options: MapOptions(
+                  plugins: [
+                    MarkerClusterPlugin(),
+                  ],
+                  onTap: (_) => _popupController
+                      .hidePopup(), // Hide popup when the map is tapped.
+
                   center: costaRica,
                   zoom: 2,
                 ),
@@ -295,7 +302,39 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
                       urlTemplate:
                           'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                       subdomains: ['a', 'b', 'c']),
-                  MarkerLayerOptions(markers: markers),
+                  MarkerClusterLayerOptions(
+                    maxClusterRadius: 120,
+                    size: Size(40, 40),
+                    anchor: AnchorPos.align(AnchorAlign.center),
+                    fitBoundsOptions: FitBoundsOptions(
+                      padding: EdgeInsets.all(50),
+                    ),
+                    markers: markers,
+                    polygonOptions: PolygonOptions(
+                        borderColor: Colors.blueAccent,
+                        color: Colors.black12,
+                        borderStrokeWidth: 3),
+                    popupOptions: PopupOptions(
+                        popupSnap: PopupSnap.top,
+                        popupController: _popupController,
+                        popupBuilder: (_, marker) => Container(
+                              width: 200,
+                              height: 100,
+                              color: Colors.white,
+                              child: GestureDetector(
+                                onTap: () => debugPrint("Popup tap!"),
+                                child: Text(
+                                  "Container popup for marker at ${marker.point}",
+                                ),
+                              ),
+                            )),
+                    builder: (context, markers) {
+                      return FloatingActionButton(
+                        child: Text(markers.length.toString()),
+                        onPressed: null,
+                      );
+                    },
+                  ),
                 ],
               ),
             ),
