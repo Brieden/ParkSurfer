@@ -48,12 +48,12 @@ List<Park> parseParks(String responseBody) {
 
 var path = "assets/Costa_Rica.json";
 
-Future<String> _loadAParkAsset() async {
+Future<String> _loadAParkAsset(path) async {
   return await rootBundle.loadString(path);
 }
 
-Future<List<Park>> _loadPark() async {
-  String jsonString = await _loadAParkAsset();
+Future<List<Park>> _loadPark(path) async {
+  String jsonString = await _loadAParkAsset(path);
   print('JSON Loaded');
   return compute(parseParks, jsonString);
 }
@@ -84,6 +84,7 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
   static LatLng costaRica = LatLng(9.95, -84);
   static LatLng cartago = LatLng(9.8575, -83.921);
   static LatLng switzerland = LatLng(46.8, 8.233333);
+  static LatLng deutschland = LatLng(51.165, 10.455278);
 
   MapController mapController;
   final PopupController _popupController = PopupController();
@@ -105,7 +106,7 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
 
     // Create a animation controller that has a duration and a TickerProvider.
     var controller = AnimationController(
-        duration: const Duration(milliseconds: 10000), vsync: this); //500
+        duration: const Duration(milliseconds: 500), vsync: this); //500
     // The animation determines what path the animation will take. You can try different Curves values, although I found
     // fastOutSlowIn to be my favorite.
     Animation<double> animation =
@@ -163,6 +164,9 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
   }
 
   void _addMarkerFromList(parkList) {
+    while (markers.isNotEmpty) {
+      markers.removeLast();
+    }
     for (Park einPark in parkList) {
       markers.add(Marker(
         width: 50.0,
@@ -217,9 +221,16 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
                   ListTile(
                     title: Text('Costa Rica'),
                     onTap: () {
+                      _loadPark("assets/CR_parks.json").then((value) {
+                        _addMarkerFromList(value);
+                        setState(() {
+                          markers = List.from(markers);
+                        });
+                      });
+
                       _handleTap(costaRica);
                       Navigator.pop(context);
-                      _animatedMapMove(costaRica, 7.0);
+                      _animatedMapMove(costaRica, 8);
                     },
                   ),
                   ListTile(
@@ -239,7 +250,26 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
                   ListTile(
                     title: Text('Switzerland'),
                     onTap: () {
+                      _loadPark("assets/CH_parks.json").then((value) {
+                        _addMarkerFromList(value);
+                        setState(() {
+                          markers = List.from(markers);
+                        });
+                      });
                       _animatedMapMove(switzerland, 7);
+                      Navigator.pop(context);
+                    },
+                  ),
+                  ListTile(
+                    title: Text('Germany'),
+                    onTap: () {
+                      _loadPark("assets/DE_parks.json").then((value) {
+                        _addMarkerFromList(value);
+                        setState(() {
+                          markers = List.from(markers);
+                        });
+                      });
+                      _animatedMapMove(deutschland, 5);
                       Navigator.pop(context);
                     },
                   ),
@@ -253,93 +283,68 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
           ),
         ),
       ),
-      key: _scaffoldKey,
-      body: Padding(
-        padding: EdgeInsets.all(8.0),
-        child: Column(
-          children: [
-            Padding(
-              padding: EdgeInsets.only(top: 8.0, bottom: 8.0),
-              child: Row(
-                children: <Widget>[
-                  MaterialButton(
-                    child: Text('Add Park Markers in Costa Rica'),
-                    onPressed: () {
-//                      _animatedMapMove(cartago, 13);
-                      _loadPark().then((value) {
-                        _addMarkerFromList(value);
-                        setState(() {
-                          markers = List.from(markers);
-                        });
-                      });
-                    },
-                  ),
-                  MaterialButton(
-                      child: Text('My pos'),
-                      onPressed: () {
-                        print('press');
-                        _getYourLocation()
-                            .then((posi) => _animatedMapMove(posi, 17));
-                      })
-                ],
-              ),
-            ),
-            Flexible(
-              child: FlutterMap(
-                mapController: mapController,
-                options: MapOptions(
-                  plugins: [
-                    MarkerClusterPlugin(),
-                  ],
-                  onTap: (_) => _popupController
-                      .hidePopup(), // Hide popup when the map is tapped.
-
-                  center: costaRica,
-                  zoom: 2,
-                ),
-                layers: [
-                  TileLayerOptions(
-                      urlTemplate:
-                          'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-                      subdomains: ['a', 'b', 'c']),
-                  MarkerClusterLayerOptions(
-                    maxClusterRadius: 120,
-                    size: Size(40, 40),
-                    anchor: AnchorPos.align(AnchorAlign.center),
-                    fitBoundsOptions: FitBoundsOptions(
-                      padding: EdgeInsets.all(50),
-                    ),
-                    markers: markers,
-                    polygonOptions: PolygonOptions(
-                        borderColor: Colors.blueAccent,
-                        color: Colors.black12,
-                        borderStrokeWidth: 3),
-                    popupOptions: PopupOptions(
-                        popupSnap: PopupSnap.top,
-                        popupController: _popupController,
-                        popupBuilder: (_, marker) => Container(
-                              width: 200,
-                              height: 100,
-                              color: Colors.white,
-                              child: GestureDetector(
-                                onTap: () => debugPrint("Popup tap!"),
-                                child: Text(
-                                  "Container popup for marker at ${marker.point}",
-                                ),
-                              ),
-                            )),
-                    builder: (context, markers) {
-                      return FloatingActionButton(
-                        child: Text(markers.length.toString()),
-                        onPressed: null,
-                      );
-                    },
-                  ),
-                ],
-              ),
-            ),
-          ],
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: Colors.green.shade700,
+        child: Icon(
+          Icons.gps_fixed,
+          color: Colors.white,
         ),
+        onPressed: () {
+          print('press');
+          _getYourLocation().then((posi) => _animatedMapMove(posi, 15));
+        },
+      ),
+      key: _scaffoldKey,
+      body: FlutterMap(
+        mapController: mapController,
+        options: MapOptions(
+          plugins: [
+            MarkerClusterPlugin(),
+          ],
+          onTap: (_) => _popupController
+              .hidePopup(), // Hide popup when the map is tapped.
+
+          center: LatLng(30, -28),
+          zoom: 1.8,
+        ),
+        layers: [
+          TileLayerOptions(
+              urlTemplate: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+              subdomains: ['a', 'b', 'c']),
+          MarkerClusterLayerOptions(
+            maxClusterRadius: 100, //120
+            size: Size(40, 40),
+            anchor: AnchorPos.align(AnchorAlign.center),
+            fitBoundsOptions: FitBoundsOptions(
+              padding: EdgeInsets.all(50),
+            ),
+            markers: markers,
+            polygonOptions: PolygonOptions(
+                borderColor: Colors.blueAccent,
+                color: Colors.black12,
+                borderStrokeWidth: 3),
+            popupOptions: PopupOptions(
+                popupSnap: PopupSnap.top,
+                popupController: _popupController,
+                popupBuilder: (_, marker) => Container(
+                      width: 200,
+                      height: 100,
+                      color: Colors.white,
+                      child: GestureDetector(
+                        onTap: () => debugPrint("Popup tap!"),
+                        child: Text(
+                          "Container popup for marker at ${marker.point}",
+                        ),
+                      ),
+                    )),
+            builder: (context, markers) {
+              return FloatingActionButton(
+                child: Text(markers.length.toString()),
+                onPressed: null,
+              );
+            },
+          ),
+        ],
       ),
     );
   }
@@ -356,6 +361,26 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
     Position position = await Geolocator()
         .getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
     print(position);
+    markers.add(
+      Marker(
+        anchorPos: AnchorPos.align(AnchorAlign.center),
+        height: 50,
+        width: 50,
+        point: LatLng(position.latitude, position.longitude),
+        builder: (ctx) => Icon(
+          Icons.person_pin,
+          size: 50,
+          color: Colors.green.shade900,
+        ),
+      ),
+    );
+    setState(() {
+      markers = List.from(markers);
+    });
+    List<Placemark> placemark = await Geolocator()
+        .placemarkFromCoordinates(position.latitude, position.longitude);
+    var geo_code = placemark.first.isoCountryCode;
+    print(geo_code);
     _scaffoldKey.currentState.hideCurrentSnackBar();
     return LatLng(position.latitude, position.longitude);
   }
