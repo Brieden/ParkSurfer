@@ -1,0 +1,303 @@
+[
+ {
+  "ID": 15773317,
+  "Capacity": 221,
+  "Name": "Lion's Park",
+  "CenterPositionLon": -5.263647922614548,
+  "CenterPositionLat": 141.22311239352774
+ },
+ {
+  "ID": 25158959,
+  "Capacity": 2556,
+  "Name": "",
+  "CenterPositionLon": -9.479884144145837,
+  "CenterPositionLat": 147.15177164484084
+ },
+ {
+  "ID": 25159049,
+  "Capacity": 289,
+  "Name": "Coronation Park",
+  "CenterPositionLon": -9.480453673686176,
+  "CenterPositionLat": 147.14956881638298
+ },
+ {
+  "ID": 25385043,
+  "Capacity": 3180,
+  "Name": "",
+  "CenterPositionLon": -9.472364533573028,
+  "CenterPositionLat": 147.19059324559143
+ },
+ {
+  "ID": 25456894,
+  "Capacity": 1262,
+  "Name": "Minihi Park",
+  "CenterPositionLon": -9.468585206687639,
+  "CenterPositionLat": 147.19247882617475
+ },
+ {
+  "ID": 25456901,
+  "Capacity": 1449,
+  "Name": "",
+  "CenterPositionLon": -9.470016497526823,
+  "CenterPositionLat": 147.19426855663673
+ },
+ {
+  "ID": 25456912,
+  "Capacity": 27765,
+  "Name": "Boroko Recreation Ground",
+  "CenterPositionLon": -9.472134248889235,
+  "CenterPositionLat": 147.2013622461524
+ },
+ {
+  "ID": 25457071,
+  "Capacity": 1182,
+  "Name": "",
+  "CenterPositionLon": -9.467171100260021,
+  "CenterPositionLat": 147.19628738839813
+ },
+ {
+  "ID": 25598928,
+  "Capacity": 601,
+  "Name": "",
+  "CenterPositionLon": -9.410383808902726,
+  "CenterPositionLat": 147.18965069651364
+ },
+ {
+  "ID": 25601438,
+  "Capacity": 7812,
+  "Name": "",
+  "CenterPositionLon": -9.451506712037311,
+  "CenterPositionLat": 147.1762492294409
+ },
+ {
+  "ID": 25601588,
+  "Capacity": 175,
+  "Name": "",
+  "CenterPositionLon": -9.436860585919389,
+  "CenterPositionLat": 147.16652496759295
+ },
+ {
+  "ID": 25601717,
+  "Capacity": 9575,
+  "Name": "Gerehu Sports Centre",
+  "CenterPositionLon": -9.388944055172036,
+  "CenterPositionLat": 147.16215175337567
+ },
+ {
+  "ID": 128229678,
+  "Capacity": 1878,
+  "Name": "",
+  "CenterPositionLon": -6.728372956614829,
+  "CenterPositionLat": 147.00839121851445
+ },
+ {
+  "ID": 141772375,
+  "Capacity": 3309,
+  "Name": "Somare Park",
+  "CenterPositionLon": -3.573799949999996,
+  "CenterPositionLat": 143.63890675
+ },
+ {
+  "ID": 169538010,
+  "Capacity": 31676,
+  "Name": "Lae Botanical Gardens",
+  "CenterPositionLon": -6.7213600711809525,
+  "CenterPositionLat": 146.99600068686692
+ },
+ {
+  "ID": 198750887,
+  "Capacity": 3929,
+  "Name": "Independance Park",
+  "CenterPositionLon": -5.556849321734013,
+  "CenterPositionLat": 150.15472479068487
+ },
+ {
+  "ID": 204337750,
+  "Capacity": 401,
+  "Name": "",
+  "CenterPositionLon": -6.334214694184336,
+  "CenterPositionLat": 145.88449474562356
+ },
+ {
+  "ID": 207861479,
+  "Capacity": 2962,
+  "Name": "Independence Park",
+  "CenterPositionLon": -6.074489112979358,
+  "CenterPositionLat": 145.3902931066144
+ },
+ {
+  "ID": 208388296,
+  "Capacity": 833,
+  "Name": "Rotary Park",
+  "CenterPositionLon": -6.078842799999998,
+  "CenterPositionLat": 145.3878187
+ },
+ {
+  "ID": 208388297,
+  "Capacity": 3370,
+  "Name": "",
+  "CenterPositionLon": -6.071140109244985,
+  "CenterPositionLat": 145.39043783405242
+ },
+ {
+  "ID": 215650500,
+  "Capacity": 90,
+  "Name": "Park",
+  "CenterPositionLon": -6.179635422391867,
+  "CenterPositionLat": 145.4134842659976
+ },
+ {
+  "ID": 245055484,
+  "Capacity": 11060,
+  "Name": "",
+  "CenterPositionLon": -5.214412668355593,
+  "CenterPositionLat": 145.81085364050602
+ },
+ {
+  "ID": 245476783,
+  "Capacity": 1860,
+  "Name": "",
+  "CenterPositionLon": -5.210017212497699,
+  "CenterPositionLat": 145.80596862013627
+ },
+ {
+  "ID": 264473991,
+  "Capacity": 4445,
+  "Name": "",
+  "CenterPositionLon": -5.224946098605228,
+  "CenterPositionLat": 145.80022911568096
+ },
+ {
+  "ID": 281240235,
+  "Capacity": 4285,
+  "Name": "Queen's Park",
+  "CenterPositionLon": -5.86235221975801,
+  "CenterPositionLat": 144.23007589350894
+ },
+ {
+  "ID": 301418557,
+  "Capacity": 13724,
+  "Name": "Koiri Park",
+  "CenterPositionLon": -9.392677836707481,
+  "CenterPositionLat": 147.27591793305444
+ },
+ {
+  "ID": 331634141,
+  "Capacity": 12064,
+  "Name": "Pope Pauls Park",
+  "CenterPositionLon": -5.860973257890143,
+  "CenterPositionLat": 144.2322625583883
+ },
+ {
+  "ID": 331967468,
+  "Capacity": 3036,
+  "Name": "",
+  "CenterPositionLon": -5.8611982762608115,
+  "CenterPositionLat": 144.2260226346908
+ },
+ {
+  "ID": 331967472,
+  "Capacity": 722,
+  "Name": "",
+  "CenterPositionLon": -5.85897567500569,
+  "CenterPositionLat": 144.22895741278995
+ },
+ {
+  "ID": 331967473,
+  "Capacity": 651,
+  "Name": "",
+  "CenterPositionLon": -5.862909204727584,
+  "CenterPositionLat": 144.2260531636981
+ },
+ {
+  "ID": 334129028,
+  "Capacity": 182,
+  "Name": "Kukuma Sing Sing",
+  "CenterPositionLon": -5.903677663563945,
+  "CenterPositionLat": 144.2176487465257
+ },
+ {
+  "ID": 334129030,
+  "Capacity": 956,
+  "Name": "Mount Kuta Sing Sing",
+  "CenterPositionLon": -5.90107684842876,
+  "CenterPositionLat": 144.22516946456275
+ },
+ {
+  "ID": 350304630,
+  "Capacity": 173,
+  "Name": "Kope Sing Sing",
+  "CenterPositionLon": -5.900498581637246,
+  "CenterPositionLat": 144.21367114452477
+ },
+ {
+  "ID": 367728460,
+  "Capacity": 794,
+  "Name": "",
+  "CenterPositionLon": -8.63842686551706,
+  "CenterPositionLat": 142.69350358630754
+ },
+ {
+  "ID": 370984845,
+  "Capacity": 1276,
+  "Name": "",
+  "CenterPositionLon": -5.8417834284521915,
+  "CenterPositionLat": 143.50812249900414
+ },
+ {
+  "ID": 370993839,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": -5.492140541375319,
+  "CenterPositionLat": 143.48748676725316
+ },
+ {
+  "ID": 434977092,
+  "Capacity": 680,
+  "Name": "",
+  "CenterPositionLon": -5.571509944110561,
+  "CenterPositionLat": 143.55748371432566
+ },
+ {
+  "ID": 434977594,
+  "Capacity": 256,
+  "Name": "",
+  "CenterPositionLon": -3.4785888693538514,
+  "CenterPositionLat": 142.04028530402107
+ },
+ {
+  "ID": 434977595,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -3.478571732928759,
+  "CenterPositionLat": 142.04693409226726
+ },
+ {
+  "ID": 470852850,
+  "Capacity": 365,
+  "Name": "Japanese Peace Park",
+  "CenterPositionLon": -3.5711417690892646,
+  "CenterPositionLat": 143.63784873904126
+ },
+ {
+  "ID": 672637011,
+  "Capacity": 1090,
+  "Name": "",
+  "CenterPositionLon": -6.73826042058474,
+  "CenterPositionLat": 147.00387145235965
+ },
+ {
+  "ID": 702602545,
+  "Capacity": 907,
+  "Name": "",
+  "CenterPositionLon": -4.546532266599952,
+  "CenterPositionLat": 146.01835559128787
+ },
+ {
+  "ID": 794635074,
+  "Capacity": 3377,
+  "Name": "",
+  "CenterPositionLon": -6.584856329739501,
+  "CenterPositionLat": 146.5139048326607
+ }
+]

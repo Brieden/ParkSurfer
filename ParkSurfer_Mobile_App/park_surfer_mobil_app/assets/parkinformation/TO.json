@@ -1,0 +1,128 @@
+[
+ {
+  "ID": 303116533,
+  "Capacity": 2159,
+  "Name": "Pangai Lahi",
+  "CenterPositionLon": -21.131802131971824,
+  "CenterPositionLat": -175.1994951503113
+ },
+ {
+  "ID": 307268656,
+  "Capacity": 936,
+  "Name": "",
+  "CenterPositionLon": -21.13614158178612,
+  "CenterPositionLat": -175.19157705975877
+ },
+ {
+  "ID": 307268658,
+  "Capacity": 560,
+  "Name": "",
+  "CenterPositionLon": -21.13773553404283,
+  "CenterPositionLat": -175.18790061494798
+ },
+ {
+  "ID": 314371761,
+  "Capacity": 255,
+  "Name": "Time Square",
+  "CenterPositionLon": -21.134307944285258,
+  "CenterPositionLat": -175.20009787388324
+ },
+ {
+  "ID": 322202023,
+  "Capacity": 3327,
+  "Name": "",
+  "CenterPositionLon": -21.126818916622444,
+  "CenterPositionLat": -175.2118888742193
+ },
+ {
+  "ID": 331965629,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": -21.15307191941135,
+  "CenterPositionLat": -175.2146592060905
+ },
+ {
+  "ID": 338584625,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": -21.132489770521076,
+  "CenterPositionLat": -175.1978003152746
+ },
+ {
+  "ID": 338584626,
+  "Capacity": 241,
+  "Name": "",
+  "CenterPositionLon": -21.131897825142847,
+  "CenterPositionLat": -175.1985828092566
+ },
+ {
+  "ID": 338584627,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": -21.13217070957875,
+  "CenterPositionLat": -175.19885021293885
+ },
+ {
+  "ID": 338584633,
+  "Capacity": 372,
+  "Name": "Fa'onelua Park",
+  "CenterPositionLon": -21.13430616063108,
+  "CenterPositionLat": -175.1963725809912
+ },
+ {
+  "ID": 342426398,
+  "Capacity": 1342,
+  "Name": "",
+  "CenterPositionLon": -21.21623244526643,
+  "CenterPositionLat": -175.1399157846291
+ },
+ {
+  "ID": 344030770,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": -21.123146314532196,
+  "CenterPositionLat": -175.2242022423666
+ },
+ {
+  "ID": 344686126,
+  "Capacity": 1315,
+  "Name": "",
+  "CenterPositionLon": -21.13420709071654,
+  "CenterPositionLat": -175.19545673453743
+ },
+ {
+  "ID": 344686127,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": -21.134465270355314,
+  "CenterPositionLat": -175.19541963503897
+ },
+ {
+  "ID": 345134699,
+  "Capacity": 5014,
+  "Name": "",
+  "CenterPositionLon": -21.135565544534447,
+  "CenterPositionLat": -175.25442834500106
+ },
+ {
+  "ID": 380697400,
+  "Capacity": 142,
+  "Name": "Tukingapahu",
+  "CenterPositionLon": -21.132385117299304,
+  "CenterPositionLat": -175.20930530234818
+ },
+ {
+  "ID": 570555736,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": -21.197142846216614,
+  "CenterPositionLat": -175.17173204260092
+ },
+ {
+  "ID": 570555740,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": -21.198029129750473,
+  "CenterPositionLat": -175.1696451142186
+ }
+]

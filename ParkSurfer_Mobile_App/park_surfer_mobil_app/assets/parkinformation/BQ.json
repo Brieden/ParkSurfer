@@ -1,0 +1,100 @@
+[
+ {
+  "ID": 277058469,
+  "Capacity": 87,
+  "Name": "Willelminapark",
+  "CenterPositionLon": 17.48085152223,
+  "CenterPositionLat": -62.98520832880959
+ },
+ {
+  "ID": 277058484,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 17.48283799518184,
+  "CenterPositionLat": -62.98665407890368
+ },
+ {
+  "ID": 304725161,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 12.143210551214064,
+  "CenterPositionLat": -68.27569578067398
+ },
+ {
+  "ID": 366239267,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 12.155043352776344,
+  "CenterPositionLat": -68.27859578619217
+ },
+ {
+  "ID": 366567118,
+  "Capacity": 59,
+  "Name": "Plaza Wilhelmina",
+  "CenterPositionLon": 12.14983044777474,
+  "CenterPositionLat": -68.2768600050637
+ },
+ {
+  "ID": 367289844,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 12.150871766840186,
+  "CenterPositionLat": -68.27565383880392
+ },
+ {
+  "ID": 367464866,
+  "Capacity": 77,
+  "Name": "Hardin Maracabo",
+  "CenterPositionLon": 12.153963106884225,
+  "CenterPositionLat": -68.27303113843871
+ },
+ {
+  "ID": 367467824,
+  "Capacity": 24,
+  "Name": "Plaza Tiburg",
+  "CenterPositionLon": 12.153188480571108,
+  "CenterPositionLat": -68.27314540417369
+ },
+ {
+  "ID": 371752193,
+  "Capacity": 65,
+  "Name": "Plasa Fransisco Chiku Goeloe",
+  "CenterPositionLon": 12.164528472141093,
+  "CenterPositionLat": -68.27060879321301
+ },
+ {
+  "ID": 371773487,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 12.23534840773419,
+  "CenterPositionLat": -68.3316469748108
+ },
+ {
+  "ID": 425095720,
+  "Capacity": 526,
+  "Name": "",
+  "CenterPositionLon": 12.155132179437288,
+  "CenterPositionLat": -68.27297030915679
+ },
+ {
+  "ID": 521438183,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 17.483612473904437,
+  "CenterPositionLat": -62.98612291323834
+ },
+ {
+  "ID": 521438184,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 17.482999260323243,
+  "CenterPositionLat": -62.98550392072919
+ },
+ {
+  "ID": 524746608,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 17.482292627222527,
+  "CenterPositionLat": -62.98633669164219
+ }
+]

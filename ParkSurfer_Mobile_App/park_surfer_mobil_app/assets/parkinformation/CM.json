@@ -1,0 +1,226 @@
+[
+ {
+  "ID": 59065104,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 4.059899539397173,
+  "CenterPositionLat": 9.702931103106678
+ },
+ {
+  "ID": 59069550,
+  "Capacity": 1190,
+  "Name": "Parc des Princes Bell",
+  "CenterPositionLon": 4.0366843056284205,
+  "CenterPositionLat": 9.691275114947905
+ },
+ {
+  "ID": 105740057,
+  "Capacity": 955,
+  "Name": "Place du Gouvernement",
+  "CenterPositionLon": 4.0429836417176555,
+  "CenterPositionLat": 9.68651039328598
+ },
+ {
+  "ID": 221477196,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 9.306931215687417,
+  "CenterPositionLat": 13.392613327412324
+ },
+ {
+  "ID": 222882069,
+  "Capacity": 395,
+  "Name": "",
+  "CenterPositionLon": 9.310869753502102,
+  "CenterPositionLat": 13.395574241779462
+ },
+ {
+  "ID": 226696111,
+  "Capacity": 643,
+  "Name": "",
+  "CenterPositionLon": 9.31338867238346,
+  "CenterPositionLat": 13.381273888939774
+ },
+ {
+  "ID": 226728849,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 9.29913238707961,
+  "CenterPositionLat": 13.402772118955765
+ },
+ {
+  "ID": 273386919,
+  "Capacity": 253,
+  "Name": "",
+  "CenterPositionLon": 10.603263838615325,
+  "CenterPositionLat": 14.316208974562766
+ },
+ {
+  "ID": 273386920,
+  "Capacity": 902,
+  "Name": "",
+  "CenterPositionLon": 10.601431475218794,
+  "CenterPositionLat": 14.316833501684831
+ },
+ {
+  "ID": 332260239,
+  "Capacity": 453,
+  "Name": "",
+  "CenterPositionLon": 7.422906308736562,
+  "CenterPositionLat": 13.552762261841316
+ },
+ {
+  "ID": 348383566,
+  "Capacity": 751,
+  "Name": "Rond point Bastos",
+  "CenterPositionLon": 3.8989283523469926,
+  "CenterPositionLat": 11.505105354849983
+ },
+ {
+  "ID": 369296271,
+  "Capacity": 2275,
+  "Name": "",
+  "CenterPositionLon": 4.1108394785482325,
+  "CenterPositionLat": 9.59841291463992
+ },
+ {
+  "ID": 378327425,
+  "Capacity": 148,
+  "Name": "",
+  "CenterPositionLon": 5.488461396441163,
+  "CenterPositionLat": 10.407228625975693
+ },
+ {
+  "ID": 395168732,
+  "Capacity": 19,
+  "Name": "loves park",
+  "CenterPositionLon": 5.5663817167751635,
+  "CenterPositionLat": 10.183388849666411
+ },
+ {
+  "ID": 395169002,
+  "Capacity": 11,
+  "Name": "playground",
+  "CenterPositionLon": 5.565930315928937,
+  "CenterPositionLat": 10.183096624781692
+ },
+ {
+  "ID": 397474962,
+  "Capacity": 503,
+  "Name": "Secret Forest",
+  "CenterPositionLon": 5.466796024862146,
+  "CenterPositionLat": 9.88166274001254
+ },
+ {
+  "ID": 401244471,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 6.227416861657245,
+  "CenterPositionLat": 10.681747159623729
+ },
+ {
+  "ID": 404346975,
+  "Capacity": 617,
+  "Name": "",
+  "CenterPositionLon": 7.380871400638472,
+  "CenterPositionLat": 12.653993725187119
+ },
+ {
+  "ID": 417853622,
+  "Capacity": 2003,
+  "Name": "Verger naturelle de Garga Haman Hadji",
+  "CenterPositionLon": 10.577291143205498,
+  "CenterPositionLat": 14.29557843642557
+ },
+ {
+  "ID": 426138927,
+  "Capacity": 1103,
+  "Name": "Ntumazah hill",
+  "CenterPositionLon": 5.971807599725534,
+  "CenterPositionLat": 10.140965986815075
+ },
+ {
+  "ID": 436833150,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 5.647694862870252,
+  "CenterPositionLat": 10.8062019954867
+ },
+ {
+  "ID": 448000796,
+  "Capacity": 242,
+  "Name": "Square",
+  "CenterPositionLon": 2.920050255645843,
+  "CenterPositionLat": 11.151212107040566
+ },
+ {
+  "ID": 448043011,
+  "Capacity": 707,
+  "Name": "",
+  "CenterPositionLon": 2.919411393653255,
+  "CenterPositionLat": 11.145808068669695
+ },
+ {
+  "ID": 448054459,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 5.626973223823173,
+  "CenterPositionLat": 10.254053696268826
+ },
+ {
+  "ID": 448054460,
+  "Capacity": 1608,
+  "Name": "",
+  "CenterPositionLon": 5.626657144266227,
+  "CenterPositionLat": 10.253230926194211
+ },
+ {
+  "ID": 475785856,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 4.755596509507456,
+  "CenterPositionLat": 11.232740951686425
+ },
+ {
+  "ID": 490452743,
+  "Capacity": 397,
+  "Name": "Village ground",
+  "CenterPositionLon": 5.855257512757156,
+  "CenterPositionLat": 10.241508211712553
+ },
+ {
+  "ID": 500251011,
+  "Capacity": 76,
+  "Name": "Tipaale",
+  "CenterPositionLon": 10.194813931164049,
+  "CenterPositionLat": 14.78224467532653
+ },
+ {
+  "ID": 682907505,
+  "Capacity": 2498,
+  "Name": "",
+  "CenterPositionLon": 5.452050592828959,
+  "CenterPositionLat": 10.065052001597603
+ },
+ {
+  "ID": 710994753,
+  "Capacity": 571,
+  "Name": "",
+  "CenterPositionLon": 3.872826085122252,
+  "CenterPositionLat": 11.51750437029478
+ },
+ {
+  "ID": 713421403,
+  "Capacity": 815,
+  "Name": "Palmerais",
+  "CenterPositionLon": 4.583018259044531,
+  "CenterPositionLat": 13.350404657912769
+ },
+ {
+  "ID": 723142353,
+  "Capacity": 1531,
+  "Name": "",
+  "CenterPositionLon": 10.737621879723049,
+  "CenterPositionLat": 13.795219132187952
+ }
+]

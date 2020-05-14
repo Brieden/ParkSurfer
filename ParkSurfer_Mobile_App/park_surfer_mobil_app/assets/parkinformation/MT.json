@@ -1,0 +1,3229 @@
+[
+ {
+  "ID": 15800356,
+  "Capacity": 2287,
+  "Name": "Villa Rundle",
+  "CenterPositionLon": 36.04332890497504,
+  "CenterPositionLat": 14.24322884616722
+ },
+ {
+  "ID": 16138772,
+  "Capacity": 723,
+  "Name": "",
+  "CenterPositionLon": 35.871372926420875,
+  "CenterPositionLat": 14.510044972949231
+ },
+ {
+  "ID": 19059890,
+  "Capacity": 852,
+  "Name": "",
+  "CenterPositionLon": 35.87680310374027,
+  "CenterPositionLat": 14.535880099079705
+ },
+ {
+  "ID": 22821930,
+  "Capacity": 9187,
+  "Name": "Pinetum",
+  "CenterPositionLon": 35.891683658083764,
+  "CenterPositionLat": 14.498759733308132
+ },
+ {
+  "ID": 23862503,
+  "Capacity": 392,
+  "Name": "Ta-Kenuna Botanical Garden",
+  "CenterPositionLon": 36.0356659277919,
+  "CenterPositionLat": 14.284081111601006
+ },
+ {
+  "ID": 24209377,
+  "Capacity": 621,
+  "Name": "Joannes Garden",
+  "CenterPositionLon": 35.866302963516354,
+  "CenterPositionLat": 14.50852375187036
+ },
+ {
+  "ID": 24321346,
+  "Capacity": 20485,
+  "Name": "Il-Park Nazzjonali ta' Ta Qali",
+  "CenterPositionLon": 35.89229635265136,
+  "CenterPositionLat": 14.422135063385111
+ },
+ {
+  "ID": 24321834,
+  "Capacity": 2875,
+  "Name": "Gnien Il - Kunsill Ta L- Ewropa",
+  "CenterPositionLon": 35.90206246756881,
+  "CenterPositionLat": 14.495435653679438
+ },
+ {
+  "ID": 24321965,
+  "Capacity": 1281,
+  "Name": "",
+  "CenterPositionLon": 35.87504610456913,
+  "CenterPositionLat": 14.510565190700813
+ },
+ {
+  "ID": 24328346,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": 35.86395792459352,
+  "CenterPositionLat": 14.513693701305813
+ },
+ {
+  "ID": 24361030,
+  "Capacity": 1652,
+  "Name": "Independence Garden",
+  "CenterPositionLon": 35.916464792233995,
+  "CenterPositionLat": 14.498023102149038
+ },
+ {
+  "ID": 24442353,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": 35.87260781337028,
+  "CenterPositionLat": 14.441752148189895
+ },
+ {
+  "ID": 25116709,
+  "Capacity": 1456,
+  "Name": "",
+  "CenterPositionLon": 35.8250612616118,
+  "CenterPositionLat": 14.528861234582552
+ },
+ {
+  "ID": 26874450,
+  "Capacity": 1066,
+  "Name": "Gnien il-Gibjun",
+  "CenterPositionLon": 35.82290205194136,
+  "CenterPositionLat": 14.467667359944352
+ },
+ {
+  "ID": 27002952,
+  "Capacity": 997,
+  "Name": "Il-Barrakka ta Fuq",
+  "CenterPositionLon": 35.894828247475715,
+  "CenterPositionLat": 14.512214289231226
+ },
+ {
+  "ID": 27402001,
+  "Capacity": 345,
+  "Name": "Ġnien Dun Karm Vella",
+  "CenterPositionLon": 35.83127388965902,
+  "CenterPositionLat": 14.485189976458098
+ },
+ {
+  "ID": 27462446,
+  "Capacity": 597,
+  "Name": "Lower Barracca Gardens",
+  "CenterPositionLon": 35.89748229961431,
+  "CenterPositionLat": 14.517646041532172
+ },
+ {
+  "ID": 29322330,
+  "Capacity": 222,
+  "Name": "Żebbuġ Playing Field",
+  "CenterPositionLon": 36.06537567203135,
+  "CenterPositionLat": 14.234718772888538
+ },
+ {
+  "ID": 29459542,
+  "Capacity": 398,
+  "Name": "",
+  "CenterPositionLon": 36.03667161437224,
+  "CenterPositionLat": 14.290981754391717
+ },
+ {
+  "ID": 29551671,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 36.04131352858631,
+  "CenterPositionLat": 14.246187564074022
+ },
+ {
+  "ID": 31283968,
+  "Capacity": 254,
+  "Name": "",
+  "CenterPositionLon": 35.9011945269672,
+  "CenterPositionLat": 14.483461062165675
+ },
+ {
+  "ID": 31283969,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 35.90128008758668,
+  "CenterPositionLat": 14.483157610134924
+ },
+ {
+  "ID": 31283971,
+  "Capacity": 275,
+  "Name": "",
+  "CenterPositionLon": 35.901341758054784,
+  "CenterPositionLat": 14.482738039109115
+ },
+ {
+  "ID": 31283975,
+  "Capacity": 361,
+  "Name": "",
+  "CenterPositionLon": 35.90246956845272,
+  "CenterPositionLat": 14.482140079493773
+ },
+ {
+  "ID": 46110351,
+  "Capacity": 298,
+  "Name": "",
+  "CenterPositionLon": 35.81990786706263,
+  "CenterPositionLat": 14.524632455112366
+ },
+ {
+  "ID": 47262340,
+  "Capacity": 171,
+  "Name": "",
+  "CenterPositionLon": 35.879800048750596,
+  "CenterPositionLat": 14.3901355369895
+ },
+ {
+  "ID": 47348301,
+  "Capacity": 6993,
+  "Name": "Il-ġonna ta' Sant'Anton",
+  "CenterPositionLon": 35.89613139334786,
+  "CenterPositionLat": 14.448160491242193
+ },
+ {
+  "ID": 47884741,
+  "Capacity": 1576,
+  "Name": "",
+  "CenterPositionLon": 35.877935268950985,
+  "CenterPositionLat": 14.479750145783086
+ },
+ {
+  "ID": 47973398,
+  "Capacity": 260,
+  "Name": "Misrah l-Arcisqof Gonzi",
+  "CenterPositionLon": 35.888494263438105,
+  "CenterPositionLat": 14.527434214611791
+ },
+ {
+  "ID": 48396845,
+  "Capacity": 433,
+  "Name": "Tal-Blata l-Gholja",
+  "CenterPositionLon": 35.9049605,
+  "CenterPositionLat": 14.420584700000001
+ },
+ {
+  "ID": 49339890,
+  "Capacity": 233,
+  "Name": "Gnien Reggie Cilia",
+  "CenterPositionLon": 35.91057262758305,
+  "CenterPositionLat": 14.425570901041814
+ },
+ {
+  "ID": 49340100,
+  "Capacity": 6655,
+  "Name": "Kennedy Grove",
+  "CenterPositionLon": 35.94458619219857,
+  "CenterPositionLat": 14.418880816351583
+ },
+ {
+  "ID": 49340102,
+  "Capacity": 668,
+  "Name": "",
+  "CenterPositionLon": 35.94325807988986,
+  "CenterPositionLat": 14.41869649643954
+ },
+ {
+  "ID": 76913125,
+  "Capacity": 765,
+  "Name": "Gnien Raymond Caruana",
+  "CenterPositionLon": 35.84881890906034,
+  "CenterPositionLat": 14.501388118893985
+ },
+ {
+  "ID": 85426535,
+  "Capacity": 2510,
+  "Name": "Il-Palazz ta' Sant'Anton",
+  "CenterPositionLon": 35.89646153541883,
+  "CenterPositionLat": 14.44635634606311
+ },
+ {
+  "ID": 86733118,
+  "Capacity": 250,
+  "Name": "Gnien Misrah Kola",
+  "CenterPositionLon": 35.89008083359738,
+  "CenterPositionLat": 14.434609539638567
+ },
+ {
+  "ID": 103079457,
+  "Capacity": 130,
+  "Name": "Misrah Mattia Preti",
+  "CenterPositionLon": 35.899695878092295,
+  "CenterPositionLat": 14.510235537410292
+ },
+ {
+  "ID": 118798790,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": 35.821078417420814,
+  "CenterPositionLat": 14.529762366058828
+ },
+ {
+  "ID": 131244451,
+  "Capacity": 456,
+  "Name": "",
+  "CenterPositionLon": 36.046777118567746,
+  "CenterPositionLat": 14.266742560575977
+ },
+ {
+  "ID": 131288648,
+  "Capacity": 158,
+  "Name": "Ġnien Ħidmet il-Volontarjat",
+  "CenterPositionLon": 35.96153832337565,
+  "CenterPositionLat": 14.365455349334319
+ },
+ {
+  "ID": 131288655,
+  "Capacity": 249,
+  "Name": "Ġnien l-Għoljiet",
+  "CenterPositionLon": 35.95913717534981,
+  "CenterPositionLat": 14.364424688640426
+ },
+ {
+  "ID": 136709431,
+  "Capacity": 834,
+  "Name": "",
+  "CenterPositionLon": 35.86626155660019,
+  "CenterPositionLat": 14.563193885897116
+ },
+ {
+  "ID": 137629856,
+  "Capacity": 185,
+  "Name": "Ġnien Il-Familja",
+  "CenterPositionLon": 35.84065086866933,
+  "CenterPositionLat": 14.541495346331285
+ },
+ {
+  "ID": 137632287,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 35.847232935199365,
+  "CenterPositionLat": 14.51901750778003
+ },
+ {
+  "ID": 137632297,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 35.84774345820278,
+  "CenterPositionLat": 14.506489326539898
+ },
+ {
+  "ID": 137632302,
+  "Capacity": 227,
+  "Name": "",
+  "CenterPositionLon": 35.83580918432435,
+  "CenterPositionLat": 14.543616315639264
+ },
+ {
+  "ID": 137705763,
+  "Capacity": 246,
+  "Name": "Gnien l-Indipendenza",
+  "CenterPositionLon": 35.825422791357646,
+  "CenterPositionLat": 14.525841310792778
+ },
+ {
+  "ID": 137718983,
+  "Capacity": 317,
+  "Name": "Gnien Brejgu",
+  "CenterPositionLon": 35.85681309963665,
+  "CenterPositionLat": 14.536681597374475
+ },
+ {
+  "ID": 138139346,
+  "Capacity": 352,
+  "Name": "",
+  "CenterPositionLon": 35.92465008308883,
+  "CenterPositionLat": 14.491878695529829
+ },
+ {
+  "ID": 138151404,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": 35.90966976354433,
+  "CenterPositionLat": 14.441834387948136
+ },
+ {
+  "ID": 138151437,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 35.9136180996128,
+  "CenterPositionLat": 14.44679992741083
+ },
+ {
+  "ID": 138250609,
+  "Capacity": 443,
+  "Name": "",
+  "CenterPositionLon": 35.849376072690674,
+  "CenterPositionLat": 14.515399213344876
+ },
+ {
+  "ID": 138392081,
+  "Capacity": 463,
+  "Name": "",
+  "CenterPositionLon": 35.908095654549065,
+  "CenterPositionLat": 14.485176532129366
+ },
+ {
+  "ID": 138408613,
+  "Capacity": 427,
+  "Name": "St. George's Park",
+  "CenterPositionLon": 35.82970428152418,
+  "CenterPositionLat": 14.52999555478329
+ },
+ {
+  "ID": 138462115,
+  "Capacity": 212,
+  "Name": "Misraħ iż-Zebbuġ",
+  "CenterPositionLon": 35.874677635400225,
+  "CenterPositionLat": 14.477826136465335
+ },
+ {
+  "ID": 138551292,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 35.84815806240406,
+  "CenterPositionLat": 14.499498537132515
+ },
+ {
+  "ID": 138754752,
+  "Capacity": 932,
+  "Name": "Gnien iz-Zghozija",
+  "CenterPositionLon": 35.85912117258728,
+  "CenterPositionLat": 14.531306210789815
+ },
+ {
+  "ID": 139718827,
+  "Capacity": 305,
+  "Name": "Ġnien Il-Familja",
+  "CenterPositionLon": 35.83966766912368,
+  "CenterPositionLat": 14.541192654649414
+ },
+ {
+  "ID": 139885549,
+  "Capacity": 202,
+  "Name": "",
+  "CenterPositionLon": 35.87019091633676,
+  "CenterPositionLat": 14.436013617278983
+ },
+ {
+  "ID": 139894835,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 35.85819725,
+  "CenterPositionLat": 14.439750400000001
+ },
+ {
+  "ID": 139894836,
+  "Capacity": 171,
+  "Name": "Binja Hesri",
+  "CenterPositionLon": 35.85734823691136,
+  "CenterPositionLat": 14.432899856334851
+ },
+ {
+  "ID": 140451358,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 35.89255306281286,
+  "CenterPositionLat": 14.437187681047346
+ },
+ {
+  "ID": 140917153,
+  "Capacity": 1489,
+  "Name": "Bethlehem f'Ghajnsielem",
+  "CenterPositionLon": 36.02547492464896,
+  "CenterPositionLat": 14.291222240095633
+ },
+ {
+  "ID": 141528334,
+  "Capacity": 2217,
+  "Name": "Ġnien Howard",
+  "CenterPositionLon": 35.88436214762564,
+  "CenterPositionLat": 14.402224636752303
+ },
+ {
+  "ID": 150736673,
+  "Capacity": 420,
+  "Name": "Ġnien il-Warda",
+  "CenterPositionLon": 35.837459716762865,
+  "CenterPositionLat": 14.462039240324259
+ },
+ {
+  "ID": 150800484,
+  "Capacity": 185,
+  "Name": "Gnien Ongi Ongella",
+  "CenterPositionLon": 35.84517246290407,
+  "CenterPositionLat": 14.46921426337892
+ },
+ {
+  "ID": 151368120,
+  "Capacity": 896,
+  "Name": "",
+  "CenterPositionLon": 35.8552805033942,
+  "CenterPositionLat": 14.566404355916605
+ },
+ {
+  "ID": 152049350,
+  "Capacity": 2402,
+  "Name": "",
+  "CenterPositionLon": 35.86368831670359,
+  "CenterPositionLat": 14.50865422776868
+ },
+ {
+  "ID": 152343795,
+  "Capacity": 816,
+  "Name": "Il-Mixtla",
+  "CenterPositionLon": 35.896339950063876,
+  "CenterPositionLat": 14.441701856295502
+ },
+ {
+  "ID": 152665140,
+  "Capacity": 184,
+  "Name": "Gnien Mark Farrugia",
+  "CenterPositionLon": 35.86959370903984,
+  "CenterPositionLat": 14.51420891427399
+ },
+ {
+  "ID": 153217582,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 35.8424024237817,
+  "CenterPositionLat": 14.469877589121904
+ },
+ {
+  "ID": 154109929,
+  "Capacity": 394,
+  "Name": "Ġnien iċ-Ċrieki",
+  "CenterPositionLon": 35.85556233298107,
+  "CenterPositionLat": 14.53903977227834
+ },
+ {
+  "ID": 154109941,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 35.856187847335036,
+  "CenterPositionLat": 14.530405988750726
+ },
+ {
+  "ID": 154277330,
+  "Capacity": 130,
+  "Name": "",
+  "CenterPositionLon": 35.90941371919721,
+  "CenterPositionLat": 14.470414647788502
+ },
+ {
+  "ID": 154334054,
+  "Capacity": 2996,
+  "Name": "Herbert Ganado Gardens",
+  "CenterPositionLon": 35.89340968320733,
+  "CenterPositionLat": 14.50952472089107
+ },
+ {
+  "ID": 154334055,
+  "Capacity": 1488,
+  "Name": "",
+  "CenterPositionLon": 35.89337789977138,
+  "CenterPositionLat": 14.505030394274678
+ },
+ {
+  "ID": 154334062,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 35.89297102048253,
+  "CenterPositionLat": 14.507852264008777
+ },
+ {
+  "ID": 154334063,
+  "Capacity": 594,
+  "Name": "",
+  "CenterPositionLon": 35.89479785453232,
+  "CenterPositionLat": 14.507991589329322
+ },
+ {
+  "ID": 154334064,
+  "Capacity": 2258,
+  "Name": "",
+  "CenterPositionLon": 35.89112721657398,
+  "CenterPositionLat": 14.508101215993175
+ },
+ {
+  "ID": 154334072,
+  "Capacity": 450,
+  "Name": "",
+  "CenterPositionLon": 35.89349124809329,
+  "CenterPositionLat": 14.50729997520837
+ },
+ {
+  "ID": 154459148,
+  "Capacity": 214,
+  "Name": "Gardjola Gardens",
+  "CenterPositionLon": 35.890551599294206,
+  "CenterPositionLat": 14.51416539908323
+ },
+ {
+  "ID": 154477393,
+  "Capacity": 212,
+  "Name": "Misrah is-Sliem",
+  "CenterPositionLon": 35.874612284597404,
+  "CenterPositionLat": 14.537350404185537
+ },
+ {
+  "ID": 154477401,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": 35.87506574731873,
+  "CenterPositionLat": 14.538253765369248
+ },
+ {
+  "ID": 154481493,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 35.87923106666667,
+  "CenterPositionLat": 14.540516166666666
+ },
+ {
+  "ID": 154523000,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 35.86595555406951,
+  "CenterPositionLat": 14.517299778845077
+ },
+ {
+  "ID": 155241434,
+  "Capacity": 263,
+  "Name": "",
+  "CenterPositionLon": 35.83525625469891,
+  "CenterPositionLat": 14.47283997925524
+ },
+ {
+  "ID": 155241439,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 35.831479140136864,
+  "CenterPositionLat": 14.472512848496883
+ },
+ {
+  "ID": 155241451,
+  "Capacity": 313,
+  "Name": "",
+  "CenterPositionLon": 35.83154457692922,
+  "CenterPositionLat": 14.473196396953963
+ },
+ {
+  "ID": 155241455,
+  "Capacity": 181,
+  "Name": "",
+  "CenterPositionLon": 35.83278899952816,
+  "CenterPositionLat": 14.460111383698267
+ },
+ {
+  "ID": 155241465,
+  "Capacity": 75,
+  "Name": "Pjazza ta-Gublew tad-Djamanti",
+  "CenterPositionLon": 35.84176120880727,
+  "CenterPositionLat": 14.465266852933436
+ },
+ {
+  "ID": 155250594,
+  "Capacity": 482,
+  "Name": "",
+  "CenterPositionLon": 35.864330612965794,
+  "CenterPositionLat": 14.506068038918615
+ },
+ {
+  "ID": 155250608,
+  "Capacity": 425,
+  "Name": "",
+  "CenterPositionLon": 35.863287315036374,
+  "CenterPositionLat": 14.505614981000413
+ },
+ {
+  "ID": 155259318,
+  "Capacity": 304,
+  "Name": "Gnien Veliko Turnovo",
+  "CenterPositionLon": 35.867788477635585,
+  "CenterPositionLat": 14.511349962169596
+ },
+ {
+  "ID": 155550815,
+  "Capacity": 91,
+  "Name": "Misrah ta Pizzuta",
+  "CenterPositionLon": 35.8516485052666,
+  "CenterPositionLat": 14.534292689522294
+ },
+ {
+  "ID": 155641724,
+  "Capacity": 204,
+  "Name": "Zebbug playing park",
+  "CenterPositionLon": 35.874156052229466,
+  "CenterPositionLat": 14.44250000177164
+ },
+ {
+  "ID": 156491557,
+  "Capacity": 698,
+  "Name": "Ġnien George Bonello Dupuis",
+  "CenterPositionLon": 35.91054188281529,
+  "CenterPositionLat": 14.509653610029146
+ },
+ {
+  "ID": 156494192,
+  "Capacity": 293,
+  "Name": "B'tifkira tal-ftuh ufficjali ta' swiequi park",
+  "CenterPositionLon": 35.91963627974875,
+  "CenterPositionLat": 14.482784398674177
+ },
+ {
+  "ID": 156776363,
+  "Capacity": 241,
+  "Name": "",
+  "CenterPositionLon": 35.904033997684444,
+  "CenterPositionLat": 14.430807570791519
+ },
+ {
+  "ID": 157957227,
+  "Capacity": 379,
+  "Name": "",
+  "CenterPositionLon": 35.92102033043738,
+  "CenterPositionLat": 14.491016806304417
+ },
+ {
+  "ID": 166492820,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 35.83334482362187,
+  "CenterPositionLat": 14.45940500379047
+ },
+ {
+  "ID": 169095890,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": 35.90294970555285,
+  "CenterPositionLat": 14.484613225144203
+ },
+ {
+  "ID": 169096283,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 35.90270561574295,
+  "CenterPositionLat": 14.484682164279073
+ },
+ {
+  "ID": 169099131,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 35.90232002598552,
+  "CenterPositionLat": 14.483767770976547
+ },
+ {
+  "ID": 169101969,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 35.90249301307021,
+  "CenterPositionLat": 14.48412525427522
+ },
+ {
+  "ID": 169102537,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 35.90352057714485,
+  "CenterPositionLat": 14.484632239824577
+ },
+ {
+  "ID": 169125876,
+  "Capacity": 555,
+  "Name": "Pjazza Federico Maempel",
+  "CenterPositionLon": 35.88005071618873,
+  "CenterPositionLat": 14.468401827313475
+ },
+ {
+  "ID": 172925954,
+  "Capacity": 940,
+  "Name": "L-Istazzjon ta' Birkirkara",
+  "CenterPositionLon": 35.895299313440624,
+  "CenterPositionLat": 14.464043038675712
+ },
+ {
+  "ID": 180084478,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 35.83494412834688,
+  "CenterPositionLat": 14.53062005757777
+ },
+ {
+  "ID": 186749928,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": 35.90861232537584,
+  "CenterPositionLat": 14.47643474643664
+ },
+ {
+  "ID": 192299361,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 35.88581924323346,
+  "CenterPositionLat": 14.403710736357672
+ },
+ {
+  "ID": 194339943,
+  "Capacity": 135,
+  "Name": "Misrah il-Missjoni z-Zghira",
+  "CenterPositionLon": 35.843537760428035,
+  "CenterPositionLat": 14.464369944607563
+ },
+ {
+  "ID": 209317692,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 35.8201203585092,
+  "CenterPositionLat": 14.52989205488989
+ },
+ {
+  "ID": 212509155,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 36.02708296992721,
+  "CenterPositionLat": 14.273180741370487
+ },
+ {
+  "ID": 219061101,
+  "Capacity": 3634,
+  "Name": "Argotti Gardens",
+  "CenterPositionLon": 35.89201626489781,
+  "CenterPositionLat": 14.502422878046872
+ },
+ {
+  "ID": 222385945,
+  "Capacity": 986,
+  "Name": "Ġnien il-Ħaddiem",
+  "CenterPositionLon": 35.85686357046587,
+  "CenterPositionLat": 14.382772320427945
+ },
+ {
+  "ID": 222745317,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 36.02563209452552,
+  "CenterPositionLat": 14.289372972567383
+ },
+ {
+  "ID": 222745336,
+  "Capacity": 80,
+  "Name": "Pjazzetta 10 ta Dicembru",
+  "CenterPositionLon": 36.02631650671949,
+  "CenterPositionLat": 14.290365002430269
+ },
+ {
+  "ID": 222980811,
+  "Capacity": 673,
+  "Name": "",
+  "CenterPositionLon": 35.88132544956821,
+  "CenterPositionLat": 14.400195130710628
+ },
+ {
+  "ID": 223120534,
+  "Capacity": 347,
+  "Name": "Gnien patri Martin Caruana",
+  "CenterPositionLon": 35.87657718263978,
+  "CenterPositionLat": 14.398957570846672
+ },
+ {
+  "ID": 223946553,
+  "Capacity": 6164,
+  "Name": "Gnien il-Mediterran",
+  "CenterPositionLon": 35.875410783021415,
+  "CenterPositionLat": 14.506211649240985
+ },
+ {
+  "ID": 224005103,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 36.061410488666816,
+  "CenterPositionLat": 14.215755927889685
+ },
+ {
+  "ID": 224009584,
+  "Capacity": 256,
+  "Name": "Il-Pjazza tal-Balluta",
+  "CenterPositionLon": 35.914016475797254,
+  "CenterPositionLat": 14.494072978905278
+ },
+ {
+  "ID": 224233814,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": 35.879043468202774,
+  "CenterPositionLat": 14.463126191555364
+ },
+ {
+  "ID": 224835216,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": 35.87570441876387,
+  "CenterPositionLat": 14.476038854392524
+ },
+ {
+  "ID": 224835226,
+  "Capacity": 205,
+  "Name": "Ġnien George Hyzler",
+  "CenterPositionLon": 35.87650960898542,
+  "CenterPositionLat": 14.466666200508206
+ },
+ {
+  "ID": 231305330,
+  "Capacity": 610,
+  "Name": "Misrah Santa Margerita",
+  "CenterPositionLon": 35.88459921582425,
+  "CenterPositionLat": 14.52297510135581
+ },
+ {
+  "ID": 241904581,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 35.82756943333334,
+  "CenterPositionLat": 14.4912565
+ },
+ {
+  "ID": 243915139,
+  "Capacity": 1507,
+  "Name": "Hastings Garden",
+  "CenterPositionLon": 35.897803228199244,
+  "CenterPositionLat": 14.507977600754636
+ },
+ {
+  "ID": 244652841,
+  "Capacity": 279,
+  "Name": "Gnien Alexander Ball",
+  "CenterPositionLon": 35.8350520737268,
+  "CenterPositionLat": 14.490984487835485
+ },
+ {
+  "ID": 245078803,
+  "Capacity": 125,
+  "Name": "Gnien ta'Amparell",
+  "CenterPositionLon": 35.833031787339806,
+  "CenterPositionLat": 14.488768363028548
+ },
+ {
+  "ID": 247944621,
+  "Capacity": 790,
+  "Name": "The Gaia Foundation (Elysium Center)",
+  "CenterPositionLon": 35.93351211253682,
+  "CenterPositionLat": 14.345717946972016
+ },
+ {
+  "ID": 251127768,
+  "Capacity": 1199,
+  "Name": "Pershephone Organic Olive Fields",
+  "CenterPositionLon": 35.93030015158591,
+  "CenterPositionLat": 14.347834854783718
+ },
+ {
+  "ID": 251129355,
+  "Capacity": 2176,
+  "Name": "Peace Grove Area",
+  "CenterPositionLon": 35.931392875651525,
+  "CenterPositionLat": 14.344207458910246
+ },
+ {
+  "ID": 261093384,
+  "Capacity": 527,
+  "Name": "",
+  "CenterPositionLon": 36.069573913522824,
+  "CenterPositionLat": 14.261200477021612
+ },
+ {
+  "ID": 263080428,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 35.82628956654956,
+  "CenterPositionLat": 14.47046896075677
+ },
+ {
+  "ID": 274209981,
+  "Capacity": 245,
+  "Name": "Munxar Playground",
+  "CenterPositionLon": 36.03171945547577,
+  "CenterPositionLat": 14.236701760484664
+ },
+ {
+  "ID": 274915611,
+  "Capacity": 103,
+  "Name": "Wesgha Frangisk Bugeja",
+  "CenterPositionLon": 35.8284698,
+  "CenterPositionLat": 14.4690648
+ },
+ {
+  "ID": 274918101,
+  "Capacity": 323,
+  "Name": "",
+  "CenterPositionLon": 35.87572854082428,
+  "CenterPositionLat": 14.477464808987294
+ },
+ {
+  "ID": 274982756,
+  "Capacity": 161,
+  "Name": "Hal Balzan Playground",
+  "CenterPositionLon": 35.89867901469973,
+  "CenterPositionLat": 14.451742607581545
+ },
+ {
+  "ID": 275820391,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 36.038076927156595,
+  "CenterPositionLat": 14.234752538037108
+ },
+ {
+  "ID": 276440053,
+  "Capacity": 272,
+  "Name": "Gnien Santa Marija tal-Angli",
+  "CenterPositionLon": 35.93790405767492,
+  "CenterPositionLat": 14.45460204296546
+ },
+ {
+  "ID": 276452020,
+  "Capacity": 105,
+  "Name": "Pjazza Ninu Cremona",
+  "CenterPositionLon": 35.9036154799435,
+  "CenterPositionLat": 14.456738274387147
+ },
+ {
+  "ID": 277496981,
+  "Capacity": 10832,
+  "Name": "Sant'Antnin Family Park",
+  "CenterPositionLon": 35.86194227036649,
+  "CenterPositionLat": 14.553773397439363
+ },
+ {
+  "ID": 277968186,
+  "Capacity": 20,
+  "Name": "San Lawrenz Park",
+  "CenterPositionLon": 36.05608467603933,
+  "CenterPositionLat": 14.201233445350098
+ },
+ {
+  "ID": 279285991,
+  "Capacity": 163,
+  "Name": "Amabile Cauchi",
+  "CenterPositionLon": 36.027092061019395,
+  "CenterPositionLat": 14.291093383749745
+ },
+ {
+  "ID": 282266967,
+  "Capacity": 345,
+  "Name": "",
+  "CenterPositionLon": 35.89065893617567,
+  "CenterPositionLat": 14.397822554026074
+ },
+ {
+  "ID": 283079455,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 35.90625247524152,
+  "CenterPositionLat": 14.429727745272816
+ },
+ {
+  "ID": 284635471,
+  "Capacity": 196,
+  "Name": "",
+  "CenterPositionLon": 35.865483907392424,
+  "CenterPositionLat": 14.506433027135214
+ },
+ {
+  "ID": 291119945,
+  "Capacity": 403,
+  "Name": "",
+  "CenterPositionLon": 36.056676589666715,
+  "CenterPositionLat": 14.209181017799542
+ },
+ {
+  "ID": 291549437,
+  "Capacity": 413,
+  "Name": "",
+  "CenterPositionLon": 36.03645433948782,
+  "CenterPositionLat": 14.24132834827841
+ },
+ {
+  "ID": 291550788,
+  "Capacity": 227,
+  "Name": "",
+  "CenterPositionLon": 36.03405732231912,
+  "CenterPositionLat": 14.257755792453306
+ },
+ {
+  "ID": 292135059,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 36.03378150459005,
+  "CenterPositionLat": 14.304199162547919
+ },
+ {
+  "ID": 294847491,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 35.91861302259281,
+  "CenterPositionLat": 14.429813487048731
+ },
+ {
+  "ID": 296396808,
+  "Capacity": 2097,
+  "Name": "Għar Qawqla",
+  "CenterPositionLon": 36.073567613573324,
+  "CenterPositionLat": 14.262420572038181
+ },
+ {
+  "ID": 297761641,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 35.87349990913212,
+  "CenterPositionLat": 14.461275463536177
+ },
+ {
+  "ID": 298050177,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 35.87759729076812,
+  "CenterPositionLat": 14.467089526709167
+ },
+ {
+  "ID": 298475120,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 35.90090649540138,
+  "CenterPositionLat": 14.51238496436777
+ },
+ {
+  "ID": 302905400,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 35.849983051610266,
+  "CenterPositionLat": 14.496498613880844
+ },
+ {
+  "ID": 302905402,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 35.849736805061404,
+  "CenterPositionLat": 14.496208848592133
+ },
+ {
+  "ID": 304768240,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 35.84740574488477,
+  "CenterPositionLat": 14.498070374644662
+ },
+ {
+  "ID": 304768241,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 35.8471971921367,
+  "CenterPositionLat": 14.497134309221686
+ },
+ {
+  "ID": 304768242,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 35.84734437711302,
+  "CenterPositionLat": 14.497841939470424
+ },
+ {
+  "ID": 304768243,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 35.84769125219169,
+  "CenterPositionLat": 14.49724117469933
+ },
+ {
+  "ID": 304830793,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 35.85015768720681,
+  "CenterPositionLat": 14.495046569958973
+ },
+ {
+  "ID": 304831082,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 35.85291549156879,
+  "CenterPositionLat": 14.494492680413044
+ },
+ {
+  "ID": 304831086,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 35.85276984904214,
+  "CenterPositionLat": 14.4943333678912
+ },
+ {
+  "ID": 304853723,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 35.901575224910445,
+  "CenterPositionLat": 14.475446263611246
+ },
+ {
+  "ID": 304853725,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 35.90217980266917,
+  "CenterPositionLat": 14.475484205547199
+ },
+ {
+  "ID": 304960532,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 35.8531343342815,
+  "CenterPositionLat": 14.476574958347586
+ },
+ {
+  "ID": 305111557,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": 35.848116504915346,
+  "CenterPositionLat": 14.496277192172226
+ },
+ {
+  "ID": 305111558,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 35.850474888440694,
+  "CenterPositionLat": 14.493623756189713
+ },
+ {
+  "ID": 305111559,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 35.84809083867457,
+  "CenterPositionLat": 14.496580943358211
+ },
+ {
+  "ID": 305111560,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": 35.85031554196026,
+  "CenterPositionLat": 14.493547068793257
+ },
+ {
+  "ID": 309786987,
+  "Capacity": 467,
+  "Name": "Gnien Patri Leopoldu",
+  "CenterPositionLon": 35.912049468498545,
+  "CenterPositionLat": 14.47733948362555
+ },
+ {
+  "ID": 315247945,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 36.02491824947769,
+  "CenterPositionLat": 14.288449299708532
+ },
+ {
+  "ID": 315590002,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": 35.90445840536964,
+  "CenterPositionLat": 14.497725002954802
+ },
+ {
+  "ID": 316547882,
+  "Capacity": 396,
+  "Name": "Swieqi Playing Field",
+  "CenterPositionLon": 35.92187951053951,
+  "CenterPositionLat": 14.480324092606951
+ },
+ {
+  "ID": 316547884,
+  "Capacity": 285,
+  "Name": "",
+  "CenterPositionLon": 35.92058766977176,
+  "CenterPositionLat": 14.477671437158628
+ },
+ {
+  "ID": 319355149,
+  "Capacity": 175,
+  "Name": "Gnien Patri G Frendo OP",
+  "CenterPositionLon": 35.89024209899646,
+  "CenterPositionLat": 14.496194432026893
+ },
+ {
+  "ID": 319452918,
+  "Capacity": 2035,
+  "Name": "Il-Foss tal-Imdina",
+  "CenterPositionLon": 35.884649641178584,
+  "CenterPositionLat": 14.403106689617127
+ },
+ {
+  "ID": 320039135,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 35.84206762829047,
+  "CenterPositionLat": 14.543280383870613
+ },
+ {
+  "ID": 320354653,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 35.826651766666664,
+  "CenterPositionLat": 14.473193133333334
+ },
+ {
+  "ID": 322953829,
+  "Capacity": 327,
+  "Name": "",
+  "CenterPositionLon": 35.91780024846625,
+  "CenterPositionLat": 14.363614434860883
+ },
+ {
+  "ID": 328944684,
+  "Capacity": 2082,
+  "Name": "Gnien Romeo Romano",
+  "CenterPositionLon": 35.89016029426744,
+  "CenterPositionLat": 14.477576888078179
+ },
+ {
+  "ID": 329377596,
+  "Capacity": 371,
+  "Name": "Misrah Santa Margerita",
+  "CenterPositionLon": 35.88466314801053,
+  "CenterPositionLat": 14.52184508245548
+ },
+ {
+  "ID": 329433686,
+  "Capacity": 251,
+  "Name": "",
+  "CenterPositionLon": 35.88460858383727,
+  "CenterPositionLat": 14.523617590745244
+ },
+ {
+  "ID": 329631159,
+  "Capacity": 541,
+  "Name": "Pjazza Patri Redent Gauci",
+  "CenterPositionLon": 35.87145032194363,
+  "CenterPositionLat": 14.520621472848328
+ },
+ {
+  "ID": 332157079,
+  "Capacity": 470,
+  "Name": "Misrah Karmenu Grima",
+  "CenterPositionLon": 35.85678395343206,
+  "CenterPositionLat": 14.531577189877286
+ },
+ {
+  "ID": 337054348,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": 36.070051086027846,
+  "CenterPositionLat": 14.260085439418274
+ },
+ {
+  "ID": 337939034,
+  "Capacity": 82,
+  "Name": "Gnien il-Kunsill Lokali",
+  "CenterPositionLon": 35.867194358744456,
+  "CenterPositionLat": 14.51322917489399
+ },
+ {
+  "ID": 338446845,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 36.035028737959195,
+  "CenterPositionLat": 14.243242347588563
+ },
+ {
+  "ID": 339462761,
+  "Capacity": 280,
+  "Name": "",
+  "CenterPositionLon": 35.909003602631664,
+  "CenterPositionLat": 14.504096204949544
+ },
+ {
+  "ID": 339462856,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 35.90872065525122,
+  "CenterPositionLat": 14.502986731936673
+ },
+ {
+  "ID": 339474489,
+  "Capacity": 356,
+  "Name": "",
+  "CenterPositionLon": 35.89501604294648,
+  "CenterPositionLat": 14.507405420437196
+ },
+ {
+  "ID": 339888232,
+  "Capacity": 251,
+  "Name": "Misraħ Awrekarja",
+  "CenterPositionLon": 35.908294077522804,
+  "CenterPositionLat": 14.473376392779269
+ },
+ {
+  "ID": 340257910,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 36.03321968698793,
+  "CenterPositionLat": 14.251639653341583
+ },
+ {
+  "ID": 340907739,
+  "Capacity": 122,
+  "Name": "Oreste Chircop",
+  "CenterPositionLon": 35.88901276666667,
+  "CenterPositionLat": 14.491823766666666
+ },
+ {
+  "ID": 341129752,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": 36.04948837255033,
+  "CenterPositionLat": 14.266627462377237
+ },
+ {
+  "ID": 342694045,
+  "Capacity": 226,
+  "Name": "Misrah il-Mafkar",
+  "CenterPositionLon": 35.86150179070012,
+  "CenterPositionLat": 14.381380294836752
+ },
+ {
+  "ID": 342938586,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": 35.95547764176963,
+  "CenterPositionLat": 14.372622678973405
+ },
+ {
+  "ID": 343151082,
+  "Capacity": 410,
+  "Name": "",
+  "CenterPositionLon": 35.88288376912902,
+  "CenterPositionLat": 14.400037530471305
+ },
+ {
+  "ID": 343605845,
+  "Capacity": 170,
+  "Name": "Gnien il-Kunsill Lokali",
+  "CenterPositionLon": 35.8953425400629,
+  "CenterPositionLat": 14.432959713698573
+ },
+ {
+  "ID": 343607980,
+  "Capacity": 995,
+  "Name": "",
+  "CenterPositionLon": 35.89448646440092,
+  "CenterPositionLat": 14.424397086859585
+ },
+ {
+  "ID": 344269543,
+  "Capacity": 122,
+  "Name": "Misrah il-Vittmi Hamrunizi",
+  "CenterPositionLon": 35.884984752063545,
+  "CenterPositionLat": 14.483365067966881
+ },
+ {
+  "ID": 344274854,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 35.88020416666667,
+  "CenterPositionLat": 14.4669995
+ },
+ {
+  "ID": 344475682,
+  "Capacity": 119,
+  "Name": "",
+  "CenterPositionLon": 35.909662879992936,
+  "CenterPositionLat": 14.470953486064838
+ },
+ {
+  "ID": 344475685,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 35.90778053333334,
+  "CenterPositionLat": 14.469641166666667
+ },
+ {
+  "ID": 344475692,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 35.91326296584799,
+  "CenterPositionLat": 14.436560297347617
+ },
+ {
+  "ID": 344475696,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 35.91870091333486,
+  "CenterPositionLat": 14.437263682489299
+ },
+ {
+  "ID": 344536344,
+  "Capacity": 390,
+  "Name": "",
+  "CenterPositionLon": 35.89855667751616,
+  "CenterPositionLat": 14.471581750398318
+ },
+ {
+  "ID": 344654714,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 35.88069636901239,
+  "CenterPositionLat": 14.520692198580571
+ },
+ {
+  "ID": 344726519,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 35.88036225182695,
+  "CenterPositionLat": 14.51988867562417
+ },
+ {
+  "ID": 344955043,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 35.92105146447452,
+  "CenterPositionLat": 14.437774241047151
+ },
+ {
+  "ID": 344955055,
+  "Capacity": 321,
+  "Name": "",
+  "CenterPositionLon": 35.91823667301895,
+  "CenterPositionLat": 14.439967902811931
+ },
+ {
+  "ID": 344955065,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 35.9105133,
+  "CenterPositionLat": 14.435298166666668
+ },
+ {
+  "ID": 344955073,
+  "Capacity": 308,
+  "Name": "",
+  "CenterPositionLon": 35.91770327257922,
+  "CenterPositionLat": 14.439703117324408
+ },
+ {
+  "ID": 344955077,
+  "Capacity": 295,
+  "Name": "Gnien l-Unjoni Ewropea",
+  "CenterPositionLon": 35.91058904958692,
+  "CenterPositionLat": 14.438263599372467
+ },
+ {
+  "ID": 344955080,
+  "Capacity": 164,
+  "Name": "Sghajtar Bandli",
+  "CenterPositionLon": 35.91024768362703,
+  "CenterPositionLat": 14.439895848606913
+ },
+ {
+  "ID": 344980613,
+  "Capacity": 196,
+  "Name": "",
+  "CenterPositionLon": 35.92355815529027,
+  "CenterPositionLat": 14.45177300097547
+ },
+ {
+  "ID": 345025790,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 35.84164847371131,
+  "CenterPositionLat": 14.50070351698154
+ },
+ {
+  "ID": 345030171,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 35.89489876169966,
+  "CenterPositionLat": 14.34598633809384
+ },
+ {
+  "ID": 345212959,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 35.88070699238403,
+  "CenterPositionLat": 14.522053400709337
+ },
+ {
+  "ID": 345212965,
+  "Capacity": 312,
+  "Name": "",
+  "CenterPositionLon": 35.88641215214243,
+  "CenterPositionLat": 14.526237627921773
+ },
+ {
+  "ID": 345259643,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 35.89538272395464,
+  "CenterPositionLat": 14.434519025047218
+ },
+ {
+  "ID": 345259672,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 35.87971553333333,
+  "CenterPositionLat": 14.464348433333333
+ },
+ {
+  "ID": 345411106,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 35.86170592872001,
+  "CenterPositionLat": 14.50630537142917
+ },
+ {
+  "ID": 345830434,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 35.828278881952635,
+  "CenterPositionLat": 14.46996024122233
+ },
+ {
+  "ID": 345830436,
+  "Capacity": 147,
+  "Name": "Ġnien il-Kunsill tal-Ewropa",
+  "CenterPositionLon": 35.830750557397124,
+  "CenterPositionLat": 14.477874689017877
+ },
+ {
+  "ID": 345831441,
+  "Capacity": 208,
+  "Name": "Gnien Russet",
+  "CenterPositionLon": 35.839410338076384,
+  "CenterPositionLat": 14.485789197305255
+ },
+ {
+  "ID": 345834760,
+  "Capacity": 143,
+  "Name": "Gnien MA Vassalli",
+  "CenterPositionLon": 35.85735075,
+  "CenterPositionLat": 14.5328101
+ },
+ {
+  "ID": 345834761,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 35.86045742432905,
+  "CenterPositionLat": 14.529009323604408
+ },
+ {
+  "ID": 345834763,
+  "Capacity": 62,
+  "Name": "Rock Garden",
+  "CenterPositionLon": 35.85935987553203,
+  "CenterPositionLat": 14.530900939825138
+ },
+ {
+  "ID": 345999413,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": 35.898435510781766,
+  "CenterPositionLat": 14.467770993747783
+ },
+ {
+  "ID": 345999415,
+  "Capacity": 234,
+  "Name": "",
+  "CenterPositionLon": 35.900875891571815,
+  "CenterPositionLat": 14.462524841721395
+ },
+ {
+  "ID": 346151297,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": 35.89462243500258,
+  "CenterPositionLat": 14.44960692682329
+ },
+ {
+  "ID": 346151310,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": 35.89322401092773,
+  "CenterPositionLat": 14.446735185222481
+ },
+ {
+  "ID": 346151321,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": 35.89283603601772,
+  "CenterPositionLat": 14.44972349078405
+ },
+ {
+  "ID": 346152940,
+  "Capacity": 507,
+  "Name": "Pjazza 7 ta Lulju",
+  "CenterPositionLon": 35.862521654277295,
+  "CenterPositionLat": 14.505191733938567
+ },
+ {
+  "ID": 346301824,
+  "Capacity": 141,
+  "Name": "Pjazza Ċitta Ferdinand",
+  "CenterPositionLon": 35.85197760041547,
+  "CenterPositionLat": 14.434852222684183
+ },
+ {
+  "ID": 346306671,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 35.908286755717654,
+  "CenterPositionLat": 14.435245955583124
+ },
+ {
+  "ID": 346306673,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 35.89901284667722,
+  "CenterPositionLat": 14.476589094747187
+ },
+ {
+  "ID": 346306674,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 35.90666845720405,
+  "CenterPositionLat": 14.435334375131891
+ },
+ {
+  "ID": 346306676,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 35.9005695404057,
+  "CenterPositionLat": 14.472392805610301
+ },
+ {
+  "ID": 346306677,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": 35.900134166693896,
+  "CenterPositionLat": 14.47470574818308
+ },
+ {
+  "ID": 346719234,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 35.89234184936815,
+  "CenterPositionLat": 14.445450051090639
+ },
+ {
+  "ID": 346719237,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 35.89142654147747,
+  "CenterPositionLat": 14.428385737333482
+ },
+ {
+  "ID": 346777233,
+  "Capacity": 20,
+  "Name": "Wesghet A Dalli",
+  "CenterPositionLon": 35.846527231597555,
+  "CenterPositionLat": 14.501914513964826
+ },
+ {
+  "ID": 346795203,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 35.85607006442125,
+  "CenterPositionLat": 14.486461506779186
+ },
+ {
+  "ID": 346795204,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 35.85612024765015,
+  "CenterPositionLat": 14.487093857621183
+ },
+ {
+  "ID": 346808279,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 35.860539511119796,
+  "CenterPositionLat": 14.53203443839091
+ },
+ {
+  "ID": 346808287,
+  "Capacity": 616,
+  "Name": "",
+  "CenterPositionLon": 35.86572680722715,
+  "CenterPositionLat": 14.524723239606393
+ },
+ {
+  "ID": 346881452,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 35.82735163109192,
+  "CenterPositionLat": 14.527605678051833
+ },
+ {
+  "ID": 346883738,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 35.8216785503531,
+  "CenterPositionLat": 14.52859486776062
+ },
+ {
+  "ID": 346895259,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 35.857299136520524,
+  "CenterPositionLat": 14.484901360796401
+ },
+ {
+  "ID": 347031443,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 35.8504620730395,
+  "CenterPositionLat": 14.52842054059585
+ },
+ {
+  "ID": 347031455,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 35.850486000000004,
+  "CenterPositionLat": 14.528686050000001
+ },
+ {
+  "ID": 347055868,
+  "Capacity": 354,
+  "Name": "",
+  "CenterPositionLon": 36.0385924429357,
+  "CenterPositionLat": 14.24556556264443
+ },
+ {
+  "ID": 347091459,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 35.87929725329033,
+  "CenterPositionLat": 14.507585141841265
+ },
+ {
+  "ID": 347094643,
+  "Capacity": 143,
+  "Name": "Misrah Dorell",
+  "CenterPositionLon": 35.863035727274074,
+  "CenterPositionLat": 14.507215029970236
+ },
+ {
+  "ID": 347098686,
+  "Capacity": 267,
+  "Name": "",
+  "CenterPositionLon": 35.91068484163904,
+  "CenterPositionLat": 14.491414625545143
+ },
+ {
+  "ID": 348209029,
+  "Capacity": 173,
+  "Name": "",
+  "CenterPositionLon": 35.89702413333333,
+  "CenterPositionLat": 14.4790179
+ },
+ {
+  "ID": 348317685,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 35.89367225263435,
+  "CenterPositionLat": 14.430527558314065
+ },
+ {
+  "ID": 348479238,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 35.9210282787983,
+  "CenterPositionLat": 14.378628108460163
+ },
+ {
+  "ID": 348844629,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": 35.90055568426488,
+  "CenterPositionLat": 14.510906167194433
+ },
+ {
+  "ID": 348844635,
+  "Capacity": 611,
+  "Name": "",
+  "CenterPositionLon": 35.88931641258723,
+  "CenterPositionLat": 14.500574127586168
+ },
+ {
+  "ID": 348844646,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": 35.88987346409539,
+  "CenterPositionLat": 14.501615938451563
+ },
+ {
+  "ID": 349063381,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 35.86984547356296,
+  "CenterPositionLat": 14.447207079365539
+ },
+ {
+  "ID": 349063383,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 35.86940657214961,
+  "CenterPositionLat": 14.447323418600478
+ },
+ {
+  "ID": 349154371,
+  "Capacity": 426,
+  "Name": "",
+  "CenterPositionLon": 35.87307017855017,
+  "CenterPositionLat": 14.51150182834293
+ },
+ {
+  "ID": 349154372,
+  "Capacity": 104,
+  "Name": "Gnien Lorry Sant",
+  "CenterPositionLon": 35.8729187,
+  "CenterPositionLat": 14.509601100000001
+ },
+ {
+  "ID": 349395975,
+  "Capacity": 110,
+  "Name": "Triq tal-Ghaqba",
+  "CenterPositionLon": 35.87003645262448,
+  "CenterPositionLat": 14.449044887288105
+ },
+ {
+  "ID": 349395976,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 35.85755395977515,
+  "CenterPositionLat": 14.438118542001135
+ },
+ {
+  "ID": 349395980,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 35.877945013789734,
+  "CenterPositionLat": 14.438878913105379
+ },
+ {
+  "ID": 349395981,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 35.85985036666667,
+  "CenterPositionLat": 14.444829166666667
+ },
+ {
+  "ID": 349395983,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 35.87391044769287,
+  "CenterPositionLat": 14.448327997759945
+ },
+ {
+  "ID": 349576741,
+  "Capacity": 249,
+  "Name": "",
+  "CenterPositionLon": 35.891607489987685,
+  "CenterPositionLat": 14.399635035019129
+ },
+ {
+  "ID": 349750415,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 35.877391700000004,
+  "CenterPositionLat": 14.464289966666668
+ },
+ {
+  "ID": 349774689,
+  "Capacity": 510,
+  "Name": "",
+  "CenterPositionLon": 35.90910735689333,
+  "CenterPositionLat": 14.491484836124183
+ },
+ {
+  "ID": 349776792,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 35.89303621531718,
+  "CenterPositionLat": 14.484567579141556
+ },
+ {
+  "ID": 349776795,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 35.8915230943844,
+  "CenterPositionLat": 14.48395437097779
+ },
+ {
+  "ID": 350514117,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 35.95196046945258,
+  "CenterPositionLat": 14.424194518926997
+ },
+ {
+  "ID": 350785761,
+  "Capacity": 128,
+  "Name": "Ġnien Antoine Randich",
+  "CenterPositionLon": 35.87101171423895,
+  "CenterPositionLat": 14.5653867414279
+ },
+ {
+  "ID": 351063316,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 35.87330995,
+  "CenterPositionLat": 14.43960725
+ },
+ {
+  "ID": 351345890,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 35.91925486666667,
+  "CenterPositionLat": 14.365955166666668
+ },
+ {
+  "ID": 351345891,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 35.919343966666666,
+  "CenterPositionLat": 14.3641545
+ },
+ {
+  "ID": 352449703,
+  "Capacity": 821,
+  "Name": "",
+  "CenterPositionLon": 36.03543979701195,
+  "CenterPositionLat": 14.254840637069005
+ },
+ {
+  "ID": 352449706,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 36.03533876287501,
+  "CenterPositionLat": 14.253353669182639
+ },
+ {
+  "ID": 352595794,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 35.901761089890165,
+  "CenterPositionLat": 14.483840462423208
+ },
+ {
+  "ID": 352803757,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 35.91248824085035,
+  "CenterPositionLat": 14.447645207517022
+ },
+ {
+  "ID": 352803761,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 35.90649788910865,
+  "CenterPositionLat": 14.438906601705808
+ },
+ {
+  "ID": 353004751,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 35.8939667,
+  "CenterPositionLat": 14.431064166666665
+ },
+ {
+  "ID": 354005700,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 35.853249423757745,
+  "CenterPositionLat": 14.538343308609754
+ },
+ {
+  "ID": 355618910,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 35.89343420088671,
+  "CenterPositionLat": 14.464319298431041
+ },
+ {
+  "ID": 355924457,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 35.890966899999995,
+  "CenterPositionLat": 14.443724099999999
+ },
+ {
+  "ID": 355924477,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 35.90369859653671,
+  "CenterPositionLat": 14.467004662405785
+ },
+ {
+  "ID": 355924483,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": 35.903220325995186,
+  "CenterPositionLat": 14.467750933637117
+ },
+ {
+  "ID": 358589987,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 35.87939285756774,
+  "CenterPositionLat": 14.48147897828033
+ },
+ {
+  "ID": 358652788,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 35.8892228,
+  "CenterPositionLat": 14.439256366666667
+ },
+ {
+  "ID": 361517562,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 35.946812957185294,
+  "CenterPositionLat": 14.408238428291797
+ },
+ {
+  "ID": 361517563,
+  "Capacity": 484,
+  "Name": "",
+  "CenterPositionLon": 35.94520184512006,
+  "CenterPositionLat": 14.411212315434287
+ },
+ {
+  "ID": 361518850,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 35.912382101226264,
+  "CenterPositionLat": 14.440671235773513
+ },
+ {
+  "ID": 361526232,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 35.89165333333333,
+  "CenterPositionLat": 14.437940566666667
+ },
+ {
+  "ID": 361558780,
+  "Capacity": 361,
+  "Name": "Pjazza Papa Ġwanni XXIII",
+  "CenterPositionLon": 35.89291769813239,
+  "CenterPositionLat": 14.506461496659137
+ },
+ {
+  "ID": 361558786,
+  "Capacity": 1328,
+  "Name": "Sa Maison Garden",
+  "CenterPositionLon": 35.89384006982439,
+  "CenterPositionLat": 14.499706506262262
+ },
+ {
+  "ID": 362510467,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 35.876411499999996,
+  "CenterPositionLat": 14.513349700000001
+ },
+ {
+  "ID": 362693897,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 36.02933428517342,
+  "CenterPositionLat": 14.28792642350053
+ },
+ {
+  "ID": 362697399,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": 35.887960446962666,
+  "CenterPositionLat": 14.54887656529669
+ },
+ {
+  "ID": 362948807,
+  "Capacity": 167,
+  "Name": "",
+  "CenterPositionLon": 35.89600399345202,
+  "CenterPositionLat": 14.457420253746546
+ },
+ {
+  "ID": 362949730,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 35.90954802850018,
+  "CenterPositionLat": 14.473651224052048
+ },
+ {
+  "ID": 362949884,
+  "Capacity": 61,
+  "Name": "Misraħ Lewża",
+  "CenterPositionLon": 35.90810180186954,
+  "CenterPositionLat": 14.475978831444719
+ },
+ {
+  "ID": 362949886,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 35.910107287808565,
+  "CenterPositionLat": 14.476744773950053
+ },
+ {
+  "ID": 363695706,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 35.879527825570364,
+  "CenterPositionLat": 14.398093095277265
+ },
+ {
+  "ID": 363698032,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 35.91179452473977,
+  "CenterPositionLat": 14.421626230092324
+ },
+ {
+  "ID": 363698034,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 35.909745469981594,
+  "CenterPositionLat": 14.423551016889727
+ },
+ {
+  "ID": 363735715,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 35.91089158010477,
+  "CenterPositionLat": 14.47515429804363
+ },
+ {
+  "ID": 363735717,
+  "Capacity": 54,
+  "Name": "Misrah Frar 28",
+  "CenterPositionLon": 35.89428577472615,
+  "CenterPositionLat": 14.465687090107002
+ },
+ {
+  "ID": 363858626,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 35.91320303333333,
+  "CenterPositionLat": 14.430078733333334
+ },
+ {
+  "ID": 363858627,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 35.91846725,
+  "CenterPositionLat": 14.430988950000001
+ },
+ {
+  "ID": 363858788,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 35.90574165,
+  "CenterPositionLat": 14.425810499999999
+ },
+ {
+  "ID": 364130014,
+  "Capacity": 46,
+  "Name": "Misraħ it-Tiġieg",
+  "CenterPositionLon": 35.901586075391,
+  "CenterPositionLat": 14.469688524271739
+ },
+ {
+  "ID": 364130017,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 35.90051497242059,
+  "CenterPositionLat": 14.465113814765068
+ },
+ {
+  "ID": 364130351,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 35.903318399999996,
+  "CenterPositionLat": 14.4569158
+ },
+ {
+  "ID": 364292554,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 35.90544626076905,
+  "CenterPositionLat": 14.425020618396566
+ },
+ {
+  "ID": 364451951,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 35.894977698516065,
+  "CenterPositionLat": 14.42755412136609
+ },
+ {
+  "ID": 365316660,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 35.919509033333334,
+  "CenterPositionLat": 14.381790233333332
+ },
+ {
+  "ID": 365469957,
+  "Capacity": 369,
+  "Name": "",
+  "CenterPositionLon": 35.88088659324953,
+  "CenterPositionLat": 14.489120466561088
+ },
+ {
+  "ID": 365469977,
+  "Capacity": 588,
+  "Name": "",
+  "CenterPositionLon": 35.89548368417552,
+  "CenterPositionLat": 14.493011535166293
+ },
+ {
+  "ID": 366088031,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": 35.90674276728899,
+  "CenterPositionLat": 14.472945488889971
+ },
+ {
+  "ID": 366628752,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 35.86058319555456,
+  "CenterPositionLat": 14.445961872773202
+ },
+ {
+  "ID": 366628760,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 35.87150036539725,
+  "CenterPositionLat": 14.441402273678445
+ },
+ {
+  "ID": 366643460,
+  "Capacity": 372,
+  "Name": "Misrah iz-Zghazagh",
+  "CenterPositionLon": 35.857688705259896,
+  "CenterPositionLat": 14.490725004878277
+ },
+ {
+  "ID": 366645388,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": 35.894515843042065,
+  "CenterPositionLat": 14.530394399508758
+ },
+ {
+  "ID": 366645395,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": 35.89418595240287,
+  "CenterPositionLat": 14.530800559548418
+ },
+ {
+  "ID": 366771324,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 35.90745735688306,
+  "CenterPositionLat": 14.481685346643308
+ },
+ {
+  "ID": 366771325,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 35.89833413239707,
+  "CenterPositionLat": 14.487210378217405
+ },
+ {
+  "ID": 367557633,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 35.94820500295811,
+  "CenterPositionLat": 14.399313801744222
+ },
+ {
+  "ID": 367747928,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": 35.86837792882139,
+  "CenterPositionLat": 14.446419706845353
+ },
+ {
+  "ID": 367778320,
+  "Capacity": 227,
+  "Name": "",
+  "CenterPositionLon": 35.87656547406801,
+  "CenterPositionLat": 14.509182242050958
+ },
+ {
+  "ID": 367779640,
+  "Capacity": 303,
+  "Name": "Ġnien Luqa Briffa (Tal-Kmandant)",
+  "CenterPositionLon": 35.85204499995603,
+  "CenterPositionLat": 14.537876925777205
+ },
+ {
+  "ID": 367779647,
+  "Capacity": 56,
+  "Name": "Wesgħet l-Inginiera",
+  "CenterPositionLon": 35.85432566666667,
+  "CenterPositionLat": 14.539484166666666
+ },
+ {
+  "ID": 367779649,
+  "Capacity": 1163,
+  "Name": "Ġnien l-Ghannejja Zwieten",
+  "CenterPositionLon": 35.85225360911244,
+  "CenterPositionLat": 14.538577703072816
+ },
+ {
+  "ID": 367944943,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 35.874709499999994,
+  "CenterPositionLat": 14.502613799999999
+ },
+ {
+  "ID": 368267899,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 35.88568738025585,
+  "CenterPositionLat": 14.537804946542963
+ },
+ {
+  "ID": 368310615,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 35.9625373,
+  "CenterPositionLat": 14.364272566666667
+ },
+ {
+  "ID": 368413891,
+  "Capacity": 686,
+  "Name": "",
+  "CenterPositionLon": 35.889304920211295,
+  "CenterPositionLat": 14.395467658133468
+ },
+ {
+  "ID": 368419681,
+  "Capacity": 60,
+  "Name": "Wesghet Dun JM Camilleri",
+  "CenterPositionLon": 35.85898394849171,
+  "CenterPositionLat": 14.488739807806452
+ },
+ {
+  "ID": 368420476,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 35.8729726383171,
+  "CenterPositionLat": 14.498901233279671
+ },
+ {
+  "ID": 368439313,
+  "Capacity": 368,
+  "Name": "",
+  "CenterPositionLon": 35.87606352285664,
+  "CenterPositionLat": 14.44191872280852
+ },
+ {
+  "ID": 368451609,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 35.8868334479169,
+  "CenterPositionLat": 14.468742446773247
+ },
+ {
+  "ID": 368720805,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 35.91966623333334,
+  "CenterPositionLat": 14.443626733333334
+ },
+ {
+  "ID": 370016348,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 35.910747682596664,
+  "CenterPositionLat": 14.44001649261247
+ },
+ {
+  "ID": 370566347,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 35.91687163333333,
+  "CenterPositionLat": 14.470567933333333
+ },
+ {
+  "ID": 372568768,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 35.8628493,
+  "CenterPositionLat": 14.5117029
+ },
+ {
+  "ID": 372695489,
+  "Capacity": 247,
+  "Name": "",
+  "CenterPositionLon": 35.91346369248756,
+  "CenterPositionLat": 14.426852315232379
+ },
+ {
+  "ID": 372943044,
+  "Capacity": 515,
+  "Name": "Pjazza Robert Sammut",
+  "CenterPositionLon": 35.89058643445565,
+  "CenterPositionLat": 14.504902429909661
+ },
+ {
+  "ID": 374066195,
+  "Capacity": 112,
+  "Name": "Wesgħat il-Palazz",
+  "CenterPositionLon": 35.85394913121962,
+  "CenterPositionLat": 14.44166305923669
+ },
+ {
+  "ID": 375889461,
+  "Capacity": 258,
+  "Name": "Gnien Clifford Micallef",
+  "CenterPositionLon": 35.92626411537964,
+  "CenterPositionLat": 14.475647798245975
+ },
+ {
+  "ID": 375889469,
+  "Capacity": 309,
+  "Name": "Misrah il-Forti Pembroke",
+  "CenterPositionLon": 35.92599472176427,
+  "CenterPositionLat": 14.480782037750487
+ },
+ {
+  "ID": 376032380,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 35.909723633333336,
+  "CenterPositionLat": 14.473823866666667
+ },
+ {
+  "ID": 376046698,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 36.0345797,
+  "CenterPositionLat": 14.251913799999999
+ },
+ {
+  "ID": 376046699,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 36.0346693,
+  "CenterPositionLat": 14.253264766666666
+ },
+ {
+  "ID": 376190477,
+  "Capacity": 800,
+  "Name": "",
+  "CenterPositionLon": 35.95021532071084,
+  "CenterPositionLat": 14.408549855211193
+ },
+ {
+  "ID": 376938936,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 35.834595396009384,
+  "CenterPositionLat": 14.529714607535189
+ },
+ {
+  "ID": 376962725,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 36.03452001013467,
+  "CenterPositionLat": 14.31289368969232
+ },
+ {
+  "ID": 376982744,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 35.84345748202276,
+  "CenterPositionLat": 14.541053198546264
+ },
+ {
+  "ID": 377263712,
+  "Capacity": 420,
+  "Name": "",
+  "CenterPositionLon": 35.91495594615475,
+  "CenterPositionLat": 14.49621343835735
+ },
+ {
+  "ID": 377266004,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 35.8893285,
+  "CenterPositionLat": 14.488480299999999
+ },
+ {
+  "ID": 377421531,
+  "Capacity": 364,
+  "Name": "",
+  "CenterPositionLon": 35.87879875,
+  "CenterPositionLat": 14.49410095
+ },
+ {
+  "ID": 377577608,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 35.92112383333333,
+  "CenterPositionLat": 14.3728011
+ },
+ {
+  "ID": 379509432,
+  "Capacity": 8275,
+  "Name": "",
+  "CenterPositionLon": 36.02358874220711,
+  "CenterPositionLat": 14.295694963297803
+ },
+ {
+  "ID": 379531495,
+  "Capacity": 403,
+  "Name": "",
+  "CenterPositionLon": 36.02975620460007,
+  "CenterPositionLat": 14.241508238538701
+ },
+ {
+  "ID": 379866985,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": 35.851033412569436,
+  "CenterPositionLat": 14.498080327751696
+ },
+ {
+  "ID": 385017774,
+  "Capacity": 648,
+  "Name": "Gnien tal-Bidwi",
+  "CenterPositionLon": 36.02256126871269,
+  "CenterPositionLat": 14.241142771031887
+ },
+ {
+  "ID": 385017777,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 36.048657252922474,
+  "CenterPositionLat": 14.259986461718153
+ },
+ {
+  "ID": 385085680,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 36.07531044897927,
+  "CenterPositionLat": 14.257822529317586
+ },
+ {
+  "ID": 390784975,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 35.88063083164154,
+  "CenterPositionLat": 14.474949900306312
+ },
+ {
+  "ID": 391555195,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 35.933468182244745,
+  "CenterPositionLat": 14.41412912743117
+ },
+ {
+  "ID": 392074656,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 35.85107491029415,
+  "CenterPositionLat": 14.499569154324073
+ },
+ {
+  "ID": 392226939,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 35.933976666666666,
+  "CenterPositionLat": 14.358988866666667
+ },
+ {
+  "ID": 393555231,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": 35.87371508971775,
+  "CenterPositionLat": 14.37409962020211
+ },
+ {
+  "ID": 397742453,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 35.883936870523506,
+  "CenterPositionLat": 14.523835487786153
+ },
+ {
+  "ID": 400786765,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 35.94562159594318,
+  "CenterPositionLat": 14.4112859549791
+ },
+ {
+  "ID": 401988720,
+  "Capacity": 67,
+  "Name": "Gnien Charles Clews",
+  "CenterPositionLon": 35.85954734129815,
+  "CenterPositionLat": 14.56709161455326
+ },
+ {
+  "ID": 402131800,
+  "Capacity": 440,
+  "Name": "",
+  "CenterPositionLon": 35.89520063128241,
+  "CenterPositionLat": 14.481993540100557
+ },
+ {
+  "ID": 402131825,
+  "Capacity": 894,
+  "Name": "",
+  "CenterPositionLon": 35.90248127577668,
+  "CenterPositionLat": 14.4491222912424
+ },
+ {
+  "ID": 402632406,
+  "Capacity": 434,
+  "Name": "",
+  "CenterPositionLon": 35.91132491825427,
+  "CenterPositionLat": 14.41679429823709
+ },
+ {
+  "ID": 403229639,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 35.833261744705744,
+  "CenterPositionLat": 14.477310952573484
+ },
+ {
+  "ID": 403586625,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 36.03925303333333,
+  "CenterPositionLat": 14.2940994
+ },
+ {
+  "ID": 404197043,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 35.878064894930915,
+  "CenterPositionLat": 14.52095455349061
+ },
+ {
+  "ID": 405065206,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 35.88101636666667,
+  "CenterPositionLat": 14.522848100000001
+ },
+ {
+  "ID": 406211215,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 36.049332374264246,
+  "CenterPositionLat": 14.268961691549285
+ },
+ {
+  "ID": 406423663,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 36.04315455519066,
+  "CenterPositionLat": 14.28554243099356
+ },
+ {
+  "ID": 408209807,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 35.89880103193227,
+  "CenterPositionLat": 14.485823290726758
+ },
+ {
+  "ID": 411479065,
+  "Capacity": 919,
+  "Name": "Castille Square",
+  "CenterPositionLon": 35.895446300443695,
+  "CenterPositionLat": 14.511133036479318
+ },
+ {
+  "ID": 411486081,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": 35.89490838280777,
+  "CenterPositionLat": 14.481920849678717
+ },
+ {
+  "ID": 436133365,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 35.830904742667144,
+  "CenterPositionLat": 14.530337920566346
+ },
+ {
+  "ID": 436540428,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 35.897711543992735,
+  "CenterPositionLat": 14.512105979586421
+ },
+ {
+  "ID": 436540429,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 35.897250666328155,
+  "CenterPositionLat": 14.512517508064406
+ },
+ {
+  "ID": 437747478,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 35.873699254693705,
+  "CenterPositionLat": 14.448618796355515
+ },
+ {
+  "ID": 447869702,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 35.87839611034583,
+  "CenterPositionLat": 14.465105471156408
+ },
+ {
+  "ID": 448601687,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 35.911059961222165,
+  "CenterPositionLat": 14.476885539607249
+ },
+ {
+  "ID": 453058285,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": 35.954745465582185,
+  "CenterPositionLat": 14.372540614389798
+ },
+ {
+  "ID": 463476722,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 35.85964327417504,
+  "CenterPositionLat": 14.386734630615514
+ },
+ {
+  "ID": 467724113,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 36.058711283658624,
+  "CenterPositionLat": 14.225873037491764
+ },
+ {
+  "ID": 469634846,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 35.90258568805294,
+  "CenterPositionLat": 14.472809472393461
+ },
+ {
+  "ID": 469645252,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 35.89033641332034,
+  "CenterPositionLat": 14.505456243664675
+ },
+ {
+  "ID": 470393255,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": 35.891899521096605,
+  "CenterPositionLat": 14.48818939709002
+ },
+ {
+  "ID": 470393799,
+  "Capacity": 130,
+  "Name": "Green area, trees",
+  "CenterPositionLon": 35.89217262808008,
+  "CenterPositionLat": 14.487565598992937
+ },
+ {
+  "ID": 471082156,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 35.96652913333333,
+  "CenterPositionLat": 14.362831133333334
+ },
+ {
+  "ID": 471082157,
+  "Capacity": 424,
+  "Name": "",
+  "CenterPositionLon": 35.96622635763129,
+  "CenterPositionLat": 14.362768383584386
+ },
+ {
+  "ID": 479897772,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 35.86920966517525,
+  "CenterPositionLat": 14.437744640150054
+ },
+ {
+  "ID": 486630513,
+  "Capacity": 9280,
+  "Name": "Żona tal-pikniks",
+  "CenterPositionLon": 35.89530396184714,
+  "CenterPositionLat": 14.419011891744526
+ },
+ {
+  "ID": 490832302,
+  "Capacity": 128,
+  "Name": "Pjazza Sagra Familja",
+  "CenterPositionLon": 35.890205806738884,
+  "CenterPositionLat": 14.526593669559238
+ },
+ {
+  "ID": 493199797,
+  "Capacity": 74,
+  "Name": "Anglu Mallia Kids Park",
+  "CenterPositionLon": 35.900047824613004,
+  "CenterPositionLat": 14.461070092744254
+ },
+ {
+  "ID": 502411097,
+  "Capacity": 2711,
+  "Name": "",
+  "CenterPositionLon": 35.85875550442427,
+  "CenterPositionLat": 14.388170246813814
+ },
+ {
+  "ID": 510379392,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 35.84556970537511,
+  "CenterPositionLat": 14.50185422750329
+ },
+ {
+  "ID": 510379396,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 35.8498017848742,
+  "CenterPositionLat": 14.50058340768155
+ },
+ {
+  "ID": 512999017,
+  "Capacity": 403,
+  "Name": "",
+  "CenterPositionLon": 36.056676589666715,
+  "CenterPositionLat": 14.209181017799542
+ },
+ {
+  "ID": 518541352,
+  "Capacity": 5950,
+  "Name": "Speranza Valley",
+  "CenterPositionLon": 35.906466827074254,
+  "CenterPositionLat": 14.413414616842543
+ },
+ {
+  "ID": 529334006,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 35.85811775,
+  "CenterPositionLat": 14.490421050000004
+ },
+ {
+  "ID": 531608378,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 35.892920085961755,
+  "CenterPositionLat": 14.492052225699636
+ },
+ {
+  "ID": 537343355,
+  "Capacity": 271,
+  "Name": "",
+  "CenterPositionLon": 35.89178493953172,
+  "CenterPositionLat": 14.440762249950048
+ },
+ {
+  "ID": 537665031,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": 35.842104603655095,
+  "CenterPositionLat": 14.48648444107371
+ },
+ {
+  "ID": 545190959,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 35.89730083333333,
+  "CenterPositionLat": 14.437973933333334
+ },
+ {
+  "ID": 550456709,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 35.89173084855472,
+  "CenterPositionLat": 14.518760532950171
+ },
+ {
+  "ID": 550456710,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 35.89251998005197,
+  "CenterPositionLat": 14.517813085188763
+ },
+ {
+  "ID": 550456711,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 35.89244011590423,
+  "CenterPositionLat": 14.517519809355393
+ },
+ {
+  "ID": 552603522,
+  "Capacity": 4772,
+  "Name": "Il-Park Nazzjonali ta' Ta Qali",
+  "CenterPositionLon": 35.893782335968176,
+  "CenterPositionLat": 14.424108889244938
+ },
+ {
+  "ID": 553355089,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 35.894564789788745,
+  "CenterPositionLat": 14.509981248761186
+ },
+ {
+  "ID": 553461209,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": 36.04376019657097,
+  "CenterPositionLat": 14.245574952730276
+ },
+ {
+  "ID": 553476082,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 36.04225067448533,
+  "CenterPositionLat": 14.240709103762521
+ },
+ {
+  "ID": 553598358,
+  "Capacity": 93392,
+  "Name": "",
+  "CenterPositionLon": 36.017309531597334,
+  "CenterPositionLat": 14.259883968759814
+ },
+ {
+  "ID": 553684189,
+  "Capacity": 588,
+  "Name": "Undefined Graffiti",
+  "CenterPositionLon": 36.01947596645044,
+  "CenterPositionLat": 14.238695567132519
+ },
+ {
+  "ID": 553684878,
+  "Capacity": 13791,
+  "Name": "Religious Walkway",
+  "CenterPositionLon": 36.06011377519549,
+  "CenterPositionLat": 14.218366011397304
+ },
+ {
+  "ID": 553693854,
+  "Capacity": 35,
+  "Name": "NSO",
+  "CenterPositionLon": 36.0455916435014,
+  "CenterPositionLat": 14.241590830309233
+ },
+ {
+  "ID": 553693856,
+  "Capacity": 591,
+  "Name": "Taht is-Sur",
+  "CenterPositionLon": 36.04602701839733,
+  "CenterPositionLat": 14.241064047494184
+ },
+ {
+  "ID": 554571381,
+  "Capacity": 4221,
+  "Name": "",
+  "CenterPositionLon": 35.92525788863575,
+  "CenterPositionLat": 14.486061029764269
+ },
+ {
+  "ID": 557053755,
+  "Capacity": 17,
+  "Name": "Eroj Zebbugin",
+  "CenterPositionLon": 35.87202661793916,
+  "CenterPositionLat": 14.441571504582624
+ },
+ {
+  "ID": 559474401,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 35.87193644180941,
+  "CenterPositionLat": 14.44152911303134
+ },
+ {
+  "ID": 559474402,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 35.87284902224002,
+  "CenterPositionLat": 14.440304765700041
+ },
+ {
+  "ID": 559474403,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 35.873811044651404,
+  "CenterPositionLat": 14.448035182100986
+ },
+ {
+  "ID": 559474404,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 35.90321552858459,
+  "CenterPositionLat": 14.439204623051062
+ },
+ {
+  "ID": 572166832,
+  "Capacity": 363,
+  "Name": "Swieqi Public Garden and Civic Centre",
+  "CenterPositionLon": 35.920862284295595,
+  "CenterPositionLat": 14.477294689231963
+ },
+ {
+  "ID": 574329455,
+  "Capacity": 92,
+  "Name": "Santa Lucia Park",
+  "CenterPositionLon": 35.861996673175504,
+  "CenterPositionLat": 14.503710458108397
+ },
+ {
+  "ID": 574330091,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 35.8619954672461,
+  "CenterPositionLat": 14.503699723808971
+ },
+ {
+  "ID": 579830619,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 35.90938549542471,
+  "CenterPositionLat": 14.425735119249467
+ },
+ {
+  "ID": 583279104,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 35.84318793333333,
+  "CenterPositionLat": 14.467578433333333
+ },
+ {
+  "ID": 662847005,
+  "Capacity": 381,
+  "Name": "",
+  "CenterPositionLon": 36.03889956775476,
+  "CenterPositionLat": 14.22793673993747
+ },
+ {
+  "ID": 668191361,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 35.89080033333333,
+  "CenterPositionLat": 14.4390535
+ },
+ {
+  "ID": 672818657,
+  "Capacity": 671,
+  "Name": "Qigħan Garden",
+  "CenterPositionLon": 35.95734553655826,
+  "CenterPositionLat": 14.359336479161103
+ },
+ {
+  "ID": 683747704,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 35.83396653853134,
+  "CenterPositionLat": 14.461252822716771
+ },
+ {
+  "ID": 690140557,
+  "Capacity": 2369,
+  "Name": "",
+  "CenterPositionLon": 35.87611300038711,
+  "CenterPositionLat": 14.440699902305266
+ },
+ {
+  "ID": 742221362,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 36.04581681970887,
+  "CenterPositionLat": 14.238734238997452
+ },
+ {
+  "ID": 748816521,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 35.945507594239785,
+  "CenterPositionLat": 14.412687338744265
+ },
+ {
+  "ID": 753239911,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 35.94922999693631,
+  "CenterPositionLat": 14.41376636035619
+ },
+ {
+  "ID": 753254702,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 35.9475099,
+  "CenterPositionLat": 14.409718
+ },
+ {
+  "ID": 754223946,
+  "Capacity": 359,
+  "Name": "",
+  "CenterPositionLon": 35.91037662883398,
+  "CenterPositionLat": 14.469200265190715
+ },
+ {
+  "ID": 778059177,
+  "Capacity": 199,
+  "Name": "",
+  "CenterPositionLon": 35.90264047899904,
+  "CenterPositionLat": 14.485800122190502
+ },
+ {
+  "ID": 788128288,
+  "Capacity": 220,
+  "Name": "Green Park",
+  "CenterPositionLon": 35.87143005329617,
+  "CenterPositionLat": 14.534632303784358
+ },
+ {
+  "ID": 788128289,
+  "Capacity": 2656,
+  "Name": "Green Park",
+  "CenterPositionLon": 35.87242121251693,
+  "CenterPositionLat": 14.534755509924079
+ },
+ {
+  "ID": 794645366,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 35.928754154054765,
+  "CenterPositionLat": 14.4726950568254
+ }
+]

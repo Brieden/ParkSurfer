@@ -1,0 +1,2018 @@
+[
+ {
+  "ID": 9341626,
+  "Capacity": 44196,
+  "Name": "Vallée de la Pétrusse",
+  "CenterPositionLon": 49.60673247746505,
+  "CenterPositionLat": 6.1284470551624946
+ },
+ {
+  "ID": 9356196,
+  "Capacity": 6114,
+  "Name": "Parc Kaltreis",
+  "CenterPositionLon": 49.59325853999924,
+  "CenterPositionLat": 6.15188774576532
+ },
+ {
+  "ID": 9653953,
+  "Capacity": 10857,
+  "Name": "Parc de Merl",
+  "CenterPositionLon": 49.60615101899942,
+  "CenterPositionLat": 6.112125182504198
+ },
+ {
+  "ID": 24832615,
+  "Capacity": 1478,
+  "Name": "Parc Théophile Kirsch",
+  "CenterPositionLon": 49.557571909837,
+  "CenterPositionLat": 5.876859754266618
+ },
+ {
+  "ID": 24969129,
+  "Capacity": 4496,
+  "Name": "",
+  "CenterPositionLon": 49.66171685829962,
+  "CenterPositionLat": 5.914092568340969
+ },
+ {
+  "ID": 25304543,
+  "Capacity": 1032,
+  "Name": "Parc Square Émile Mayrisch",
+  "CenterPositionLon": 49.481929943444406,
+  "CenterPositionLat": 6.0854549942166205
+ },
+ {
+  "ID": 27745045,
+  "Capacity": 423,
+  "Name": "",
+  "CenterPositionLon": 49.557667875689724,
+  "CenterPositionLat": 5.875409568246552
+ },
+ {
+  "ID": 27850567,
+  "Capacity": 2669,
+  "Name": "",
+  "CenterPositionLon": 49.58381149186574,
+  "CenterPositionLat": 6.144899289181577
+ },
+ {
+  "ID": 30265268,
+  "Capacity": 6074,
+  "Name": "",
+  "CenterPositionLon": 49.619482922654505,
+  "CenterPositionLat": 6.061830414859407
+ },
+ {
+  "ID": 33081943,
+  "Capacity": 125,
+  "Name": "Houfels",
+  "CenterPositionLon": 49.8717868239492,
+  "CenterPositionLat": 5.808209389141996
+ },
+ {
+  "ID": 33767656,
+  "Capacity": 14991,
+  "Name": "Arboretum Kirchberg - Parc Réimerwee",
+  "CenterPositionLon": 49.63037876326381,
+  "CenterPositionLat": 6.1626650414346305
+ },
+ {
+  "ID": 33767711,
+  "Capacity": 14560,
+  "Name": "Arboretum Kirchberg Parc Central",
+  "CenterPositionLon": 49.62538928358691,
+  "CenterPositionLat": 6.155795149855561
+ },
+ {
+  "ID": 33767780,
+  "Capacity": 25526,
+  "Name": "Arboretum Kirchberg - Parc Klosegrënnchen",
+  "CenterPositionLon": 49.63328300920603,
+  "CenterPositionLat": 6.179352051975109
+ },
+ {
+  "ID": 34167842,
+  "Capacity": 5051,
+  "Name": "",
+  "CenterPositionLon": 49.75317404543209,
+  "CenterPositionLat": 6.1018092298728925
+ },
+ {
+  "ID": 34239326,
+  "Capacity": 27776,
+  "Name": "Parc communal de Mersch",
+  "CenterPositionLon": 49.74566100275581,
+  "CenterPositionLat": 6.106559054298577
+ },
+ {
+  "ID": 34282498,
+  "Capacity": 1583,
+  "Name": "",
+  "CenterPositionLon": 49.83145108298947,
+  "CenterPositionLat": 6.002638849203755
+ },
+ {
+  "ID": 37825776,
+  "Capacity": 44681,
+  "Name": "",
+  "CenterPositionLon": 49.499707373412484,
+  "CenterPositionLat": 6.28184933823425
+ },
+ {
+  "ID": 37827058,
+  "Capacity": 1282,
+  "Name": "",
+  "CenterPositionLon": 49.634169084776886,
+  "CenterPositionLat": 6.176746449048702
+ },
+ {
+  "ID": 39054579,
+  "Capacity": 1468,
+  "Name": "Parc Gerlache",
+  "CenterPositionLon": 49.523880360287336,
+  "CenterPositionLat": 5.890169198310516
+ },
+ {
+  "ID": 40525702,
+  "Capacity": 9565,
+  "Name": "Parc Tony Neuman",
+  "CenterPositionLon": 49.62082092105977,
+  "CenterPositionLat": 6.110724980083868
+ },
+ {
+  "ID": 41502159,
+  "Capacity": 14750,
+  "Name": "",
+  "CenterPositionLon": 49.62134318218182,
+  "CenterPositionLat": 6.137355291407715
+ },
+ {
+  "ID": 50041968,
+  "Capacity": 137,
+  "Name": "Place de Gand",
+  "CenterPositionLon": 49.608079136747016,
+  "CenterPositionLat": 6.106684757469117
+ },
+ {
+  "ID": 50058215,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 49.559409034927285,
+  "CenterPositionLat": 5.880532450709446
+ },
+ {
+  "ID": 72842908,
+  "Capacity": 605,
+  "Name": "Place de Lodève",
+  "CenterPositionLon": 49.50240069827502,
+  "CenterPositionLat": 5.980052481316332
+ },
+ {
+  "ID": 74721474,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": 49.55363919208254,
+  "CenterPositionLat": 5.875150434730106
+ },
+ {
+  "ID": 76016886,
+  "Capacity": 290,
+  "Name": "",
+  "CenterPositionLon": 49.64998814282135,
+  "CenterPositionLat": 6.247684485273728
+ },
+ {
+  "ID": 77178478,
+  "Capacity": 728,
+  "Name": "",
+  "CenterPositionLon": 49.64571554283755,
+  "CenterPositionLat": 5.98874320765918
+ },
+ {
+  "ID": 78313632,
+  "Capacity": 513,
+  "Name": "",
+  "CenterPositionLon": 49.515386293915654,
+  "CenterPositionLat": 5.8965612281917705
+ },
+ {
+  "ID": 79122891,
+  "Capacity": 910,
+  "Name": "",
+  "CenterPositionLon": 49.62398481416917,
+  "CenterPositionLat": 6.125224343345296
+ },
+ {
+  "ID": 80400827,
+  "Capacity": 5140,
+  "Name": "",
+  "CenterPositionLon": 49.80428633878232,
+  "CenterPositionLat": 6.507982354588104
+ },
+ {
+  "ID": 80932992,
+  "Capacity": 5043,
+  "Name": "Parc Jaquinot",
+  "CenterPositionLon": 49.51478060098925,
+  "CenterPositionLat": 6.102826291219996
+ },
+ {
+  "ID": 85069435,
+  "Capacity": 2006,
+  "Name": "Scheiwisschen",
+  "CenterPositionLon": 49.60786755519151,
+  "CenterPositionLat": 6.101837110595878
+ },
+ {
+  "ID": 85578037,
+  "Capacity": 1187,
+  "Name": "",
+  "CenterPositionLon": 49.57112021635227,
+  "CenterPositionLat": 5.920338745794907
+ },
+ {
+  "ID": 95203903,
+  "Capacity": 666,
+  "Name": "",
+  "CenterPositionLon": 49.60514060274047,
+  "CenterPositionLat": 6.132723698503009
+ },
+ {
+  "ID": 102160756,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 49.683864107551194,
+  "CenterPositionLat": 5.8783840555435
+ },
+ {
+  "ID": 102161962,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 49.68577920604183,
+  "CenterPositionLat": 5.877336735070315
+ },
+ {
+  "ID": 105784919,
+  "Capacity": 474,
+  "Name": "",
+  "CenterPositionLon": 49.50696203713244,
+  "CenterPositionLat": 5.925134507584679
+ },
+ {
+  "ID": 107087770,
+  "Capacity": 1770,
+  "Name": "",
+  "CenterPositionLon": 49.46981738526193,
+  "CenterPositionLat": 6.365943928901312
+ },
+ {
+  "ID": 107419314,
+  "Capacity": 948,
+  "Name": "Allée Léopold Goebel",
+  "CenterPositionLon": 49.61254156822536,
+  "CenterPositionLat": 6.11019930389594
+ },
+ {
+  "ID": 109294987,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 49.61304960458195,
+  "CenterPositionLat": 6.113626631202942
+ },
+ {
+  "ID": 109569523,
+  "Capacity": 1900,
+  "Name": "",
+  "CenterPositionLon": 49.58094383184652,
+  "CenterPositionLat": 5.956794926498723
+ },
+ {
+  "ID": 109581397,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 49.57631579847636,
+  "CenterPositionLat": 5.9104853894787945
+ },
+ {
+  "ID": 109682937,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 49.60733716293915,
+  "CenterPositionLat": 6.137202942994975
+ },
+ {
+  "ID": 110078100,
+  "Capacity": 693,
+  "Name": "Square Robert Brasseur",
+  "CenterPositionLon": 49.6130611058372,
+  "CenterPositionLat": 6.131925786340458
+ },
+ {
+  "ID": 110161970,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 49.59583635083188,
+  "CenterPositionLat": 6.109289830333476
+ },
+ {
+  "ID": 110554824,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 49.5902950896407,
+  "CenterPositionLat": 6.1005369970539975
+ },
+ {
+  "ID": 112389860,
+  "Capacity": 366,
+  "Name": "Place de la Résistance",
+  "CenterPositionLon": 49.48391463906038,
+  "CenterPositionLat": 6.084235308117391
+ },
+ {
+  "ID": 112454659,
+  "Capacity": 465,
+  "Name": "Parc A Leischemer",
+  "CenterPositionLon": 49.513150124893365,
+  "CenterPositionLat": 6.1139337363924025
+ },
+ {
+  "ID": 114543319,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 49.59888538453924,
+  "CenterPositionLat": 5.945813485631544
+ },
+ {
+  "ID": 115668907,
+  "Capacity": 646,
+  "Name": "",
+  "CenterPositionLon": 49.587253091242424,
+  "CenterPositionLat": 6.257786983256965
+ },
+ {
+  "ID": 118970574,
+  "Capacity": 430,
+  "Name": "",
+  "CenterPositionLon": 49.51579523124035,
+  "CenterPositionLat": 5.89813449826188
+ },
+ {
+  "ID": 119017095,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": 49.80577365691161,
+  "CenterPositionLat": 5.789001501273637
+ },
+ {
+  "ID": 119339800,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 49.52112325349025,
+  "CenterPositionLat": 5.915494394524568
+ },
+ {
+  "ID": 121722777,
+  "Capacity": 8243,
+  "Name": "",
+  "CenterPositionLon": 49.70102118961521,
+  "CenterPositionLat": 6.476631224104564
+ },
+ {
+  "ID": 122763202,
+  "Capacity": 31705,
+  "Name": "Parc municipal",
+  "CenterPositionLon": 49.61339723574968,
+  "CenterPositionLat": 6.124150998401713
+ },
+ {
+  "ID": 126548639,
+  "Capacity": 4896,
+  "Name": "",
+  "CenterPositionLon": 49.484345919696224,
+  "CenterPositionLat": 6.0413116360903105
+ },
+ {
+  "ID": 126550061,
+  "Capacity": 1482,
+  "Name": "Parc Hummerland",
+  "CenterPositionLon": 49.475095021706835,
+  "CenterPositionLat": 6.036928155454754
+ },
+ {
+  "ID": 127426705,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 49.613606242739216,
+  "CenterPositionLat": 6.076481992041599
+ },
+ {
+  "ID": 127664291,
+  "Capacity": 1765,
+  "Name": "Odendahl",
+  "CenterPositionLon": 49.61350639237186,
+  "CenterPositionLat": 6.135223518568913
+ },
+ {
+  "ID": 128541318,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 49.688054431750174,
+  "CenterPositionLat": 5.913807276024247
+ },
+ {
+  "ID": 128998988,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 49.575246323613506,
+  "CenterPositionLat": 5.909571273008015
+ },
+ {
+  "ID": 129472140,
+  "Capacity": 3012,
+  "Name": "Jardin Anglais",
+  "CenterPositionLon": 49.594612053134334,
+  "CenterPositionLat": 6.120290865416744
+ },
+ {
+  "ID": 130512175,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 49.69094185538997,
+  "CenterPositionLat": 6.367179456360153
+ },
+ {
+  "ID": 130771443,
+  "Capacity": 607,
+  "Name": "",
+  "CenterPositionLon": 49.68972528099928,
+  "CenterPositionLat": 6.382182830730152
+ },
+ {
+  "ID": 131293022,
+  "Capacity": 1179,
+  "Name": "Europa Monument",
+  "CenterPositionLon": 50.13029007457009,
+  "CenterPositionLat": 6.135931759813898
+ },
+ {
+  "ID": 131405721,
+  "Capacity": 763,
+  "Name": "Parc Square Émile Mayrisch",
+  "CenterPositionLon": 49.48122610386765,
+  "CenterPositionLat": 6.086088849113535
+ },
+ {
+  "ID": 131411630,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 49.47981638866696,
+  "CenterPositionLat": 6.0863726681863115
+ },
+ {
+  "ID": 131418439,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": 49.47815670977278,
+  "CenterPositionLat": 6.083629637465928
+ },
+ {
+  "ID": 131564329,
+  "Capacity": 5220,
+  "Name": "",
+  "CenterPositionLon": 49.81490593922482,
+  "CenterPositionLat": 6.424681835410529
+ },
+ {
+  "ID": 131667629,
+  "Capacity": 4146,
+  "Name": "Parc commune bettembourg",
+  "CenterPositionLon": 49.51737734451723,
+  "CenterPositionLat": 6.097458971987746
+ },
+ {
+  "ID": 132647043,
+  "Capacity": 338,
+  "Name": "",
+  "CenterPositionLon": 49.8076636453769,
+  "CenterPositionLat": 6.429102520864541
+ },
+ {
+  "ID": 143535563,
+  "Capacity": 1672,
+  "Name": "Parc Municipal",
+  "CenterPositionLon": 49.86548887380482,
+  "CenterPositionLat": 6.158880601756512
+ },
+ {
+  "ID": 154409840,
+  "Capacity": 272,
+  "Name": "",
+  "CenterPositionLon": 49.5385801563354,
+  "CenterPositionLat": 6.1936093893813275
+ },
+ {
+  "ID": 160772200,
+  "Capacity": 865,
+  "Name": "",
+  "CenterPositionLon": 49.532223630183914,
+  "CenterPositionLat": 6.151538777424685
+ },
+ {
+  "ID": 161777414,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 49.66046561814029,
+  "CenterPositionLat": 6.133254104471467
+ },
+ {
+  "ID": 162409819,
+  "Capacity": 152,
+  "Name": "Square Aloyse Meyer",
+  "CenterPositionLon": 49.6066421397609,
+  "CenterPositionLat": 6.144643762762707
+ },
+ {
+  "ID": 164331075,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 49.531531686277546,
+  "CenterPositionLat": 6.353898846844429
+ },
+ {
+  "ID": 166689893,
+  "Capacity": 577,
+  "Name": "",
+  "CenterPositionLon": 49.607356309862595,
+  "CenterPositionLat": 6.141961604263367
+ },
+ {
+  "ID": 166956486,
+  "Capacity": 13444,
+  "Name": "Lavals Park",
+  "CenterPositionLon": 49.62541533211936,
+  "CenterPositionLat": 6.131654501826514
+ },
+ {
+  "ID": 169277043,
+  "Capacity": 287,
+  "Name": "",
+  "CenterPositionLon": 49.79941009277983,
+  "CenterPositionLat": 6.510437138394188
+ },
+ {
+  "ID": 169852514,
+  "Capacity": 28,
+  "Name": "Adventure Park",
+  "CenterPositionLon": 49.51394176458412,
+  "CenterPositionLat": 6.117800506745137
+ },
+ {
+  "ID": 172108081,
+  "Capacity": 1177,
+  "Name": "Parc Street Workout",
+  "CenterPositionLon": 49.47530853966358,
+  "CenterPositionLat": 6.0830869119053865
+ },
+ {
+  "ID": 173941597,
+  "Capacity": 160,
+  "Name": "",
+  "CenterPositionLon": 49.548167367956516,
+  "CenterPositionLat": 5.924925135499664
+ },
+ {
+  "ID": 182139749,
+  "Capacity": 195,
+  "Name": "Parc op Fankenacker",
+  "CenterPositionLon": 49.52954500064161,
+  "CenterPositionLat": 6.10075836742101
+ },
+ {
+  "ID": 182370233,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 49.508556733333336,
+  "CenterPositionLat": 5.991333933333333
+ },
+ {
+  "ID": 190232361,
+  "Capacity": 5246,
+  "Name": "",
+  "CenterPositionLon": 49.58971122978285,
+  "CenterPositionLat": 6.102695482011751
+ },
+ {
+  "ID": 195618005,
+  "Capacity": 1630,
+  "Name": "Ephemeral Garden",
+  "CenterPositionLon": 49.630470202077674,
+  "CenterPositionLat": 6.172450692165859
+ },
+ {
+  "ID": 196940539,
+  "Capacity": 1016,
+  "Name": "",
+  "CenterPositionLon": 49.619860057332836,
+  "CenterPositionLat": 6.0713430365491785
+ },
+ {
+  "ID": 198173200,
+  "Capacity": 8960,
+  "Name": "Parc de la Chiers",
+  "CenterPositionLon": 49.518865030569565,
+  "CenterPositionLat": 5.894222357673748
+ },
+ {
+  "ID": 210504633,
+  "Capacity": 8408,
+  "Name": "",
+  "CenterPositionLon": 49.60676265811566,
+  "CenterPositionLat": 6.122080567785599
+ },
+ {
+  "ID": 210504637,
+  "Capacity": 241,
+  "Name": "",
+  "CenterPositionLon": 49.606673437030445,
+  "CenterPositionLat": 6.123299519842422
+ },
+ {
+  "ID": 212498427,
+  "Capacity": 1224,
+  "Name": "",
+  "CenterPositionLon": 49.62769391266071,
+  "CenterPositionLat": 6.123699794633276
+ },
+ {
+  "ID": 217840005,
+  "Capacity": 422,
+  "Name": "",
+  "CenterPositionLon": 49.50156093687141,
+  "CenterPositionLat": 5.949481429635883
+ },
+ {
+  "ID": 221220296,
+  "Capacity": 4323,
+  "Name": "Parc du Château de Dommeldange",
+  "CenterPositionLon": 49.63770335234025,
+  "CenterPositionLat": 6.146918529397951
+ },
+ {
+  "ID": 225752897,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 49.60259279454037,
+  "CenterPositionLat": 6.136221589493476
+ },
+ {
+  "ID": 226130225,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 49.62233935064127,
+  "CenterPositionLat": 6.127571336671695
+ },
+ {
+  "ID": 227442700,
+  "Capacity": 2591,
+  "Name": "",
+  "CenterPositionLon": 49.59775841757837,
+  "CenterPositionLat": 6.126485309251713
+ },
+ {
+  "ID": 227463584,
+  "Capacity": 306,
+  "Name": "",
+  "CenterPositionLon": 49.50059388789878,
+  "CenterPositionLat": 5.9489286368211864
+ },
+ {
+  "ID": 232982905,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 49.60098847236801,
+  "CenterPositionLat": 6.38856531889211
+ },
+ {
+  "ID": 235266723,
+  "Capacity": 682,
+  "Name": "",
+  "CenterPositionLon": 49.50965417860534,
+  "CenterPositionLat": 5.98429979585004
+ },
+ {
+  "ID": 237353872,
+  "Capacity": 632,
+  "Name": "Parc Eglise",
+  "CenterPositionLon": 49.51912276995031,
+  "CenterPositionLat": 6.098898020660372
+ },
+ {
+  "ID": 238869760,
+  "Capacity": 1912,
+  "Name": "",
+  "CenterPositionLon": 49.803700544502675,
+  "CenterPositionLat": 6.499041806732516
+ },
+ {
+  "ID": 244071025,
+  "Capacity": 1195,
+  "Name": "Hôtel Meyer",
+  "CenterPositionLon": 49.84362456819698,
+  "CenterPositionLat": 6.289970710803079
+ },
+ {
+  "ID": 244128298,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 49.659896203074744,
+  "CenterPositionLat": 5.913895683845887
+ },
+ {
+  "ID": 244389432,
+  "Capacity": 565,
+  "Name": "",
+  "CenterPositionLon": 49.83741741417128,
+  "CenterPositionLat": 6.291272657240071
+ },
+ {
+  "ID": 245157798,
+  "Capacity": 450,
+  "Name": "",
+  "CenterPositionLon": 49.8054383858382,
+  "CenterPositionLat": 6.094756466958068
+ },
+ {
+  "ID": 254169600,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": 49.5384677925194,
+  "CenterPositionLat": 6.338680715573079
+ },
+ {
+  "ID": 256977951,
+  "Capacity": 917,
+  "Name": "Parc Cité du Soleil",
+  "CenterPositionLon": 49.51100173769372,
+  "CenterPositionLat": 6.112262687964587
+ },
+ {
+  "ID": 263217915,
+  "Capacity": 1297,
+  "Name": "",
+  "CenterPositionLon": 49.61981694607373,
+  "CenterPositionLat": 6.393188818272997
+ },
+ {
+  "ID": 264864702,
+  "Capacity": 1262,
+  "Name": "",
+  "CenterPositionLon": 49.814684388273825,
+  "CenterPositionLat": 6.421007948402852
+ },
+ {
+  "ID": 265194884,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 49.73267333967712,
+  "CenterPositionLat": 6.392530838293526
+ },
+ {
+  "ID": 265194885,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 49.73256605290147,
+  "CenterPositionLat": 6.393013116656382
+ },
+ {
+  "ID": 275958536,
+  "Capacity": 7626,
+  "Name": "Parc Lentz",
+  "CenterPositionLon": 49.605223693856466,
+  "CenterPositionLat": 6.072325730932931
+ },
+ {
+  "ID": 277372858,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": 49.524159497062485,
+  "CenterPositionLat": 5.938222318675989
+ },
+ {
+  "ID": 277526033,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 49.508780876278635,
+  "CenterPositionLat": 6.277737484332469
+ },
+ {
+  "ID": 283546588,
+  "Capacity": 5195,
+  "Name": "Parc Edmond Dune",
+  "CenterPositionLon": 49.521128966681495,
+  "CenterPositionLat": 5.889822324473342
+ },
+ {
+  "ID": 284391286,
+  "Capacity": 6294,
+  "Name": "",
+  "CenterPositionLon": 49.664473415953545,
+  "CenterPositionLat": 5.912072418007547
+ },
+ {
+  "ID": 284401563,
+  "Capacity": 227,
+  "Name": "",
+  "CenterPositionLon": 49.683421419291754,
+  "CenterPositionLat": 5.8809293904544235
+ },
+ {
+  "ID": 285092030,
+  "Capacity": 206,
+  "Name": "",
+  "CenterPositionLon": 49.64523674005642,
+  "CenterPositionLat": 5.98765902617543
+ },
+ {
+  "ID": 298623293,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 49.83350511383844,
+  "CenterPositionLat": 6.293111285989195
+ },
+ {
+  "ID": 301051690,
+  "Capacity": 809,
+  "Name": "",
+  "CenterPositionLon": 49.833297914939656,
+  "CenterPositionLat": 6.2923976917897
+ },
+ {
+  "ID": 302316830,
+  "Capacity": 662,
+  "Name": "",
+  "CenterPositionLon": 49.57327753152249,
+  "CenterPositionLat": 6.149295021289521
+ },
+ {
+  "ID": 304339599,
+  "Capacity": 313,
+  "Name": "Bike Park",
+  "CenterPositionLon": 49.47885757684296,
+  "CenterPositionLat": 6.029530880198326
+ },
+ {
+  "ID": 311557587,
+  "Capacity": 4581,
+  "Name": "Jardin à Suivre",
+  "CenterPositionLon": 50.12046272766404,
+  "CenterPositionLat": 6.004769546962928
+ },
+ {
+  "ID": 312895176,
+  "Capacity": 1796,
+  "Name": "",
+  "CenterPositionLon": 49.66040003961007,
+  "CenterPositionLat": 5.9127007560062115
+ },
+ {
+  "ID": 315332006,
+  "Capacity": 615,
+  "Name": "",
+  "CenterPositionLon": 49.75134373986644,
+  "CenterPositionLat": 6.108013916375249
+ },
+ {
+  "ID": 315665224,
+  "Capacity": 229,
+  "Name": "",
+  "CenterPositionLon": 49.7472931602893,
+  "CenterPositionLat": 6.104414839396169
+ },
+ {
+  "ID": 316836349,
+  "Capacity": 2835,
+  "Name": "",
+  "CenterPositionLon": 49.74529722794729,
+  "CenterPositionLat": 6.11653480570744
+ },
+ {
+  "ID": 317938208,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 49.74741969688991,
+  "CenterPositionLat": 6.080264007475685
+ },
+ {
+  "ID": 325921576,
+  "Capacity": 674,
+  "Name": "",
+  "CenterPositionLon": 50.09615342100669,
+  "CenterPositionLat": 5.973789337714303
+ },
+ {
+  "ID": 326041150,
+  "Capacity": 507,
+  "Name": "",
+  "CenterPositionLon": 49.59804268849692,
+  "CenterPositionLat": 6.139496773377812
+ },
+ {
+  "ID": 326333286,
+  "Capacity": 1343,
+  "Name": "",
+  "CenterPositionLon": 49.62154566746956,
+  "CenterPositionLat": 6.078408440734172
+ },
+ {
+  "ID": 328143977,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 49.51183672014879,
+  "CenterPositionLat": 6.356240128542828
+ },
+ {
+  "ID": 328145094,
+  "Capacity": 801,
+  "Name": "",
+  "CenterPositionLon": 49.51020452868822,
+  "CenterPositionLat": 6.357840188665631
+ },
+ {
+  "ID": 329185082,
+  "Capacity": 787,
+  "Name": "",
+  "CenterPositionLon": 49.74630552477508,
+  "CenterPositionLat": 6.098344509044665
+ },
+ {
+  "ID": 330042270,
+  "Capacity": 237,
+  "Name": "",
+  "CenterPositionLon": 49.594327931343344,
+  "CenterPositionLat": 6.14630471254616
+ },
+ {
+  "ID": 331424601,
+  "Capacity": 832,
+  "Name": "",
+  "CenterPositionLon": 49.61422886589888,
+  "CenterPositionLat": 6.174756541433528
+ },
+ {
+  "ID": 334905033,
+  "Capacity": 539,
+  "Name": "",
+  "CenterPositionLon": 49.50642403980585,
+  "CenterPositionLat": 6.000333806226834
+ },
+ {
+  "ID": 336519179,
+  "Capacity": 483,
+  "Name": "",
+  "CenterPositionLon": 49.54206124027286,
+  "CenterPositionLat": 6.366699552404511
+ },
+ {
+  "ID": 338608460,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": 49.50878201129682,
+  "CenterPositionLat": 5.974973267671475
+ },
+ {
+  "ID": 340408369,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 49.48316158116844,
+  "CenterPositionLat": 6.081875326762047
+ },
+ {
+  "ID": 340955699,
+  "Capacity": 3859,
+  "Name": "Parc de l'Europe",
+  "CenterPositionLon": 49.65900639845629,
+  "CenterPositionLat": 6.2435816977363805
+ },
+ {
+  "ID": 343943674,
+  "Capacity": 349,
+  "Name": "",
+  "CenterPositionLon": 49.50880514820487,
+  "CenterPositionLat": 5.973656725778858
+ },
+ {
+  "ID": 344063537,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": 49.5087136596242,
+  "CenterPositionLat": 5.972446009799902
+ },
+ {
+  "ID": 353415452,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 49.60136963787966,
+  "CenterPositionLat": 6.137263493603518
+ },
+ {
+  "ID": 355712705,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 49.58580130073919,
+  "CenterPositionLat": 6.173635236815586
+ },
+ {
+  "ID": 359562203,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": 49.48729583326715,
+  "CenterPositionLat": 5.985314324557706
+ },
+ {
+  "ID": 360693283,
+  "Capacity": 3500,
+  "Name": "",
+  "CenterPositionLon": 49.53510550718451,
+  "CenterPositionLat": 6.034702941453248
+ },
+ {
+  "ID": 361599402,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 49.58987133665486,
+  "CenterPositionLat": 6.125714243577384
+ },
+ {
+  "ID": 361711563,
+  "Capacity": 2224,
+  "Name": "Park Um Bierg",
+  "CenterPositionLon": 49.50947873720591,
+  "CenterPositionLat": 5.873607003981513
+ },
+ {
+  "ID": 361731467,
+  "Capacity": 13772,
+  "Name": "",
+  "CenterPositionLon": 49.632748882268295,
+  "CenterPositionLat": 6.2604371560673435
+ },
+ {
+  "ID": 363652135,
+  "Capacity": 646,
+  "Name": "",
+  "CenterPositionLon": 49.835266257755706,
+  "CenterPositionLat": 6.330879215086267
+ },
+ {
+  "ID": 366898574,
+  "Capacity": 2797,
+  "Name": "",
+  "CenterPositionLon": 49.521881477754384,
+  "CenterPositionLat": 5.835680563292798
+ },
+ {
+  "ID": 371189372,
+  "Capacity": 6629,
+  "Name": "Parc Edmond J. Klein",
+  "CenterPositionLon": 49.60931041946141,
+  "CenterPositionLat": 6.123361339603094
+ },
+ {
+  "ID": 371788137,
+  "Capacity": 234,
+  "Name": "",
+  "CenterPositionLon": 49.56049273383485,
+  "CenterPositionLat": 5.8716069466358825
+ },
+ {
+  "ID": 374465780,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 49.609195743772666,
+  "CenterPositionLat": 6.108507598794274
+ },
+ {
+  "ID": 374917968,
+  "Capacity": 1113,
+  "Name": "",
+  "CenterPositionLon": 49.52128991030361,
+  "CenterPositionLat": 5.931802559772105
+ },
+ {
+  "ID": 376638788,
+  "Capacity": 4723,
+  "Name": "",
+  "CenterPositionLon": 49.517588967077224,
+  "CenterPositionLat": 5.9412803630509705
+ },
+ {
+  "ID": 376994842,
+  "Capacity": 304,
+  "Name": "Parke Belvaux",
+  "CenterPositionLon": 49.5066524723003,
+  "CenterPositionLat": 5.929953606907264
+ },
+ {
+  "ID": 376994845,
+  "Capacity": 120,
+  "Name": "Park Belvaux",
+  "CenterPositionLon": 49.50629187527439,
+  "CenterPositionLat": 5.929819256296994
+ },
+ {
+  "ID": 376994858,
+  "Capacity": 266,
+  "Name": "Park Aire de Jeux Belvaux",
+  "CenterPositionLon": 49.50450038382408,
+  "CenterPositionLat": 5.931180487076974
+ },
+ {
+  "ID": 379066656,
+  "Capacity": 29452,
+  "Name": "",
+  "CenterPositionLon": 49.4920589835385,
+  "CenterPositionLat": 5.986432609982804
+ },
+ {
+  "ID": 381131241,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": 49.492602335094325,
+  "CenterPositionLat": 5.976598192852055
+ },
+ {
+  "ID": 389447957,
+  "Capacity": 1415,
+  "Name": "",
+  "CenterPositionLon": 49.47161302326918,
+  "CenterPositionLat": 6.083152104986728
+ },
+ {
+  "ID": 393248476,
+  "Capacity": 1841,
+  "Name": "",
+  "CenterPositionLon": 49.50935483778837,
+  "CenterPositionLat": 5.9562913890093006
+ },
+ {
+  "ID": 397959461,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 49.484614084105694,
+  "CenterPositionLat": 6.04245542183914
+ },
+ {
+  "ID": 404246441,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 49.4767365473992,
+  "CenterPositionLat": 6.038250240956496
+ },
+ {
+  "ID": 405830394,
+  "Capacity": 5116,
+  "Name": "",
+  "CenterPositionLon": 49.53463646695553,
+  "CenterPositionLat": 5.986875909749125
+ },
+ {
+  "ID": 406764450,
+  "Capacity": 689,
+  "Name": "",
+  "CenterPositionLon": 49.61146667154248,
+  "CenterPositionLat": 6.119155334268757
+ },
+ {
+  "ID": 411360422,
+  "Capacity": 5053,
+  "Name": "Jardin de Wiltz",
+  "CenterPositionLon": 49.96019682313295,
+  "CenterPositionLat": 5.932772620030877
+ },
+ {
+  "ID": 427694056,
+  "Capacity": 1690,
+  "Name": "",
+  "CenterPositionLon": 49.618349525880454,
+  "CenterPositionLat": 6.133736132771133
+ },
+ {
+  "ID": 432767603,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 49.62321790394566,
+  "CenterPositionLat": 6.073903874173872
+ },
+ {
+  "ID": 433785185,
+  "Capacity": 891,
+  "Name": "",
+  "CenterPositionLon": 49.50639535204776,
+  "CenterPositionLat": 6.051052630861489
+ },
+ {
+  "ID": 437973984,
+  "Capacity": 499,
+  "Name": "",
+  "CenterPositionLon": 49.50632117026921,
+  "CenterPositionLat": 6.002860399433149
+ },
+ {
+  "ID": 439710818,
+  "Capacity": 603,
+  "Name": "",
+  "CenterPositionLon": 49.62171367996056,
+  "CenterPositionLat": 6.177531120350146
+ },
+ {
+  "ID": 442572540,
+  "Capacity": 318,
+  "Name": "Park Old Mine Train",
+  "CenterPositionLon": 49.5079151144219,
+  "CenterPositionLat": 5.924827968798454
+ },
+ {
+  "ID": 447283259,
+  "Capacity": 1658,
+  "Name": "",
+  "CenterPositionLon": 49.7584981815646,
+  "CenterPositionLat": 6.109660565849838
+ },
+ {
+  "ID": 448746830,
+  "Capacity": 9903,
+  "Name": "",
+  "CenterPositionLon": 49.810600029331205,
+  "CenterPositionLat": 6.091448125446999
+ },
+ {
+  "ID": 449121012,
+  "Capacity": 231,
+  "Name": "",
+  "CenterPositionLon": 49.72594585076643,
+  "CenterPositionLat": 5.982440460759464
+ },
+ {
+  "ID": 452172455,
+  "Capacity": 3970,
+  "Name": "",
+  "CenterPositionLon": 49.660653847639544,
+  "CenterPositionLat": 6.076362650012536
+ },
+ {
+  "ID": 458918177,
+  "Capacity": 5040,
+  "Name": "Eden au Lac",
+  "CenterPositionLon": 49.80378229457417,
+  "CenterPositionLat": 6.404383757827559
+ },
+ {
+  "ID": 460847864,
+  "Capacity": 4456,
+  "Name": "Arboretum An Aenzelen",
+  "CenterPositionLon": 49.45371999609113,
+  "CenterPositionLat": 6.036383790538798
+ },
+ {
+  "ID": 460848083,
+  "Capacity": 1021,
+  "Name": "",
+  "CenterPositionLon": 49.54719153595219,
+  "CenterPositionLat": 5.838364512496317
+ },
+ {
+  "ID": 460959004,
+  "Capacity": 570,
+  "Name": "",
+  "CenterPositionLon": 49.51930215002481,
+  "CenterPositionLat": 5.931775995552907
+ },
+ {
+  "ID": 460959071,
+  "Capacity": 432,
+  "Name": "Stengerscherswee",
+  "CenterPositionLon": 49.51438493117115,
+  "CenterPositionLat": 5.870114473549807
+ },
+ {
+  "ID": 461675604,
+  "Capacity": 2986,
+  "Name": "Parc Laval",
+  "CenterPositionLon": 49.49881969416753,
+  "CenterPositionLat": 5.978164281595634
+ },
+ {
+  "ID": 462105795,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 49.56665288455334,
+  "CenterPositionLat": 6.080161241608669
+ },
+ {
+  "ID": 468697995,
+  "Capacity": 187,
+  "Name": "Spillplatz",
+  "CenterPositionLon": 49.80216696306973,
+  "CenterPositionLat": 5.999888517777807
+ },
+ {
+  "ID": 468702039,
+  "Capacity": 359,
+  "Name": "Schoul Terrain",
+  "CenterPositionLon": 49.802648702118894,
+  "CenterPositionLat": 6.000506698463913
+ },
+ {
+  "ID": 468702040,
+  "Capacity": 1187,
+  "Name": "Parc bei der Schoul",
+  "CenterPositionLon": 49.801761420501585,
+  "CenterPositionLat": 6.001188076734246
+ },
+ {
+  "ID": 468720746,
+  "Capacity": 2601,
+  "Name": "private park of \"Banque de Luxembourg\"",
+  "CenterPositionLon": 49.57785422457581,
+  "CenterPositionLat": 6.134707538399603
+ },
+ {
+  "ID": 468720747,
+  "Capacity": 328,
+  "Name": "",
+  "CenterPositionLon": 49.57643601684264,
+  "CenterPositionLat": 6.133355938133372
+ },
+ {
+  "ID": 469427248,
+  "Capacity": 433,
+  "Name": "Op der Schmelz",
+  "CenterPositionLon": 49.47043726987588,
+  "CenterPositionLat": 6.086578571765633
+ },
+ {
+  "ID": 469647168,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 49.73264792880814,
+  "CenterPositionLat": 6.392694198163635
+ },
+ {
+  "ID": 469683826,
+  "Capacity": 21,
+  "Name": "Parc de Strassen",
+  "CenterPositionLon": 49.614264308288966,
+  "CenterPositionLat": 6.076263762609422
+ },
+ {
+  "ID": 472289697,
+  "Capacity": 2240,
+  "Name": "",
+  "CenterPositionLon": 49.610057926671615,
+  "CenterPositionLat": 6.0517057956958125
+ },
+ {
+  "ID": 477127863,
+  "Capacity": 1399,
+  "Name": "",
+  "CenterPositionLon": 49.659948756046994,
+  "CenterPositionLat": 6.1349952304096265
+ },
+ {
+  "ID": 477127920,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 49.65946463170828,
+  "CenterPositionLat": 6.132771066427658
+ },
+ {
+  "ID": 479517969,
+  "Capacity": 600,
+  "Name": "",
+  "CenterPositionLon": 49.676572282839246,
+  "CenterPositionLat": 5.949904466061629
+ },
+ {
+  "ID": 480061642,
+  "Capacity": 8498,
+  "Name": "",
+  "CenterPositionLon": 49.63317486675111,
+  "CenterPositionLat": 5.893534421259004
+ },
+ {
+  "ID": 480290846,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 49.94571868722567,
+  "CenterPositionLat": 6.080869485524342
+ },
+ {
+  "ID": 484334894,
+  "Capacity": 7010,
+  "Name": "",
+  "CenterPositionLon": 49.50598959597624,
+  "CenterPositionLat": 6.2829525770535986
+ },
+ {
+  "ID": 491709298,
+  "Capacity": 1957,
+  "Name": "",
+  "CenterPositionLon": 49.56395652945298,
+  "CenterPositionLat": 5.9096389562333265
+ },
+ {
+  "ID": 496892483,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 49.61602459814872,
+  "CenterPositionLat": 6.124539541359273
+ },
+ {
+  "ID": 497135794,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 49.61514646932694,
+  "CenterPositionLat": 6.122255562346568
+ },
+ {
+  "ID": 497135796,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 49.615078159817045,
+  "CenterPositionLat": 6.121844675002758
+ },
+ {
+  "ID": 500080482,
+  "Capacity": 401,
+  "Name": "",
+  "CenterPositionLon": 49.69885231498577,
+  "CenterPositionLat": 6.15318965558613
+ },
+ {
+  "ID": 510444347,
+  "Capacity": 159,
+  "Name": "Square Édouard André",
+  "CenterPositionLon": 49.62390488017827,
+  "CenterPositionLat": 6.119106660122629
+ },
+ {
+  "ID": 512394843,
+  "Capacity": 862,
+  "Name": "",
+  "CenterPositionLon": 49.606963104973495,
+  "CenterPositionLat": 6.142485029016312
+ },
+ {
+  "ID": 512394845,
+  "Capacity": 541,
+  "Name": "",
+  "CenterPositionLon": 49.6059685342936,
+  "CenterPositionLat": 6.1426923575747745
+ },
+ {
+  "ID": 512403390,
+  "Capacity": 613,
+  "Name": "",
+  "CenterPositionLon": 49.97144355049874,
+  "CenterPositionLat": 5.918541267316425
+ },
+ {
+  "ID": 512532696,
+  "Capacity": 2055,
+  "Name": "Parc Mansfeld",
+  "CenterPositionLon": 49.61472003894202,
+  "CenterPositionLat": 6.144119666169163
+ },
+ {
+  "ID": 519918007,
+  "Capacity": 6182,
+  "Name": "La Sapinière",
+  "CenterPositionLon": 49.99135111160533,
+  "CenterPositionLat": 6.099988584978908
+ },
+ {
+  "ID": 520308657,
+  "Capacity": 504,
+  "Name": "",
+  "CenterPositionLon": 49.952677620584865,
+  "CenterPositionLat": 6.018173591773353
+ },
+ {
+  "ID": 526461842,
+  "Capacity": 2753,
+  "Name": "Parc Heintz",
+  "CenterPositionLon": 49.6024862803173,
+  "CenterPositionLat": 6.121853336657051
+ },
+ {
+  "ID": 527729430,
+  "Capacity": 1666,
+  "Name": "",
+  "CenterPositionLon": 49.60706149588688,
+  "CenterPositionLat": 6.134834848454237
+ },
+ {
+  "ID": 535522843,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": 49.715460395816514,
+  "CenterPositionLat": 6.264203132318672
+ },
+ {
+  "ID": 539423293,
+  "Capacity": 2293,
+  "Name": "",
+  "CenterPositionLon": 49.63249642465579,
+  "CenterPositionLat": 6.173578260853171
+ },
+ {
+  "ID": 541068127,
+  "Capacity": 1429,
+  "Name": "",
+  "CenterPositionLon": 49.616919137980204,
+  "CenterPositionLat": 6.259979712917303
+ },
+ {
+  "ID": 542610570,
+  "Capacity": 352,
+  "Name": "",
+  "CenterPositionLon": 49.78748338924364,
+  "CenterPositionLat": 6.209761292086817
+ },
+ {
+  "ID": 543490046,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 49.5710703753489,
+  "CenterPositionLat": 6.15559345329584
+ },
+ {
+  "ID": 545452205,
+  "Capacity": 630,
+  "Name": "",
+  "CenterPositionLon": 49.71470402623623,
+  "CenterPositionLat": 6.263993231035814
+ },
+ {
+  "ID": 546816260,
+  "Capacity": 3188,
+  "Name": "",
+  "CenterPositionLon": 49.51075558646404,
+  "CenterPositionLat": 6.0485035373987825
+ },
+ {
+  "ID": 546818313,
+  "Capacity": 344,
+  "Name": "",
+  "CenterPositionLon": 49.509947720626585,
+  "CenterPositionLat": 6.048685571903744
+ },
+ {
+  "ID": 546818390,
+  "Capacity": 263,
+  "Name": "",
+  "CenterPositionLon": 49.50986904140736,
+  "CenterPositionLat": 6.04932166449236
+ },
+ {
+  "ID": 546865186,
+  "Capacity": 255,
+  "Name": "Park Burgruine Hesperingen",
+  "CenterPositionLon": 49.57303458256546,
+  "CenterPositionLat": 6.154612405187997
+ },
+ {
+  "ID": 547913324,
+  "Capacity": 10240,
+  "Name": "Park Dräi Eechelen",
+  "CenterPositionLon": 49.61632774890711,
+  "CenterPositionLat": 6.139252158003757
+ },
+ {
+  "ID": 547913342,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": 49.61430626302827,
+  "CenterPositionLat": 6.135752469620312
+ },
+ {
+  "ID": 550621114,
+  "Capacity": 856,
+  "Name": "",
+  "CenterPositionLon": 49.756490393026894,
+  "CenterPositionLat": 6.505732405326781
+ },
+ {
+  "ID": 553281603,
+  "Capacity": 3833,
+  "Name": "",
+  "CenterPositionLon": 49.71126413428017,
+  "CenterPositionLat": 6.049742350420047
+ },
+ {
+  "ID": 556474866,
+  "Capacity": 10279,
+  "Name": "Promenade avec ruisseau",
+  "CenterPositionLon": 49.71486682782617,
+  "CenterPositionLat": 6.250230638091499
+ },
+ {
+  "ID": 557929387,
+  "Capacity": 7818,
+  "Name": "Parc Laval",
+  "CenterPositionLon": 49.67001345657938,
+  "CenterPositionLat": 6.118785530663584
+ },
+ {
+  "ID": 558267435,
+  "Capacity": 2134,
+  "Name": "",
+  "CenterPositionLon": 49.522455333178556,
+  "CenterPositionLat": 6.101245511260545
+ },
+ {
+  "ID": 563328685,
+  "Capacity": 460,
+  "Name": "",
+  "CenterPositionLon": 49.61458309783573,
+  "CenterPositionLat": 6.136588893680039
+ },
+ {
+  "ID": 565827864,
+  "Capacity": 18264,
+  "Name": "Park Brill",
+  "CenterPositionLon": 49.62600129846619,
+  "CenterPositionLat": 6.027638735679022
+ },
+ {
+  "ID": 566181851,
+  "Capacity": 42,
+  "Name": "Lankert Parc",
+  "CenterPositionLon": 49.53494273321964,
+  "CenterPositionLat": 6.146388672743484
+ },
+ {
+  "ID": 566187062,
+  "Capacity": 81,
+  "Name": "Parc Aloyse Weber",
+  "CenterPositionLon": 49.54064525278381,
+  "CenterPositionLat": 6.1313695495086655
+ },
+ {
+  "ID": 569069282,
+  "Capacity": 27223,
+  "Name": "Krakelshaff Park",
+  "CenterPositionLon": 49.51087605341269,
+  "CenterPositionLat": 6.10520492939617
+ },
+ {
+  "ID": 570560124,
+  "Capacity": 19981,
+  "Name": "Hesperpark",
+  "CenterPositionLon": 49.57077208980267,
+  "CenterPositionLat": 6.156662410982291
+ },
+ {
+  "ID": 576297577,
+  "Capacity": 558,
+  "Name": "",
+  "CenterPositionLon": 49.607706086784724,
+  "CenterPositionLat": 6.138226799445283
+ },
+ {
+  "ID": 577486115,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 49.61431952996414,
+  "CenterPositionLat": 5.946299861800432
+ },
+ {
+  "ID": 579150817,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 49.52630558880996,
+  "CenterPositionLat": 6.103471754645425
+ },
+ {
+  "ID": 579154547,
+  "Capacity": 153,
+  "Name": "Parc bei der Schwemm",
+  "CenterPositionLon": 49.51613207068796,
+  "CenterPositionLat": 6.097895335054042
+ },
+ {
+  "ID": 579154549,
+  "Capacity": 194,
+  "Name": "Parc Du Chateau",
+  "CenterPositionLon": 49.514345659596536,
+  "CenterPositionLat": 6.096993145113095
+ },
+ {
+  "ID": 579157407,
+  "Capacity": 78,
+  "Name": "Parc Michel Hack",
+  "CenterPositionLon": 49.51439248479618,
+  "CenterPositionLat": 6.094795613103606
+ },
+ {
+  "ID": 579161193,
+  "Capacity": 244,
+  "Name": "Parc Fernand Mertens",
+  "CenterPositionLon": 49.518282380677086,
+  "CenterPositionLat": 6.1110008646574885
+ },
+ {
+  "ID": 580466143,
+  "Capacity": 8303,
+  "Name": "Park zu Bouferdeng",
+  "CenterPositionLon": 49.6895068966261,
+  "CenterPositionLat": 6.138713924936243
+ },
+ {
+  "ID": 582873784,
+  "Capacity": 1883,
+  "Name": "",
+  "CenterPositionLon": 49.60885901554236,
+  "CenterPositionLat": 6.137517974001436
+ },
+ {
+  "ID": 589226813,
+  "Capacity": 111,
+  "Name": "",
+  "CenterPositionLon": 49.595330231364066,
+  "CenterPositionLat": 6.1211797946047755
+ },
+ {
+  "ID": 589649542,
+  "Capacity": 861,
+  "Name": "",
+  "CenterPositionLon": 49.656456751070024,
+  "CenterPositionLat": 6.079677947800994
+ },
+ {
+  "ID": 590670241,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 49.60927244070078,
+  "CenterPositionLat": 6.129355438712389
+ },
+ {
+  "ID": 590672238,
+  "Capacity": 332,
+  "Name": "",
+  "CenterPositionLon": 49.60681409666516,
+  "CenterPositionLat": 6.12128924660985
+ },
+ {
+  "ID": 607650877,
+  "Capacity": 520,
+  "Name": "",
+  "CenterPositionLon": 49.62955786268807,
+  "CenterPositionLat": 6.179345324988433
+ },
+ {
+  "ID": 608016190,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 49.510084692724625,
+  "CenterPositionLat": 6.048459218103895
+ },
+ {
+  "ID": 608988553,
+  "Capacity": 405,
+  "Name": "",
+  "CenterPositionLon": 49.50960810277298,
+  "CenterPositionLat": 6.026492129122319
+ },
+ {
+  "ID": 612545013,
+  "Capacity": 1191,
+  "Name": "",
+  "CenterPositionLon": 49.62983309269716,
+  "CenterPositionLat": 6.017448524425823
+ },
+ {
+  "ID": 619265291,
+  "Capacity": 558,
+  "Name": "",
+  "CenterPositionLon": 49.7690002242926,
+  "CenterPositionLat": 5.895360047614599
+ },
+ {
+  "ID": 622694320,
+  "Capacity": 107,
+  "Name": "Place de Durbuy",
+  "CenterPositionLon": 49.58991650573433,
+  "CenterPositionLat": 6.139497863895267
+ },
+ {
+  "ID": 627746046,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 49.81032589656202,
+  "CenterPositionLat": 6.420709563212414
+ },
+ {
+  "ID": 638703117,
+  "Capacity": 607,
+  "Name": "",
+  "CenterPositionLon": 49.49456514543259,
+  "CenterPositionLat": 5.955416559843527
+ },
+ {
+  "ID": 647741025,
+  "Capacity": 731,
+  "Name": "",
+  "CenterPositionLon": 49.543587785236,
+  "CenterPositionLat": 5.887957524645471
+ },
+ {
+  "ID": 648686890,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": 49.628662604750694,
+  "CenterPositionLat": 6.124269321939945
+ },
+ {
+  "ID": 650047109,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 49.600506462034474,
+  "CenterPositionLat": 6.071098776410026
+ },
+ {
+  "ID": 650047110,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 49.60011471124849,
+  "CenterPositionLat": 6.069617735457745
+ },
+ {
+  "ID": 655486698,
+  "Capacity": 321,
+  "Name": "",
+  "CenterPositionLon": 49.72703082279339,
+  "CenterPositionLat": 5.9852340811472
+ },
+ {
+  "ID": 660570670,
+  "Capacity": 397,
+  "Name": "private park of \"Banque de Luxembourg\"",
+  "CenterPositionLon": 49.57820380645526,
+  "CenterPositionLat": 6.135191411773839
+ },
+ {
+  "ID": 675177571,
+  "Capacity": 767,
+  "Name": "",
+  "CenterPositionLon": 49.79010917037981,
+  "CenterPositionLat": 6.215596286234521
+ },
+ {
+  "ID": 687448898,
+  "Capacity": 1716,
+  "Name": "",
+  "CenterPositionLon": 49.62710579960781,
+  "CenterPositionLat": 6.101691895688863
+ },
+ {
+  "ID": 689301583,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 49.61989331902246,
+  "CenterPositionLat": 6.1333835182005645
+ },
+ {
+  "ID": 689478821,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 49.64401320320455,
+  "CenterPositionLat": 5.915281600469022
+ },
+ {
+  "ID": 723345144,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 49.63162141031457,
+  "CenterPositionLat": 6.034185473904241
+ },
+ {
+  "ID": 723345145,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 49.631477230534706,
+  "CenterPositionLat": 6.034860797080886
+ },
+ {
+  "ID": 729668931,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 49.47435305355747,
+  "CenterPositionLat": 6.085076667107185
+ },
+ {
+  "ID": 733435942,
+  "Capacity": 161,
+  "Name": "",
+  "CenterPositionLon": 49.56303626036906,
+  "CenterPositionLat": 6.22793787444155
+ },
+ {
+  "ID": 749234520,
+  "Capacity": 154,
+  "Name": "Wäschbour Park",
+  "CenterPositionLon": 49.80310487114524,
+  "CenterPositionLat": 6.003960559475724
+ },
+ {
+  "ID": 749234524,
+  "Capacity": 436,
+  "Name": "Gemeng Viichten",
+  "CenterPositionLon": 49.80390762870934,
+  "CenterPositionLat": 5.99597696168126
+ },
+ {
+  "ID": 751903459,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 49.627856284291056,
+  "CenterPositionLat": 6.134287888009833
+ },
+ {
+  "ID": 753387541,
+  "Capacity": 11397,
+  "Name": "Park Um Belval",
+  "CenterPositionLon": 49.50584861252729,
+  "CenterPositionLat": 5.937438403832494
+ },
+ {
+  "ID": 757564006,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 49.490152071139555,
+  "CenterPositionLat": 5.979650505549156
+ },
+ {
+  "ID": 761015950,
+  "Capacity": 499,
+  "Name": "",
+  "CenterPositionLon": 49.52000098857357,
+  "CenterPositionLat": 5.902224081049161
+ },
+ {
+  "ID": 770623213,
+  "Capacity": 290,
+  "Name": "Fussball Parc",
+  "CenterPositionLon": 49.80067226866893,
+  "CenterPositionLat": 5.996811803026182
+ },
+ {
+  "ID": 776829007,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 49.552537482461815,
+  "CenterPositionLat": 5.855209119170779
+ },
+ {
+  "ID": 786601070,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": 49.54228028817789,
+  "CenterPositionLat": 6.367885942085706
+ },
+ {
+  "ID": 793232810,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 49.63315514326161,
+  "CenterPositionLat": 6.117298291468432
+ },
+ {
+  "ID": 794708620,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 49.4850466962053,
+  "CenterPositionLat": 5.976169181922834
+ },
+ {
+  "ID": 795456107,
+  "Capacity": 335,
+  "Name": "",
+  "CenterPositionLon": 49.540869633823604,
+  "CenterPositionLat": 5.8426577155280555
+ },
+ {
+  "ID": 796511319,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 49.80371758498853,
+  "CenterPositionLat": 6.153229487410922
+ },
+ {
+  "ID": 797336509,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 49.785017790527775,
+  "CenterPositionLat": 6.219584439639163
+ }
+]

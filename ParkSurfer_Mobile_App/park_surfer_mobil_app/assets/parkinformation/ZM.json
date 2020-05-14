@@ -1,0 +1,338 @@
+[
+ {
+  "ID": 28368571,
+  "Capacity": 16820,
+  "Name": "Centenary Park",
+  "CenterPositionLon": -17.855751667258335,
+  "CenterPositionLat": 25.848351568974884
+ },
+ {
+  "ID": 28368989,
+  "Capacity": 1945,
+  "Name": "Mukuni Park",
+  "CenterPositionLon": -17.843939993664527,
+  "CenterPositionLat": 25.859094169043665
+ },
+ {
+  "ID": 100964401,
+  "Capacity": 6971,
+  "Name": "",
+  "CenterPositionLon": -12.805936352899861,
+  "CenterPositionLat": 28.22366947072035
+ },
+ {
+  "ID": 100964402,
+  "Capacity": 10671,
+  "Name": "Freedom Park",
+  "CenterPositionLon": -12.806850340220109,
+  "CenterPositionLat": 28.215516394785404
+ },
+ {
+  "ID": 165613126,
+  "Capacity": 439,
+  "Name": "",
+  "CenterPositionLon": -15.392788889982318,
+  "CenterPositionLat": 28.32612027325743
+ },
+ {
+  "ID": 250466330,
+  "Capacity": 2976,
+  "Name": "",
+  "CenterPositionLon": -13.138318395414595,
+  "CenterPositionLat": 28.417938199535453
+ },
+ {
+  "ID": 251204008,
+  "Capacity": 2841,
+  "Name": "Zambesi Way Park",
+  "CenterPositionLon": -12.792598589867454,
+  "CenterPositionLat": 28.232287683632844
+ },
+ {
+  "ID": 256359990,
+  "Capacity": 9098,
+  "Name": "",
+  "CenterPositionLon": -17.84108324017047,
+  "CenterPositionLat": 25.87000754903722
+ },
+ {
+  "ID": 267254325,
+  "Capacity": 7595,
+  "Name": "Cheswa Park",
+  "CenterPositionLon": -13.128179106654928,
+  "CenterPositionLat": 28.40972781251319
+ },
+ {
+  "ID": 288713800,
+  "Capacity": 5424,
+  "Name": "",
+  "CenterPositionLon": -15.448912462800624,
+  "CenterPositionLat": 28.32889770216626
+ },
+ {
+  "ID": 365379176,
+  "Capacity": 2450,
+  "Name": "Fyapakale Park",
+  "CenterPositionLon": -12.798072642047085,
+  "CenterPositionLat": 28.234562961236243
+ },
+ {
+  "ID": 378114266,
+  "Capacity": 942,
+  "Name": "",
+  "CenterPositionLon": -11.847816221645614,
+  "CenterPositionLat": 31.391913026247593
+ },
+ {
+  "ID": 387010565,
+  "Capacity": 12007,
+  "Name": "Park",
+  "CenterPositionLon": -12.818618033153491,
+  "CenterPositionLat": 28.21511135210611
+ },
+ {
+  "ID": 415298945,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": -15.32264723005633,
+  "CenterPositionLat": 28.686552518531744
+ },
+ {
+  "ID": 432709328,
+  "Capacity": 388,
+  "Name": "Kaunda Square (Coronation Square)",
+  "CenterPositionLon": -12.820717038249414,
+  "CenterPositionLat": 28.211701767320253
+ },
+ {
+  "ID": 459174309,
+  "Capacity": 622,
+  "Name": "President's Park",
+  "CenterPositionLon": -10.249563364147651,
+  "CenterPositionLat": 29.919971823943786
+ },
+ {
+  "ID": 478124363,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": -16.33686327857878,
+  "CenterPositionLat": 27.310003190172274
+ },
+ {
+  "ID": 478124366,
+  "Capacity": 2067,
+  "Name": "",
+  "CenterPositionLon": -16.34121564946147,
+  "CenterPositionLat": 27.31479061893276
+ },
+ {
+  "ID": 479264021,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": -16.556336249999998,
+  "CenterPositionLat": 27.37633455
+ },
+ {
+  "ID": 479264031,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -16.556851275708294,
+  "CenterPositionLat": 27.37651441959981
+ },
+ {
+  "ID": 480072068,
+  "Capacity": 588,
+  "Name": "",
+  "CenterPositionLon": -16.64060314675027,
+  "CenterPositionLat": 27.426300171128236
+ },
+ {
+  "ID": 480394297,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": -16.706052080667853,
+  "CenterPositionLat": 27.216399444419952
+ },
+ {
+  "ID": 480397174,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": -16.702276082852716,
+  "CenterPositionLat": 27.21564110847251
+ },
+ {
+  "ID": 480869634,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": -16.727236929317666,
+  "CenterPositionLat": 26.8284288527771
+ },
+ {
+  "ID": 483018480,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": -17.081517999597278,
+  "CenterPositionLat": 26.846457618049268
+ },
+ {
+  "ID": 483158173,
+  "Capacity": 27,
+  "Name": "car park",
+  "CenterPositionLon": -15.422534945109401,
+  "CenterPositionLat": 28.224893704817863
+ },
+ {
+  "ID": 496411112,
+  "Capacity": 3523,
+  "Name": "Park",
+  "CenterPositionLon": -12.2227002035786,
+  "CenterPositionLat": 25.412628561560872
+ },
+ {
+  "ID": 509610931,
+  "Capacity": 4920,
+  "Name": "",
+  "CenterPositionLon": -16.02086181536568,
+  "CenterPositionLat": 27.749744851235747
+ },
+ {
+  "ID": 510361822,
+  "Capacity": 538,
+  "Name": "Kenneth Kaunda Chilenje House National Monument",
+  "CenterPositionLon": -15.443641471931084,
+  "CenterPositionLat": 28.33218665692562
+ },
+ {
+  "ID": 512824835,
+  "Capacity": 367,
+  "Name": "Zam Sugar Play park",
+  "CenterPositionLon": -15.839699697960878,
+  "CenterPositionLat": 27.768616690992097
+ },
+ {
+  "ID": 517806196,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": -15.37548809422906,
+  "CenterPositionLat": 28.28256331309261
+ },
+ {
+  "ID": 542347145,
+  "Capacity": 14212,
+  "Name": "",
+  "CenterPositionLon": -15.285800490297001,
+  "CenterPositionLat": 23.15644240168615
+ },
+ {
+  "ID": 542360749,
+  "Capacity": 11400,
+  "Name": "",
+  "CenterPositionLon": -15.284971355730253,
+  "CenterPositionLat": 23.152214279314855
+ },
+ {
+  "ID": 542360751,
+  "Capacity": 31209,
+  "Name": "",
+  "CenterPositionLon": -15.281696548313677,
+  "CenterPositionLat": 23.15021035674754
+ },
+ {
+  "ID": 542360754,
+  "Capacity": 6276,
+  "Name": "",
+  "CenterPositionLon": -15.279836962063998,
+  "CenterPositionLat": 23.15196498614561
+ },
+ {
+  "ID": 551304916,
+  "Capacity": 274,
+  "Name": "",
+  "CenterPositionLon": -12.168617061024412,
+  "CenterPositionLat": 26.421899585295908
+ },
+ {
+  "ID": 553496148,
+  "Capacity": 2415,
+  "Name": "",
+  "CenterPositionLon": -15.337980483727295,
+  "CenterPositionLat": 28.3112596355686
+ },
+ {
+  "ID": 621267061,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -14.356521440585674,
+  "CenterPositionLat": 32.1194807769677
+ },
+ {
+  "ID": 662170871,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": -15.377196794329826,
+  "CenterPositionLat": 28.36352301941301
+ },
+ {
+  "ID": 672827718,
+  "Capacity": 1428,
+  "Name": "",
+  "CenterPositionLon": -15.409124055780923,
+  "CenterPositionLat": 28.303342067430393
+ },
+ {
+  "ID": 693769241,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": -12.182593571663576,
+  "CenterPositionLat": 26.398718685672822
+ },
+ {
+  "ID": 724137737,
+  "Capacity": 2043,
+  "Name": "",
+  "CenterPositionLon": -16.1626148792734,
+  "CenterPositionLat": 23.333887563004264
+ },
+ {
+  "ID": 773563556,
+  "Capacity": 380,
+  "Name": "",
+  "CenterPositionLon": -12.808128519794789,
+  "CenterPositionLat": 28.24165888564472
+ },
+ {
+  "ID": 773569678,
+  "Capacity": 61,
+  "Name": "monk square",
+  "CenterPositionLon": -12.805552595261489,
+  "CenterPositionLat": 28.239957806674365
+ },
+ {
+  "ID": 773569679,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": -12.805552866086503,
+  "CenterPositionLat": 28.237885848141136
+ },
+ {
+  "ID": 773573993,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": -12.805071963131015,
+  "CenterPositionLat": 28.239174879385924
+ },
+ {
+  "ID": 773573995,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": -12.80476788420139,
+  "CenterPositionLat": 28.238970750737018
+ },
+ {
+  "ID": 773643285,
+  "Capacity": 763,
+  "Name": "monk stadium",
+  "CenterPositionLon": -12.805893707216985,
+  "CenterPositionLat": 28.243509862560128
+ }
+]

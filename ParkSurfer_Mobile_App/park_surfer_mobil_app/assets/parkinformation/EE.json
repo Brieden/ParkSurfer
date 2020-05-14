@@ -1,0 +1,4727 @@
+[
+ {
+  "ID": 4463200,
+  "Capacity": 1218,
+  "Name": "",
+  "CenterPositionLon": 59.31794749843987,
+  "CenterPositionLat": 24.547520471953437
+ },
+ {
+  "ID": 4608066,
+  "Capacity": 8772,
+  "Name": "",
+  "CenterPositionLon": 59.34077913798272,
+  "CenterPositionLat": 26.358131016114182
+ },
+ {
+  "ID": 4627049,
+  "Capacity": 6261,
+  "Name": "",
+  "CenterPositionLon": 59.34463597301169,
+  "CenterPositionLat": 26.360842775132898
+ },
+ {
+  "ID": 4641070,
+  "Capacity": 16584,
+  "Name": "",
+  "CenterPositionLon": 59.35175898620372,
+  "CenterPositionLat": 26.349898884368944
+ },
+ {
+  "ID": 4660927,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 59.34010876666667,
+  "CenterPositionLat": 26.3553756
+ },
+ {
+  "ID": 4694371,
+  "Capacity": 2105,
+  "Name": "",
+  "CenterPositionLon": 59.3239545073137,
+  "CenterPositionLat": 24.554298312441496
+ },
+ {
+  "ID": 4890520,
+  "Capacity": 32497,
+  "Name": "Järve mets",
+  "CenterPositionLon": 59.399309476154656,
+  "CenterPositionLat": 24.73010006320454
+ },
+ {
+  "ID": 4890521,
+  "Capacity": 10607,
+  "Name": "Järve mets",
+  "CenterPositionLon": 59.394585924693274,
+  "CenterPositionLat": 24.726980719847457
+ },
+ {
+  "ID": 5120758,
+  "Capacity": 26639,
+  "Name": "Vabaduse park",
+  "CenterPositionLon": 59.378641047354925,
+  "CenterPositionLat": 24.681281361784382
+ },
+ {
+  "ID": 5120759,
+  "Capacity": 8022,
+  "Name": "Jannseni puiestik",
+  "CenterPositionLon": 59.37307973842901,
+  "CenterPositionLat": 24.657967426721495
+ },
+ {
+  "ID": 5120760,
+  "Capacity": 53801,
+  "Name": "Sanatooriumi park",
+  "CenterPositionLon": 59.377745524791806,
+  "CenterPositionLat": 24.66623127150188
+ },
+ {
+  "ID": 5120761,
+  "Capacity": 6021,
+  "Name": "",
+  "CenterPositionLon": 59.379589989786425,
+  "CenterPositionLat": 24.688412613857743
+ },
+ {
+  "ID": 8036517,
+  "Capacity": 16769,
+  "Name": "Kase park",
+  "CenterPositionLon": 59.458719934118314,
+  "CenterPositionLat": 24.6772840602952
+ },
+ {
+  "ID": 8073173,
+  "Capacity": 1192,
+  "Name": "Musumägi",
+  "CenterPositionLon": 59.43620657957927,
+  "CenterPositionLat": 24.75078980204579
+ },
+ {
+  "ID": 8101399,
+  "Capacity": 17871,
+  "Name": "Toompark",
+  "CenterPositionLon": 59.4378934429624,
+  "CenterPositionLat": 24.73659968822136
+ },
+ {
+  "ID": 8671893,
+  "Capacity": 2653,
+  "Name": "Falgi park",
+  "CenterPositionLon": 59.432938319658476,
+  "CenterPositionLat": 24.73297389427369
+ },
+ {
+  "ID": 22876135,
+  "Capacity": 14425,
+  "Name": "Löwenruh' park",
+  "CenterPositionLon": 59.41682181998774,
+  "CenterPositionLat": 24.69579433197072
+ },
+ {
+  "ID": 22917803,
+  "Capacity": 22858,
+  "Name": "Kadaka mets",
+  "CenterPositionLon": 59.407293754894056,
+  "CenterPositionLat": 24.66490511390192
+ },
+ {
+  "ID": 22929983,
+  "Capacity": 5426,
+  "Name": "Rannamägi",
+  "CenterPositionLon": 59.44278456018548,
+  "CenterPositionLat": 24.746211777612857
+ },
+ {
+  "ID": 23774556,
+  "Capacity": 454,
+  "Name": "",
+  "CenterPositionLon": 59.35201135887872,
+  "CenterPositionLat": 26.359931911319435
+ },
+ {
+  "ID": 24803370,
+  "Capacity": 14619,
+  "Name": "Kalamaja kalmistupark",
+  "CenterPositionLon": 59.44951688520224,
+  "CenterPositionLat": 24.730030615569454
+ },
+ {
+  "ID": 25663684,
+  "Capacity": 8202,
+  "Name": "Tornide väljak",
+  "CenterPositionLon": 59.44058632075149,
+  "CenterPositionLat": 24.74215156247103
+ },
+ {
+  "ID": 25663733,
+  "Capacity": 3481,
+  "Name": "Kanuti aed",
+  "CenterPositionLon": 59.439485170294105,
+  "CenterPositionLat": 24.752659969016552
+ },
+ {
+  "ID": 25822245,
+  "Capacity": 21907,
+  "Name": "Kopli kalmistupark",
+  "CenterPositionLon": 59.45344088728814,
+  "CenterPositionLat": 24.684539872022082
+ },
+ {
+  "ID": 26787456,
+  "Capacity": 3662,
+  "Name": "",
+  "CenterPositionLon": 58.486158671701745,
+  "CenterPositionLat": 25.515853140193194
+ },
+ {
+  "ID": 27465790,
+  "Capacity": 701,
+  "Name": "Sõbrapark",
+  "CenterPositionLon": 58.366487460934145,
+  "CenterPositionLat": 25.60088736062604
+ },
+ {
+  "ID": 27466331,
+  "Capacity": 2982,
+  "Name": "Lembitu park",
+  "CenterPositionLon": 59.43161653420106,
+  "CenterPositionLat": 24.75555374043797
+ },
+ {
+  "ID": 27481545,
+  "Capacity": 26711,
+  "Name": "",
+  "CenterPositionLon": 58.365879190387005,
+  "CenterPositionLat": 25.587906213517613
+ },
+ {
+  "ID": 28258421,
+  "Capacity": 731,
+  "Name": "Kuberneri aed",
+  "CenterPositionLon": 59.4350649127496,
+  "CenterPositionLat": 24.738070802199093
+ },
+ {
+  "ID": 29546939,
+  "Capacity": 22685,
+  "Name": "Männi park",
+  "CenterPositionLon": 59.39925602134876,
+  "CenterPositionLat": 24.675862386524617
+ },
+ {
+  "ID": 29574670,
+  "Capacity": 995,
+  "Name": "",
+  "CenterPositionLon": 59.38774055276583,
+  "CenterPositionLat": 24.65853265267935
+ },
+ {
+  "ID": 29819581,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 58.366493136303596,
+  "CenterPositionLat": 25.60188197321616
+ },
+ {
+  "ID": 30190255,
+  "Capacity": 1732,
+  "Name": "",
+  "CenterPositionLon": 58.38840140956141,
+  "CenterPositionLat": 26.724460467797858
+ },
+ {
+  "ID": 30190295,
+  "Capacity": 2647,
+  "Name": "Meltsiveski park",
+  "CenterPositionLon": 58.38727576686358,
+  "CenterPositionLat": 26.725265760061912
+ },
+ {
+  "ID": 30190296,
+  "Capacity": 847,
+  "Name": "Barclay park",
+  "CenterPositionLon": 58.3789459658432,
+  "CenterPositionLat": 26.723344278938047
+ },
+ {
+  "ID": 30190322,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": 58.37599352198699,
+  "CenterPositionLat": 26.724822280988892
+ },
+ {
+  "ID": 30190616,
+  "Capacity": 771,
+  "Name": "",
+  "CenterPositionLon": 58.35923465038569,
+  "CenterPositionLat": 26.699965934818426
+ },
+ {
+  "ID": 30190620,
+  "Capacity": 2884,
+  "Name": "Vanemuise park",
+  "CenterPositionLon": 58.37435221134717,
+  "CenterPositionLat": 26.715182228179717
+ },
+ {
+  "ID": 30190632,
+  "Capacity": 270,
+  "Name": "",
+  "CenterPositionLon": 58.39831838054516,
+  "CenterPositionLat": 26.729389771158104
+ },
+ {
+  "ID": 30190649,
+  "Capacity": 1929,
+  "Name": "",
+  "CenterPositionLon": 58.38122226439983,
+  "CenterPositionLat": 26.7317517317394
+ },
+ {
+  "ID": 30190690,
+  "Capacity": 206,
+  "Name": "",
+  "CenterPositionLon": 58.38956354977959,
+  "CenterPositionLat": 26.72795505997018
+ },
+ {
+  "ID": 30190694,
+  "Capacity": 865,
+  "Name": "Peeter Põllu plats",
+  "CenterPositionLon": 58.382164289434364,
+  "CenterPositionLat": 26.72351045427377
+ },
+ {
+  "ID": 30190750,
+  "Capacity": 3356,
+  "Name": "Lembitu park",
+  "CenterPositionLon": 58.367541952763005,
+  "CenterPositionLat": 26.704124324185504
+ },
+ {
+  "ID": 30190765,
+  "Capacity": 8010,
+  "Name": "",
+  "CenterPositionLon": 58.38949749054398,
+  "CenterPositionLat": 26.712812427508563
+ },
+ {
+  "ID": 30190800,
+  "Capacity": 8488,
+  "Name": "Kanali park",
+  "CenterPositionLon": 58.37562719518318,
+  "CenterPositionLat": 26.745350934225836
+ },
+ {
+  "ID": 30190847,
+  "Capacity": 1563,
+  "Name": "Laulupeomuuseumi park",
+  "CenterPositionLon": 58.3868928902867,
+  "CenterPositionLat": 26.732291962565448
+ },
+ {
+  "ID": 30190888,
+  "Capacity": 6442,
+  "Name": "",
+  "CenterPositionLon": 58.390523048861915,
+  "CenterPositionLat": 26.715638472735385
+ },
+ {
+  "ID": 30191044,
+  "Capacity": 4197,
+  "Name": "Keskpark",
+  "CenterPositionLon": 58.37903062000593,
+  "CenterPositionLat": 26.72563845432702
+ },
+ {
+  "ID": 30191067,
+  "Capacity": 1739,
+  "Name": "",
+  "CenterPositionLon": 58.379204065854594,
+  "CenterPositionLat": 26.72821639339437
+ },
+ {
+  "ID": 30191483,
+  "Capacity": 1005,
+  "Name": "",
+  "CenterPositionLon": 58.383896756106545,
+  "CenterPositionLat": 26.70700252833293
+ },
+ {
+  "ID": 30191484,
+  "Capacity": 1752,
+  "Name": "",
+  "CenterPositionLon": 58.383344446479306,
+  "CenterPositionLat": 26.708573315913878
+ },
+ {
+  "ID": 30191485,
+  "Capacity": 3407,
+  "Name": "Vabaduse puiestik",
+  "CenterPositionLon": 58.38291074466852,
+  "CenterPositionLat": 26.72439619306377
+ },
+ {
+  "ID": 30191491,
+  "Capacity": 32336,
+  "Name": "Sanatooriumi park",
+  "CenterPositionLon": 58.36226642263212,
+  "CenterPositionLat": 26.686138027861162
+ },
+ {
+  "ID": 30191493,
+  "Capacity": 6962,
+  "Name": "Puukooli park",
+  "CenterPositionLon": 58.38074791641016,
+  "CenterPositionLat": 26.76554164051612
+ },
+ {
+  "ID": 30191496,
+  "Capacity": 3405,
+  "Name": "Karlova park",
+  "CenterPositionLon": 58.37146211908413,
+  "CenterPositionLat": 26.73195024254893
+ },
+ {
+  "ID": 30191499,
+  "Capacity": 11305,
+  "Name": "",
+  "CenterPositionLon": 58.35646321374282,
+  "CenterPositionLat": 26.73448290407564
+ },
+ {
+  "ID": 30191502,
+  "Capacity": 5719,
+  "Name": "Mathieseni park",
+  "CenterPositionLon": 58.37134800770378,
+  "CenterPositionLat": 26.698871074479914
+ },
+ {
+  "ID": 30191505,
+  "Capacity": 4368,
+  "Name": "",
+  "CenterPositionLon": 58.35963769480888,
+  "CenterPositionLat": 26.732205034924355
+ },
+ {
+  "ID": 30191506,
+  "Capacity": 3918,
+  "Name": "Vaksali park",
+  "CenterPositionLon": 58.3752713682076,
+  "CenterPositionLat": 26.708215351684903
+ },
+ {
+  "ID": 30191508,
+  "Capacity": 12170,
+  "Name": "",
+  "CenterPositionLon": 58.38574812191835,
+  "CenterPositionLat": 26.702839189266424
+ },
+ {
+  "ID": 30625084,
+  "Capacity": 1027,
+  "Name": "",
+  "CenterPositionLon": 59.32459526976607,
+  "CenterPositionLat": 24.54779569090107
+ },
+ {
+  "ID": 30682452,
+  "Capacity": 761,
+  "Name": "",
+  "CenterPositionLon": 59.32475758092994,
+  "CenterPositionLat": 24.565509698819454
+ },
+ {
+  "ID": 30682453,
+  "Capacity": 951,
+  "Name": "",
+  "CenterPositionLon": 59.324817407181584,
+  "CenterPositionLat": 24.564523148900914
+ },
+ {
+  "ID": 30682454,
+  "Capacity": 745,
+  "Name": "",
+  "CenterPositionLon": 59.32426189491638,
+  "CenterPositionLat": 24.56548950373034
+ },
+ {
+  "ID": 30682455,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 59.3245056,
+  "CenterPositionLat": 24.5648922
+ },
+ {
+  "ID": 30759127,
+  "Capacity": 1532,
+  "Name": "Lembitu",
+  "CenterPositionLon": 58.53271988115571,
+  "CenterPositionLat": 25.46702637152223
+ },
+ {
+  "ID": 30767579,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 58.365795265403364,
+  "CenterPositionLat": 25.604013393497432
+ },
+ {
+  "ID": 30799238,
+  "Capacity": 2070,
+  "Name": "Vaikne park",
+  "CenterPositionLon": 59.42289086512261,
+  "CenterPositionLat": 24.753806754435523
+ },
+ {
+  "ID": 31405670,
+  "Capacity": 1574,
+  "Name": "",
+  "CenterPositionLon": 58.99232757627625,
+  "CenterPositionLat": 22.750363975567137
+ },
+ {
+  "ID": 31405765,
+  "Capacity": 9862,
+  "Name": "Kärdla park",
+  "CenterPositionLon": 59.00155220434003,
+  "CenterPositionLat": 22.752348706027064
+ },
+ {
+  "ID": 32029837,
+  "Capacity": 1392,
+  "Name": "",
+  "CenterPositionLon": 58.53420718695064,
+  "CenterPositionLat": 25.47164088384424
+ },
+ {
+  "ID": 32031841,
+  "Capacity": 955,
+  "Name": "",
+  "CenterPositionLon": 58.533789616352,
+  "CenterPositionLat": 25.47514654076386
+ },
+ {
+  "ID": 32038743,
+  "Capacity": 2786,
+  "Name": "",
+  "CenterPositionLon": 58.53402165182622,
+  "CenterPositionLat": 25.467941699199933
+ },
+ {
+  "ID": 32039232,
+  "Capacity": 286,
+  "Name": "",
+  "CenterPositionLon": 58.53053198589472,
+  "CenterPositionLat": 25.465655021834273
+ },
+ {
+  "ID": 32040521,
+  "Capacity": 1007,
+  "Name": "",
+  "CenterPositionLon": 58.52584159145137,
+  "CenterPositionLat": 25.46610970120276
+ },
+ {
+  "ID": 32045768,
+  "Capacity": 567,
+  "Name": "",
+  "CenterPositionLon": 59.3515966791067,
+  "CenterPositionLat": 26.359347034857826
+ },
+ {
+  "ID": 32048485,
+  "Capacity": 3526,
+  "Name": "Kirikupark",
+  "CenterPositionLon": 59.34690191755494,
+  "CenterPositionLat": 26.356729768701193
+ },
+ {
+  "ID": 32048612,
+  "Capacity": 342,
+  "Name": "",
+  "CenterPositionLon": 59.352611026924556,
+  "CenterPositionLat": 26.361808277414525
+ },
+ {
+  "ID": 32458274,
+  "Capacity": 246,
+  "Name": "",
+  "CenterPositionLon": 58.53529306619431,
+  "CenterPositionLat": 25.46577511797844
+ },
+ {
+  "ID": 32531854,
+  "Capacity": 2504,
+  "Name": "Kalakasvatuse park",
+  "CenterPositionLon": 57.872027595466996,
+  "CenterPositionLat": 26.542534404067847
+ },
+ {
+  "ID": 32533943,
+  "Capacity": 33913,
+  "Name": "Uue-Antsla park",
+  "CenterPositionLon": 57.87781896258735,
+  "CenterPositionLat": 26.548812857060565
+ },
+ {
+  "ID": 33418468,
+  "Capacity": 1603,
+  "Name": "Keskpark",
+  "CenterPositionLon": 58.38666381981337,
+  "CenterPositionLat": 24.496430055140223
+ },
+ {
+  "ID": 34048200,
+  "Capacity": 5313,
+  "Name": "",
+  "CenterPositionLon": 59.43334630292116,
+  "CenterPositionLat": 24.78531896470131
+ },
+ {
+  "ID": 34048373,
+  "Capacity": 4526,
+  "Name": "Politseiaed",
+  "CenterPositionLon": 59.4340298993746,
+  "CenterPositionLat": 24.766232609027004
+ },
+ {
+  "ID": 34049150,
+  "Capacity": 8570,
+  "Name": "Hirvepark",
+  "CenterPositionLon": 59.43372528765901,
+  "CenterPositionLat": 24.736689646368433
+ },
+ {
+  "ID": 34049217,
+  "Capacity": 3325,
+  "Name": "Harjumägi",
+  "CenterPositionLon": 59.43397918970554,
+  "CenterPositionLat": 24.741359198389635
+ },
+ {
+  "ID": 34049230,
+  "Capacity": 1779,
+  "Name": "",
+  "CenterPositionLon": 59.4326178579399,
+  "CenterPositionLat": 24.741822001942303
+ },
+ {
+  "ID": 34049253,
+  "Capacity": 675,
+  "Name": "Tõnismäe haljak",
+  "CenterPositionLon": 59.431234188150384,
+  "CenterPositionLat": 24.739872445710613
+ },
+ {
+  "ID": 34049309,
+  "Capacity": 4116,
+  "Name": "Tuvi park",
+  "CenterPositionLon": 59.428772690804855,
+  "CenterPositionLat": 24.738835264223802
+ },
+ {
+  "ID": 37371490,
+  "Capacity": 79,
+  "Name": "Roheline turg",
+  "CenterPositionLon": 59.43946909998564,
+  "CenterPositionLat": 24.747117219014783
+ },
+ {
+  "ID": 37682106,
+  "Capacity": 16034,
+  "Name": "Võidu park",
+  "CenterPositionLon": 59.36651893377098,
+  "CenterPositionLat": 28.194646531071445
+ },
+ {
+  "ID": 38344590,
+  "Capacity": 3489,
+  "Name": "",
+  "CenterPositionLon": 59.358765655095745,
+  "CenterPositionLat": 26.33914743858077
+ },
+ {
+  "ID": 39864448,
+  "Capacity": 776,
+  "Name": "",
+  "CenterPositionLon": 58.247638477159306,
+  "CenterPositionLat": 22.476983211643457
+ },
+ {
+  "ID": 40646147,
+  "Capacity": 17053,
+  "Name": "",
+  "CenterPositionLon": 59.29848925944995,
+  "CenterPositionLat": 24.66633158326638
+ },
+ {
+  "ID": 40723867,
+  "Capacity": 969,
+  "Name": "",
+  "CenterPositionLon": 59.33961021610862,
+  "CenterPositionLat": 26.368941260509377
+ },
+ {
+  "ID": 42096450,
+  "Capacity": 1541,
+  "Name": "",
+  "CenterPositionLon": 59.3742829,
+  "CenterPositionLat": 28.192935
+ },
+ {
+  "ID": 42096452,
+  "Capacity": 11869,
+  "Name": "",
+  "CenterPositionLon": 59.373346074601166,
+  "CenterPositionLat": 28.19953122869788
+ },
+ {
+  "ID": 42098283,
+  "Capacity": 3539,
+  "Name": "Maleaed",
+  "CenterPositionLon": 59.37661159703938,
+  "CenterPositionLat": 28.18761052429917
+ },
+ {
+  "ID": 42102048,
+  "Capacity": 1613,
+  "Name": "Puškini Alee",
+  "CenterPositionLon": 59.375363950675705,
+  "CenterPositionLat": 28.194380335369093
+ },
+ {
+  "ID": 42102259,
+  "Capacity": 501,
+  "Name": "",
+  "CenterPositionLon": 59.37098300169793,
+  "CenterPositionLat": 28.19739516334653
+ },
+ {
+  "ID": 42211480,
+  "Capacity": 13216,
+  "Name": "Pähklimäe allee",
+  "CenterPositionLon": 59.38596146002268,
+  "CenterPositionLat": 28.170382122405716
+ },
+ {
+  "ID": 42344300,
+  "Capacity": 3970,
+  "Name": "",
+  "CenterPositionLon": 59.37364333060482,
+  "CenterPositionLat": 28.175217162579465
+ },
+ {
+  "ID": 42416541,
+  "Capacity": 416,
+  "Name": "",
+  "CenterPositionLon": 59.36850754953032,
+  "CenterPositionLat": 28.200899824115048
+ },
+ {
+  "ID": 42416542,
+  "Capacity": 841,
+  "Name": "",
+  "CenterPositionLon": 59.369111418273505,
+  "CenterPositionLat": 28.197892375485747
+ },
+ {
+  "ID": 42416543,
+  "Capacity": 735,
+  "Name": "Jaama park",
+  "CenterPositionLon": 59.36906924946572,
+  "CenterPositionLat": 28.20002821911104
+ },
+ {
+  "ID": 42417020,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 59.369753737257305,
+  "CenterPositionLat": 28.196712820069553
+ },
+ {
+  "ID": 42499565,
+  "Capacity": 1830,
+  "Name": "",
+  "CenterPositionLon": 59.36788405890142,
+  "CenterPositionLat": 28.190305983456273
+ },
+ {
+  "ID": 42936717,
+  "Capacity": 3254,
+  "Name": "Dark Garden",
+  "CenterPositionLon": 59.37923840469818,
+  "CenterPositionLat": 28.201545465631018
+ },
+ {
+  "ID": 42945002,
+  "Capacity": 4237,
+  "Name": "",
+  "CenterPositionLon": 59.37740021705816,
+  "CenterPositionLat": 28.182222606692292
+ },
+ {
+  "ID": 43230235,
+  "Capacity": 10365,
+  "Name": "Hele park",
+  "CenterPositionLon": 59.45784706765361,
+  "CenterPositionLat": 28.036919262554
+ },
+ {
+  "ID": 43734366,
+  "Capacity": 695,
+  "Name": "",
+  "CenterPositionLon": 59.433543628369655,
+  "CenterPositionLat": 24.752575621987017
+ },
+ {
+  "ID": 43735045,
+  "Capacity": 310,
+  "Name": "Islandi väljak",
+  "CenterPositionLon": 59.43297026517903,
+  "CenterPositionLat": 24.75348271931848
+ },
+ {
+  "ID": 43735117,
+  "Capacity": 713,
+  "Name": "",
+  "CenterPositionLon": 59.43219636075884,
+  "CenterPositionLat": 24.75153137719293
+ },
+ {
+  "ID": 45066640,
+  "Capacity": 11788,
+  "Name": "",
+  "CenterPositionLon": 58.354445865932846,
+  "CenterPositionLat": 26.680679205241017
+ },
+ {
+  "ID": 47008494,
+  "Capacity": 2602,
+  "Name": "Margareeta aed",
+  "CenterPositionLon": 59.442336385448954,
+  "CenterPositionLat": 24.75060793630005
+ },
+ {
+  "ID": 48615198,
+  "Capacity": 2195,
+  "Name": "",
+  "CenterPositionLon": 59.451068828975885,
+  "CenterPositionLat": 24.84013661420727
+ },
+ {
+  "ID": 48655895,
+  "Capacity": 1763,
+  "Name": "Õie park",
+  "CenterPositionLon": 59.38286753917291,
+  "CenterPositionLat": 24.69843435799893
+ },
+ {
+  "ID": 48719925,
+  "Capacity": 1449,
+  "Name": "",
+  "CenterPositionLon": 59.433186510893556,
+  "CenterPositionLat": 24.740216878662636
+ },
+ {
+  "ID": 48719936,
+  "Capacity": 2744,
+  "Name": "Lindamägi",
+  "CenterPositionLon": 59.43433819372929,
+  "CenterPositionLat": 24.736918908788326
+ },
+ {
+  "ID": 48764761,
+  "Capacity": 624,
+  "Name": "Mai park",
+  "CenterPositionLon": 59.38583545949889,
+  "CenterPositionLat": 24.68762655027781
+ },
+ {
+  "ID": 48764763,
+  "Capacity": 1080,
+  "Name": "Kiige park",
+  "CenterPositionLon": 59.38474085324577,
+  "CenterPositionLat": 24.694874291054983
+ },
+ {
+  "ID": 48764771,
+  "Capacity": 2528,
+  "Name": "Lootuse puiestik",
+  "CenterPositionLon": 59.3799667848303,
+  "CenterPositionLat": 24.705903013812563
+ },
+ {
+  "ID": 48863411,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 59.437885538856946,
+  "CenterPositionLat": 24.786127019270598
+ },
+ {
+  "ID": 48915116,
+  "Capacity": 9288,
+  "Name": "",
+  "CenterPositionLon": 59.441937333976355,
+  "CenterPositionLat": 24.786531996885493
+ },
+ {
+  "ID": 48932858,
+  "Capacity": 575,
+  "Name": "Ravila park",
+  "CenterPositionLon": 59.38069123412044,
+  "CenterPositionLat": 24.68945610631789
+ },
+ {
+  "ID": 49013722,
+  "Capacity": 5451,
+  "Name": "Jüriöö park",
+  "CenterPositionLon": 59.427733346259565,
+  "CenterPositionLat": 24.82134647189305
+ },
+ {
+  "ID": 49071532,
+  "Capacity": 994,
+  "Name": "Ilo park",
+  "CenterPositionLon": 59.38810908896899,
+  "CenterPositionLat": 24.717200649354808
+ },
+ {
+  "ID": 49706130,
+  "Capacity": 1705,
+  "Name": "Koidu park",
+  "CenterPositionLon": 59.421640538001526,
+  "CenterPositionLat": 24.73753063146041
+ },
+ {
+  "ID": 49708047,
+  "Capacity": 4717,
+  "Name": "Tiigiveski park",
+  "CenterPositionLon": 59.427676098185344,
+  "CenterPositionLat": 24.759100166378904
+ },
+ {
+  "ID": 50034048,
+  "Capacity": 474,
+  "Name": "Piiskopi aed",
+  "CenterPositionLon": 59.43714005442531,
+  "CenterPositionLat": 24.738034556473224
+ },
+ {
+  "ID": 50510643,
+  "Capacity": 2761,
+  "Name": "Ülemiste City park",
+  "CenterPositionLon": 59.42169160025958,
+  "CenterPositionLat": 24.800222069624635
+ },
+ {
+  "ID": 50806797,
+  "Capacity": 9812,
+  "Name": "Lossipark",
+  "CenterPositionLon": 58.2485746297391,
+  "CenterPositionLat": 22.48048404303371
+ },
+ {
+  "ID": 53127439,
+  "Capacity": 1055,
+  "Name": "Männiku Park",
+  "CenterPositionLon": 59.16832045154015,
+  "CenterPositionLat": 24.749559460115687
+ },
+ {
+  "ID": 53176331,
+  "Capacity": 7148,
+  "Name": "Männi Park",
+  "CenterPositionLon": 59.1692249511375,
+  "CenterPositionLat": 24.751390842496455
+ },
+ {
+  "ID": 53805946,
+  "Capacity": 14576,
+  "Name": "Linnapark",
+  "CenterPositionLon": 57.77942237102837,
+  "CenterPositionLat": 26.05066109229911
+ },
+ {
+  "ID": 54039833,
+  "Capacity": 7145,
+  "Name": "Räni",
+  "CenterPositionLon": 57.78654575070149,
+  "CenterPositionLat": 26.040402923331065
+ },
+ {
+  "ID": 59991738,
+  "Capacity": 10359,
+  "Name": "Peetri park",
+  "CenterPositionLon": 58.88101255251531,
+  "CenterPositionLat": 25.540392046499246
+ },
+ {
+  "ID": 60023985,
+  "Capacity": 12372,
+  "Name": "",
+  "CenterPositionLon": 58.887839677116325,
+  "CenterPositionLat": 25.562524216435065
+ },
+ {
+  "ID": 60280037,
+  "Capacity": 6960,
+  "Name": "Ülenurme mõisapark",
+  "CenterPositionLon": 58.31642905623542,
+  "CenterPositionLat": 26.722891314608255
+ },
+ {
+  "ID": 60417640,
+  "Capacity": 254,
+  "Name": "",
+  "CenterPositionLon": 59.43372855990947,
+  "CenterPositionLat": 24.80215787570396
+ },
+ {
+  "ID": 60576469,
+  "Capacity": 8766,
+  "Name": "Keila keskpark",
+  "CenterPositionLon": 59.30839822625223,
+  "CenterPositionLat": 24.418796426421444
+ },
+ {
+  "ID": 61009054,
+  "Capacity": 22690,
+  "Name": "Pae park",
+  "CenterPositionLon": 59.43304653850679,
+  "CenterPositionLat": 24.803741475661955
+ },
+ {
+  "ID": 61722673,
+  "Capacity": 5470,
+  "Name": "",
+  "CenterPositionLon": 59.40088564712751,
+  "CenterPositionLat": 27.282338378127406
+ },
+ {
+  "ID": 64302181,
+  "Capacity": 1865,
+  "Name": "",
+  "CenterPositionLon": 59.43563944075771,
+  "CenterPositionLat": 24.74325557723142
+ },
+ {
+  "ID": 64302192,
+  "Capacity": 583,
+  "Name": "Kitseaed",
+  "CenterPositionLon": 59.438135002274414,
+  "CenterPositionLat": 24.742511827361323
+ },
+ {
+  "ID": 65180129,
+  "Capacity": 569,
+  "Name": "",
+  "CenterPositionLon": 59.381090510522284,
+  "CenterPositionLat": 24.69968663899023
+ },
+ {
+  "ID": 65180147,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 59.381545614120974,
+  "CenterPositionLat": 24.701240390934128
+ },
+ {
+  "ID": 65454041,
+  "Capacity": 4627,
+  "Name": "Oravamäe park",
+  "CenterPositionLon": 59.392482278038166,
+  "CenterPositionLat": 24.724907962189178
+ },
+ {
+  "ID": 65993959,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 59.38182315937878,
+  "CenterPositionLat": 24.701908125422364
+ },
+ {
+  "ID": 67014523,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 59.387220062708515,
+  "CenterPositionLat": 24.684635109615026
+ },
+ {
+  "ID": 69262417,
+  "Capacity": 6652,
+  "Name": "",
+  "CenterPositionLon": 58.40639850223182,
+  "CenterPositionLat": 24.359070171370227
+ },
+ {
+  "ID": 71783880,
+  "Capacity": 7023,
+  "Name": "Tondimõisa park",
+  "CenterPositionLon": 59.40376754948419,
+  "CenterPositionLat": 24.70945854215673
+ },
+ {
+  "ID": 71823541,
+  "Capacity": 1615,
+  "Name": "",
+  "CenterPositionLon": 59.27465586932141,
+  "CenterPositionLat": 27.912778485503118
+ },
+ {
+  "ID": 73306201,
+  "Capacity": 1596,
+  "Name": "Brackmanni park",
+  "CenterPositionLon": 58.38282477930163,
+  "CenterPositionLat": 24.502348718069904
+ },
+ {
+  "ID": 73306207,
+  "Capacity": 2394,
+  "Name": "Koidula park",
+  "CenterPositionLon": 58.383386524942864,
+  "CenterPositionLat": 24.5035409276324
+ },
+ {
+  "ID": 73554096,
+  "Capacity": 1154,
+  "Name": "Siinmaa park",
+  "CenterPositionLon": 58.38229072227886,
+  "CenterPositionLat": 24.518143410958075
+ },
+ {
+  "ID": 73554344,
+  "Capacity": 5319,
+  "Name": "Pärnu Vanapark",
+  "CenterPositionLon": 58.38361142272917,
+  "CenterPositionLat": 24.50865506890349
+ },
+ {
+  "ID": 73646279,
+  "Capacity": 1877,
+  "Name": "",
+  "CenterPositionLon": 58.38502832144501,
+  "CenterPositionLat": 24.510459447042923
+ },
+ {
+  "ID": 73897857,
+  "Capacity": 1402,
+  "Name": "Noorte väljak",
+  "CenterPositionLon": 58.392461985998125,
+  "CenterPositionLat": 24.493491443975824
+ },
+ {
+  "ID": 73986337,
+  "Capacity": 2851,
+  "Name": "",
+  "CenterPositionLon": 58.37674128774207,
+  "CenterPositionLat": 24.494670619988266
+ },
+ {
+  "ID": 73988370,
+  "Capacity": 15942,
+  "Name": "",
+  "CenterPositionLon": 58.38434566782531,
+  "CenterPositionLat": 24.49273306856945
+ },
+ {
+  "ID": 74388249,
+  "Capacity": 595,
+  "Name": "Lastepark",
+  "CenterPositionLon": 58.38482658173932,
+  "CenterPositionLat": 24.49809099927478
+ },
+ {
+  "ID": 75113924,
+  "Capacity": 7193,
+  "Name": "Merivälja park",
+  "CenterPositionLon": 59.494012019569006,
+  "CenterPositionLat": 24.839754942605932
+ },
+ {
+  "ID": 75746349,
+  "Capacity": 1077,
+  "Name": "",
+  "CenterPositionLon": 59.19623500475315,
+  "CenterPositionLat": 24.388757099098058
+ },
+ {
+  "ID": 75746711,
+  "Capacity": 44160,
+  "Name": "Rannapark",
+  "CenterPositionLon": 58.37986470379571,
+  "CenterPositionLat": 24.48880340281518
+ },
+ {
+  "ID": 75746712,
+  "Capacity": 21295,
+  "Name": "",
+  "CenterPositionLon": 58.37399901259451,
+  "CenterPositionLat": 24.500965088898102
+ },
+ {
+  "ID": 76764576,
+  "Capacity": 1858,
+  "Name": "Seminari väljak",
+  "CenterPositionLon": 57.848264250212615,
+  "CenterPositionLat": 26.99539416417565
+ },
+ {
+  "ID": 77053340,
+  "Capacity": 329,
+  "Name": "",
+  "CenterPositionLon": 58.06123271488492,
+  "CenterPositionLat": 26.48881278671801
+ },
+ {
+  "ID": 78456213,
+  "Capacity": 803,
+  "Name": "",
+  "CenterPositionLon": 58.88965519592744,
+  "CenterPositionLat": 25.556424762229447
+ },
+ {
+  "ID": 78456219,
+  "Capacity": 2345,
+  "Name": "",
+  "CenterPositionLon": 58.889534754598735,
+  "CenterPositionLat": 25.553628437770826
+ },
+ {
+  "ID": 78784063,
+  "Capacity": 3405,
+  "Name": "Windecki park",
+  "CenterPositionLon": 59.45812127226429,
+  "CenterPositionLat": 24.814215611964148
+ },
+ {
+  "ID": 79422567,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 59.455769866666664,
+  "CenterPositionLat": 24.813231966666667
+ },
+ {
+  "ID": 79422577,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 59.45630059860184,
+  "CenterPositionLat": 24.812844063018375
+ },
+ {
+  "ID": 79564795,
+  "Capacity": 1431,
+  "Name": "Glehni rahula",
+  "CenterPositionLon": 59.392391093518846,
+  "CenterPositionLat": 24.657936324551216
+ },
+ {
+  "ID": 80600966,
+  "Capacity": 3255,
+  "Name": "",
+  "CenterPositionLon": 59.395270070819464,
+  "CenterPositionLat": 24.669306245194594
+ },
+ {
+  "ID": 81495432,
+  "Capacity": 25008,
+  "Name": "",
+  "CenterPositionLon": 58.37105207460464,
+  "CenterPositionLat": 25.5892755915614
+ },
+ {
+  "ID": 82264556,
+  "Capacity": 1990,
+  "Name": "Lastepark",
+  "CenterPositionLon": 58.3682530121646,
+  "CenterPositionLat": 25.6038175540324
+ },
+ {
+  "ID": 82284806,
+  "Capacity": 623,
+  "Name": "",
+  "CenterPositionLon": 58.36454261062297,
+  "CenterPositionLat": 25.59971378397775
+ },
+ {
+  "ID": 82285042,
+  "Capacity": 388,
+  "Name": "",
+  "CenterPositionLon": 58.365753347524034,
+  "CenterPositionLat": 25.59734055571752
+ },
+ {
+  "ID": 82285279,
+  "Capacity": 849,
+  "Name": "",
+  "CenterPositionLon": 58.364132420333625,
+  "CenterPositionLat": 25.595496243196564
+ },
+ {
+  "ID": 82286861,
+  "Capacity": 11259,
+  "Name": "",
+  "CenterPositionLon": 58.36223202094882,
+  "CenterPositionLat": 25.588647858268587
+ },
+ {
+  "ID": 82297121,
+  "Capacity": 1768,
+  "Name": "",
+  "CenterPositionLon": 58.370389701921745,
+  "CenterPositionLat": 25.595056318592402
+ },
+ {
+  "ID": 82629043,
+  "Capacity": 1868,
+  "Name": "",
+  "CenterPositionLon": 58.360849520999444,
+  "CenterPositionLat": 25.60044773694846
+ },
+ {
+  "ID": 83013853,
+  "Capacity": 2893,
+  "Name": "",
+  "CenterPositionLon": 58.363818227333255,
+  "CenterPositionLat": 25.591460095082027
+ },
+ {
+  "ID": 83019981,
+  "Capacity": 1390,
+  "Name": "Saksa sõdurite kalmistu",
+  "CenterPositionLon": 58.35970475080672,
+  "CenterPositionLat": 25.585783731979575
+ },
+ {
+  "ID": 83051314,
+  "Capacity": 1506,
+  "Name": "",
+  "CenterPositionLon": 58.361958821484436,
+  "CenterPositionLat": 25.60433305713959
+ },
+ {
+  "ID": 83052075,
+  "Capacity": 15916,
+  "Name": "",
+  "CenterPositionLon": 58.360709242280116,
+  "CenterPositionLat": 25.60542491426479
+ },
+ {
+  "ID": 84202973,
+  "Capacity": 2541,
+  "Name": "",
+  "CenterPositionLon": 59.366578959102895,
+  "CenterPositionLat": 24.129488241711627
+ },
+ {
+  "ID": 84434598,
+  "Capacity": 770,
+  "Name": "",
+  "CenterPositionLon": 59.344589636966724,
+  "CenterPositionLat": 24.060753202108863
+ },
+ {
+  "ID": 85424191,
+  "Capacity": 1942,
+  "Name": "Räägu park",
+  "CenterPositionLon": 59.41437873459456,
+  "CenterPositionLat": 24.71688051091348
+ },
+ {
+  "ID": 85593635,
+  "Capacity": 1156,
+  "Name": "",
+  "CenterPositionLon": 58.36196967950173,
+  "CenterPositionLat": 25.601583002448685
+ },
+ {
+  "ID": 85815679,
+  "Capacity": 11238,
+  "Name": "Parditiigi park",
+  "CenterPositionLon": 59.40487665300479,
+  "CenterPositionLat": 24.705021378595838
+ },
+ {
+  "ID": 87754257,
+  "Capacity": 5449,
+  "Name": "",
+  "CenterPositionLon": 59.35185497606612,
+  "CenterPositionLat": 24.059710843007583
+ },
+ {
+  "ID": 88013389,
+  "Capacity": 8538,
+  "Name": "Jõgisoo mõisa park",
+  "CenterPositionLon": 59.273758744544864,
+  "CenterPositionLat": 24.508677707657405
+ },
+ {
+  "ID": 88590404,
+  "Capacity": 1848,
+  "Name": "Cederhelmi park",
+  "CenterPositionLon": 59.42653422305051,
+  "CenterPositionLat": 24.710534821876784
+ },
+ {
+  "ID": 88592190,
+  "Capacity": 5237,
+  "Name": "Charlottentali park",
+  "CenterPositionLon": 59.4200968847774,
+  "CenterPositionLat": 24.693890065896447
+ },
+ {
+  "ID": 89636684,
+  "Capacity": 1607,
+  "Name": "",
+  "CenterPositionLon": 59.520099186957076,
+  "CenterPositionLat": 24.818163258104665
+ },
+ {
+  "ID": 93787109,
+  "Capacity": 3682,
+  "Name": "",
+  "CenterPositionLon": 59.378393689783564,
+  "CenterPositionLat": 28.202814869258237
+ },
+ {
+  "ID": 95093169,
+  "Capacity": 1083,
+  "Name": "",
+  "CenterPositionLon": 59.40919085124557,
+  "CenterPositionLat": 24.68670085342355
+ },
+ {
+  "ID": 95407258,
+  "Capacity": 1609,
+  "Name": "",
+  "CenterPositionLon": 58.387433255543165,
+  "CenterPositionLat": 26.72132439610487
+ },
+ {
+  "ID": 95846883,
+  "Capacity": 2478,
+  "Name": "",
+  "CenterPositionLon": 58.368437290538544,
+  "CenterPositionLat": 25.581231836998885
+ },
+ {
+  "ID": 96214127,
+  "Capacity": 3867,
+  "Name": "",
+  "CenterPositionLon": 58.870436202690605,
+  "CenterPositionLat": 22.9463076524534
+ },
+ {
+  "ID": 99729276,
+  "Capacity": 1635,
+  "Name": "",
+  "CenterPositionLon": 58.36339925257128,
+  "CenterPositionLat": 25.600816251880985
+ },
+ {
+  "ID": 101156254,
+  "Capacity": 295,
+  "Name": "",
+  "CenterPositionLon": 58.36285607926234,
+  "CenterPositionLat": 25.599633073073285
+ },
+ {
+  "ID": 103272136,
+  "Capacity": 2907,
+  "Name": "",
+  "CenterPositionLon": 58.37104306993929,
+  "CenterPositionLat": 25.581661968532377
+ },
+ {
+  "ID": 105609524,
+  "Capacity": 1676,
+  "Name": "",
+  "CenterPositionLon": 58.399739682960764,
+  "CenterPositionLat": 26.73032465104184
+ },
+ {
+  "ID": 105854920,
+  "Capacity": 4768,
+  "Name": "",
+  "CenterPositionLon": 59.127506845302136,
+  "CenterPositionLat": 26.25035618160732
+ },
+ {
+  "ID": 109994890,
+  "Capacity": 8443,
+  "Name": "",
+  "CenterPositionLon": 59.442784328507244,
+  "CenterPositionLat": 24.82824994478388
+ },
+ {
+  "ID": 111523470,
+  "Capacity": 12756,
+  "Name": "",
+  "CenterPositionLon": 59.35733266328381,
+  "CenterPositionLat": 26.969367730811957
+ },
+ {
+  "ID": 115126956,
+  "Capacity": 4007,
+  "Name": "",
+  "CenterPositionLon": 58.80677100697674,
+  "CenterPositionLat": 25.43122298846534
+ },
+ {
+  "ID": 115127005,
+  "Capacity": 2896,
+  "Name": "",
+  "CenterPositionLon": 58.80846530306243,
+  "CenterPositionLat": 25.430351935523163
+ },
+ {
+  "ID": 115333822,
+  "Capacity": 602,
+  "Name": "",
+  "CenterPositionLon": 58.80944603359477,
+  "CenterPositionLat": 25.436392007923434
+ },
+ {
+  "ID": 115333830,
+  "Capacity": 4772,
+  "Name": "",
+  "CenterPositionLon": 58.809850396535474,
+  "CenterPositionLat": 25.434924649563094
+ },
+ {
+  "ID": 115420150,
+  "Capacity": 759,
+  "Name": "",
+  "CenterPositionLon": 59.3578866351598,
+  "CenterPositionLat": 27.409459284670806
+ },
+ {
+  "ID": 115423836,
+  "Capacity": 3239,
+  "Name": "",
+  "CenterPositionLon": 59.359379104176334,
+  "CenterPositionLat": 27.411762819287667
+ },
+ {
+  "ID": 115423838,
+  "Capacity": 1709,
+  "Name": "",
+  "CenterPositionLon": 59.357354083544806,
+  "CenterPositionLat": 27.408381685657314
+ },
+ {
+  "ID": 115423842,
+  "Capacity": 495,
+  "Name": "",
+  "CenterPositionLon": 59.35915906945576,
+  "CenterPositionLat": 27.40957737083929
+ },
+ {
+  "ID": 115426437,
+  "Capacity": 1332,
+  "Name": "",
+  "CenterPositionLon": 59.35745808397767,
+  "CenterPositionLat": 27.415850242362612
+ },
+ {
+  "ID": 115479074,
+  "Capacity": 2328,
+  "Name": "",
+  "CenterPositionLon": 58.375143511011785,
+  "CenterPositionLat": 26.725535233103326
+ },
+ {
+  "ID": 115736122,
+  "Capacity": 6626,
+  "Name": "Arbu park",
+  "CenterPositionLon": 59.4438492320341,
+  "CenterPositionLat": 24.843342138742262
+ },
+ {
+  "ID": 116570007,
+  "Capacity": 810,
+  "Name": "",
+  "CenterPositionLon": 59.356537182052094,
+  "CenterPositionLat": 27.41607592393065
+ },
+ {
+  "ID": 119082475,
+  "Capacity": 3181,
+  "Name": "",
+  "CenterPositionLon": 58.362991720628294,
+  "CenterPositionLat": 25.614099918362246
+ },
+ {
+  "ID": 122008293,
+  "Capacity": 283,
+  "Name": "",
+  "CenterPositionLon": 58.37795688453505,
+  "CenterPositionLat": 25.609494083401348
+ },
+ {
+  "ID": 122593743,
+  "Capacity": 6774,
+  "Name": "Mõisa park",
+  "CenterPositionLon": 58.20870679847088,
+  "CenterPositionLat": 27.071580456174438
+ },
+ {
+  "ID": 129737588,
+  "Capacity": 32177,
+  "Name": "",
+  "CenterPositionLon": 57.90342804785386,
+  "CenterPositionLat": 26.28100217613228
+ },
+ {
+  "ID": 130699623,
+  "Capacity": 598,
+  "Name": "",
+  "CenterPositionLon": 59.365634556480764,
+  "CenterPositionLat": 28.201742565232493
+ },
+ {
+  "ID": 131429518,
+  "Capacity": 596,
+  "Name": "",
+  "CenterPositionLon": 59.36969572536775,
+  "CenterPositionLat": 28.197455455888928
+ },
+ {
+  "ID": 131429519,
+  "Capacity": 265,
+  "Name": "",
+  "CenterPositionLon": 59.36942481325364,
+  "CenterPositionLat": 28.1985291524477
+ },
+ {
+  "ID": 131905676,
+  "Capacity": 1095,
+  "Name": "",
+  "CenterPositionLon": 59.36997322078859,
+  "CenterPositionLat": 28.198463648232977
+ },
+ {
+  "ID": 132933460,
+  "Capacity": 425,
+  "Name": "",
+  "CenterPositionLon": 59.433577646197655,
+  "CenterPositionLat": 24.754962738724064
+ },
+ {
+  "ID": 142695010,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 58.14886421195939,
+  "CenterPositionLat": 25.973672690834213
+ },
+ {
+  "ID": 143033284,
+  "Capacity": 1015,
+  "Name": "",
+  "CenterPositionLon": 58.36523999420731,
+  "CenterPositionLat": 25.581435452838715
+ },
+ {
+  "ID": 143408506,
+  "Capacity": 1770,
+  "Name": "",
+  "CenterPositionLon": 58.38774333029095,
+  "CenterPositionLat": 25.585192642388986
+ },
+ {
+  "ID": 148378515,
+  "Capacity": 8143,
+  "Name": "Krahviaed",
+  "CenterPositionLon": 58.94709889675019,
+  "CenterPositionLat": 23.5417940203652
+ },
+ {
+  "ID": 149551646,
+  "Capacity": 371,
+  "Name": "Mihkli park",
+  "CenterPositionLon": 58.945527740900985,
+  "CenterPositionLat": 23.536952063955656
+ },
+ {
+  "ID": 150237910,
+  "Capacity": 10098,
+  "Name": "Pruuna mõisapark",
+  "CenterPositionLon": 59.261491402826636,
+  "CenterPositionLat": 25.856292883814803
+ },
+ {
+  "ID": 151861877,
+  "Capacity": 1219,
+  "Name": "",
+  "CenterPositionLon": 58.372636781549616,
+  "CenterPositionLat": 25.580156782956585
+ },
+ {
+  "ID": 151875176,
+  "Capacity": 4577,
+  "Name": "Lastepark",
+  "CenterPositionLon": 59.00183596762822,
+  "CenterPositionLat": 24.796600013344786
+ },
+ {
+  "ID": 155703483,
+  "Capacity": 2252,
+  "Name": "School park",
+  "CenterPositionLon": 58.60307079782968,
+  "CenterPositionLat": 23.226907297951858
+ },
+ {
+  "ID": 155857236,
+  "Capacity": 6575,
+  "Name": "Süsta park",
+  "CenterPositionLon": 59.460400850632034,
+  "CenterPositionLat": 24.6670687292824
+ },
+ {
+  "ID": 163054226,
+  "Capacity": 10108,
+  "Name": "",
+  "CenterPositionLon": 59.43028251929952,
+  "CenterPositionLat": 24.653057454171737
+ },
+ {
+  "ID": 165334508,
+  "Capacity": 6618,
+  "Name": "Viitina Mõisapark",
+  "CenterPositionLon": 57.690885216702064,
+  "CenterPositionLat": 26.945647389473283
+ },
+ {
+  "ID": 165489254,
+  "Capacity": 1624,
+  "Name": "",
+  "CenterPositionLon": 59.440421655686436,
+  "CenterPositionLat": 24.71079294315534
+ },
+ {
+  "ID": 165521627,
+  "Capacity": 368,
+  "Name": "",
+  "CenterPositionLon": 59.44172453483755,
+  "CenterPositionLat": 24.713670910557607
+ },
+ {
+  "ID": 165571463,
+  "Capacity": 383,
+  "Name": "",
+  "CenterPositionLon": 59.445048576564595,
+  "CenterPositionLat": 24.708551959976408
+ },
+ {
+  "ID": 170202155,
+  "Capacity": 1137,
+  "Name": "Koidu park",
+  "CenterPositionLon": 59.34391300724709,
+  "CenterPositionLat": 24.59092510452517
+ },
+ {
+  "ID": 171662039,
+  "Capacity": 1300,
+  "Name": "Kesklinna park",
+  "CenterPositionLon": 57.846941923750826,
+  "CenterPositionLat": 26.998249977346138
+ },
+ {
+  "ID": 172143971,
+  "Capacity": 628,
+  "Name": "",
+  "CenterPositionLon": 58.26012177129073,
+  "CenterPositionLat": 22.50844599272382
+ },
+ {
+  "ID": 173020979,
+  "Capacity": 2872,
+  "Name": "Ringikas",
+  "CenterPositionLon": 58.58363976774276,
+  "CenterPositionLat": 24.789843373938176
+ },
+ {
+  "ID": 173052397,
+  "Capacity": 3647,
+  "Name": "",
+  "CenterPositionLon": 58.585876837384156,
+  "CenterPositionLat": 24.784541124504212
+ },
+ {
+  "ID": 173315067,
+  "Capacity": 300,
+  "Name": "",
+  "CenterPositionLon": 58.36656194680207,
+  "CenterPositionLat": 25.594485664848154
+ },
+ {
+  "ID": 178306947,
+  "Capacity": 63589,
+  "Name": "Tallinna Botaanikaaed",
+  "CenterPositionLon": 59.46854901730473,
+  "CenterPositionLat": 24.88060249267283
+ },
+ {
+  "ID": 179018071,
+  "Capacity": 269,
+  "Name": "",
+  "CenterPositionLon": 59.37625224224597,
+  "CenterPositionLat": 28.18968300377296
+ },
+ {
+  "ID": 179679868,
+  "Capacity": 3094,
+  "Name": "",
+  "CenterPositionLon": 57.79529240482259,
+  "CenterPositionLat": 27.033255378364796
+ },
+ {
+  "ID": 182916318,
+  "Capacity": 2090,
+  "Name": "Karjamaa park",
+  "CenterPositionLon": 59.45266677274538,
+  "CenterPositionLat": 24.709328919091114
+ },
+ {
+  "ID": 183166622,
+  "Capacity": 2159,
+  "Name": "Asunduse park",
+  "CenterPositionLon": 59.43220240812596,
+  "CenterPositionLat": 24.791836053455036
+ },
+ {
+  "ID": 185148680,
+  "Capacity": 1899,
+  "Name": "Kandle aed",
+  "CenterPositionLon": 57.8431076804755,
+  "CenterPositionLat": 27.000758847614552
+ },
+ {
+  "ID": 185258840,
+  "Capacity": 837,
+  "Name": "",
+  "CenterPositionLon": 58.09211130971159,
+  "CenterPositionLat": 25.18385229718837
+ },
+ {
+  "ID": 186794519,
+  "Capacity": 1290,
+  "Name": "",
+  "CenterPositionLon": 58.14836596504622,
+  "CenterPositionLat": 25.980654004995177
+ },
+ {
+  "ID": 189575288,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 58.36282383245056,
+  "CenterPositionLat": 25.602085605929815
+ },
+ {
+  "ID": 190037501,
+  "Capacity": 416,
+  "Name": "",
+  "CenterPositionLon": 58.368246196304376,
+  "CenterPositionLat": 25.602053327899057
+ },
+ {
+  "ID": 190797219,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 58.369697669768506,
+  "CenterPositionLat": 25.59038761670418
+ },
+ {
+  "ID": 191288035,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 58.355212725789706,
+  "CenterPositionLat": 25.57788638611104
+ },
+ {
+  "ID": 195258368,
+  "Capacity": 3014,
+  "Name": "Friedrich Reinhold Kreutzwaldi park",
+  "CenterPositionLon": 57.84521506769964,
+  "CenterPositionLat": 26.98893808607388
+ },
+ {
+  "ID": 195921132,
+  "Capacity": 10691,
+  "Name": "",
+  "CenterPositionLon": 58.36295378020095,
+  "CenterPositionLat": 25.5658139056801
+ },
+ {
+  "ID": 199211166,
+  "Capacity": 3073,
+  "Name": "",
+  "CenterPositionLon": 58.3664019922886,
+  "CenterPositionLat": 25.610341009179674
+ },
+ {
+  "ID": 200824146,
+  "Capacity": 329,
+  "Name": "",
+  "CenterPositionLon": 58.36563513313427,
+  "CenterPositionLat": 25.606078610251195
+ },
+ {
+  "ID": 202975068,
+  "Capacity": 5093,
+  "Name": "Jaapani aed",
+  "CenterPositionLon": 59.442111239622,
+  "CenterPositionLat": 24.79818887004251
+ },
+ {
+  "ID": 205364321,
+  "Capacity": 13292,
+  "Name": "Vihula mõisa park",
+  "CenterPositionLon": 59.545892521253826,
+  "CenterPositionLat": 26.18372429285034
+ },
+ {
+  "ID": 205879284,
+  "Capacity": 663,
+  "Name": "",
+  "CenterPositionLon": 58.368713358697796,
+  "CenterPositionLat": 25.576689618146858
+ },
+ {
+  "ID": 205992889,
+  "Capacity": 1344,
+  "Name": "",
+  "CenterPositionLon": 59.103923195779956,
+  "CenterPositionLat": 24.309320157397778
+ },
+ {
+  "ID": 206996955,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 58.37297232776149,
+  "CenterPositionLat": 25.572144072462716
+ },
+ {
+  "ID": 211864340,
+  "Capacity": 13660,
+  "Name": "",
+  "CenterPositionLon": 57.9933716436375,
+  "CenterPositionLat": 25.66615655603524
+ },
+ {
+  "ID": 213810527,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": 58.3662503734426,
+  "CenterPositionLat": 25.60765521919902
+ },
+ {
+  "ID": 213829155,
+  "Capacity": 1000,
+  "Name": "",
+  "CenterPositionLon": 59.364827899218156,
+  "CenterPositionLat": 28.18202273435196
+ },
+ {
+  "ID": 217337637,
+  "Capacity": 1946,
+  "Name": "",
+  "CenterPositionLon": 59.3675072243797,
+  "CenterPositionLat": 24.64806278879033
+ },
+ {
+  "ID": 219567913,
+  "Capacity": 8356,
+  "Name": "",
+  "CenterPositionLon": 59.43750790397493,
+  "CenterPositionLat": 27.298770075131873
+ },
+ {
+  "ID": 220165697,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 59.38767745489589,
+  "CenterPositionLat": 24.70770777886798
+ },
+ {
+  "ID": 223183497,
+  "Capacity": 521,
+  "Name": "",
+  "CenterPositionLon": 58.126505110565695,
+  "CenterPositionLat": 25.355918071055036
+ },
+ {
+  "ID": 223719249,
+  "Capacity": 317,
+  "Name": "",
+  "CenterPositionLon": 59.38223858758328,
+  "CenterPositionLat": 24.70279630494692
+ },
+ {
+  "ID": 224008979,
+  "Capacity": 26552,
+  "Name": "Nõmme park",
+  "CenterPositionLon": 59.581286420431795,
+  "CenterPositionLat": 25.712944696107122
+ },
+ {
+  "ID": 224654784,
+  "Capacity": 1601,
+  "Name": "",
+  "CenterPositionLon": 59.3440999883164,
+  "CenterPositionLat": 26.511472255054816
+ },
+ {
+  "ID": 224706640,
+  "Capacity": 1632,
+  "Name": "",
+  "CenterPositionLon": 58.4209913029755,
+  "CenterPositionLat": 26.660083350498596
+ },
+ {
+  "ID": 224706642,
+  "Capacity": 2367,
+  "Name": "",
+  "CenterPositionLon": 58.421258168673056,
+  "CenterPositionLat": 26.65884533510223
+ },
+ {
+  "ID": 225031416,
+  "Capacity": 5335,
+  "Name": "",
+  "CenterPositionLon": 58.38005773502305,
+  "CenterPositionLat": 26.734884184044468
+ },
+ {
+  "ID": 225071598,
+  "Capacity": 1081,
+  "Name": "",
+  "CenterPositionLon": 58.376616240552345,
+  "CenterPositionLat": 26.60705961858066
+ },
+ {
+  "ID": 225074616,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 58.368863778297616,
+  "CenterPositionLat": 26.546567163984047
+ },
+ {
+  "ID": 225088433,
+  "Capacity": 2489,
+  "Name": "",
+  "CenterPositionLon": 58.311549271872124,
+  "CenterPositionLat": 26.54675290112457
+ },
+ {
+  "ID": 227462885,
+  "Capacity": 16120,
+  "Name": "Karksi park",
+  "CenterPositionLon": 58.11507921408468,
+  "CenterPositionLat": 25.5832589389883
+ },
+ {
+  "ID": 227571444,
+  "Capacity": 2351,
+  "Name": "",
+  "CenterPositionLon": 59.3932584241583,
+  "CenterPositionLat": 24.808254249930325
+ },
+ {
+  "ID": 227582070,
+  "Capacity": 12749,
+  "Name": "Vana-Põltsamaa mõisa park",
+  "CenterPositionLon": 58.65268532174599,
+  "CenterPositionLat": 25.971015907849797
+ },
+ {
+  "ID": 228129434,
+  "Capacity": 385,
+  "Name": "",
+  "CenterPositionLon": 58.371877018225085,
+  "CenterPositionLat": 25.581456027941595
+ },
+ {
+  "ID": 229385294,
+  "Capacity": 2877,
+  "Name": "Mõisa park",
+  "CenterPositionLon": 59.3784543152387,
+  "CenterPositionLat": 28.175679994962543
+ },
+ {
+  "ID": 229390124,
+  "Capacity": 4204,
+  "Name": "",
+  "CenterPositionLon": 59.38725907068324,
+  "CenterPositionLat": 28.190842464272627
+ },
+ {
+  "ID": 229520438,
+  "Capacity": 8425,
+  "Name": "",
+  "CenterPositionLon": 59.440612927404274,
+  "CenterPositionLat": 25.147442284009056
+ },
+ {
+  "ID": 230296621,
+  "Capacity": 544,
+  "Name": "",
+  "CenterPositionLon": 59.37660758622947,
+  "CenterPositionLat": 28.194930994029683
+ },
+ {
+  "ID": 230416912,
+  "Capacity": 4550,
+  "Name": "",
+  "CenterPositionLon": 58.00283720920901,
+  "CenterPositionLat": 25.925218971623643
+ },
+ {
+  "ID": 230424818,
+  "Capacity": 818,
+  "Name": "",
+  "CenterPositionLon": 58.001395559674215,
+  "CenterPositionLat": 25.920740565589657
+ },
+ {
+  "ID": 231055890,
+  "Capacity": 3631,
+  "Name": "",
+  "CenterPositionLon": 59.58385138153433,
+  "CenterPositionLat": 25.724722313543033
+ },
+ {
+  "ID": 232392181,
+  "Capacity": 2931,
+  "Name": "Palvere mõisapark",
+  "CenterPositionLon": 59.20722980696745,
+  "CenterPositionLat": 25.258981556328155
+ },
+ {
+  "ID": 232430973,
+  "Capacity": 3784,
+  "Name": "Lasva parkmets",
+  "CenterPositionLon": 57.862869036070016,
+  "CenterPositionLat": 27.178599507596466
+ },
+ {
+  "ID": 232547067,
+  "Capacity": 11270,
+  "Name": "",
+  "CenterPositionLon": 59.188837410789986,
+  "CenterPositionLat": 25.169063034765426
+ },
+ {
+  "ID": 232547576,
+  "Capacity": 3356,
+  "Name": "",
+  "CenterPositionLon": 59.183547036759585,
+  "CenterPositionLat": 25.169618360021868
+ },
+ {
+  "ID": 233967765,
+  "Capacity": 371,
+  "Name": "",
+  "CenterPositionLon": 58.23471262962488,
+  "CenterPositionLat": 25.862377841806676
+ },
+ {
+  "ID": 234349816,
+  "Capacity": 26580,
+  "Name": "Anija mõisa park",
+  "CenterPositionLon": 59.38037259834495,
+  "CenterPositionLat": 25.30401522783521
+ },
+ {
+  "ID": 234531442,
+  "Capacity": 3204,
+  "Name": "Kalevlaste mälestuspark",
+  "CenterPositionLon": 59.39216214532911,
+  "CenterPositionLat": 27.26034490186916
+ },
+ {
+  "ID": 234644047,
+  "Capacity": 2723,
+  "Name": "Lastepargi",
+  "CenterPositionLon": 59.355815173444896,
+  "CenterPositionLat": 27.190065039890513
+ },
+ {
+  "ID": 235720130,
+  "Capacity": 1495,
+  "Name": "",
+  "CenterPositionLon": 59.46470170901011,
+  "CenterPositionLat": 24.828554831710857
+ },
+ {
+  "ID": 236974824,
+  "Capacity": 13099,
+  "Name": "",
+  "CenterPositionLon": 58.199260429835356,
+  "CenterPositionLat": 25.543532935228495
+ },
+ {
+  "ID": 237139796,
+  "Capacity": 1999,
+  "Name": "",
+  "CenterPositionLon": 58.230121342955144,
+  "CenterPositionLat": 25.88427845366215
+ },
+ {
+  "ID": 237153277,
+  "Capacity": 2748,
+  "Name": "",
+  "CenterPositionLon": 57.77638681924226,
+  "CenterPositionLat": 26.036011066342468
+ },
+ {
+  "ID": 239229917,
+  "Capacity": 1996,
+  "Name": "",
+  "CenterPositionLon": 58.00613709411058,
+  "CenterPositionLat": 25.928952279801987
+ },
+ {
+  "ID": 243431604,
+  "Capacity": 25305,
+  "Name": "Alu park",
+  "CenterPositionLon": 59.022333055038736,
+  "CenterPositionLat": 24.766149824924952
+ },
+ {
+  "ID": 245363097,
+  "Capacity": 1099,
+  "Name": "Jakobsoni park",
+  "CenterPositionLon": 58.384127754722535,
+  "CenterPositionLat": 24.496853145013528
+ },
+ {
+  "ID": 245363099,
+  "Capacity": 4542,
+  "Name": "Munamäe park",
+  "CenterPositionLon": 58.38244657542179,
+  "CenterPositionLat": 24.496258161640533
+ },
+ {
+  "ID": 246499432,
+  "Capacity": 14379,
+  "Name": "",
+  "CenterPositionLon": 58.10717989643026,
+  "CenterPositionLat": 25.548751874808254
+ },
+ {
+  "ID": 246517086,
+  "Capacity": 1117,
+  "Name": "",
+  "CenterPositionLon": 59.12931229270056,
+  "CenterPositionLat": 26.24917153282274
+ },
+ {
+  "ID": 246532701,
+  "Capacity": 227,
+  "Name": "Lauluväljak",
+  "CenterPositionLon": 59.10470537212853,
+  "CenterPositionLat": 26.22968469724891
+ },
+ {
+  "ID": 251503130,
+  "Capacity": 2984,
+  "Name": "",
+  "CenterPositionLon": 58.276593068143654,
+  "CenterPositionLat": 25.6922105456536
+ },
+ {
+  "ID": 253465615,
+  "Capacity": 1509,
+  "Name": "",
+  "CenterPositionLon": 58.09065956215818,
+  "CenterPositionLat": 25.184644939537304
+ },
+ {
+  "ID": 254470969,
+  "Capacity": 6478,
+  "Name": "",
+  "CenterPositionLon": 58.27343445984484,
+  "CenterPositionLat": 25.584717482371328
+ },
+ {
+  "ID": 255050194,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 58.3835219817045,
+  "CenterPositionLat": 25.576508277522205
+ },
+ {
+  "ID": 255050197,
+  "Capacity": 210,
+  "Name": "",
+  "CenterPositionLon": 58.38294793653576,
+  "CenterPositionLat": 25.578787952831046
+ },
+ {
+  "ID": 255050198,
+  "Capacity": 351,
+  "Name": "",
+  "CenterPositionLon": 58.38329346153482,
+  "CenterPositionLat": 25.57828458004513
+ },
+ {
+  "ID": 255050209,
+  "Capacity": 651,
+  "Name": "",
+  "CenterPositionLon": 58.38381551386015,
+  "CenterPositionLat": 25.577392354971582
+ },
+ {
+  "ID": 255894038,
+  "Capacity": 1366,
+  "Name": "Äkkeküla spordikeskus",
+  "CenterPositionLon": 59.39229651681371,
+  "CenterPositionLat": 28.166491411843655
+ },
+ {
+  "ID": 258479483,
+  "Capacity": 6841,
+  "Name": "",
+  "CenterPositionLon": 58.32226132637894,
+  "CenterPositionLat": 25.504334097431954
+ },
+ {
+  "ID": 258679944,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 58.05363315744197,
+  "CenterPositionLat": 27.05566120794793
+ },
+ {
+  "ID": 260430887,
+  "Capacity": 18366,
+  "Name": "Kõpu park",
+  "CenterPositionLon": 58.31889870782058,
+  "CenterPositionLat": 25.305499401732604
+ },
+ {
+  "ID": 261990030,
+  "Capacity": 289,
+  "Name": "Taani kuninga aed",
+  "CenterPositionLon": 59.435543945701816,
+  "CenterPositionLat": 24.740963938377448
+ },
+ {
+  "ID": 262070975,
+  "Capacity": 384,
+  "Name": "Gruusia haljak",
+  "CenterPositionLon": 59.43699719657281,
+  "CenterPositionLat": 24.769252830723822
+ },
+ {
+  "ID": 263686454,
+  "Capacity": 5669,
+  "Name": "Üksnurme park",
+  "CenterPositionLon": 59.28094021059964,
+  "CenterPositionLat": 24.63056456449886
+ },
+ {
+  "ID": 264291370,
+  "Capacity": 8518,
+  "Name": "Rääma park",
+  "CenterPositionLon": 58.393151828491106,
+  "CenterPositionLat": 24.51171476863334
+ },
+ {
+  "ID": 264508755,
+  "Capacity": 462,
+  "Name": "",
+  "CenterPositionLon": 58.104992944770785,
+  "CenterPositionLat": 25.544845080701855
+ },
+ {
+  "ID": 264508763,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 58.10515824862371,
+  "CenterPositionLat": 25.54744475476136
+ },
+ {
+  "ID": 264508766,
+  "Capacity": 224,
+  "Name": "",
+  "CenterPositionLon": 58.104378683196394,
+  "CenterPositionLat": 25.547066352894134
+ },
+ {
+  "ID": 270297950,
+  "Capacity": 8559,
+  "Name": "",
+  "CenterPositionLon": 58.39258771372815,
+  "CenterPositionLat": 25.65894350517059
+ },
+ {
+  "ID": 275177736,
+  "Capacity": 2343,
+  "Name": "",
+  "CenterPositionLon": 58.14396315199497,
+  "CenterPositionLat": 25.80017696058045
+ },
+ {
+  "ID": 275206322,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": 58.14408550296209,
+  "CenterPositionLat": 25.80408946496031
+ },
+ {
+  "ID": 275222191,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": 58.13761813021689,
+  "CenterPositionLat": 25.805137271898673
+ },
+ {
+  "ID": 282055462,
+  "Capacity": 161,
+  "Name": "",
+  "CenterPositionLon": 58.65459707166042,
+  "CenterPositionLat": 25.970908850317738
+ },
+ {
+  "ID": 282055470,
+  "Capacity": 372,
+  "Name": "",
+  "CenterPositionLon": 58.656410915946545,
+  "CenterPositionLat": 25.96892406824251
+ },
+ {
+  "ID": 285192841,
+  "Capacity": 1001,
+  "Name": "",
+  "CenterPositionLon": 58.57376287791211,
+  "CenterPositionLat": 26.291686930336127
+ },
+ {
+  "ID": 287639052,
+  "Capacity": 6279,
+  "Name": "Lepistiku park",
+  "CenterPositionLon": 59.40262630715843,
+  "CenterPositionLat": 24.700293536510035
+ },
+ {
+  "ID": 287639087,
+  "Capacity": 872,
+  "Name": "Lepistiku park",
+  "CenterPositionLon": 59.402118438937556,
+  "CenterPositionLat": 24.698499980510345
+ },
+ {
+  "ID": 287872524,
+  "Capacity": 1280,
+  "Name": "",
+  "CenterPositionLon": 59.39504749804082,
+  "CenterPositionLat": 24.29556866034291
+ },
+ {
+  "ID": 289044691,
+  "Capacity": 1481,
+  "Name": "",
+  "CenterPositionLon": 57.77522525454669,
+  "CenterPositionLat": 26.04527387252031
+ },
+ {
+  "ID": 289064340,
+  "Capacity": 550,
+  "Name": "",
+  "CenterPositionLon": 57.77736760713608,
+  "CenterPositionLat": 26.03374992374921
+ },
+ {
+  "ID": 289064341,
+  "Capacity": 414,
+  "Name": "",
+  "CenterPositionLon": 57.77692837529131,
+  "CenterPositionLat": 26.03091089803344
+ },
+ {
+  "ID": 291213210,
+  "Capacity": 1781,
+  "Name": "Vabaduse park",
+  "CenterPositionLon": 58.38563058179974,
+  "CenterPositionLat": 24.509256938243187
+ },
+ {
+  "ID": 291213215,
+  "Capacity": 810,
+  "Name": "",
+  "CenterPositionLon": 58.385480074718906,
+  "CenterPositionLat": 24.507837276017394
+ },
+ {
+  "ID": 291244104,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 58.74722648675273,
+  "CenterPositionLat": 26.396868697387145
+ },
+ {
+  "ID": 291244113,
+  "Capacity": 566,
+  "Name": "",
+  "CenterPositionLon": 58.746729557510186,
+  "CenterPositionLat": 26.39737024241508
+ },
+ {
+  "ID": 292559652,
+  "Capacity": 8180,
+  "Name": "",
+  "CenterPositionLon": 58.36752631875151,
+  "CenterPositionLat": 26.701333347989852
+ },
+ {
+  "ID": 295701949,
+  "Capacity": 14803,
+  "Name": "Pühajärve rannapark",
+  "CenterPositionLon": 58.044605237741855,
+  "CenterPositionLat": 26.46880257731567
+ },
+ {
+  "ID": 300634986,
+  "Capacity": 3828,
+  "Name": "Jõekääru park",
+  "CenterPositionLon": 59.352918571486576,
+  "CenterPositionLat": 24.607260690810705
+ },
+ {
+  "ID": 302023503,
+  "Capacity": 20030,
+  "Name": "",
+  "CenterPositionLon": 58.554220225770074,
+  "CenterPositionLat": 25.56441165254366
+ },
+ {
+  "ID": 303662835,
+  "Capacity": 3477,
+  "Name": "Juudi park",
+  "CenterPositionLon": 57.83951063709577,
+  "CenterPositionLat": 27.001390050399362
+ },
+ {
+  "ID": 303675159,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 59.42109085169926,
+  "CenterPositionLat": 24.80030641071635
+ },
+ {
+  "ID": 321300553,
+  "Capacity": 12426,
+  "Name": "Puurmani mõisapark",
+  "CenterPositionLon": 58.57423784745565,
+  "CenterPositionLat": 26.289337345442462
+ },
+ {
+  "ID": 321302284,
+  "Capacity": 1371,
+  "Name": "Roosisaar",
+  "CenterPositionLon": 58.65374426850693,
+  "CenterPositionLat": 25.975466663867067
+ },
+ {
+  "ID": 325409287,
+  "Capacity": 6938,
+  "Name": "",
+  "CenterPositionLon": 58.75849677187709,
+  "CenterPositionLat": 25.565661555492866
+ },
+ {
+  "ID": 330755581,
+  "Capacity": 3386,
+  "Name": "",
+  "CenterPositionLon": 58.432885382238695,
+  "CenterPositionLat": 25.68345284066255
+ },
+ {
+  "ID": 331856514,
+  "Capacity": 2222,
+  "Name": "",
+  "CenterPositionLon": 58.3743334853566,
+  "CenterPositionLat": 26.727379694898914
+ },
+ {
+  "ID": 339742577,
+  "Capacity": 1129,
+  "Name": "",
+  "CenterPositionLon": 59.263358183160655,
+  "CenterPositionLat": 25.95884111860418
+ },
+ {
+  "ID": 339742580,
+  "Capacity": 655,
+  "Name": "",
+  "CenterPositionLon": 59.261077704057705,
+  "CenterPositionLat": 25.958957809535566
+ },
+ {
+  "ID": 339742587,
+  "Capacity": 971,
+  "Name": "",
+  "CenterPositionLon": 59.261808084989816,
+  "CenterPositionLat": 25.953936692360088
+ },
+ {
+  "ID": 339742588,
+  "Capacity": 2244,
+  "Name": "",
+  "CenterPositionLon": 59.262595480805345,
+  "CenterPositionLat": 25.95680918740975
+ },
+ {
+  "ID": 339742590,
+  "Capacity": 2689,
+  "Name": "",
+  "CenterPositionLon": 59.263986127061685,
+  "CenterPositionLat": 25.96106669820034
+ },
+ {
+  "ID": 339742592,
+  "Capacity": 2261,
+  "Name": "",
+  "CenterPositionLon": 59.260369006787634,
+  "CenterPositionLat": 25.961309301536495
+ },
+ {
+  "ID": 339745568,
+  "Capacity": 425,
+  "Name": "",
+  "CenterPositionLon": 59.26462522692646,
+  "CenterPositionLat": 25.962581200889826
+ },
+ {
+  "ID": 339745569,
+  "Capacity": 313,
+  "Name": "",
+  "CenterPositionLon": 59.263924330585546,
+  "CenterPositionLat": 25.96332616999206
+ },
+ {
+  "ID": 339745571,
+  "Capacity": 929,
+  "Name": "",
+  "CenterPositionLon": 59.26514989555524,
+  "CenterPositionLat": 25.961614150353174
+ },
+ {
+  "ID": 340306878,
+  "Capacity": 2375,
+  "Name": "Mõisapark",
+  "CenterPositionLon": 58.75820465774944,
+  "CenterPositionLat": 24.94746577948755
+ },
+ {
+  "ID": 345612936,
+  "Capacity": 9974,
+  "Name": "",
+  "CenterPositionLon": 59.3735868525511,
+  "CenterPositionLat": 27.881026997482394
+ },
+ {
+  "ID": 346011219,
+  "Capacity": 2305,
+  "Name": "",
+  "CenterPositionLon": 57.82823877812545,
+  "CenterPositionLat": 26.527843072456722
+ },
+ {
+  "ID": 346011220,
+  "Capacity": 2732,
+  "Name": "",
+  "CenterPositionLon": 57.830305336159526,
+  "CenterPositionLat": 26.529434429828708
+ },
+ {
+  "ID": 346011221,
+  "Capacity": 1937,
+  "Name": "",
+  "CenterPositionLon": 57.83127188488009,
+  "CenterPositionLat": 26.52979365692378
+ },
+ {
+  "ID": 346011839,
+  "Capacity": 605,
+  "Name": "",
+  "CenterPositionLon": 57.8284912446404,
+  "CenterPositionLat": 26.52907251773626
+ },
+ {
+  "ID": 346069040,
+  "Capacity": 2590,
+  "Name": "",
+  "CenterPositionLon": 57.8299818716838,
+  "CenterPositionLat": 26.53517612223897
+ },
+ {
+  "ID": 346071604,
+  "Capacity": 8188,
+  "Name": "Lauluväljaku park",
+  "CenterPositionLon": 57.83022734325267,
+  "CenterPositionLat": 26.52356524966245
+ },
+ {
+  "ID": 350541920,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": 59.40065031574528,
+  "CenterPositionLat": 24.71070054619794
+ },
+ {
+  "ID": 350542672,
+  "Capacity": 9357,
+  "Name": "",
+  "CenterPositionLon": 59.39975533424191,
+  "CenterPositionLat": 24.713246694498764
+ },
+ {
+  "ID": 353882105,
+  "Capacity": 5942,
+  "Name": "",
+  "CenterPositionLon": 59.1536795955294,
+  "CenterPositionLat": 25.65848378443617
+ },
+ {
+  "ID": 361199575,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 58.886114904383945,
+  "CenterPositionLat": 25.5472658818799
+ },
+ {
+  "ID": 361202004,
+  "Capacity": 7541,
+  "Name": "Vallimägi",
+  "CenterPositionLon": 58.88941633570981,
+  "CenterPositionLat": 25.57213367537356
+ },
+ {
+  "ID": 361305548,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 58.88439001927169,
+  "CenterPositionLat": 25.557260938812544
+ },
+ {
+  "ID": 361769753,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 58.88681913611176,
+  "CenterPositionLat": 25.558718077317426
+ },
+ {
+  "ID": 363154369,
+  "Capacity": 24958,
+  "Name": "",
+  "CenterPositionLon": 58.148522278828864,
+  "CenterPositionLat": 25.044202517794332
+ },
+ {
+  "ID": 364080851,
+  "Capacity": 3024,
+  "Name": "",
+  "CenterPositionLon": 58.14770280192478,
+  "CenterPositionLat": 24.951675007711394
+ },
+ {
+  "ID": 364080861,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 58.148563464473,
+  "CenterPositionLat": 24.95134834618905
+ },
+ {
+  "ID": 364083676,
+  "Capacity": 2841,
+  "Name": "",
+  "CenterPositionLon": 58.14955270569904,
+  "CenterPositionLat": 24.94953860434064
+ },
+ {
+  "ID": 366617956,
+  "Capacity": 5225,
+  "Name": "Rannapark",
+  "CenterPositionLon": 58.37925576457865,
+  "CenterPositionLat": 24.494304646717957
+ },
+ {
+  "ID": 368986636,
+  "Capacity": 1567,
+  "Name": "",
+  "CenterPositionLon": 59.02211407517937,
+  "CenterPositionLat": 23.567691394314696
+ },
+ {
+  "ID": 369226874,
+  "Capacity": 10268,
+  "Name": "",
+  "CenterPositionLon": 58.096335158244436,
+  "CenterPositionLat": 25.897632188725655
+ },
+ {
+  "ID": 369378681,
+  "Capacity": 467,
+  "Name": "Aruküla mõisa park",
+  "CenterPositionLon": 59.35784045934521,
+  "CenterPositionLat": 25.081593653191092
+ },
+ {
+  "ID": 370058485,
+  "Capacity": 5764,
+  "Name": "",
+  "CenterPositionLon": 59.51296084637373,
+  "CenterPositionLat": 25.95687307742626
+ },
+ {
+  "ID": 371634024,
+  "Capacity": 11965,
+  "Name": "",
+  "CenterPositionLon": 59.42544278870099,
+  "CenterPositionLat": 27.150152323616926
+ },
+ {
+  "ID": 371639997,
+  "Capacity": 13066,
+  "Name": "",
+  "CenterPositionLon": 59.48245192549789,
+  "CenterPositionLat": 26.788100820720203
+ },
+ {
+  "ID": 373250387,
+  "Capacity": 6712,
+  "Name": "",
+  "CenterPositionLon": 58.1155143769003,
+  "CenterPositionLat": 26.334869903812745
+ },
+ {
+  "ID": 377317084,
+  "Capacity": 605,
+  "Name": "",
+  "CenterPositionLon": 59.44477172738184,
+  "CenterPositionLat": 24.73026580215028
+ },
+ {
+  "ID": 379809969,
+  "Capacity": 5904,
+  "Name": "",
+  "CenterPositionLon": 59.42276140627145,
+  "CenterPositionLat": 24.64922461586244
+ },
+ {
+  "ID": 383321670,
+  "Capacity": 35155,
+  "Name": "",
+  "CenterPositionLon": 59.384339696438346,
+  "CenterPositionLat": 24.578485002192007
+ },
+ {
+  "ID": 383368683,
+  "Capacity": 4100,
+  "Name": "",
+  "CenterPositionLon": 59.410395354031664,
+  "CenterPositionLat": 24.63622836378383
+ },
+ {
+  "ID": 383623641,
+  "Capacity": 1388,
+  "Name": "Ohvitseride park",
+  "CenterPositionLon": 58.38604113508102,
+  "CenterPositionLat": 26.73605590050203
+ },
+ {
+  "ID": 383623643,
+  "Capacity": 5192,
+  "Name": "Kassitoome",
+  "CenterPositionLon": 58.380525639066654,
+  "CenterPositionLat": 26.711714833730916
+ },
+ {
+  "ID": 394700896,
+  "Capacity": 4574,
+  "Name": "Poolamägi",
+  "CenterPositionLon": 59.42580755449229,
+  "CenterPositionLat": 24.760384159564886
+ },
+ {
+  "ID": 400930092,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 59.36218404062634,
+  "CenterPositionLat": 27.410903754438216
+ },
+ {
+  "ID": 400930098,
+  "Capacity": 608,
+  "Name": "",
+  "CenterPositionLon": 59.36294186809463,
+  "CenterPositionLat": 27.411510324170045
+ },
+ {
+  "ID": 408045792,
+  "Capacity": 2246,
+  "Name": "",
+  "CenterPositionLon": 58.397611862493704,
+  "CenterPositionLat": 26.734744956634987
+ },
+ {
+  "ID": 425895270,
+  "Capacity": 1534,
+  "Name": "",
+  "CenterPositionLon": 59.42873562923585,
+  "CenterPositionLat": 24.70278400418506
+ },
+ {
+  "ID": 427075240,
+  "Capacity": 2363,
+  "Name": "",
+  "CenterPositionLon": 58.70826475461146,
+  "CenterPositionLat": 25.896690869291895
+ },
+ {
+  "ID": 435799184,
+  "Capacity": 2077,
+  "Name": "Rannavärava haljak",
+  "CenterPositionLon": 59.440834754691174,
+  "CenterPositionLat": 24.752372442697155
+ },
+ {
+  "ID": 436296179,
+  "Capacity": 757,
+  "Name": "",
+  "CenterPositionLon": 58.660910058320226,
+  "CenterPositionLat": 23.729002149934555
+ },
+ {
+  "ID": 444860444,
+  "Capacity": 14792,
+  "Name": "",
+  "CenterPositionLon": 59.484985238490275,
+  "CenterPositionLat": 25.021406203467077
+ },
+ {
+  "ID": 449036532,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 59.38642408324257,
+  "CenterPositionLat": 24.580226092977515
+ },
+ {
+  "ID": 449036533,
+  "Capacity": 367,
+  "Name": "",
+  "CenterPositionLon": 59.38413647184402,
+  "CenterPositionLat": 24.582583133926715
+ },
+ {
+  "ID": 449036534,
+  "Capacity": 381,
+  "Name": "",
+  "CenterPositionLon": 59.384162920984835,
+  "CenterPositionLat": 24.58343373821197
+ },
+ {
+  "ID": 449036536,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 59.384710817332575,
+  "CenterPositionLat": 24.582672027813487
+ },
+ {
+  "ID": 449036537,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 59.38490613030666,
+  "CenterPositionLat": 24.58235129938115
+ },
+ {
+  "ID": 449036538,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 59.38506904731979,
+  "CenterPositionLat": 24.58147423100266
+ },
+ {
+  "ID": 449036539,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 59.38452500147499,
+  "CenterPositionLat": 24.58287644304319
+ },
+ {
+  "ID": 461254838,
+  "Capacity": 3561,
+  "Name": "Teemandi park",
+  "CenterPositionLon": 59.352537574070254,
+  "CenterPositionLat": 24.61296599233224
+ },
+ {
+  "ID": 461324575,
+  "Capacity": 18299,
+  "Name": "Kiltsi mõisa park",
+  "CenterPositionLon": 59.07742545482668,
+  "CenterPositionLat": 26.194006510387553
+ },
+ {
+  "ID": 461386145,
+  "Capacity": 927,
+  "Name": "Tamme park",
+  "CenterPositionLon": 58.93546918546344,
+  "CenterPositionLat": 23.55327624211631
+ },
+ {
+  "ID": 461387563,
+  "Capacity": 814,
+  "Name": "Kastani park",
+  "CenterPositionLon": 58.93414845017887,
+  "CenterPositionLat": 23.553800263661504
+ },
+ {
+  "ID": 464415980,
+  "Capacity": 9,
+  "Name": "Sitting area",
+  "CenterPositionLon": 59.410798464844824,
+  "CenterPositionLat": 24.650236087992734
+ },
+ {
+  "ID": 465712245,
+  "Capacity": 1165,
+  "Name": "",
+  "CenterPositionLon": 59.40212970309157,
+  "CenterPositionLat": 24.718876305190275
+ },
+ {
+  "ID": 468142666,
+  "Capacity": 1450,
+  "Name": "Luige park",
+  "CenterPositionLon": 59.41946129735398,
+  "CenterPositionLat": 24.719766715885466
+ },
+ {
+  "ID": 468145204,
+  "Capacity": 585,
+  "Name": "Kotkapoja park",
+  "CenterPositionLon": 59.424067978354316,
+  "CenterPositionLat": 24.725846367548776
+ },
+ {
+  "ID": 469209813,
+  "Capacity": 838,
+  "Name": "",
+  "CenterPositionLon": 58.37179180998488,
+  "CenterPositionLat": 24.533113285034563
+ },
+ {
+  "ID": 469209814,
+  "Capacity": 464,
+  "Name": "",
+  "CenterPositionLon": 58.372703006032125,
+  "CenterPositionLat": 24.53307924787349
+ },
+ {
+  "ID": 469211185,
+  "Capacity": 813,
+  "Name": "",
+  "CenterPositionLon": 58.37101092307405,
+  "CenterPositionLat": 24.53461045051265
+ },
+ {
+  "ID": 469211186,
+  "Capacity": 2001,
+  "Name": "",
+  "CenterPositionLon": 58.37011166475204,
+  "CenterPositionLat": 24.53626947350975
+ },
+ {
+  "ID": 469211187,
+  "Capacity": 814,
+  "Name": "",
+  "CenterPositionLon": 58.37249206246079,
+  "CenterPositionLat": 24.531714236766437
+ },
+ {
+  "ID": 469214684,
+  "Capacity": 117,
+  "Name": "Kohtumaja",
+  "CenterPositionLon": 58.3843277729179,
+  "CenterPositionLat": 24.49904912803867
+ },
+ {
+  "ID": 469376382,
+  "Capacity": 3773,
+  "Name": "Laste Park",
+  "CenterPositionLon": 59.16566080064381,
+  "CenterPositionLat": 24.754128780022906
+ },
+ {
+  "ID": 472674534,
+  "Capacity": 1085,
+  "Name": "",
+  "CenterPositionLon": 58.3410939951372,
+  "CenterPositionLat": 26.358439796402564
+ },
+ {
+  "ID": 473599828,
+  "Capacity": 8538,
+  "Name": "Kiili park",
+  "CenterPositionLon": 59.30459089374896,
+  "CenterPositionLat": 24.83882269352711
+ },
+ {
+  "ID": 478335112,
+  "Capacity": 25094,
+  "Name": "",
+  "CenterPositionLon": 58.37050873319836,
+  "CenterPositionLat": 24.52866123548388
+ },
+ {
+  "ID": 481042457,
+  "Capacity": 70104,
+  "Name": "Jõhvi Park",
+  "CenterPositionLon": 59.35068854628029,
+  "CenterPositionLat": 27.42600582449037
+ },
+ {
+  "ID": 484262935,
+  "Capacity": 34280,
+  "Name": "Tondiloo park",
+  "CenterPositionLon": 59.44761503988601,
+  "CenterPositionLat": 24.875899871663755
+ },
+ {
+  "ID": 486644715,
+  "Capacity": 15453,
+  "Name": "Sillapää mõisapark",
+  "CenterPositionLon": 58.09839534794317,
+  "CenterPositionLat": 27.45038069095808
+ },
+ {
+  "ID": 486663553,
+  "Capacity": 24416,
+  "Name": "",
+  "CenterPositionLon": 58.3907669757376,
+  "CenterPositionLat": 26.704682546574116
+ },
+ {
+  "ID": 486879955,
+  "Capacity": 3088,
+  "Name": "Kase park",
+  "CenterPositionLon": 58.98908878977805,
+  "CenterPositionLat": 26.234254563203457
+ },
+ {
+  "ID": 487126402,
+  "Capacity": 4061,
+  "Name": "Haigla park",
+  "CenterPositionLon": 58.284929113965596,
+  "CenterPositionLat": 27.04997493229908
+ },
+ {
+  "ID": 489313227,
+  "Capacity": 121,
+  "Name": "Nunne haljak",
+  "CenterPositionLon": 59.439110275143854,
+  "CenterPositionLat": 24.74140226466741
+ },
+ {
+  "ID": 492940685,
+  "Capacity": 28851,
+  "Name": "Viimsi mõisapark",
+  "CenterPositionLon": 59.50209331378085,
+  "CenterPositionLat": 24.830416357222546
+ },
+ {
+  "ID": 493268428,
+  "Capacity": 3046,
+  "Name": "",
+  "CenterPositionLon": 58.650005016948974,
+  "CenterPositionLat": 25.04130770146061
+ },
+ {
+  "ID": 497573029,
+  "Capacity": 1152,
+  "Name": "",
+  "CenterPositionLon": 59.39594360570145,
+  "CenterPositionLat": 24.66807708922349
+ },
+ {
+  "ID": 501109419,
+  "Capacity": 3755,
+  "Name": "",
+  "CenterPositionLon": 59.50949368736989,
+  "CenterPositionLat": 24.830883885990456
+ },
+ {
+  "ID": 501393204,
+  "Capacity": 4258,
+  "Name": "Broadway",
+  "CenterPositionLon": 59.330190521616466,
+  "CenterPositionLat": 27.420821244972625
+ },
+ {
+  "ID": 501393205,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 59.33067244413512,
+  "CenterPositionLat": 27.420369137089384
+ },
+ {
+  "ID": 501397981,
+  "Capacity": 3785,
+  "Name": "",
+  "CenterPositionLon": 59.33702311882184,
+  "CenterPositionLat": 27.41641116166841
+ },
+ {
+  "ID": 505272463,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 59.434133804558186,
+  "CenterPositionLat": 24.746354805456004
+ },
+ {
+  "ID": 507937704,
+  "Capacity": 24736,
+  "Name": "Mändjala kämping",
+  "CenterPositionLon": 58.21673745677279,
+  "CenterPositionLat": 22.332374019528036
+ },
+ {
+  "ID": 511258737,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": 59.44062777822349,
+  "CenterPositionLat": 24.839115298843293
+ },
+ {
+  "ID": 511684669,
+  "Capacity": 1752,
+  "Name": "",
+  "CenterPositionLon": 59.44184596079141,
+  "CenterPositionLat": 24.706228491575388
+ },
+ {
+  "ID": 521525453,
+  "Capacity": 2907,
+  "Name": "",
+  "CenterPositionLon": 58.37574368726521,
+  "CenterPositionLat": 26.688590353707998
+ },
+ {
+  "ID": 522098425,
+  "Capacity": 1910,
+  "Name": "Pirogovi plats",
+  "CenterPositionLon": 58.379650995141354,
+  "CenterPositionLat": 26.720388695060347
+ },
+ {
+  "ID": 527919155,
+  "Capacity": 13084,
+  "Name": "",
+  "CenterPositionLon": 58.67171542676218,
+  "CenterPositionLat": 26.75951292349972
+ },
+ {
+  "ID": 532341301,
+  "Capacity": 8934,
+  "Name": "Kõue-Triigi mõisa park",
+  "CenterPositionLon": 59.09707053360772,
+  "CenterPositionLat": 25.240865319794224
+ },
+ {
+  "ID": 538768468,
+  "Capacity": 486,
+  "Name": "",
+  "CenterPositionLon": 58.677896279215524,
+  "CenterPositionLat": 25.64253231419665
+ },
+ {
+  "ID": 538773170,
+  "Capacity": 4832,
+  "Name": "",
+  "CenterPositionLon": 58.72881655785459,
+  "CenterPositionLat": 25.807576178942337
+ },
+ {
+  "ID": 538997222,
+  "Capacity": 2285,
+  "Name": "Lembitu park",
+  "CenterPositionLon": 59.43164057685211,
+  "CenterPositionLat": 24.755589301824937
+ },
+ {
+  "ID": 539904355,
+  "Capacity": 5157,
+  "Name": "Laikmaa park",
+  "CenterPositionLon": 58.9513566050126,
+  "CenterPositionLat": 23.685126002764957
+ },
+ {
+  "ID": 542224901,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 59.444526981328984,
+  "CenterPositionLat": 24.7291114435886
+ },
+ {
+  "ID": 542224902,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 59.44432675263233,
+  "CenterPositionLat": 24.72885952890201
+ },
+ {
+  "ID": 542407848,
+  "Capacity": 5038,
+  "Name": "",
+  "CenterPositionLon": 59.43516756992237,
+  "CenterPositionLat": 24.8349032116959
+ },
+ {
+  "ID": 542774486,
+  "Capacity": 6453,
+  "Name": "Saku 100 aasta park",
+  "CenterPositionLon": 59.30873682818554,
+  "CenterPositionLat": 24.645327380135488
+ },
+ {
+  "ID": 543642600,
+  "Capacity": 3542,
+  "Name": "Tammsaare park",
+  "CenterPositionLon": 59.435760945757345,
+  "CenterPositionLat": 24.753006122055982
+ },
+ {
+  "ID": 543725425,
+  "Capacity": 5369,
+  "Name": "Allikukivi park",
+  "CenterPositionLon": 58.15019476126213,
+  "CenterPositionLat": 25.022847351679204
+ },
+ {
+  "ID": 543834671,
+  "Capacity": 7202,
+  "Name": "",
+  "CenterPositionLon": 59.45409862149824,
+  "CenterPositionLat": 24.87499819508222
+ },
+ {
+  "ID": 544419171,
+  "Capacity": 1393,
+  "Name": "Kadaka pst park",
+  "CenterPositionLon": 59.397162686449434,
+  "CenterPositionLat": 24.64574875789729
+ },
+ {
+  "ID": 545452827,
+  "Capacity": 24567,
+  "Name": "Maarjamäe mälestusväli",
+  "CenterPositionLon": 59.45537982952969,
+  "CenterPositionLat": 24.81328556423896
+ },
+ {
+  "ID": 545455552,
+  "Capacity": 330,
+  "Name": "",
+  "CenterPositionLon": 59.327695890781044,
+  "CenterPositionLat": 24.47482265546233
+ },
+ {
+  "ID": 545456796,
+  "Capacity": 588,
+  "Name": "",
+  "CenterPositionLon": 59.43404522051235,
+  "CenterPositionLat": 24.74541757449173
+ },
+ {
+  "ID": 546027858,
+  "Capacity": 294,
+  "Name": "Small park with playground",
+  "CenterPositionLon": 59.3280463615385,
+  "CenterPositionLat": 24.475429034412898
+ },
+ {
+  "ID": 549819686,
+  "Capacity": 8515,
+  "Name": "",
+  "CenterPositionLon": 59.45984221355984,
+  "CenterPositionLat": 24.875786101777727
+ },
+ {
+  "ID": 552564238,
+  "Capacity": 89548,
+  "Name": "Alatskivi lossipark",
+  "CenterPositionLon": 58.60259806871884,
+  "CenterPositionLat": 27.129860025494047
+ },
+ {
+  "ID": 553643082,
+  "Capacity": 1082,
+  "Name": "Ernst Enno park",
+  "CenterPositionLon": 58.94214386117944,
+  "CenterPositionLat": 23.53269225320185
+ },
+ {
+  "ID": 553643083,
+  "Capacity": 551,
+  "Name": "Wiedemanni skväär",
+  "CenterPositionLon": 58.94559278127438,
+  "CenterPositionLat": 23.531034330504653
+ },
+ {
+  "ID": 553643084,
+  "Capacity": 574,
+  "Name": "Viigi skväär",
+  "CenterPositionLon": 58.95412426479693,
+  "CenterPositionLat": 23.529038979839672
+ },
+ {
+  "ID": 553643085,
+  "Capacity": 665,
+  "Name": "Raekoja park",
+  "CenterPositionLon": 58.948523670377845,
+  "CenterPositionLat": 23.540249765366987
+ },
+ {
+  "ID": 553644854,
+  "Capacity": 3798,
+  "Name": "Jaan Poska park",
+  "CenterPositionLon": 58.95032544704381,
+  "CenterPositionLat": 23.541878309531864
+ },
+ {
+  "ID": 553648891,
+  "Capacity": 6399,
+  "Name": "Haapsalu Lossipark",
+  "CenterPositionLon": 58.94708643476606,
+  "CenterPositionLat": 23.53869470260132
+ },
+ {
+  "ID": 556208423,
+  "Capacity": 436,
+  "Name": "Sõõrkakra park",
+  "CenterPositionLon": 59.47029798049008,
+  "CenterPositionLat": 24.949285145388956
+ },
+ {
+  "ID": 556209136,
+  "Capacity": 1363,
+  "Name": "",
+  "CenterPositionLon": 59.47417755746608,
+  "CenterPositionLat": 24.94305546252223
+ },
+ {
+  "ID": 557713086,
+  "Capacity": 4165,
+  "Name": "",
+  "CenterPositionLon": 59.416801024168876,
+  "CenterPositionLat": 27.516175022356403
+ },
+ {
+  "ID": 558345380,
+  "Capacity": 33419,
+  "Name": "Pühajärve mõisapark",
+  "CenterPositionLon": 58.045725510449614,
+  "CenterPositionLat": 26.45980756290125
+ },
+ {
+  "ID": 558792340,
+  "Capacity": 3831,
+  "Name": "",
+  "CenterPositionLon": 58.23283408342228,
+  "CenterPositionLat": 25.86924344772448
+ },
+ {
+  "ID": 575498751,
+  "Capacity": 2679,
+  "Name": "",
+  "CenterPositionLon": 58.66675218976394,
+  "CenterPositionLat": 25.75969150477606
+ },
+ {
+  "ID": 577000928,
+  "Capacity": 18315,
+  "Name": "Raadi mõisa park",
+  "CenterPositionLon": 58.399551586794864,
+  "CenterPositionLat": 26.741409056720013
+ },
+ {
+  "ID": 578121604,
+  "Capacity": 45558,
+  "Name": "",
+  "CenterPositionLon": 58.39640256383344,
+  "CenterPositionLat": 26.744817665360994
+ },
+ {
+  "ID": 580891189,
+  "Capacity": 433,
+  "Name": "Kuusepark",
+  "CenterPositionLon": 59.30793834036583,
+  "CenterPositionLat": 24.426313808216065
+ },
+ {
+  "ID": 586923914,
+  "Capacity": 7834,
+  "Name": "Liivi mõisa park",
+  "CenterPositionLon": 58.854506809511406,
+  "CenterPositionLat": 23.96067852191262
+ },
+ {
+  "ID": 588657508,
+  "Capacity": 7811,
+  "Name": "Fahle aed",
+  "CenterPositionLon": 59.44420220504586,
+  "CenterPositionLat": 24.799225772912802
+ },
+ {
+  "ID": 592356369,
+  "Capacity": 2032,
+  "Name": "",
+  "CenterPositionLon": 59.460553415302684,
+  "CenterPositionLat": 28.034043350258113
+ },
+ {
+  "ID": 613002121,
+  "Capacity": 202,
+  "Name": "Laipmanni Haljasala",
+  "CenterPositionLon": 58.95050073902802,
+  "CenterPositionLat": 23.53319150262698
+ },
+ {
+  "ID": 613849652,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 59.39006364069308,
+  "CenterPositionLat": 24.660500201155898
+ },
+ {
+  "ID": 613849653,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 59.3900211368193,
+  "CenterPositionLat": 24.65968151462634
+ },
+ {
+  "ID": 613849654,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 59.390163642998985,
+  "CenterPositionLat": 24.661052809409526
+ },
+ {
+  "ID": 613849656,
+  "Capacity": 331,
+  "Name": "",
+  "CenterPositionLon": 59.389708765481885,
+  "CenterPositionLat": 24.66380220187391
+ },
+ {
+  "ID": 613986017,
+  "Capacity": 3962,
+  "Name": "Glehni park",
+  "CenterPositionLon": 59.38740111568697,
+  "CenterPositionLat": 24.65354049686981
+ },
+ {
+  "ID": 616396282,
+  "Capacity": 11155,
+  "Name": "Vääna mõisapark",
+  "CenterPositionLon": 59.38922853266182,
+  "CenterPositionLat": 24.414511893560498
+ },
+ {
+  "ID": 616398881,
+  "Capacity": 10842,
+  "Name": "Vääna mõisapark",
+  "CenterPositionLon": 59.38738332875616,
+  "CenterPositionLat": 24.414928249730462
+ },
+ {
+  "ID": 618810438,
+  "Capacity": 2786,
+  "Name": "",
+  "CenterPositionLon": 58.38804911115297,
+  "CenterPositionLat": 24.498719167706657
+ },
+ {
+  "ID": 618812204,
+  "Capacity": 2559,
+  "Name": "Leinapark",
+  "CenterPositionLon": 58.36733754343469,
+  "CenterPositionLat": 24.553695104149078
+ },
+ {
+  "ID": 618955910,
+  "Capacity": 6700,
+  "Name": "Waldhofi park",
+  "CenterPositionLon": 58.374762085310884,
+  "CenterPositionLat": 24.54094901983577
+ },
+ {
+  "ID": 618975680,
+  "Capacity": 6781,
+  "Name": "Mõrra park",
+  "CenterPositionLon": 58.391463988541986,
+  "CenterPositionLat": 24.459240095438094
+ },
+ {
+  "ID": 618977463,
+  "Capacity": 16796,
+  "Name": "Veteranide park",
+  "CenterPositionLon": 58.37518897680183,
+  "CenterPositionLat": 24.557538926296953
+ },
+ {
+  "ID": 618977772,
+  "Capacity": 575,
+  "Name": "Salme park",
+  "CenterPositionLon": 58.35209206721876,
+  "CenterPositionLat": 24.566780847167948
+ },
+ {
+  "ID": 618978033,
+  "Capacity": 4114,
+  "Name": "Annemõisa park",
+  "CenterPositionLon": 58.37895550166437,
+  "CenterPositionLat": 24.537128028102472
+ },
+ {
+  "ID": 618978188,
+  "Capacity": 475,
+  "Name": "Paju park",
+  "CenterPositionLon": 58.377004950996216,
+  "CenterPositionLat": 24.526152136454915
+ },
+ {
+  "ID": 619178234,
+  "Capacity": 1537,
+  "Name": "",
+  "CenterPositionLon": 58.37583469130925,
+  "CenterPositionLat": 24.530522873347916
+ },
+ {
+  "ID": 619491223,
+  "Capacity": 2680,
+  "Name": "",
+  "CenterPositionLon": 58.373901370927186,
+  "CenterPositionLat": 24.5287885058439
+ },
+ {
+  "ID": 624098506,
+  "Capacity": 73,
+  "Name": "Aiku Holiday Park",
+  "CenterPositionLon": 58.440696425501784,
+  "CenterPositionLat": 25.58675854767781
+ },
+ {
+  "ID": 627036350,
+  "Capacity": 843,
+  "Name": "Skatepark \u0026 workout area",
+  "CenterPositionLon": 59.44718706738249,
+  "CenterPositionLat": 24.87230437890129
+ },
+ {
+  "ID": 631526725,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 59.388084884007355,
+  "CenterPositionLat": 24.65690590765505
+ },
+ {
+  "ID": 632475950,
+  "Capacity": 16960,
+  "Name": "Mäetaguse Mõisa park",
+  "CenterPositionLon": 59.22328643094084,
+  "CenterPositionLat": 27.289882696134534
+ },
+ {
+  "ID": 636520523,
+  "Capacity": 806,
+  "Name": "",
+  "CenterPositionLon": 59.441985712783556,
+  "CenterPositionLat": 24.783235084711695
+ },
+ {
+  "ID": 640117178,
+  "Capacity": 484,
+  "Name": "Stroomi alley",
+  "CenterPositionLon": 59.447863285781494,
+  "CenterPositionLat": 24.690619966959705
+ },
+ {
+  "ID": 645765649,
+  "Capacity": 15218,
+  "Name": "",
+  "CenterPositionLon": 59.39558643541276,
+  "CenterPositionLat": 27.767356777078373
+ },
+ {
+  "ID": 651577870,
+  "Capacity": 11042,
+  "Name": "",
+  "CenterPositionLon": 58.364853568002644,
+  "CenterPositionLat": 24.543793423271335
+ },
+ {
+  "ID": 651599897,
+  "Capacity": 2224,
+  "Name": "",
+  "CenterPositionLon": 58.37011307935579,
+  "CenterPositionLat": 24.545097357229626
+ },
+ {
+  "ID": 653438746,
+  "Capacity": 45051,
+  "Name": "Lossipark",
+  "CenterPositionLon": 58.35973461860834,
+  "CenterPositionLat": 25.594811869956985
+ },
+ {
+  "ID": 658455453,
+  "Capacity": 767,
+  "Name": "",
+  "CenterPositionLon": 59.58353113615806,
+  "CenterPositionLat": 25.719213452993852
+ },
+ {
+  "ID": 660713927,
+  "Capacity": 3648,
+  "Name": "",
+  "CenterPositionLon": 59.33890005,
+  "CenterPositionLat": 26.37432145
+ },
+ {
+  "ID": 664149273,
+  "Capacity": 1494,
+  "Name": "",
+  "CenterPositionLon": 59.396559137634235,
+  "CenterPositionLat": 27.762239437164602
+ },
+ {
+  "ID": 665350586,
+  "Capacity": 809,
+  "Name": "Jalas",
+  "CenterPositionLon": 58.701005302950854,
+  "CenterPositionLat": 26.840087422619494
+ },
+ {
+  "ID": 665358542,
+  "Capacity": 9675,
+  "Name": "Kalevipoja koda",
+  "CenterPositionLon": 58.695184012642144,
+  "CenterPositionLat": 26.84851573825829
+ },
+ {
+  "ID": 665558054,
+  "Capacity": 4566,
+  "Name": "Hiiu park",
+  "CenterPositionLon": 59.3769052258719,
+  "CenterPositionLat": 24.68000950568193
+ },
+ {
+  "ID": 665558055,
+  "Capacity": 4838,
+  "Name": "Hiiu puiestik",
+  "CenterPositionLon": 59.37591678911538,
+  "CenterPositionLat": 24.675182203843875
+ },
+ {
+  "ID": 665786618,
+  "Capacity": 1592,
+  "Name": "Diakonissi park",
+  "CenterPositionLon": 59.41772579001286,
+  "CenterPositionLat": 24.739519718219835
+ },
+ {
+  "ID": 665786619,
+  "Capacity": 230,
+  "Name": "Hõlmikpuuhaljak",
+  "CenterPositionLon": 59.43011590728912,
+  "CenterPositionLat": 24.745246924891624
+ },
+ {
+  "ID": 665786620,
+  "Capacity": 925,
+  "Name": "Kalma haljak",
+  "CenterPositionLon": 59.44418995000686,
+  "CenterPositionLat": 24.736571977747065
+ },
+ {
+  "ID": 665786621,
+  "Capacity": 2234,
+  "Name": "Vana-Lõuna haljak",
+  "CenterPositionLon": 59.42111256305483,
+  "CenterPositionLat": 24.74331262164284
+ },
+ {
+  "ID": 665894957,
+  "Capacity": 523,
+  "Name": "",
+  "CenterPositionLon": 58.38118848898663,
+  "CenterPositionLat": 24.523791718407185
+ },
+ {
+  "ID": 666050818,
+  "Capacity": 514,
+  "Name": "Meriaia haljak",
+  "CenterPositionLon": 59.49066114524063,
+  "CenterPositionLat": 24.840603433170152
+ },
+ {
+  "ID": 666346780,
+  "Capacity": 2391,
+  "Name": "",
+  "CenterPositionLon": 59.444218073173836,
+  "CenterPositionLat": 24.795442528612252
+ },
+ {
+  "ID": 666348630,
+  "Capacity": 6449,
+  "Name": "",
+  "CenterPositionLon": 58.3707714705683,
+  "CenterPositionLat": 24.61820666171647
+ },
+ {
+  "ID": 666348631,
+  "Capacity": 672,
+  "Name": "",
+  "CenterPositionLon": 58.37253123558807,
+  "CenterPositionLat": 24.612924809517775
+ },
+ {
+  "ID": 666348632,
+  "Capacity": 1178,
+  "Name": "",
+  "CenterPositionLon": 58.37154992312738,
+  "CenterPositionLat": 24.611457668191306
+ },
+ {
+  "ID": 666348633,
+  "Capacity": 551,
+  "Name": "",
+  "CenterPositionLon": 58.371922477836165,
+  "CenterPositionLat": 24.613370771827103
+ },
+ {
+  "ID": 666980710,
+  "Capacity": 406,
+  "Name": "",
+  "CenterPositionLon": 58.3855076615585,
+  "CenterPositionLat": 24.494511963269357
+ },
+ {
+  "ID": 667254085,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 58.37255882641629,
+  "CenterPositionLat": 24.534500396680453
+ },
+ {
+  "ID": 667254086,
+  "Capacity": 617,
+  "Name": "",
+  "CenterPositionLon": 58.373206195370024,
+  "CenterPositionLat": 24.534460333897844
+ },
+ {
+  "ID": 667254087,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 58.37289246797258,
+  "CenterPositionLat": 24.535230027842843
+ },
+ {
+  "ID": 667257005,
+  "Capacity": 859,
+  "Name": "",
+  "CenterPositionLon": 58.35013575,
+  "CenterPositionLat": 24.5740707
+ },
+ {
+  "ID": 674308638,
+  "Capacity": 3063,
+  "Name": "",
+  "CenterPositionLon": 57.61128340236431,
+  "CenterPositionLat": 26.833895008255713
+ },
+ {
+  "ID": 677903772,
+  "Capacity": 5208,
+  "Name": "",
+  "CenterPositionLon": 58.8497618725938,
+  "CenterPositionLat": 26.949573820039657
+ },
+ {
+  "ID": 683405883,
+  "Capacity": 1452,
+  "Name": "",
+  "CenterPositionLon": 58.39622206436717,
+  "CenterPositionLat": 24.471274925743685
+ },
+ {
+  "ID": 685672440,
+  "Capacity": 931,
+  "Name": "",
+  "CenterPositionLon": 57.631556934679814,
+  "CenterPositionLat": 26.76991525624217
+ },
+ {
+  "ID": 686103497,
+  "Capacity": 1767,
+  "Name": "",
+  "CenterPositionLon": 58.374889397802704,
+  "CenterPositionLat": 24.567763709730226
+ },
+ {
+  "ID": 686103498,
+  "Capacity": 643,
+  "Name": "",
+  "CenterPositionLon": 58.37411054137484,
+  "CenterPositionLat": 24.567412380439894
+ },
+ {
+  "ID": 686122961,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 58.37740608574393,
+  "CenterPositionLat": 26.706184412490817
+ },
+ {
+  "ID": 686122979,
+  "Capacity": 219,
+  "Name": "",
+  "CenterPositionLon": 58.378113220226126,
+  "CenterPositionLat": 26.705228059533955
+ },
+ {
+  "ID": 686671582,
+  "Capacity": 3586,
+  "Name": "",
+  "CenterPositionLon": 57.64398957200446,
+  "CenterPositionLat": 26.66217270752492
+ },
+ {
+  "ID": 689500419,
+  "Capacity": 3772,
+  "Name": "Navesti park",
+  "CenterPositionLon": 58.58324873411505,
+  "CenterPositionLat": 25.530045455050658
+ },
+ {
+  "ID": 690504152,
+  "Capacity": 3327,
+  "Name": "",
+  "CenterPositionLon": 59.32029970693505,
+  "CenterPositionLat": 24.22931796776376
+ },
+ {
+  "ID": 693792712,
+  "Capacity": 746,
+  "Name": "",
+  "CenterPositionLon": 58.74698606288476,
+  "CenterPositionLat": 26.399078476312226
+ },
+ {
+  "ID": 693792713,
+  "Capacity": 812,
+  "Name": "",
+  "CenterPositionLon": 58.746251783615975,
+  "CenterPositionLat": 26.399320228975824
+ },
+ {
+  "ID": 698034911,
+  "Capacity": 6158,
+  "Name": "",
+  "CenterPositionLon": 58.38829267081881,
+  "CenterPositionLat": 26.697497986197927
+ },
+ {
+  "ID": 698034912,
+  "Capacity": 3819,
+  "Name": "",
+  "CenterPositionLon": 58.389072884048524,
+  "CenterPositionLat": 26.695964507314702
+ },
+ {
+  "ID": 698093742,
+  "Capacity": 52703,
+  "Name": "Dendropark",
+  "CenterPositionLon": 58.392257373146265,
+  "CenterPositionLat": 26.696502320759503
+ },
+ {
+  "ID": 700204492,
+  "Capacity": 719,
+  "Name": "",
+  "CenterPositionLon": 59.40685503097776,
+  "CenterPositionLat": 24.698996112575628
+ },
+ {
+  "ID": 700225338,
+  "Capacity": 390,
+  "Name": "",
+  "CenterPositionLon": 59.40689296762126,
+  "CenterPositionLat": 24.696751988041445
+ },
+ {
+  "ID": 701394815,
+  "Capacity": 2561,
+  "Name": "",
+  "CenterPositionLon": 59.46215653135274,
+  "CenterPositionLat": 28.04260457188653
+ },
+ {
+  "ID": 703430210,
+  "Capacity": 2819,
+  "Name": "",
+  "CenterPositionLon": 58.37830943896564,
+  "CenterPositionLat": 24.497228543830882
+ },
+ {
+  "ID": 704374736,
+  "Capacity": 385,
+  "Name": "",
+  "CenterPositionLon": 58.38479004609637,
+  "CenterPositionLat": 24.4967500935508
+ },
+ {
+  "ID": 704637990,
+  "Capacity": 3070,
+  "Name": "",
+  "CenterPositionLon": 58.39444708934637,
+  "CenterPositionLat": 24.462807182464633
+ },
+ {
+  "ID": 704886741,
+  "Capacity": 601,
+  "Name": "",
+  "CenterPositionLon": 58.388261030593355,
+  "CenterPositionLat": 24.478949215468628
+ },
+ {
+  "ID": 704886772,
+  "Capacity": 15874,
+  "Name": "",
+  "CenterPositionLon": 58.385571849105276,
+  "CenterPositionLat": 24.470053747766713
+ },
+ {
+  "ID": 705166315,
+  "Capacity": 475,
+  "Name": "",
+  "CenterPositionLon": 58.3942006149606,
+  "CenterPositionLat": 24.520899983876102
+ },
+ {
+  "ID": 705211153,
+  "Capacity": 2084,
+  "Name": "",
+  "CenterPositionLon": 58.37730998965873,
+  "CenterPositionLat": 24.622932567262136
+ },
+ {
+  "ID": 705211155,
+  "Capacity": 3425,
+  "Name": "",
+  "CenterPositionLon": 58.376674473635646,
+  "CenterPositionLat": 24.619537148495375
+ },
+ {
+  "ID": 705211157,
+  "Capacity": 3171,
+  "Name": "",
+  "CenterPositionLon": 58.376868171794655,
+  "CenterPositionLat": 24.61772630250001
+ },
+ {
+  "ID": 705211173,
+  "Capacity": 2942,
+  "Name": "",
+  "CenterPositionLon": 58.371510261543186,
+  "CenterPositionLat": 24.60654254689572
+ },
+ {
+  "ID": 705752300,
+  "Capacity": 1137,
+  "Name": "",
+  "CenterPositionLon": 58.384802679994564,
+  "CenterPositionLat": 24.62227372811708
+ },
+ {
+  "ID": 705752330,
+  "Capacity": 1767,
+  "Name": "",
+  "CenterPositionLon": 58.39110540668253,
+  "CenterPositionLat": 24.63397080057083
+ },
+ {
+  "ID": 706396406,
+  "Capacity": 2763,
+  "Name": "Kooli park",
+  "CenterPositionLon": 58.40628318270344,
+  "CenterPositionLat": 24.656833860341937
+ },
+ {
+  "ID": 706396409,
+  "Capacity": 6943,
+  "Name": "Kiriku park",
+  "CenterPositionLon": 58.40504608585455,
+  "CenterPositionLat": 24.64871877798447
+ },
+ {
+  "ID": 706396410,
+  "Capacity": 1615,
+  "Name": "Wöhrmanni park",
+  "CenterPositionLon": 58.40621127938574,
+  "CenterPositionLat": 24.651934358428626
+ },
+ {
+  "ID": 706396412,
+  "Capacity": 3697,
+  "Name": "Vabriku park",
+  "CenterPositionLon": 58.407642603677246,
+  "CenterPositionLat": 24.656124772464608
+ },
+ {
+  "ID": 706396416,
+  "Capacity": 2880,
+  "Name": "Abiturientide park",
+  "CenterPositionLon": 58.40429435700965,
+  "CenterPositionLat": 24.655992984787904
+ },
+ {
+  "ID": 706396417,
+  "Capacity": 34890,
+  "Name": "Sõpruse park",
+  "CenterPositionLon": 58.40061190935892,
+  "CenterPositionLat": 24.641497434738906
+ },
+ {
+  "ID": 706396418,
+  "Capacity": 5466,
+  "Name": "Dendropark",
+  "CenterPositionLon": 58.400465066227675,
+  "CenterPositionLat": 24.640952749408093
+ },
+ {
+  "ID": 706396419,
+  "Capacity": 736,
+  "Name": "Lohu park",
+  "CenterPositionLon": 58.399944508303776,
+  "CenterPositionLat": 24.64638858385825
+ },
+ {
+  "ID": 706396420,
+  "Capacity": 3566,
+  "Name": "Hirveaia park",
+  "CenterPositionLon": 58.406817138504216,
+  "CenterPositionLat": 24.650366587906333
+ },
+ {
+  "ID": 706396421,
+  "Capacity": 2168,
+  "Name": "Klubi park",
+  "CenterPositionLon": 58.408745684019934,
+  "CenterPositionLat": 24.658480545607006
+ },
+ {
+  "ID": 706396423,
+  "Capacity": 606,
+  "Name": "Lastepark",
+  "CenterPositionLon": 58.40292417669658,
+  "CenterPositionLat": 24.653998510880918
+ },
+ {
+  "ID": 706396424,
+  "Capacity": 4690,
+  "Name": "Tiigi park",
+  "CenterPositionLon": 58.40284001989415,
+  "CenterPositionLat": 24.662993335337752
+ },
+ {
+  "ID": 706396427,
+  "Capacity": 525,
+  "Name": "Postimaja park",
+  "CenterPositionLon": 58.407272545332084,
+  "CenterPositionLat": 24.659021322476416
+ },
+ {
+  "ID": 706396428,
+  "Capacity": 805,
+  "Name": "Kanarbiku park",
+  "CenterPositionLon": 58.399494533592936,
+  "CenterPositionLat": 24.663635272836057
+ },
+ {
+  "ID": 706396429,
+  "Capacity": 462,
+  "Name": "Sambla park",
+  "CenterPositionLon": 58.40053160275644,
+  "CenterPositionLat": 24.664375123624183
+ },
+ {
+  "ID": 706396430,
+  "Capacity": 7474,
+  "Name": "Rabaääre metsapark",
+  "CenterPositionLon": 58.39454062442561,
+  "CenterPositionLat": 24.664403504169396
+ },
+ {
+  "ID": 706396431,
+  "Capacity": 5026,
+  "Name": "Männimetsa park",
+  "CenterPositionLon": 58.39632928442701,
+  "CenterPositionLat": 24.67212431691279
+ },
+ {
+  "ID": 706396432,
+  "Capacity": 204,
+  "Name": "Eha park",
+  "CenterPositionLon": 58.39579348644293,
+  "CenterPositionLat": 24.648593406255785
+ },
+ {
+  "ID": 706396433,
+  "Capacity": 8745,
+  "Name": "Saviaugu park",
+  "CenterPositionLon": 58.392563118618526,
+  "CenterPositionLat": 24.64029191405111
+ },
+ {
+  "ID": 706396434,
+  "Capacity": 579,
+  "Name": "Tõela metsapark",
+  "CenterPositionLon": 58.39414805518819,
+  "CenterPositionLat": 24.649701946732772
+ },
+ {
+  "ID": 706396435,
+  "Capacity": 11166,
+  "Name": "Ojakalda park",
+  "CenterPositionLon": 58.39521917851504,
+  "CenterPositionLat": 24.63956784893292
+ },
+ {
+  "ID": 707759529,
+  "Capacity": 650,
+  "Name": "",
+  "CenterPositionLon": 58.4023025609638,
+  "CenterPositionLat": 24.645668789957952
+ },
+ {
+  "ID": 707759531,
+  "Capacity": 6668,
+  "Name": "",
+  "CenterPositionLon": 58.40349844601294,
+  "CenterPositionLat": 24.659175542512664
+ },
+ {
+  "ID": 707759532,
+  "Capacity": 1324,
+  "Name": "",
+  "CenterPositionLon": 58.40395622140583,
+  "CenterPositionLat": 24.658906499337295
+ },
+ {
+  "ID": 707759533,
+  "Capacity": 765,
+  "Name": "",
+  "CenterPositionLon": 58.40138447177965,
+  "CenterPositionLat": 24.65187623270127
+ },
+ {
+  "ID": 707759538,
+  "Capacity": 10767,
+  "Name": "Ujula park",
+  "CenterPositionLon": 58.41415588449312,
+  "CenterPositionLat": 24.66563465348977
+ },
+ {
+  "ID": 707759540,
+  "Capacity": 1834,
+  "Name": "",
+  "CenterPositionLon": 58.41040356735955,
+  "CenterPositionLat": 24.66230451792758
+ },
+ {
+  "ID": 707759550,
+  "Capacity": 1395,
+  "Name": "",
+  "CenterPositionLon": 58.40649840671285,
+  "CenterPositionLat": 24.665288687098617
+ },
+ {
+  "ID": 709628292,
+  "Capacity": 2353,
+  "Name": "",
+  "CenterPositionLon": 59.37546874428958,
+  "CenterPositionLat": 28.197797040698948
+ },
+ {
+  "ID": 709628302,
+  "Capacity": 10959,
+  "Name": "",
+  "CenterPositionLon": 59.38354529755669,
+  "CenterPositionLat": 28.203692774658645
+ },
+ {
+  "ID": 710262525,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": 59.37700788047049,
+  "CenterPositionLat": 28.193877734091885
+ },
+ {
+  "ID": 710262527,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 59.377387890105226,
+  "CenterPositionLat": 28.194887296363127
+ },
+ {
+  "ID": 710262528,
+  "Capacity": 860,
+  "Name": "",
+  "CenterPositionLon": 59.376961522559256,
+  "CenterPositionLat": 28.196114327953048
+ },
+ {
+  "ID": 710263644,
+  "Capacity": 234,
+  "Name": "",
+  "CenterPositionLon": 59.384059748263546,
+  "CenterPositionLat": 28.200895674150555
+ },
+ {
+  "ID": 710278106,
+  "Capacity": 2148,
+  "Name": "",
+  "CenterPositionLon": 59.44408795694595,
+  "CenterPositionLat": 24.74656997970925
+ },
+ {
+  "ID": 710359836,
+  "Capacity": 1002,
+  "Name": "",
+  "CenterPositionLon": 59.35692395403454,
+  "CenterPositionLat": 26.97405584023794
+ },
+ {
+  "ID": 710531467,
+  "Capacity": 14220,
+  "Name": "Rõuge park",
+  "CenterPositionLon": 57.72950433141155,
+  "CenterPositionLat": 26.90932426214673
+ },
+ {
+  "ID": 710536757,
+  "Capacity": 1727,
+  "Name": "Mälestuste park",
+  "CenterPositionLon": 57.7319506848924,
+  "CenterPositionLat": 26.928018597581254
+ },
+ {
+  "ID": 710628946,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 58.384609711920575,
+  "CenterPositionLat": 26.73062119619408
+ },
+ {
+  "ID": 712314831,
+  "Capacity": 4580,
+  "Name": "",
+  "CenterPositionLon": 58.37311402242191,
+  "CenterPositionLat": 24.516934625972855
+ },
+ {
+  "ID": 712350744,
+  "Capacity": 733,
+  "Name": "",
+  "CenterPositionLon": 58.36952836240547,
+  "CenterPositionLat": 24.549187062915372
+ },
+ {
+  "ID": 720450631,
+  "Capacity": 13716,
+  "Name": "Mõniste park",
+  "CenterPositionLon": 57.61524201926659,
+  "CenterPositionLat": 26.613117902147355
+ },
+ {
+  "ID": 720452126,
+  "Capacity": 1883,
+  "Name": "",
+  "CenterPositionLon": 57.616407958090974,
+  "CenterPositionLat": 26.613185654901013
+ },
+ {
+  "ID": 720452128,
+  "Capacity": 1202,
+  "Name": "",
+  "CenterPositionLon": 57.61712657123286,
+  "CenterPositionLat": 26.6145515391792
+ },
+ {
+  "ID": 720590701,
+  "Capacity": 1640,
+  "Name": "",
+  "CenterPositionLon": 59.33796989882764,
+  "CenterPositionLat": 25.320858160125066
+ },
+ {
+  "ID": 720790416,
+  "Capacity": 6710,
+  "Name": "Kehra staadioni park",
+  "CenterPositionLon": 59.33076139359889,
+  "CenterPositionLat": 25.34072709547289
+ },
+ {
+  "ID": 720986952,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": 59.333507071992216,
+  "CenterPositionLat": 25.340741920050082
+ },
+ {
+  "ID": 726382079,
+  "Capacity": 772,
+  "Name": "",
+  "CenterPositionLon": 58.38915521832933,
+  "CenterPositionLat": 26.69362046458242
+ },
+ {
+  "ID": 726382094,
+  "Capacity": 3640,
+  "Name": "",
+  "CenterPositionLon": 58.393317268060315,
+  "CenterPositionLat": 26.69008026562883
+ },
+ {
+  "ID": 726382096,
+  "Capacity": 4689,
+  "Name": "",
+  "CenterPositionLon": 58.393861716341384,
+  "CenterPositionLat": 26.687609907999683
+ },
+ {
+  "ID": 726382097,
+  "Capacity": 5297,
+  "Name": "",
+  "CenterPositionLon": 58.39261805013543,
+  "CenterPositionLat": 26.686108880662424
+ },
+ {
+  "ID": 729675737,
+  "Capacity": 16697,
+  "Name": "Polli park",
+  "CenterPositionLon": 58.12444682181774,
+  "CenterPositionLat": 25.53897012698287
+ },
+ {
+  "ID": 733470957,
+  "Capacity": 214,
+  "Name": "Marta tänava park",
+  "CenterPositionLon": 59.41406710639901,
+  "CenterPositionLat": 24.737274129084298
+ },
+ {
+  "ID": 733472354,
+  "Capacity": 1953,
+  "Name": "Tõrvandi park",
+  "CenterPositionLon": 58.322200596613314,
+  "CenterPositionLat": 26.701079780535803
+ },
+ {
+  "ID": 736267264,
+  "Capacity": 463,
+  "Name": "",
+  "CenterPositionLon": 59.37553000081261,
+  "CenterPositionLat": 24.677973657870865
+ },
+ {
+  "ID": 736267265,
+  "Capacity": 504,
+  "Name": "",
+  "CenterPositionLon": 59.37567863818882,
+  "CenterPositionLat": 24.678725262682395
+ },
+ {
+  "ID": 749263152,
+  "Capacity": 4396,
+  "Name": "",
+  "CenterPositionLon": 58.39131088799612,
+  "CenterPositionLat": 24.51221307617548
+ },
+ {
+  "ID": 749263153,
+  "Capacity": 5870,
+  "Name": "",
+  "CenterPositionLon": 58.38988386492661,
+  "CenterPositionLat": 24.521294193612334
+ },
+ {
+  "ID": 751280180,
+  "Capacity": 2142,
+  "Name": "",
+  "CenterPositionLon": 58.05805940383281,
+  "CenterPositionLat": 26.495557871335908
+ },
+ {
+  "ID": 751280185,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": 58.05727875085484,
+  "CenterPositionLat": 26.4980963318903
+ },
+ {
+  "ID": 751327483,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 58.060088175064045,
+  "CenterPositionLat": 26.49631518316871
+ },
+ {
+  "ID": 751350195,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 58.059917257742015,
+  "CenterPositionLat": 26.49723531672676
+ },
+ {
+  "ID": 752821604,
+  "Capacity": 1184,
+  "Name": "",
+  "CenterPositionLon": 59.34412321488398,
+  "CenterPositionLat": 26.127405647917207
+ },
+ {
+  "ID": 752821682,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": 59.34294821020144,
+  "CenterPositionLat": 26.130124585031933
+ },
+ {
+  "ID": 752919718,
+  "Capacity": 1059,
+  "Name": "",
+  "CenterPositionLon": 59.338464860931836,
+  "CenterPositionLat": 26.137412354320702
+ },
+ {
+  "ID": 753725045,
+  "Capacity": 4928,
+  "Name": "Soolikaoja puhkeala",
+  "CenterPositionLon": 59.340284880430886,
+  "CenterPositionLat": 26.36096736549585
+ },
+ {
+  "ID": 753727229,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 59.34507334181262,
+  "CenterPositionLat": 26.363655691181343
+ },
+ {
+  "ID": 756075964,
+  "Capacity": 273,
+  "Name": "Seebi Park",
+  "CenterPositionLon": 59.40295028567996,
+  "CenterPositionLat": 24.723189623499774
+ },
+ {
+  "ID": 758178783,
+  "Capacity": 1883,
+  "Name": "",
+  "CenterPositionLon": 58.3660095171958,
+  "CenterPositionLat": 26.672558436234464
+ },
+ {
+  "ID": 758198610,
+  "Capacity": 454,
+  "Name": "",
+  "CenterPositionLon": 58.37131558490622,
+  "CenterPositionLat": 26.72746545281898
+ },
+ {
+  "ID": 759545864,
+  "Capacity": 1008,
+  "Name": "",
+  "CenterPositionLon": 59.007082545730675,
+  "CenterPositionLat": 24.795346713882967
+ },
+ {
+  "ID": 759545865,
+  "Capacity": 1888,
+  "Name": "",
+  "CenterPositionLon": 59.00772593605465,
+  "CenterPositionLat": 24.795733087580636
+ },
+ {
+  "ID": 759545866,
+  "Capacity": 402,
+  "Name": "",
+  "CenterPositionLon": 59.00825739577366,
+  "CenterPositionLat": 24.795114549560868
+ },
+ {
+  "ID": 759555007,
+  "Capacity": 3966,
+  "Name": "",
+  "CenterPositionLon": 58.94584940466765,
+  "CenterPositionLat": 24.903896973306498
+ },
+ {
+  "ID": 762521625,
+  "Capacity": 7955,
+  "Name": "Paruni park",
+  "CenterPositionLon": 58.31403486805152,
+  "CenterPositionLat": 26.72768703442102
+ },
+ {
+  "ID": 762521628,
+  "Capacity": 3006,
+  "Name": "",
+  "CenterPositionLon": 58.316011759303414,
+  "CenterPositionLat": 26.720458286754592
+ },
+ {
+  "ID": 762527079,
+  "Capacity": 3857,
+  "Name": "",
+  "CenterPositionLon": 58.33302046139073,
+  "CenterPositionLat": 26.72212142055727
+ },
+ {
+  "ID": 762706722,
+  "Capacity": 1427,
+  "Name": "",
+  "CenterPositionLon": 58.35804391681247,
+  "CenterPositionLat": 26.78646186968057
+ },
+ {
+  "ID": 766734270,
+  "Capacity": 17198,
+  "Name": "Tartu Tammik",
+  "CenterPositionLon": 58.36044723207524,
+  "CenterPositionLat": 26.773384667185645
+ },
+ {
+  "ID": 770917475,
+  "Capacity": 196,
+  "Name": "",
+  "CenterPositionLon": 59.43405060711011,
+  "CenterPositionLat": 24.749451781041575
+ },
+ {
+  "ID": 772542001,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": 59.41431194138362,
+  "CenterPositionLat": 24.742421268407412
+ },
+ {
+  "ID": 775086308,
+  "Capacity": 4890,
+  "Name": "",
+  "CenterPositionLon": 58.394012691604814,
+  "CenterPositionLat": 26.73232815793995
+ },
+ {
+  "ID": 781613995,
+  "Capacity": 22980,
+  "Name": "",
+  "CenterPositionLon": 58.391941607051606,
+  "CenterPositionLat": 26.74509461239911
+ },
+ {
+  "ID": 783118107,
+  "Capacity": 407,
+  "Name": "",
+  "CenterPositionLon": 59.509652582139616,
+  "CenterPositionLat": 24.827835863442278
+ },
+ {
+  "ID": 783123066,
+  "Capacity": 3257,
+  "Name": "",
+  "CenterPositionLon": 59.50831425210706,
+  "CenterPositionLat": 24.82847518947673
+ },
+ {
+  "ID": 784314158,
+  "Capacity": 540,
+  "Name": "",
+  "CenterPositionLon": 58.37319752671277,
+  "CenterPositionLat": 24.524644044905028
+ },
+ {
+  "ID": 795345130,
+  "Capacity": 209,
+  "Name": "Bastioni aed",
+  "CenterPositionLon": 59.43693236145771,
+  "CenterPositionLat": 24.750932579103555
+ },
+ {
+  "ID": 795347275,
+  "Capacity": 67,
+  "Name": "Dominiiklaste kloostri hoov",
+  "CenterPositionLon": 59.437878291638256,
+  "CenterPositionLat": 24.74891781423137
+ },
+ {
+  "ID": 795939309,
+  "Capacity": 568,
+  "Name": "Otto Krameri aed",
+  "CenterPositionLon": 59.422058572945346,
+  "CenterPositionLat": 24.705160066461
+ },
+ {
+  "ID": 795945979,
+  "Capacity": 4308,
+  "Name": "",
+  "CenterPositionLon": 59.45041612747845,
+  "CenterPositionLat": 24.719088681913124
+ },
+ {
+  "ID": 796418913,
+  "Capacity": 1992,
+  "Name": "",
+  "CenterPositionLon": 59.44184326168134,
+  "CenterPositionLat": 24.6904796648122
+ },
+ {
+  "ID": 796542662,
+  "Capacity": 997,
+  "Name": "Ülejõe park",
+  "CenterPositionLon": 58.398663026877315,
+  "CenterPositionLat": 24.488923233899026
+ },
+ {
+  "ID": 802688728,
+  "Capacity": 8621,
+  "Name": "Koolinoorte metsapark",
+  "CenterPositionLon": 58.36296015626435,
+  "CenterPositionLat": 24.548489898724792
+ },
+ {
+  "ID": 802732276,
+  "Capacity": 396,
+  "Name": "",
+  "CenterPositionLon": 59.445075162293186,
+  "CenterPositionLat": 24.728937111693
+ },
+ {
+  "ID": 802902935,
+  "Capacity": 271,
+  "Name": "",
+  "CenterPositionLon": 57.991264175455036,
+  "CenterPositionLat": 27.214356469593433
+ }
+]

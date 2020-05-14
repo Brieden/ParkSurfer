@@ -1,0 +1,212 @@
+[
+ {
+  "ID": 39044871,
+  "Capacity": 36,
+  "Name": "Rietveld Park",
+  "CenterPositionLon": 12.518227595155548,
+  "CenterPositionLat": -70.03224970362791
+ },
+ {
+  "ID": 43109642,
+  "Capacity": 630,
+  "Name": "Casibari Rock Formation",
+  "CenterPositionLon": 12.530940488794318,
+  "CenterPositionLat": -69.99640306376726
+ },
+ {
+  "ID": 81361909,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 12.523998488359528,
+  "CenterPositionLat": -70.03491466254646
+ },
+ {
+  "ID": 81374439,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 12.522638049870169,
+  "CenterPositionLat": -70.03505396606677
+ },
+ {
+  "ID": 81374443,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 12.522853726950599,
+  "CenterPositionLat": -70.03512085087924
+ },
+ {
+  "ID": 170301331,
+  "Capacity": 349,
+  "Name": "Neptali Henriquez Park",
+  "CenterPositionLon": 12.509664760965386,
+  "CenterPositionLat": -70.02956391190048
+ },
+ {
+  "ID": 364701558,
+  "Capacity": 541,
+  "Name": "Lago Heights Park",
+  "CenterPositionLon": 12.433489383482602,
+  "CenterPositionLat": -69.89587745592058
+ },
+ {
+  "ID": 368080453,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 12.519372138568071,
+  "CenterPositionLat": -70.03160650313382
+ },
+ {
+  "ID": 369439806,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 12.519962049999998,
+  "CenterPositionLat": -70.03475105
+ },
+ {
+  "ID": 376447414,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 12.450462342922082,
+  "CenterPositionLat": -69.92772157773086
+ },
+ {
+  "ID": 451808028,
+  "Capacity": 867,
+  "Name": "Hot Triggers Paintball Field",
+  "CenterPositionLon": 12.491349882736053,
+  "CenterPositionLat": -70.00069238051914
+ },
+ {
+  "ID": 453537951,
+  "Capacity": 972,
+  "Name": "Parke Natural Cunucu Abao",
+  "CenterPositionLon": 12.546482661164314,
+  "CenterPositionLat": -70.04838120518711
+ },
+ {
+  "ID": 453537964,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": 12.53262496433008,
+  "CenterPositionLat": -70.05447579638265
+ },
+ {
+  "ID": 453833176,
+  "Capacity": 675,
+  "Name": "Linear Park",
+  "CenterPositionLon": 12.509076928854238,
+  "CenterPositionLat": -70.02848441592965
+ },
+ {
+  "ID": 457361642,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": 12.521296218768159,
+  "CenterPositionLat": -70.03580702061366
+ },
+ {
+  "ID": 487248973,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 12.456596383190355,
+  "CenterPositionLat": -69.96138266668562
+ },
+ {
+  "ID": 562335461,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 12.583856774402687,
+  "CenterPositionLat": -70.04455366178426
+ },
+ {
+  "ID": 562338553,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 12.583229,
+  "CenterPositionLat": -70.0434065
+ },
+ {
+  "ID": 626939406,
+  "Capacity": 581,
+  "Name": "Serinity Park",
+  "CenterPositionLon": 12.456595187957484,
+  "CenterPositionLat": -69.93550804030721
+ },
+ {
+  "ID": 628169514,
+  "Capacity": 631,
+  "Name": "Calypso Plaza",
+  "CenterPositionLon": 12.434949429891494,
+  "CenterPositionLat": -69.90366242306912
+ },
+ {
+  "ID": 663670328,
+  "Capacity": 342,
+  "Name": "",
+  "CenterPositionLon": 12.460453626534333,
+  "CenterPositionLat": -69.96102706697336
+ },
+ {
+  "ID": 663670329,
+  "Capacity": 231,
+  "Name": "",
+  "CenterPositionLon": 12.462273447959586,
+  "CenterPositionLat": -69.9623883086234
+ },
+ {
+  "ID": 673117067,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 12.562667507172284,
+  "CenterPositionLat": -70.05307585706267
+ },
+ {
+  "ID": 674973971,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 12.513226301185846,
+  "CenterPositionLat": -70.0313098391238
+ },
+ {
+  "ID": 674973976,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 12.514307567976243,
+  "CenterPositionLat": -70.03236596154947
+ },
+ {
+  "ID": 685527702,
+  "Capacity": 478,
+  "Name": "Signature Park",
+  "CenterPositionLon": 12.564456104593138,
+  "CenterPositionLat": -70.05043273408064
+ },
+ {
+  "ID": 686223860,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 12.533337076208323,
+  "CenterPositionLat": -70.0393964385987
+ },
+ {
+  "ID": 754056827,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 12.47154477395003,
+  "CenterPositionLat": -69.96018700593558
+ },
+ {
+  "ID": 754056845,
+  "Capacity": 1334,
+  "Name": "Linear Park",
+  "CenterPositionLon": 12.507131376088983,
+  "CenterPositionLat": -70.02640127749812
+ },
+ {
+  "ID": 754059506,
+  "Capacity": 446,
+  "Name": "",
+  "CenterPositionLon": 12.504774730241607,
+  "CenterPositionLat": -70.01888526377067
+ }
+]

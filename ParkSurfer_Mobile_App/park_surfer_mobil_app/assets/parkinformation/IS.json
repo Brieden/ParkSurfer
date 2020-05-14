@@ -1,0 +1,695 @@
+[
+ {
+  "ID": 13253293,
+  "Capacity": 30764,
+  "Name": "Klambratún",
+  "CenterPositionLon": 64.13706661592359,
+  "CenterPositionLat": -21.91340358134834
+ },
+ {
+  "ID": 23257798,
+  "Capacity": 845,
+  "Name": "",
+  "CenterPositionLon": 64.12361562506024,
+  "CenterPositionLat": -21.873770476217437
+ },
+ {
+  "ID": 23257802,
+  "Capacity": 3197,
+  "Name": "Grundargerðisgarður",
+  "CenterPositionLon": 64.12730994523783,
+  "CenterPositionLat": -21.873137124669945
+ },
+ {
+  "ID": 23341163,
+  "Capacity": 1785,
+  "Name": "",
+  "CenterPositionLon": 64.08373628403231,
+  "CenterPositionLat": -21.914838322593443
+ },
+ {
+  "ID": 23341224,
+  "Capacity": 970,
+  "Name": "",
+  "CenterPositionLon": 64.08514499297692,
+  "CenterPositionLat": -21.923212585703503
+ },
+ {
+  "ID": 23412000,
+  "Capacity": 11838,
+  "Name": "Víðistaðatún",
+  "CenterPositionLon": 64.07452605355114,
+  "CenterPositionLat": -21.962953835503377
+ },
+ {
+  "ID": 23412812,
+  "Capacity": 1446,
+  "Name": "",
+  "CenterPositionLon": 64.06821163144785,
+  "CenterPositionLat": -21.944031139815436
+ },
+ {
+  "ID": 37047199,
+  "Capacity": 512,
+  "Name": "",
+  "CenterPositionLon": 66.07372584703903,
+  "CenterPositionLat": -23.118519829245944
+ },
+ {
+  "ID": 37679717,
+  "Capacity": 471,
+  "Name": "",
+  "CenterPositionLon": 64.14675792395998,
+  "CenterPositionLat": -21.93642901734843
+ },
+ {
+  "ID": 37918417,
+  "Capacity": 497,
+  "Name": "Gaujulundur",
+  "CenterPositionLon": 63.44292741661916,
+  "CenterPositionLat": -20.24863072709415
+ },
+ {
+  "ID": 52275277,
+  "Capacity": 26100,
+  "Name": "Hljómskálagarðurinn",
+  "CenterPositionLon": 64.1411728768025,
+  "CenterPositionLat": -21.94169192946152
+ },
+ {
+  "ID": 54231718,
+  "Capacity": 10531,
+  "Name": "",
+  "CenterPositionLon": 64.1427889956868,
+  "CenterPositionLat": -21.87239009240209
+ },
+ {
+  "ID": 55255814,
+  "Capacity": 2165,
+  "Name": "Skallagrímsgarður",
+  "CenterPositionLon": 64.53992237882642,
+  "CenterPositionLat": -21.920249630988934
+ },
+ {
+  "ID": 60845933,
+  "Capacity": 868,
+  "Name": "",
+  "CenterPositionLon": 64.14345355974852,
+  "CenterPositionLat": -21.94454224134855
+ },
+ {
+  "ID": 61792979,
+  "Capacity": 1677,
+  "Name": "Hallargarðurinn",
+  "CenterPositionLon": 64.14333422349299,
+  "CenterPositionLat": -21.939307385887595
+ },
+ {
+  "ID": 69273614,
+  "Capacity": 2815,
+  "Name": "Hveragarðurinn",
+  "CenterPositionLon": 64.00090037997697,
+  "CenterPositionLat": -21.188389461759197
+ },
+ {
+  "ID": 84324800,
+  "Capacity": 214,
+  "Name": "Alþingisgarðurinn",
+  "CenterPositionLon": 64.14653692462765,
+  "CenterPositionLat": -21.94034532365408
+ },
+ {
+  "ID": 107706915,
+  "Capacity": 450,
+  "Name": "",
+  "CenterPositionLon": 64.14547724201357,
+  "CenterPositionLat": -21.938466253646244
+ },
+ {
+  "ID": 111361856,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 64.14242255941801,
+  "CenterPositionLat": -21.930551266333442
+ },
+ {
+  "ID": 111616800,
+  "Capacity": 1229,
+  "Name": "",
+  "CenterPositionLon": 64.13559330260277,
+  "CenterPositionLat": -21.899655905647922
+ },
+ {
+  "ID": 114035972,
+  "Capacity": 760,
+  "Name": "",
+  "CenterPositionLon": 64.1385403806361,
+  "CenterPositionLat": -21.932288253750272
+ },
+ {
+  "ID": 117963037,
+  "Capacity": 224,
+  "Name": "",
+  "CenterPositionLon": 64.14273615,
+  "CenterPositionLat": -21.909329700000004
+ },
+ {
+  "ID": 129577128,
+  "Capacity": 3566,
+  "Name": "Hellisgerði",
+  "CenterPositionLon": 64.07155706239531,
+  "CenterPositionLat": -21.95815566460264
+ },
+ {
+  "ID": 137538368,
+  "Capacity": 1959,
+  "Name": "",
+  "CenterPositionLon": 64.1414848428485,
+  "CenterPositionLat": -21.885231038057604
+ },
+ {
+  "ID": 169829966,
+  "Capacity": 3194,
+  "Name": "Rútstún",
+  "CenterPositionLon": 64.10968754138447,
+  "CenterPositionLat": -21.91688557250532
+ },
+ {
+  "ID": 170018460,
+  "Capacity": 7237,
+  "Name": "",
+  "CenterPositionLon": 63.75428449214111,
+  "CenterPositionLat": -20.227819788883583
+ },
+ {
+  "ID": 182891222,
+  "Capacity": 19250,
+  "Name": "Haukadalur",
+  "CenterPositionLon": 64.31221504502936,
+  "CenterPositionLat": -20.30048746163426
+ },
+ {
+  "ID": 182892521,
+  "Capacity": 103,
+  "Name": "Frakkland",
+  "CenterPositionLon": 64.14289457109389,
+  "CenterPositionLat": -21.92664504040529
+ },
+ {
+  "ID": 184653718,
+  "Capacity": 691,
+  "Name": "",
+  "CenterPositionLon": 64.11006001826078,
+  "CenterPositionLat": -21.85754471105173
+ },
+ {
+  "ID": 189924553,
+  "Capacity": 1433,
+  "Name": "",
+  "CenterPositionLon": 64.07084224949054,
+  "CenterPositionLat": -21.952160512404756
+ },
+ {
+  "ID": 191290148,
+  "Capacity": 531,
+  "Name": "",
+  "CenterPositionLon": 64.14716622068518,
+  "CenterPositionLat": -21.802173118551135
+ },
+ {
+  "ID": 191290243,
+  "Capacity": 729,
+  "Name": "",
+  "CenterPositionLon": 64.10923512181515,
+  "CenterPositionLat": -21.78589600450645
+ },
+ {
+  "ID": 191290267,
+  "Capacity": 398,
+  "Name": "",
+  "CenterPositionLon": 64.09450104844944,
+  "CenterPositionLat": -21.84055927579915
+ },
+ {
+  "ID": 191290268,
+  "Capacity": 9339,
+  "Name": "Seljabotnar",
+  "CenterPositionLon": 64.1011985840918,
+  "CenterPositionLat": -21.846760540619396
+ },
+ {
+  "ID": 199901116,
+  "Capacity": 433,
+  "Name": "",
+  "CenterPositionLon": 66.07582905,
+  "CenterPositionLat": -23.129481600000002
+ },
+ {
+  "ID": 207929308,
+  "Capacity": 383,
+  "Name": "",
+  "CenterPositionLon": 66.15715292644653,
+  "CenterPositionLat": -23.25124486693798
+ },
+ {
+  "ID": 213545496,
+  "Capacity": 681,
+  "Name": "Kveldúlfsvöllur",
+  "CenterPositionLon": 64.53888193299272,
+  "CenterPositionLat": -21.919986730864746
+ },
+ {
+  "ID": 213561156,
+  "Capacity": 439,
+  "Name": "",
+  "CenterPositionLon": 64.56150567248814,
+  "CenterPositionLat": -21.914418456138055
+ },
+ {
+  "ID": 218457960,
+  "Capacity": 2954,
+  "Name": "Skrúðgarðurinn Þorlákshöfn",
+  "CenterPositionLon": 63.8552101036268,
+  "CenterPositionLat": -21.384686683865823
+ },
+ {
+  "ID": 223575221,
+  "Capacity": 2000,
+  "Name": "Hlíðargarður",
+  "CenterPositionLon": 64.10674839542115,
+  "CenterPositionLat": -21.90173267360508
+ },
+ {
+  "ID": 223587248,
+  "Capacity": 460,
+  "Name": "",
+  "CenterPositionLon": 64.10964574106701,
+  "CenterPositionLat": -21.896652616475308
+ },
+ {
+  "ID": 223938603,
+  "Capacity": 582,
+  "Name": "",
+  "CenterPositionLon": 64.10937131446364,
+  "CenterPositionLat": -21.90234789283977
+ },
+ {
+  "ID": 229024481,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 64.086720397001,
+  "CenterPositionLat": -21.809677336089003
+ },
+ {
+  "ID": 239939847,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 64.0953297344398,
+  "CenterPositionLat": -21.837972584941696
+ },
+ {
+  "ID": 247571881,
+  "Capacity": 577,
+  "Name": "",
+  "CenterPositionLon": 64.32144696583262,
+  "CenterPositionLat": -22.065936956918488
+ },
+ {
+  "ID": 287836026,
+  "Capacity": 1024,
+  "Name": "",
+  "CenterPositionLon": 64.07400420476387,
+  "CenterPositionLat": -21.960301740452195
+ },
+ {
+  "ID": 290720487,
+  "Capacity": 341,
+  "Name": "",
+  "CenterPositionLon": 64.07372115,
+  "CenterPositionLat": -21.9339653
+ },
+ {
+  "ID": 291977580,
+  "Capacity": 882,
+  "Name": "",
+  "CenterPositionLon": 64.05983447090986,
+  "CenterPositionLat": -21.9519826613897
+ },
+ {
+  "ID": 293133747,
+  "Capacity": 1246,
+  "Name": "Austurvöllur",
+  "CenterPositionLon": 64.14720135968899,
+  "CenterPositionLat": -21.93975392510451
+ },
+ {
+  "ID": 297124265,
+  "Capacity": 2441,
+  "Name": "Ungmennafélagsgarður",
+  "CenterPositionLon": 64.12965872085711,
+  "CenterPositionLat": -20.317779570805055
+ },
+ {
+  "ID": 298338990,
+  "Capacity": 1737,
+  "Name": "",
+  "CenterPositionLon": 64.1241000681942,
+  "CenterPositionLat": -21.867934505838303
+ },
+ {
+  "ID": 298565507,
+  "Capacity": 832,
+  "Name": "",
+  "CenterPositionLon": 64.12335948526764,
+  "CenterPositionLat": -21.877807104906278
+ },
+ {
+  "ID": 298905533,
+  "Capacity": 283,
+  "Name": "",
+  "CenterPositionLon": 64.09795394613279,
+  "CenterPositionLat": -21.846842662245226
+ },
+ {
+  "ID": 300268834,
+  "Capacity": 4416,
+  "Name": "Sigfúsarlundur",
+  "CenterPositionLon": 65.26935250397223,
+  "CenterPositionLat": -14.375479883230787
+ },
+ {
+  "ID": 305580593,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 64.14742945,
+  "CenterPositionLat": -21.880363350000003
+ },
+ {
+  "ID": 310356236,
+  "Capacity": 514,
+  "Name": "Höggmyndagarðurinn",
+  "CenterPositionLon": 64.14179475874681,
+  "CenterPositionLat": -21.929462322716326
+ },
+ {
+  "ID": 310390941,
+  "Capacity": 2107,
+  "Name": "",
+  "CenterPositionLon": 65.1481683525441,
+  "CenterPositionLat": -13.686784866462194
+ },
+ {
+  "ID": 310417349,
+  "Capacity": 3340,
+  "Name": "",
+  "CenterPositionLon": 64.09609626821074,
+  "CenterPositionLat": -21.842280535625992
+ },
+ {
+  "ID": 312086319,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 64.14776187259342,
+  "CenterPositionLat": -21.945036134863084
+ },
+ {
+  "ID": 312086566,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 64.14764980054777,
+  "CenterPositionLat": -21.94436510131642
+ },
+ {
+  "ID": 321479854,
+  "Capacity": 759,
+  "Name": "",
+  "CenterPositionLon": 64.04029335977143,
+  "CenterPositionLat": -20.540081190735883
+ },
+ {
+  "ID": 321745334,
+  "Capacity": 12361,
+  "Name": "",
+  "CenterPositionLon": 64.0764604537387,
+  "CenterPositionLat": -20.746829413995552
+ },
+ {
+  "ID": 331126164,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 63.93647437786271,
+  "CenterPositionLat": -20.981929141228793
+ },
+ {
+  "ID": 334010501,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": 63.93475042810255,
+  "CenterPositionLat": -20.997195903986224
+ },
+ {
+  "ID": 364380433,
+  "Capacity": 1094,
+  "Name": "Listigarðurinn",
+  "CenterPositionLon": 65.26219601629764,
+  "CenterPositionLat": -14.400000541860186
+ },
+ {
+  "ID": 364381583,
+  "Capacity": 7847,
+  "Name": "",
+  "CenterPositionLon": 65.26373134300533,
+  "CenterPositionLat": -14.39618970733971
+ },
+ {
+  "ID": 364384654,
+  "Capacity": 4004,
+  "Name": "",
+  "CenterPositionLon": 65.26775844042201,
+  "CenterPositionLat": -14.388857487782648
+ },
+ {
+  "ID": 366665856,
+  "Capacity": 1442,
+  "Name": "",
+  "CenterPositionLon": 63.43696355598477,
+  "CenterPositionLat": -20.272616087685343
+ },
+ {
+  "ID": 372533333,
+  "Capacity": 309,
+  "Name": "Skátagil",
+  "CenterPositionLon": 65.68180583319531,
+  "CenterPositionLat": -18.09137196903919
+ },
+ {
+  "ID": 375121609,
+  "Capacity": 4174,
+  "Name": "Skrúðgarðurinn",
+  "CenterPositionLon": 64.00159506238175,
+  "CenterPositionLat": -21.182882722983962
+ },
+ {
+  "ID": 378830061,
+  "Capacity": 324,
+  "Name": "",
+  "CenterPositionLon": 63.927442975778725,
+  "CenterPositionLat": -20.997829522528964
+ },
+ {
+  "ID": 380482614,
+  "Capacity": 7917,
+  "Name": "Sigtúnsgarður",
+  "CenterPositionLon": 63.93585263989418,
+  "CenterPositionLat": -21.002736935969715
+ },
+ {
+  "ID": 380881908,
+  "Capacity": 1696,
+  "Name": "",
+  "CenterPositionLon": 63.93189544428694,
+  "CenterPositionLat": -20.983829831317564
+ },
+ {
+  "ID": 384725702,
+  "Capacity": 994,
+  "Name": "",
+  "CenterPositionLon": 63.936927507564775,
+  "CenterPositionLat": -20.99810727574979
+ },
+ {
+  "ID": 416461619,
+  "Capacity": 1046,
+  "Name": "",
+  "CenterPositionLon": 65.67947881815726,
+  "CenterPositionLat": -18.096028239065486
+ },
+ {
+  "ID": 420549794,
+  "Capacity": 5489,
+  "Name": "Hamarkotstún",
+  "CenterPositionLon": 65.68044290702473,
+  "CenterPositionLat": -18.10153906487209
+ },
+ {
+  "ID": 424770939,
+  "Capacity": 1979,
+  "Name": "Eiðsvöllur",
+  "CenterPositionLon": 65.68609141317529,
+  "CenterPositionLat": -18.090416558658962
+ },
+ {
+  "ID": 424781077,
+  "Capacity": 349,
+  "Name": "",
+  "CenterPositionLon": 65.68770586720701,
+  "CenterPositionLat": -18.091884107527996
+ },
+ {
+  "ID": 424797485,
+  "Capacity": 2903,
+  "Name": "",
+  "CenterPositionLon": 65.68684735396647,
+  "CenterPositionLat": -18.09798383170823
+ },
+ {
+  "ID": 430353254,
+  "Capacity": 3361,
+  "Name": "Seljagarðurinn",
+  "CenterPositionLon": 65.6937265714053,
+  "CenterPositionLat": -18.123474169001625
+ },
+ {
+  "ID": 434296002,
+  "Capacity": 1774,
+  "Name": "",
+  "CenterPositionLon": 65.71041560089587,
+  "CenterPositionLat": -18.178018513451974
+ },
+ {
+  "ID": 437665631,
+  "Capacity": 6404,
+  "Name": "Hallsteinsgarður",
+  "CenterPositionLon": 64.15424459542359,
+  "CenterPositionLat": -21.799844995964875
+ },
+ {
+  "ID": 445070062,
+  "Capacity": 529,
+  "Name": "Minjasafnsgarðurinn",
+  "CenterPositionLon": 65.66650384067285,
+  "CenterPositionLat": -18.085525222269307
+ },
+ {
+  "ID": 472210998,
+  "Capacity": 1925,
+  "Name": "Bali",
+  "CenterPositionLon": 64.07927253704906,
+  "CenterPositionLat": -21.98504778634224
+ },
+ {
+  "ID": 475478913,
+  "Capacity": 1153,
+  "Name": "Sjómannagarðurinn",
+  "CenterPositionLon": 64.89436669152259,
+  "CenterPositionLat": -23.70870467855766
+ },
+ {
+  "ID": 480297772,
+  "Capacity": 16998,
+  "Name": "Egilsstaðir",
+  "CenterPositionLon": 66.45244744343984,
+  "CenterPositionLat": -15.960925715409887
+ },
+ {
+  "ID": 480301396,
+  "Capacity": 3503,
+  "Name": "Þórsmörk",
+  "CenterPositionLon": 66.14258935569859,
+  "CenterPositionLat": -16.413711350707672
+ },
+ {
+  "ID": 518238533,
+  "Capacity": 686,
+  "Name": "",
+  "CenterPositionLon": 63.992589431173656,
+  "CenterPositionLat": -22.547897409913134
+ },
+ {
+  "ID": 554672550,
+  "Capacity": 2502,
+  "Name": "Skrúðgarður",
+  "CenterPositionLon": 64.0018226122712,
+  "CenterPositionLat": -22.556265991937753
+ },
+ {
+  "ID": 554678221,
+  "Capacity": 3972,
+  "Name": "Skrúðgarður Njarðvíks",
+  "CenterPositionLon": 63.98787885771862,
+  "CenterPositionLat": -22.54686326797308
+ },
+ {
+  "ID": 585936010,
+  "Capacity": 1083,
+  "Name": "",
+  "CenterPositionLon": 64.07194065800321,
+  "CenterPositionLat": -21.951012641169182
+ },
+ {
+  "ID": 696519789,
+  "Capacity": 967,
+  "Name": "",
+  "CenterPositionLon": 64.15374038284975,
+  "CenterPositionLat": -22.003601073528433
+ },
+ {
+  "ID": 704883419,
+  "Capacity": 3804,
+  "Name": "Tröð",
+  "CenterPositionLon": 64.91313801617001,
+  "CenterPositionLat": -23.88139292829254
+ },
+ {
+  "ID": 705235562,
+  "Capacity": 2149,
+  "Name": "Þuríðargarður",
+  "CenterPositionLon": 63.83816146081354,
+  "CenterPositionLat": -21.066568958363654
+ },
+ {
+  "ID": 711540259,
+  "Capacity": 27204,
+  "Name": "Valhúsahæð",
+  "CenterPositionLon": 64.15380401479825,
+  "CenterPositionLat": -21.994444396060345
+ },
+ {
+  "ID": 720383792,
+  "Capacity": 3586,
+  "Name": "Arnarhóll",
+  "CenterPositionLon": 64.14809545292958,
+  "CenterPositionLat": -21.933249705027425
+ },
+ {
+  "ID": 728881604,
+  "Capacity": 6355,
+  "Name": "Aragerði",
+  "CenterPositionLon": 63.98524946931575,
+  "CenterPositionLat": -22.384444722663815
+ },
+ {
+  "ID": 785582839,
+  "Capacity": 689,
+  "Name": "Fagrihvammur",
+  "CenterPositionLon": 65.660547926941,
+  "CenterPositionLat": -20.28863939143125
+ },
+ {
+  "ID": 788024620,
+  "Capacity": 5832,
+  "Name": "Skrúðgarður Húsavíkur",
+  "CenterPositionLon": 66.04282584351111,
+  "CenterPositionLat": -17.333915529093392
+ }
+]

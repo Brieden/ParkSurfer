@@ -1,0 +1,149 @@
+[
+ {
+  "ID": 200950809,
+  "Capacity": 1666,
+  "Name": "",
+  "CenterPositionLon": 11.597561427613455,
+  "CenterPositionLat": 43.14214514330565
+ },
+ {
+  "ID": 200955062,
+  "Capacity": 801,
+  "Name": "",
+  "CenterPositionLon": 11.529951124810585,
+  "CenterPositionLat": 43.1394515066334
+ },
+ {
+  "ID": 228251519,
+  "Capacity": 1488,
+  "Name": "",
+  "CenterPositionLon": 11.618941365991082,
+  "CenterPositionLat": 43.14570013190924
+ },
+ {
+  "ID": 266387287,
+  "Capacity": 100,
+  "Name": "Place de la Gare ساحة المحطة",
+  "CenterPositionLon": 11.604287133333333,
+  "CenterPositionLat": 43.15237403333333
+ },
+ {
+  "ID": 383773335,
+  "Capacity": 475,
+  "Name": "حديقة",
+  "CenterPositionLon": 11.575571085353697,
+  "CenterPositionLat": 43.14148617368608
+ },
+ {
+  "ID": 480853698,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 11.596078283413451,
+  "CenterPositionLat": 43.14729813908181
+ },
+ {
+  "ID": 656757760,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 11.55034443041093,
+  "CenterPositionLat": 43.112042933557795
+ },
+ {
+  "ID": 656757762,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 11.55069734831203,
+  "CenterPositionLat": 43.112317960454945
+ },
+ {
+  "ID": 659401476,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 11.591642457476418,
+  "CenterPositionLat": 43.14242213358713
+ },
+ {
+  "ID": 753893547,
+  "Capacity": 453,
+  "Name": "",
+  "CenterPositionLon": 11.550346396381562,
+  "CenterPositionLat": 43.11242244265829
+ },
+ {
+  "ID": 754888665,
+  "Capacity": 4135,
+  "Name": "",
+  "CenterPositionLon": 11.605920277703797,
+  "CenterPositionLat": 43.154014270055356
+ },
+ {
+  "ID": 756240890,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 11.5378635,
+  "CenterPositionLat": 43.117494199999996
+ },
+ {
+  "ID": 756248449,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 11.53869025,
+  "CenterPositionLat": 43.11739795
+ },
+ {
+  "ID": 756248450,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 11.53826235191097,
+  "CenterPositionLat": 43.11748010664642
+ },
+ {
+  "ID": 756248466,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 11.538328269954837,
+  "CenterPositionLat": 43.11723323947617
+ },
+ {
+  "ID": 756248467,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 11.53778936995393,
+  "CenterPositionLat": 43.11723908909901
+ },
+ {
+  "ID": 756251548,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 11.53865133621843,
+  "CenterPositionLat": 43.1171474752055
+ },
+ {
+  "ID": 756251549,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 11.53893251309781,
+  "CenterPositionLat": 43.1172035605009
+ },
+ {
+  "ID": 756251550,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 11.538889833193224,
+  "CenterPositionLat": 43.117443745000244
+ },
+ {
+  "ID": 756251551,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 11.538989282789315,
+  "CenterPositionLat": 43.11751973007051
+ },
+ {
+  "ID": 759426784,
+  "Capacity": 309,
+  "Name": "منتزه منايا",
+  "CenterPositionLon": 11.52601246806098,
+  "CenterPositionLat": 42.86729124513023
+ }
+]

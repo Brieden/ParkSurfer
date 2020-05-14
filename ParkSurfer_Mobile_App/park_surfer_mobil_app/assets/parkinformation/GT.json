@@ -1,0 +1,6862 @@
+[
+ {
+  "ID": 25906510,
+  "Capacity": 18,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.641842373873288,
+  "CenterPositionLat": -90.51327959291838
+ },
+ {
+  "ID": 35051315,
+  "Capacity": 36,
+  "Name": "Parque Benito Juarez",
+  "CenterPositionLon": 14.84372588330846,
+  "CenterPositionLat": -91.51984524661022
+ },
+ {
+  "ID": 35051317,
+  "Capacity": 21,
+  "Name": "Parque Centro América",
+  "CenterPositionLon": 14.834199221350728,
+  "CenterPositionLat": -91.5183414839468
+ },
+ {
+  "ID": 35051854,
+  "Capacity": 8,
+  "Name": "Parque Isabel la Catolica",
+  "CenterPositionLon": 14.845304145672356,
+  "CenterPositionLat": -91.51256401909451
+ },
+ {
+  "ID": 39706756,
+  "Capacity": 3,
+  "Name": "Parque de la Unión",
+  "CenterPositionLon": 14.55518887431206,
+  "CenterPositionLat": -90.73172888696296
+ },
+ {
+  "ID": 39706770,
+  "Capacity": 13,
+  "Name": "Plaza Central",
+  "CenterPositionLon": 14.556783823290296,
+  "CenterPositionLat": -90.73374244437986
+ },
+ {
+  "ID": 39706772,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.5606268,
+  "CenterPositionLat": -90.72938715000001
+ },
+ {
+  "ID": 39750114,
+  "Capacity": 10,
+  "Name": "El Obelisco",
+  "CenterPositionLon": 14.594475719655437,
+  "CenterPositionLat": -90.51771795510733
+ },
+ {
+  "ID": 39931893,
+  "Capacity": 138,
+  "Name": "Parque de la Industria.",
+  "CenterPositionLon": 14.608892508403335,
+  "CenterPositionLat": -90.52373711979206
+ },
+ {
+  "ID": 40767684,
+  "Capacity": 104,
+  "Name": "Centro Cultural Miguel Angel Asturias",
+  "CenterPositionLon": 14.627314233937481,
+  "CenterPositionLat": -90.51728724895112
+ },
+ {
+  "ID": 44765207,
+  "Capacity": 8,
+  "Name": "Parque Manzana G",
+  "CenterPositionLon": 14.639450256362288,
+  "CenterPositionLat": -90.57934083531602
+ },
+ {
+  "ID": 44765231,
+  "Capacity": 6,
+  "Name": "Parque Manzana B",
+  "CenterPositionLon": 14.637955552687671,
+  "CenterPositionLat": -90.57917032472368
+ },
+ {
+  "ID": 44765387,
+  "Capacity": 14,
+  "Name": "Parque Manzana C",
+  "CenterPositionLon": 14.637867457678887,
+  "CenterPositionLat": -90.58234206598044
+ },
+ {
+  "ID": 44765433,
+  "Capacity": 3,
+  "Name": "Parque Manzana H",
+  "CenterPositionLon": 14.640196062792613,
+  "CenterPositionLat": -90.58079881187678
+ },
+ {
+  "ID": 44767223,
+  "Capacity": 3,
+  "Name": "Parque Manzana O",
+  "CenterPositionLon": 14.643437400000002,
+  "CenterPositionLat": -90.5781301
+ },
+ {
+  "ID": 44767225,
+  "Capacity": 3,
+  "Name": "Parque Manzana J",
+  "CenterPositionLon": 14.641644253230657,
+  "CenterPositionLat": -90.57959653128063
+ },
+ {
+  "ID": 44767230,
+  "Capacity": 9,
+  "Name": "Parque Manzana N",
+  "CenterPositionLon": 14.642610103555592,
+  "CenterPositionLat": -90.57680000228238
+ },
+ {
+  "ID": 44767250,
+  "Capacity": 9,
+  "Name": "Parque Manzana M",
+  "CenterPositionLon": 14.64116485291164,
+  "CenterPositionLat": -90.57407387374819
+ },
+ {
+  "ID": 44768363,
+  "Capacity": 4,
+  "Name": "Parque Lomas del Rodeo",
+  "CenterPositionLon": 14.637619627118607,
+  "CenterPositionLat": -90.57345132595943
+ },
+ {
+  "ID": 44768365,
+  "Capacity": 9,
+  "Name": "Parque Manzana L",
+  "CenterPositionLon": 14.639891942035323,
+  "CenterPositionLat": -90.57149783859745
+ },
+ {
+  "ID": 44768398,
+  "Capacity": 9,
+  "Name": "Parque Manzana K",
+  "CenterPositionLon": 14.638718829748443,
+  "CenterPositionLat": -90.56912837116307
+ },
+ {
+  "ID": 44768399,
+  "Capacity": 7,
+  "Name": "Parque Manzana P",
+  "CenterPositionLon": 14.640204320113336,
+  "CenterPositionLat": -90.56848577596024
+ },
+ {
+  "ID": 44768408,
+  "Capacity": 6,
+  "Name": "Parque Manzana Q",
+  "CenterPositionLon": 14.6412007971272,
+  "CenterPositionLat": -90.57051282125077
+ },
+ {
+  "ID": 44768409,
+  "Capacity": 5,
+  "Name": "Parque Manzana R",
+  "CenterPositionLon": 14.642656572882908,
+  "CenterPositionLat": -90.57329214723943
+ },
+ {
+  "ID": 44769609,
+  "Capacity": 4,
+  "Name": "Parque Manzana K",
+  "CenterPositionLon": 14.643576934486061,
+  "CenterPositionLat": -90.57102681938892
+ },
+ {
+  "ID": 44769613,
+  "Capacity": 5,
+  "Name": "Parque Monte Real 1",
+  "CenterPositionLon": 14.644390677669872,
+  "CenterPositionLat": -90.56871400501753
+ },
+ {
+  "ID": 44769630,
+  "Capacity": 4,
+  "Name": "Parque Manzana I",
+  "CenterPositionLon": 14.644230552076781,
+  "CenterPositionLat": -90.57230847295976
+ },
+ {
+  "ID": 44769639,
+  "Capacity": 4,
+  "Name": "Parque Manzana G",
+  "CenterPositionLon": 14.644902172511294,
+  "CenterPositionLat": -90.57360600421403
+ },
+ {
+  "ID": 44769646,
+  "Capacity": 3,
+  "Name": "Parque Manzana H",
+  "CenterPositionLon": 14.646496667237022,
+  "CenterPositionLat": -90.57116840364985
+ },
+ {
+  "ID": 44769648,
+  "Capacity": 4,
+  "Name": "Parque Manzana J",
+  "CenterPositionLon": 14.645840674712646,
+  "CenterPositionLat": -90.56988768613283
+ },
+ {
+  "ID": 44769674,
+  "Capacity": 4,
+  "Name": "Parque Manzana F",
+  "CenterPositionLon": 14.647184342576896,
+  "CenterPositionLat": -90.57245889344789
+ },
+ {
+  "ID": 44769679,
+  "Capacity": 3,
+  "Name": "Parque Manzana E",
+  "CenterPositionLon": 14.648240420915625,
+  "CenterPositionLat": -90.57056668540946
+ },
+ {
+  "ID": 44770170,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.643028379457892,
+  "CenterPositionLat": -90.5631332348062
+ },
+ {
+  "ID": 44770176,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.643356385741406,
+  "CenterPositionLat": -90.56395118757003
+ },
+ {
+  "ID": 44770253,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.6416915,
+  "CenterPositionLat": -90.5622035
+ },
+ {
+  "ID": 44770533,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.642558493044866,
+  "CenterPositionLat": -90.56221188916527
+ },
+ {
+  "ID": 44770869,
+  "Capacity": 3,
+  "Name": "Parque Jardines de Tikal 2",
+  "CenterPositionLon": 14.637334639926358,
+  "CenterPositionLat": -90.55776853246162
+ },
+ {
+  "ID": 44809922,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 14.644775367390634,
+  "CenterPositionLat": -90.57937511145292
+ },
+ {
+  "ID": 44809936,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.636871166666666,
+  "CenterPositionLat": -90.58688163333333
+ },
+ {
+  "ID": 44809937,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.636607966666666,
+  "CenterPositionLat": -90.5871049
+ },
+ {
+  "ID": 44810408,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.626895986975873,
+  "CenterPositionLat": -90.54913638370905
+ },
+ {
+  "ID": 44810413,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.626441057100793,
+  "CenterPositionLat": -90.54818415659538
+ },
+ {
+  "ID": 44810426,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.6261511,
+  "CenterPositionLat": -90.5490117
+ },
+ {
+  "ID": 44812095,
+  "Capacity": 4,
+  "Name": "Plaza Barrios",
+  "CenterPositionLon": 14.630086209377975,
+  "CenterPositionLat": -90.51189988343741
+ },
+ {
+  "ID": 45676045,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.63207815785074,
+  "CenterPositionLat": -90.49314603069325
+ },
+ {
+  "ID": 45762950,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.646306818308075,
+  "CenterPositionLat": -90.46526220192828
+ },
+ {
+  "ID": 45762952,
+  "Capacity": 1,
+  "Name": "San Fernando zona 17 Guatemala",
+  "CenterPositionLon": 14.6454121946235,
+  "CenterPositionLat": -90.46711076329927
+ },
+ {
+  "ID": 46651189,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.637758694557048,
+  "CenterPositionLat": -90.55226327303455
+ },
+ {
+  "ID": 46683869,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.641986038252996,
+  "CenterPositionLat": -90.5448477338618
+ },
+ {
+  "ID": 46690790,
+  "Capacity": 3,
+  "Name": "Parque Villa Linda 2",
+  "CenterPositionLon": 14.644176977603575,
+  "CenterPositionLat": -90.55288718093409
+ },
+ {
+  "ID": 46929040,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.493984287805247,
+  "CenterPositionLat": -90.70966238453268
+ },
+ {
+  "ID": 48553877,
+  "Capacity": 11,
+  "Name": "Parque Enrique Gómez Carrillo",
+  "CenterPositionLon": 14.634339324595674,
+  "CenterPositionLat": -90.51542240947548
+ },
+ {
+  "ID": 48559558,
+  "Capacity": 9,
+  "Name": "Parque Colón",
+  "CenterPositionLon": 14.63987820659597,
+  "CenterPositionLat": -90.50777684080349
+ },
+ {
+  "ID": 48862922,
+  "Capacity": 614,
+  "Name": "Cementerio Los Parques",
+  "CenterPositionLon": 14.56595595558773,
+  "CenterPositionLat": -90.59069481794218
+ },
+ {
+  "ID": 50622156,
+  "Capacity": 226,
+  "Name": "Zoológico Minerva",
+  "CenterPositionLon": 14.847047817748248,
+  "CenterPositionLat": -91.53469190814424
+ },
+ {
+  "ID": 50622158,
+  "Capacity": 3,
+  "Name": "Plaza Templo Minerva",
+  "CenterPositionLon": 14.84598885,
+  "CenterPositionLat": -91.53351185
+ },
+ {
+  "ID": 74186334,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.625274608858307,
+  "CenterPositionLat": -90.54546338735615
+ },
+ {
+  "ID": 80478214,
+  "Capacity": 40,
+  "Name": "Campos de la Cruz",
+  "CenterPositionLon": 14.485819645369336,
+  "CenterPositionLat": -90.61680875908502
+ },
+ {
+  "ID": 81396743,
+  "Capacity": 14,
+  "Name": "Parque San Jose  Mercantil",
+  "CenterPositionLon": 14.625229849237197,
+  "CenterPositionLat": -90.54597136529392
+ },
+ {
+  "ID": 81397149,
+  "Capacity": 574,
+  "Name": "Parque Erick Barrondo",
+  "CenterPositionLon": 14.638210215602875,
+  "CenterPositionLat": -90.54228351818998
+ },
+ {
+  "ID": 81397346,
+  "Capacity": 114,
+  "Name": "Kaminal Juyú",
+  "CenterPositionLon": 14.632101985814229,
+  "CenterPositionLat": -90.54813819797046
+ },
+ {
+  "ID": 81397435,
+  "Capacity": 5,
+  "Name": "Parque Jardines de Tikal 1",
+  "CenterPositionLon": 14.634098195071699,
+  "CenterPositionLat": -90.55033899493824
+ },
+ {
+  "ID": 81397480,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.635689158741354,
+  "CenterPositionLat": -90.54923447331457
+ },
+ {
+  "ID": 81397573,
+  "Capacity": 4,
+  "Name": "Parque Jardines de Utatlán 2",
+  "CenterPositionLon": 14.62727225363003,
+  "CenterPositionLat": -90.56613660136517
+ },
+ {
+  "ID": 86253402,
+  "Capacity": 9,
+  "Name": "Parque Central de Amatitlán",
+  "CenterPositionLon": 14.479130234107151,
+  "CenterPositionLat": -90.61957677804999
+ },
+ {
+  "ID": 86521337,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.586670229760312,
+  "CenterPositionLat": -90.51909291153589
+ },
+ {
+  "ID": 88910383,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.691524180142142,
+  "CenterPositionLat": -91.27319895622071
+ },
+ {
+  "ID": 90965486,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.56093590754609,
+  "CenterPositionLat": -90.73493344015202
+ },
+ {
+  "ID": 90965508,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.560878800000001,
+  "CenterPositionLat": -90.7343911
+ },
+ {
+  "ID": 90965522,
+  "Capacity": 5,
+  "Name": "San Sebastian",
+  "CenterPositionLon": 14.56422762899505,
+  "CenterPositionLat": -90.73703724100646
+ },
+ {
+  "ID": 93553327,
+  "Capacity": 9,
+  "Name": "Bosque",
+  "CenterPositionLon": 14.577501117619324,
+  "CenterPositionLat": -90.56290376179301
+ },
+ {
+  "ID": 98933073,
+  "Capacity": 11,
+  "Name": "Miraflores",
+  "CenterPositionLon": 14.621252609199892,
+  "CenterPositionLat": -90.55373135789058
+ },
+ {
+  "ID": 114615773,
+  "Capacity": 3,
+  "Name": "Parque",
+  "CenterPositionLon": 14.542217865964275,
+  "CenterPositionLat": -90.74342265109237
+ },
+ {
+  "ID": 124127266,
+  "Capacity": 49,
+  "Name": "Parque Central Ayutla",
+  "CenterPositionLon": 14.678093408612884,
+  "CenterPositionLat": -92.14058697456693
+ },
+ {
+  "ID": 128243462,
+  "Capacity": 31,
+  "Name": "Plazuela Municipal de Jocotenango",
+  "CenterPositionLon": 14.574782373564016,
+  "CenterPositionLat": -90.74113130222986
+ },
+ {
+  "ID": 129554897,
+  "Capacity": 14,
+  "Name": "Parque El Calvario",
+  "CenterPositionLon": 14.836746689649923,
+  "CenterPositionLat": -91.52517894944604
+ },
+ {
+  "ID": 129574732,
+  "Capacity": 2,
+  "Name": "Parque Bolivar",
+  "CenterPositionLon": 14.832210096918795,
+  "CenterPositionLat": -91.51293146548639
+ },
+ {
+  "ID": 132436627,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 15.727286690440506,
+  "CenterPositionLat": -88.57842887381216
+ },
+ {
+  "ID": 132436635,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": 15.731488919336634,
+  "CenterPositionLat": -88.5835942723533
+ },
+ {
+  "ID": 132451926,
+  "Capacity": 10,
+  "Name": "Parque Tecún Umán",
+  "CenterPositionLon": 15.735743901943204,
+  "CenterPositionLat": -88.60470406662039
+ },
+ {
+  "ID": 132451930,
+  "Capacity": 32,
+  "Name": "Parque Reyna Barrios",
+  "CenterPositionLon": 15.734015219966519,
+  "CenterPositionLat": -88.59662711725882
+ },
+ {
+  "ID": 140150745,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.414914497501364,
+  "CenterPositionLat": -90.6724604831104
+ },
+ {
+  "ID": 140156085,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 14.41221066717738,
+  "CenterPositionLat": -90.6821103468296
+ },
+ {
+  "ID": 152417063,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 14.505813519424398,
+  "CenterPositionLat": -90.54348910544529
+ },
+ {
+  "ID": 154077722,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.458718882374738,
+  "CenterPositionLat": -90.53531919399822
+ },
+ {
+  "ID": 157389690,
+  "Capacity": 14,
+  "Name": "Acrópolis Central",
+  "CenterPositionLon": 17.221231260708244,
+  "CenterPositionLat": -89.62300868993714
+ },
+ {
+  "ID": 157389693,
+  "Capacity": 5,
+  "Name": "Acrópolis del Norte",
+  "CenterPositionLon": 17.222683747232757,
+  "CenterPositionLat": -89.62346788109876
+ },
+ {
+  "ID": 159218494,
+  "Capacity": 12,
+  "Name": "Parque del Cafe",
+  "CenterPositionLon": 14.53287016279021,
+  "CenterPositionLat": -91.51563146052115
+ },
+ {
+  "ID": 160690503,
+  "Capacity": 5,
+  "Name": "Parque de Concha Acústica",
+  "CenterPositionLon": 15.030199041814111,
+  "CenterPositionLat": -91.1490332746771
+ },
+ {
+  "ID": 160690791,
+  "Capacity": 7,
+  "Name": "parque Tecún Umán",
+  "CenterPositionLon": 15.029112280953857,
+  "CenterPositionLat": -91.14899389682131
+ },
+ {
+  "ID": 162624032,
+  "Capacity": 5,
+  "Name": "campo 1 de futbool la comunidad",
+  "CenterPositionLon": 14.607955584797896,
+  "CenterPositionLat": -90.57471797254063
+ },
+ {
+  "ID": 162624357,
+  "Capacity": 7,
+  "Name": "campo 2 de futbool la comunidad",
+  "CenterPositionLon": 14.607539950043193,
+  "CenterPositionLat": -90.57415412328015
+ },
+ {
+  "ID": 168295977,
+  "Capacity": 19,
+  "Name": "Cancha Municipal Sipacate",
+  "CenterPositionLon": 13.929722349999999,
+  "CenterPositionLat": -91.14078715
+ },
+ {
+  "ID": 169146861,
+  "Capacity": 0,
+  "Name": "Parque Santa Elena",
+  "CenterPositionLon": 16.922029387680517,
+  "CenterPositionLat": -89.8922503845456
+ },
+ {
+  "ID": 169146863,
+  "Capacity": 0,
+  "Name": "Parque Flores",
+  "CenterPositionLon": 16.930386899143308,
+  "CenterPositionLat": -89.89177270005034
+ },
+ {
+  "ID": 178355689,
+  "Capacity": 0,
+  "Name": "Ceiba",
+  "CenterPositionLon": 16.799865392340283,
+  "CenterPositionLat": -89.93555414707195
+ },
+ {
+  "ID": 178539861,
+  "Capacity": 3,
+  "Name": "Parque las aguadas",
+  "CenterPositionLon": 16.800300910652233,
+  "CenterPositionLat": -89.93164656511392
+ },
+ {
+  "ID": 188486535,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.621747522781755,
+  "CenterPositionLat": -89.9764340652821
+ },
+ {
+  "ID": 188486537,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.63479111792268,
+  "CenterPositionLat": -89.98071721635746
+ },
+ {
+  "ID": 189369913,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.644553639973697,
+  "CenterPositionLat": -89.72947255928591
+ },
+ {
+  "ID": 190477510,
+  "Capacity": 3,
+  "Name": "central square",
+  "CenterPositionLon": 15.365423294237578,
+  "CenterPositionLat": -90.47925393888848
+ },
+ {
+  "ID": 193587693,
+  "Capacity": 10,
+  "Name": "Parque Ismael Cerna",
+  "CenterPositionLon": 14.8003426244756,
+  "CenterPositionLat": -89.54600808033567
+ },
+ {
+  "ID": 193587698,
+  "Capacity": 1,
+  "Name": "Parque El Calvario",
+  "CenterPositionLon": 14.796566724744501,
+  "CenterPositionLat": -89.54668867145584
+ },
+ {
+  "ID": 196809999,
+  "Capacity": 11,
+  "Name": "Parque Centenario",
+  "CenterPositionLon": 14.64198572641847,
+  "CenterPositionLat": -90.51435785710648
+ },
+ {
+  "ID": 198181441,
+  "Capacity": 2,
+  "Name": "Plaza de la Escuela de Cristo",
+  "CenterPositionLon": 14.551320863588057,
+  "CenterPositionLat": -90.73043508336151
+ },
+ {
+  "ID": 198181442,
+  "Capacity": 5,
+  "Name": "Plaza a la Paz",
+  "CenterPositionLon": 14.551728866305453,
+  "CenterPositionLat": -90.72835066609042
+ },
+ {
+  "ID": 199228153,
+  "Capacity": 0,
+  "Name": "Jardin Botanico \"Bioitza\"",
+  "CenterPositionLon": 16.986984178392326,
+  "CenterPositionLat": -89.90554879900398
+ },
+ {
+  "ID": 199270195,
+  "Capacity": 9,
+  "Name": "Plaza del Apóstol Santiago",
+  "CenterPositionLon": 14.5667400349706,
+  "CenterPositionLat": -90.73073197687874
+ },
+ {
+  "ID": 200691583,
+  "Capacity": 46,
+  "Name": "Cerrito del Carmen",
+  "CenterPositionLon": 14.646817535030195,
+  "CenterPositionLat": -90.50521250139894
+ },
+ {
+  "ID": 200691807,
+  "Capacity": 23,
+  "Name": "Jardín Botánico",
+  "CenterPositionLon": 14.614475093600499,
+  "CenterPositionLat": -90.51297218851448
+ },
+ {
+  "ID": 200813710,
+  "Capacity": 0,
+  "Name": "La Ceibita",
+  "CenterPositionLon": 16.920419566666666,
+  "CenterPositionLat": -89.90503273333333
+ },
+ {
+  "ID": 201148339,
+  "Capacity": 27,
+  "Name": "Parque de Basílica de Esquipulas",
+  "CenterPositionLon": 14.562504698914136,
+  "CenterPositionLat": -89.35124159170351
+ },
+ {
+  "ID": 201318137,
+  "Capacity": 36,
+  "Name": "Parque Pro-Navidad del Niño",
+  "CenterPositionLon": 14.634063195505117,
+  "CenterPositionLat": -90.55567369199545
+ },
+ {
+  "ID": 203519642,
+  "Capacity": 0,
+  "Name": "Mirador",
+  "CenterPositionLon": 16.930650868087618,
+  "CenterPositionLat": -89.89190653830619
+ },
+ {
+  "ID": 203519653,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 16.922443014530526,
+  "CenterPositionLat": -89.89483677091421
+ },
+ {
+  "ID": 205518849,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.525596327139294,
+  "CenterPositionLat": -90.76156670466692
+ },
+ {
+  "ID": 205938788,
+  "Capacity": 3,
+  "Name": "Parque Sector Almendros",
+  "CenterPositionLon": 14.527878443686337,
+  "CenterPositionLat": -90.62596892393083
+ },
+ {
+  "ID": 210467908,
+  "Capacity": 0,
+  "Name": "Parquecito Valle Nuevo",
+  "CenterPositionLon": 14.673003028968589,
+  "CenterPositionLat": -90.54806165534171
+ },
+ {
+  "ID": 210467912,
+  "Capacity": 0,
+  "Name": "Parquecito Valle Nuevo",
+  "CenterPositionLon": 14.67287924958799,
+  "CenterPositionLat": -90.54736117071775
+ },
+ {
+  "ID": 210467913,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.673811520814192,
+  "CenterPositionLat": -90.5477328096172
+ },
+ {
+  "ID": 210467915,
+  "Capacity": 0,
+  "Name": "Parquecito valle Nuevo",
+  "CenterPositionLon": 14.673157332303111,
+  "CenterPositionLat": -90.54750939522532
+ },
+ {
+  "ID": 210467919,
+  "Capacity": 17,
+  "Name": "Parque valle nuevo",
+  "CenterPositionLon": 14.67343588108752,
+  "CenterPositionLat": -90.54958051295853
+ },
+ {
+  "ID": 210467920,
+  "Capacity": 0,
+  "Name": "Parquecito Valle Nuevo",
+  "CenterPositionLon": 14.67255147984036,
+  "CenterPositionLat": -90.54700435401479
+ },
+ {
+  "ID": 210467925,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.673894662643086,
+  "CenterPositionLat": -90.54837284399446
+ },
+ {
+  "ID": 210467926,
+  "Capacity": 0,
+  "Name": "Parquecito Valle Nuevo",
+  "CenterPositionLon": 14.673604994916703,
+  "CenterPositionLat": -90.54778815056464
+ },
+ {
+  "ID": 210507485,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.650885674402394,
+  "CenterPositionLat": -90.431503216463
+ },
+ {
+  "ID": 210553755,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.656533235648602,
+  "CenterPositionLat": -90.44300631357288
+ },
+ {
+  "ID": 210553765,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.657536886421772,
+  "CenterPositionLat": -90.44356487753015
+ },
+ {
+  "ID": 210554316,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.654389182037946,
+  "CenterPositionLat": -90.44399759288666
+ },
+ {
+  "ID": 210554323,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.6543294348123,
+  "CenterPositionLat": -90.44351119805317
+ },
+ {
+  "ID": 210554340,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.654896211690147,
+  "CenterPositionLat": -90.44509952278452
+ },
+ {
+  "ID": 210557163,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.656157046182853,
+  "CenterPositionLat": -90.44225116352425
+ },
+ {
+  "ID": 210565602,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.666151303013836,
+  "CenterPositionLat": -90.45052628342606
+ },
+ {
+  "ID": 219554638,
+  "Capacity": 5,
+  "Name": "Parque San Sebastían",
+  "CenterPositionLon": 14.646361872881254,
+  "CenterPositionLat": -90.51305164185221
+ },
+ {
+  "ID": 219555005,
+  "Capacity": 1,
+  "Name": "Parque Ciudad Vieja",
+  "CenterPositionLon": 14.606354854557972,
+  "CenterPositionLat": -90.51338827225449
+ },
+ {
+  "ID": 220613999,
+  "Capacity": 39,
+  "Name": "Campos del CEJUSA Anexo",
+  "CenterPositionLon": 14.612543888067842,
+  "CenterPositionLat": -90.5584103626252
+ },
+ {
+  "ID": 220797666,
+  "Capacity": 1,
+  "Name": "Parque del Periodista",
+  "CenterPositionLon": 14.84100068584818,
+  "CenterPositionLat": -91.52591770742549
+ },
+ {
+  "ID": 220797671,
+  "Capacity": 4,
+  "Name": "Minerva",
+  "CenterPositionLon": 14.845644233333333,
+  "CenterPositionLat": -91.53313466666667
+ },
+ {
+  "ID": 222843245,
+  "Capacity": 9,
+  "Name": "West Plaza",
+  "CenterPositionLon": 17.222647194260375,
+  "CenterPositionLat": -89.62461999038467
+ },
+ {
+  "ID": 225052550,
+  "Capacity": 15,
+  "Name": "Parque JAPON",
+  "CenterPositionLon": 14.845043260483997,
+  "CenterPositionLat": -91.5284951943351
+ },
+ {
+  "ID": 225276933,
+  "Capacity": 1,
+  "Name": "Parque Central Justo Rufino Barrios",
+  "CenterPositionLon": 14.087665047684723,
+  "CenterPositionLat": -90.38060989598046
+ },
+ {
+  "ID": 233335603,
+  "Capacity": 32,
+  "Name": "Santo Domingo del Cerro",
+  "CenterPositionLon": 14.55339676676553,
+  "CenterPositionLat": -90.72204294781612
+ },
+ {
+  "ID": 236590246,
+  "Capacity": 55,
+  "Name": "Pista Koriko",
+  "CenterPositionLon": 14.811155242675078,
+  "CenterPositionLat": -89.53536146193866
+ },
+ {
+  "ID": 236763124,
+  "Capacity": 1,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.82114708172797,
+  "CenterPositionLat": -89.39027367000979
+ },
+ {
+  "ID": 242415061,
+  "Capacity": 2,
+  "Name": "Parquecito El Maestro",
+  "CenterPositionLon": 14.601355087484196,
+  "CenterPositionLat": -90.50084036837832
+ },
+ {
+  "ID": 243676940,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.608229370867962,
+  "CenterPositionLat": -90.53143259782102
+ },
+ {
+  "ID": 244768574,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.836759094959753,
+  "CenterPositionLat": -91.5257751664937
+ },
+ {
+  "ID": 244768600,
+  "Capacity": 0,
+  "Name": "Parque Paco Pérez",
+  "CenterPositionLon": 14.833742233333332,
+  "CenterPositionLat": -91.52110490000001
+ },
+ {
+  "ID": 252479795,
+  "Capacity": 17,
+  "Name": "Parque Natural Municipal \"EL MIRADOR\"",
+  "CenterPositionLon": 16.807902995486657,
+  "CenterPositionLat": -89.93284554724487
+ },
+ {
+  "ID": 252482796,
+  "Capacity": 55,
+  "Name": "Parque Natural \"CHUNAA\"",
+  "CenterPositionLon": 16.799707902592825,
+  "CenterPositionLat": -89.94355936012954
+ },
+ {
+  "ID": 258017570,
+  "Capacity": 11,
+  "Name": "Parque Colonia del Maestro",
+  "CenterPositionLon": 14.596055797670067,
+  "CenterPositionLat": -90.49810299773686
+ },
+ {
+  "ID": 258038383,
+  "Capacity": 11,
+  "Name": "Palacio Maya",
+  "CenterPositionLon": 14.965958125439641,
+  "CenterPositionLat": -91.78757199792061
+ },
+ {
+  "ID": 258038384,
+  "Capacity": 115,
+  "Name": "Hall de Occiddente",
+  "CenterPositionLon": 14.965799787642966,
+  "CenterPositionLat": -91.78942379536605
+ },
+ {
+  "ID": 258038642,
+  "Capacity": 20,
+  "Name": "Agua Tibia",
+  "CenterPositionLon": 14.955860742995597,
+  "CenterPositionLat": -91.78704617305556
+ },
+ {
+  "ID": 258039083,
+  "Capacity": 15,
+  "Name": "Parque Central de San Pedro",
+  "CenterPositionLon": 14.966174806115314,
+  "CenterPositionLat": -91.77779014949014
+ },
+ {
+  "ID": 258360486,
+  "Capacity": 6,
+  "Name": "parque central",
+  "CenterPositionLon": 14.8688119,
+  "CenterPositionLat": -91.62165355
+ },
+ {
+  "ID": 258412425,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 14.8540561832511,
+  "CenterPositionLat": -91.3589683015248
+ },
+ {
+  "ID": 258575290,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.684814871116313,
+  "CenterPositionLat": -90.91801004210521
+ },
+ {
+  "ID": 258575291,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.684512020650791,
+  "CenterPositionLat": -90.9181148415494
+ },
+ {
+  "ID": 259803042,
+  "Capacity": 10,
+  "Name": "Parque José Ignacio Juarez",
+  "CenterPositionLon": 14.964659131581763,
+  "CenterPositionLat": -91.79428579961541
+ },
+ {
+  "ID": 283276569,
+  "Capacity": 10,
+  "Name": "Parque Central de Morales",
+  "CenterPositionLon": 15.475783685655273,
+  "CenterPositionLat": -88.82843315248253
+ },
+ {
+  "ID": 283347402,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 15.122783310706701,
+  "CenterPositionLat": -91.80574911441306
+ },
+ {
+  "ID": 283924697,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.582189528449259,
+  "CenterPositionLat": -91.46182021894221
+ },
+ {
+  "ID": 284105218,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.479916934892596,
+  "CenterPositionLat": -91.48245465989785
+ },
+ {
+  "ID": 284128891,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.534422242755694,
+  "CenterPositionLat": -91.50274037311965
+ },
+ {
+  "ID": 284136191,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.589586643143429,
+  "CenterPositionLat": -91.52128785249775
+ },
+ {
+  "ID": 293377859,
+  "Capacity": 6,
+  "Name": "Parque Central",
+  "CenterPositionLon": 17.063472860332343,
+  "CenterPositionLat": -89.15316365651448
+ },
+ {
+  "ID": 293377860,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 17.0615795805103,
+  "CenterPositionLat": -89.15266478068426
+ },
+ {
+  "ID": 293378787,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 16.72974106114699,
+  "CenterPositionLat": -89.37919656477854
+ },
+ {
+  "ID": 296320003,
+  "Capacity": 8,
+  "Name": "Parque central de Escuintla",
+  "CenterPositionLon": 14.300868125117901,
+  "CenterPositionLat": -90.78582978765202
+ },
+ {
+  "ID": 304224877,
+  "Capacity": 4,
+  "Name": "Parque Telma Quixtan",
+  "CenterPositionLon": 14.824451233333335,
+  "CenterPositionLat": -91.5364132
+ },
+ {
+  "ID": 313626788,
+  "Capacity": 602,
+  "Name": "Parque Nacional Los Aposentos",
+  "CenterPositionLon": 14.634950527823676,
+  "CenterPositionLat": -90.81618702765591
+ },
+ {
+  "ID": 313626789,
+  "Capacity": 11,
+  "Name": "Parque Central, José Simeón Cañan.",
+  "CenterPositionLon": 14.66115224169765,
+  "CenterPositionLat": -90.81936722333624
+ },
+ {
+  "ID": 314935825,
+  "Capacity": 8,
+  "Name": "Parque de Cipresales",
+  "CenterPositionLon": 14.662460243071004,
+  "CenterPositionLat": -90.4921656254799
+ },
+ {
+  "ID": 317517972,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 14.83090547354893,
+  "CenterPositionLat": -91.53926522961422
+ },
+ {
+  "ID": 323729035,
+  "Capacity": 10,
+  "Name": "Plaza de los Mártires",
+  "CenterPositionLon": 14.58755832653181,
+  "CenterPositionLat": -90.55181807372723
+ },
+ {
+  "ID": 326228657,
+  "Capacity": 1,
+  "Name": "Parque El Suyate",
+  "CenterPositionLon": 14.62906705659725,
+  "CenterPositionLat": -89.62055978305304
+ },
+ {
+  "ID": 326232760,
+  "Capacity": 2,
+  "Name": "Parque Central de Zacapa",
+  "CenterPositionLon": 14.973332150136086,
+  "CenterPositionLat": -89.53203264080832
+ },
+ {
+  "ID": 326232761,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.972818097742866,
+  "CenterPositionLat": -89.53217041072351
+ },
+ {
+  "ID": 326235197,
+  "Capacity": 0,
+  "Name": "Parque El Calvario",
+  "CenterPositionLon": 14.97371829952007,
+  "CenterPositionLat": -89.52819656132891
+ },
+ {
+  "ID": 326239977,
+  "Capacity": 19,
+  "Name": "Vilal Sofía",
+  "CenterPositionLon": 14.61314629468542,
+  "CenterPositionLat": -89.62829401339911
+ },
+ {
+  "ID": 326259338,
+  "Capacity": 0,
+  "Name": "Parquecito 24 de Diciembre",
+  "CenterPositionLon": 14.62292979741292,
+  "CenterPositionLat": -89.62155133136537
+ },
+ {
+  "ID": 326259610,
+  "Capacity": 0,
+  "Name": "Parque 10 de Mayo",
+  "CenterPositionLon": 14.619225620521588,
+  "CenterPositionLat": -89.61960762581008
+ },
+ {
+  "ID": 326259611,
+  "Capacity": 1,
+  "Name": "Parque Ismael Cerna",
+  "CenterPositionLon": 14.619340552374103,
+  "CenterPositionLat": -89.62414357264718
+ },
+ {
+  "ID": 326259921,
+  "Capacity": 0,
+  "Name": "Parque San Marcos",
+  "CenterPositionLon": 14.972343132889353,
+  "CenterPositionLat": -89.5349123001007
+ },
+ {
+  "ID": 326260732,
+  "Capacity": 0,
+  "Name": "Plaza San Ildefonso",
+  "CenterPositionLon": 14.619407228763363,
+  "CenterPositionLat": -89.62368850148916
+ },
+ {
+  "ID": 326261000,
+  "Capacity": 0,
+  "Name": "Parque Central Quesada",
+  "CenterPositionLon": 14.2712163503842,
+  "CenterPositionLat": -90.03752218583665
+ },
+ {
+  "ID": 326280143,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.972067076884978,
+  "CenterPositionLat": -89.53589781940357
+ },
+ {
+  "ID": 327435448,
+  "Capacity": 2,
+  "Name": "Parque Central Yepocapa",
+  "CenterPositionLon": 14.499992982887603,
+  "CenterPositionLat": -90.9550463672054
+ },
+ {
+  "ID": 329470514,
+  "Capacity": 13,
+  "Name": "Parque central",
+  "CenterPositionLon": 14.18686119663154,
+  "CenterPositionLat": -91.30485193932508
+ },
+ {
+  "ID": 333612226,
+  "Capacity": 4,
+  "Name": "Plaza Cívica",
+  "CenterPositionLon": 14.661156441443909,
+  "CenterPositionLat": -90.81880803573291
+ },
+ {
+  "ID": 340974079,
+  "Capacity": 89,
+  "Name": "Campo de footbol El Bonanza",
+  "CenterPositionLon": 15.316257831143297,
+  "CenterPositionLat": -91.51973005633891
+ },
+ {
+  "ID": 347302746,
+  "Capacity": 187,
+  "Name": "AMSA/Bosque Naciones Unidas",
+  "CenterPositionLon": 14.516413849225067,
+  "CenterPositionLat": -90.6193743211757
+ },
+ {
+  "ID": 349913784,
+  "Capacity": 21,
+  "Name": "Balneario Aguas Calientes, San Lorenzo (Q10/persona)",
+  "CenterPositionLon": 14.61777867254285,
+  "CenterPositionLat": -90.76529802252759
+ },
+ {
+  "ID": 349938607,
+  "Capacity": 1473,
+  "Name": "FINCA LA LOMA Y  AREA DE BOSQUE",
+  "CenterPositionLon": 14.649023155053246,
+  "CenterPositionLat": -90.8421297223159
+ },
+ {
+  "ID": 355390019,
+  "Capacity": 10,
+  "Name": "Parque Navidad",
+  "CenterPositionLon": 14.624238238676005,
+  "CenterPositionLat": -90.50113448753186
+ },
+ {
+  "ID": 359284153,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 16.528415218771286,
+  "CenterPositionLat": -90.19114985096215
+ },
+ {
+  "ID": 364659502,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.8223353639238,
+  "CenterPositionLat": -89.38876642510492
+ },
+ {
+  "ID": 364659512,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.820971602979045,
+  "CenterPositionLat": -89.39089451883801
+ },
+ {
+  "ID": 364659515,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.819964598653558,
+  "CenterPositionLat": -89.39006245056912
+ },
+ {
+  "ID": 364659539,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.82232660294563,
+  "CenterPositionLat": -89.38971299606118
+ },
+ {
+  "ID": 364659566,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.819494595343103,
+  "CenterPositionLat": -89.3910407781179
+ },
+ {
+  "ID": 364678043,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.819053590753983,
+  "CenterPositionLat": -89.39213275271791
+ },
+ {
+  "ID": 364678045,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.81889073189545,
+  "CenterPositionLat": -89.39258172190789
+ },
+ {
+  "ID": 365895841,
+  "Capacity": 0,
+  "Name": "Plaza El Güipil",
+  "CenterPositionLon": 14.627756399999999,
+  "CenterPositionLat": -90.52725559999999
+ },
+ {
+  "ID": 371496393,
+  "Capacity": 3,
+  "Name": "Parque Central Santiago Atitlán",
+  "CenterPositionLon": 14.638579897246807,
+  "CenterPositionLat": -91.22993622944908
+ },
+ {
+  "ID": 371496646,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.633680665273989,
+  "CenterPositionLat": -91.14273920158715
+ },
+ {
+  "ID": 371502004,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 14.770350324466506,
+  "CenterPositionLat": -91.18303715908299
+ },
+ {
+  "ID": 373437306,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.78514766189875,
+  "CenterPositionLat": -91.14724258622485
+ },
+ {
+  "ID": 373437308,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.74625465,
+  "CenterPositionLat": -91.13419515
+ },
+ {
+  "ID": 375866434,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.5757936,
+  "CenterPositionLat": -90.67816415
+ },
+ {
+  "ID": 375969227,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 15.09045938455963,
+  "CenterPositionLat": -91.74893326493466
+ },
+ {
+  "ID": 377353393,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.559131352132075,
+  "CenterPositionLat": -90.6701935018811
+ },
+ {
+  "ID": 377762157,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.566634361700839,
+  "CenterPositionLat": -90.46581036177612
+ },
+ {
+  "ID": 377771891,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.56966522321203,
+  "CenterPositionLat": -90.46575203377978
+ },
+ {
+  "ID": 377771892,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.569733376384635,
+  "CenterPositionLat": -90.46357480220924
+ },
+ {
+  "ID": 377771893,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.56842769462801,
+  "CenterPositionLat": -90.46658957391169
+ },
+ {
+  "ID": 377771894,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.566777802278319,
+  "CenterPositionLat": -90.46849991477951
+ },
+ {
+  "ID": 377771895,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.568235372138666,
+  "CenterPositionLat": -90.46817715648376
+ },
+ {
+  "ID": 378250738,
+  "Capacity": 2,
+  "Name": "Plaza La Marimba",
+  "CenterPositionLon": 14.600501480470452,
+  "CenterPositionLat": -90.49963475748338
+ },
+ {
+  "ID": 378250739,
+  "Capacity": 4,
+  "Name": "Plaza Confucio",
+  "CenterPositionLon": 14.6035664352654,
+  "CenterPositionLat": -90.5007297868342
+ },
+ {
+  "ID": 378406777,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.605228594632969,
+  "CenterPositionLat": -90.49127333817712
+ },
+ {
+  "ID": 378406787,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.588638633436286,
+  "CenterPositionLat": -90.48761829311486
+ },
+ {
+  "ID": 379962465,
+  "Capacity": 7,
+  "Name": "parque infantil cesped",
+  "CenterPositionLon": 14.681919690788456,
+  "CenterPositionLat": -92.13854744136975
+ },
+ {
+  "ID": 380143230,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.574512736451453,
+  "CenterPositionLat": -90.52434934483895
+ },
+ {
+  "ID": 380143235,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.57591248544511,
+  "CenterPositionLat": -90.52370447707236
+ },
+ {
+  "ID": 380143247,
+  "Capacity": 1,
+  "Name": "Plaza Nicaragua",
+  "CenterPositionLon": 14.581369915467947,
+  "CenterPositionLat": -90.52196246878779
+ },
+ {
+  "ID": 380143265,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 14.580110261662819,
+  "CenterPositionLat": -90.52230159116232
+ },
+ {
+  "ID": 380143267,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.582392800275029,
+  "CenterPositionLat": -90.52167209628382
+ },
+ {
+  "ID": 380143284,
+  "Capacity": 12,
+  "Name": "Parque",
+  "CenterPositionLon": 14.590270905461216,
+  "CenterPositionLat": -90.51944743929897
+ },
+ {
+  "ID": 380143286,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 14.587543621142268,
+  "CenterPositionLat": -90.52022886720279
+ },
+ {
+  "ID": 380233745,
+  "Capacity": 4,
+  "Name": "Monumento al Papa",
+  "CenterPositionLon": 14.573034720875215,
+  "CenterPositionLat": -90.52521336061034
+ },
+ {
+  "ID": 380233746,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.573758778893447,
+  "CenterPositionLat": -90.52470716927914
+ },
+ {
+  "ID": 381411362,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.604442646148915,
+  "CenterPositionLat": -90.76394917793468
+ },
+ {
+  "ID": 382143109,
+  "Capacity": 5,
+  "Name": "Parque Manzana I",
+  "CenterPositionLon": 14.641070338520544,
+  "CenterPositionLat": -90.57811431529689
+ },
+ {
+  "ID": 382360559,
+  "Capacity": 7,
+  "Name": "Parque Bosques de La Fontana",
+  "CenterPositionLon": 14.650869915309993,
+  "CenterPositionLat": -90.56618593361372
+ },
+ {
+  "ID": 383344308,
+  "Capacity": 2,
+  "Name": "Parque Central La Paz",
+  "CenterPositionLon": 15.47021958532272,
+  "CenterPositionLat": -90.37349458543918
+ },
+ {
+  "ID": 383400766,
+  "Capacity": 1,
+  "Name": "Isabela Católica",
+  "CenterPositionLon": 14.647473927681428,
+  "CenterPositionLat": -90.51021341412395
+ },
+ {
+  "ID": 383607109,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.592132702679372,
+  "CenterPositionLat": -90.75458960534186
+ },
+ {
+  "ID": 384013570,
+  "Capacity": 19,
+  "Name": "Reserva Natural Monterico",
+  "CenterPositionLon": 13.889991877183524,
+  "CenterPositionLat": -90.47811071269564
+ },
+ {
+  "ID": 384123696,
+  "Capacity": 5,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.539588483420545,
+  "CenterPositionLat": -91.41642186874763
+ },
+ {
+  "ID": 384220241,
+  "Capacity": 0,
+  "Name": "Parquecito Fray Bartolomé las Casas",
+  "CenterPositionLon": 15.470234095346038,
+  "CenterPositionLat": -90.3749337550462
+ },
+ {
+  "ID": 384404199,
+  "Capacity": 2,
+  "Name": "Parque Municipal de San Jose Pinula",
+  "CenterPositionLon": 14.545901208113428,
+  "CenterPositionLat": -90.41432187334873
+ },
+ {
+  "ID": 384451701,
+  "Capacity": 6,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.871955113171467,
+  "CenterPositionLat": -91.56196807002506
+ },
+ {
+  "ID": 385611056,
+  "Capacity": 21,
+  "Name": "Acropolis Norte",
+  "CenterPositionLon": 17.075894247219317,
+  "CenterPositionLat": -89.40248964833694
+ },
+ {
+  "ID": 385611058,
+  "Capacity": 18,
+  "Name": "Grupo Maler - Plaza de Las Sombras",
+  "CenterPositionLon": 17.079053690514055,
+  "CenterPositionLat": -89.40288092437805
+ },
+ {
+  "ID": 385611062,
+  "Capacity": 15,
+  "Name": "Plaza A - Complejo de Piramides Gemelas",
+  "CenterPositionLon": 17.072766852440136,
+  "CenterPositionLat": -89.39817993281486
+ },
+ {
+  "ID": 385611063,
+  "Capacity": 10,
+  "Name": "Plaza B - Plaza de Las Columnas",
+  "CenterPositionLon": 17.071946382835517,
+  "CenterPositionLat": -89.39928444095153
+ },
+ {
+  "ID": 385611064,
+  "Capacity": 6,
+  "Name": "Plaza E - Plaza de Los Pajaros",
+  "CenterPositionLon": 17.07357975,
+  "CenterPositionLat": -89.40203475
+ },
+ {
+  "ID": 386272446,
+  "Capacity": 3,
+  "Name": "Parque Central San Miguel Pochuta",
+  "CenterPositionLon": 14.544325448747509,
+  "CenterPositionLat": -91.08882964309127
+ },
+ {
+  "ID": 386282482,
+  "Capacity": 5,
+  "Name": "Parque Central Patulul",
+  "CenterPositionLon": 14.42240243563211,
+  "CenterPositionLat": -91.16041424586874
+ },
+ {
+  "ID": 386537537,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.674669,
+  "CenterPositionLat": -90.56715890000001
+ },
+ {
+  "ID": 386674904,
+  "Capacity": 3,
+  "Name": "Parque",
+  "CenterPositionLon": 14.668029422962807,
+  "CenterPositionLat": -90.58633423034775
+ },
+ {
+  "ID": 386687807,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 14.663605368462788,
+  "CenterPositionLat": -90.58745042186916
+ },
+ {
+  "ID": 387875080,
+  "Capacity": 9,
+  "Name": "Xechivoy",
+  "CenterPositionLon": 14.63346496428459,
+  "CenterPositionLat": -91.23093585489306
+ },
+ {
+  "ID": 387890643,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.574970382960547,
+  "CenterPositionLat": -89.9807004261288
+ },
+ {
+  "ID": 388519076,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 17.220232132201357,
+  "CenterPositionLat": -89.62728895954308
+ },
+ {
+  "ID": 388519158,
+  "Capacity": 7,
+  "Name": "Plaza de los Siete Templos",
+  "CenterPositionLon": 17.21977175084172,
+  "CenterPositionLat": -89.62581979035915
+ },
+ {
+  "ID": 388524126,
+  "Capacity": 7,
+  "Name": "Conjunto Q",
+  "CenterPositionLon": 17.225186520213466,
+  "CenterPositionLat": -89.61926260810993
+ },
+ {
+  "ID": 389445114,
+  "Capacity": 1,
+  "Name": "Club A.V.R.A",
+  "CenterPositionLon": 14.656419778082865,
+  "CenterPositionLat": -90.4823899922094
+ },
+ {
+  "ID": 390468686,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.564319033333334,
+  "CenterPositionLat": -90.73546743333334
+ },
+ {
+  "ID": 390920446,
+  "Capacity": 4,
+  "Name": "Parque Central Patzún",
+  "CenterPositionLon": 14.682645779878001,
+  "CenterPositionLat": -91.01464011633797
+ },
+ {
+  "ID": 395010977,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.541074043151417,
+  "CenterPositionLat": -90.57923071615525
+ },
+ {
+  "ID": 395010980,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.538609584065238,
+  "CenterPositionLat": -90.57814340756404
+ },
+ {
+  "ID": 395017108,
+  "Capacity": 7,
+  "Name": "Parque Grande Colinas de Monte María Sur",
+  "CenterPositionLon": 14.551788142770711,
+  "CenterPositionLat": -90.56925992240551
+ },
+ {
+  "ID": 396100116,
+  "Capacity": 0,
+  "Name": "Plaza Santa Isabel",
+  "CenterPositionLon": 14.545371801028388,
+  "CenterPositionLat": -90.72767642964011
+ },
+ {
+  "ID": 396792410,
+  "Capacity": 5,
+  "Name": "Plaza Angelina",
+  "CenterPositionLon": 14.8494982,
+  "CenterPositionLat": -91.53695715
+ },
+ {
+  "ID": 398273226,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.622552934801197,
+  "CenterPositionLat": -90.49993333778008
+ },
+ {
+  "ID": 398415131,
+  "Capacity": 1,
+  "Name": "Parque Miraflores",
+  "CenterPositionLon": 14.614107924017173,
+  "CenterPositionLat": -90.55332082761954
+ },
+ {
+  "ID": 398605400,
+  "Capacity": 479,
+  "Name": "Las Victorias",
+  "CenterPositionLon": 15.476901518977364,
+  "CenterPositionLat": -90.38235794197746
+ },
+ {
+  "ID": 399430727,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 15.8129384690903,
+  "CenterPositionLat": -90.2910823852136
+ },
+ {
+  "ID": 401273350,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 14.879000742802205,
+  "CenterPositionLat": -91.45462712862663
+ },
+ {
+  "ID": 402212178,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.624990050000001,
+  "CenterPositionLat": -91.5969336
+ },
+ {
+  "ID": 402396182,
+  "Capacity": 4,
+  "Name": "Parque Central El Asintal",
+  "CenterPositionLon": 14.597447122540387,
+  "CenterPositionLat": -91.7267504710618
+ },
+ {
+  "ID": 402471698,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 13.9307813,
+  "CenterPositionLat": -90.7760235
+ },
+ {
+  "ID": 402534612,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 13.931401809764463,
+  "CenterPositionLat": -90.77193288195996
+ },
+ {
+  "ID": 402969379,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.50260823377863,
+  "CenterPositionLat": -90.57834873480257
+ },
+ {
+  "ID": 402970133,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.50648365,
+  "CenterPositionLat": -90.57400894999999
+ },
+ {
+  "ID": 402970151,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.507365463058292,
+  "CenterPositionLat": -90.57313196080406
+ },
+ {
+  "ID": 403001191,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 14.528924097895766,
+  "CenterPositionLat": -91.5070342732419
+ },
+ {
+  "ID": 403677680,
+  "Capacity": 2,
+  "Name": "Parque Municipal Villa Canales",
+  "CenterPositionLon": 14.481528419877971,
+  "CenterPositionLat": -90.53466707252647
+ },
+ {
+  "ID": 403687935,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.476706292138402,
+  "CenterPositionLat": -90.53537768441947
+ },
+ {
+  "ID": 403906651,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.561299535530262,
+  "CenterPositionLat": -91.64861398243701
+ },
+ {
+  "ID": 404092433,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.309576833333333,
+  "CenterPositionLat": -90.77817156666667
+ },
+ {
+  "ID": 404125093,
+  "Capacity": 1,
+  "Name": "Parque Central Fray Juanes",
+  "CenterPositionLon": 14.465669713385704,
+  "CenterPositionLat": -90.44075184731261
+ },
+ {
+  "ID": 404366380,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.531817487444393,
+  "CenterPositionLat": -91.5164072413566
+ },
+ {
+  "ID": 404939198,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.604685266236114,
+  "CenterPositionLat": -90.50112886692443
+ },
+ {
+  "ID": 405021770,
+  "Capacity": 4,
+  "Name": "Parque Colonia Centroamérica",
+  "CenterPositionLon": 14.635098709523573,
+  "CenterPositionLat": -90.5566824281902
+ },
+ {
+  "ID": 405236130,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.521609346536916,
+  "CenterPositionLat": -90.58800013779792
+ },
+ {
+  "ID": 405325073,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.681265490102529,
+  "CenterPositionLat": -90.54177435113573
+ },
+ {
+  "ID": 405336951,
+  "Capacity": 1,
+  "Name": "Parque el Sauce",
+  "CenterPositionLon": 14.649121514332812,
+  "CenterPositionLat": -90.51792457771815
+ },
+ {
+  "ID": 405548571,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.651918752353156,
+  "CenterPositionLat": -90.57550445085114
+ },
+ {
+  "ID": 405548572,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.65312823988854,
+  "CenterPositionLat": -90.57440926742132
+ },
+ {
+  "ID": 405548574,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.654543551903618,
+  "CenterPositionLat": -90.57282872920928
+ },
+ {
+  "ID": 405548580,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.650623486703525,
+  "CenterPositionLat": -90.5773776046739
+ },
+ {
+  "ID": 405552717,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.649092115374224,
+  "CenterPositionLat": -90.580306888316
+ },
+ {
+  "ID": 406214318,
+  "Capacity": 3,
+  "Name": "Parque de Mixco",
+  "CenterPositionLon": 14.630667510634122,
+  "CenterPositionLat": -90.60617682303493
+ },
+ {
+  "ID": 406379889,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.6302014,
+  "CenterPositionLat": -90.9276996
+ },
+ {
+  "ID": 406458837,
+  "Capacity": 2,
+  "Name": "Parque",
+  "CenterPositionLon": 14.554036665230306,
+  "CenterPositionLat": -90.94463675256411
+ },
+ {
+  "ID": 406472819,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.547387024441377,
+  "CenterPositionLat": -90.78158688450091
+ },
+ {
+  "ID": 406472820,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.550298707797745,
+  "CenterPositionLat": -90.78577361954706
+ },
+ {
+  "ID": 406492400,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.647028269266736,
+  "CenterPositionLat": -90.73715969322767
+ },
+ {
+  "ID": 406819406,
+  "Capacity": 8,
+  "Name": "Parque",
+  "CenterPositionLon": 14.669550243238097,
+  "CenterPositionLat": -90.56593510407184
+ },
+ {
+  "ID": 406819407,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.670477867994988,
+  "CenterPositionLat": -90.56591453011323
+ },
+ {
+  "ID": 406833503,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 14.590497074526041,
+  "CenterPositionLat": -91.6915998623393
+ },
+ {
+  "ID": 407976295,
+  "Capacity": 0,
+  "Name": "Parque Municipal de Sanarate",
+  "CenterPositionLon": 14.787801516096959,
+  "CenterPositionLat": -90.1984518373861
+ },
+ {
+  "ID": 408472390,
+  "Capacity": 1,
+  "Name": "Parque Central",
+  "CenterPositionLon": 15.102336249999999,
+  "CenterPositionLat": -90.3185888
+ },
+ {
+  "ID": 410047839,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 15.388041770583266,
+  "CenterPositionLat": -91.61520589244543
+ },
+ {
+  "ID": 410093201,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 15.6672966,
+  "CenterPositionLat": -91.7149156
+ },
+ {
+  "ID": 410133049,
+  "Capacity": 13,
+  "Name": "Parque La Democracia",
+  "CenterPositionLon": 15.625300635452971,
+  "CenterPositionLat": -91.88690440492745
+ },
+ {
+  "ID": 417138815,
+  "Capacity": 49,
+  "Name": "Parque Nuevo Palmar",
+  "CenterPositionLon": 14.646356112111684,
+  "CenterPositionLat": -91.55613377871069
+ },
+ {
+  "ID": 421573187,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.505861318278658,
+  "CenterPositionLat": -90.56104016351395
+ },
+ {
+  "ID": 425905170,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.586717512678623,
+  "CenterPositionLat": -90.55340587619584
+ },
+ {
+  "ID": 429957922,
+  "Capacity": 4,
+  "Name": "Parque",
+  "CenterPositionLon": 14.626842906266548,
+  "CenterPositionLat": -90.5811799417358
+ },
+ {
+  "ID": 431080342,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.669269143772553,
+  "CenterPositionLat": -90.58347292692609
+ },
+ {
+  "ID": 437969254,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.644976522159693,
+  "CenterPositionLat": -91.22861745434129
+ },
+ {
+  "ID": 438395305,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.553951166666668,
+  "CenterPositionLat": -90.73795969999999
+ },
+ {
+  "ID": 442002809,
+  "Capacity": 2795,
+  "Name": "Parque Nacional",
+  "CenterPositionLon": 14.9787335155179,
+  "CenterPositionLat": -91.73919729711353
+ },
+ {
+  "ID": 442003414,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 14.968262106434889,
+  "CenterPositionLat": -91.76186001949536
+ },
+ {
+  "ID": 442463343,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.47744083081232,
+  "CenterPositionLat": -90.31075121436274
+ },
+ {
+  "ID": 443536816,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 14.094849506456196,
+  "CenterPositionLat": -91.0618804222767
+ },
+ {
+  "ID": 447307220,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 14.967514798647596,
+  "CenterPositionLat": -91.75312627528514
+ },
+ {
+  "ID": 448357066,
+  "Capacity": 1,
+  "Name": "Cancha La Gambeta",
+  "CenterPositionLon": 15.043672497199356,
+  "CenterPositionLat": -91.40666435126572
+ },
+ {
+  "ID": 448359927,
+  "Capacity": 5,
+  "Name": "Parque",
+  "CenterPositionLon": 15.0451587047799,
+  "CenterPositionLat": -91.40813817954042
+ },
+ {
+  "ID": 448675386,
+  "Capacity": 6,
+  "Name": "Parque Central",
+  "CenterPositionLon": 15.166159120158085,
+  "CenterPositionLat": -90.85095601894687
+ },
+ {
+  "ID": 448683954,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.92264966186844,
+  "CenterPositionLat": -91.61462227381618
+ },
+ {
+  "ID": 448741520,
+  "Capacity": 410,
+  "Name": "",
+  "CenterPositionLon": 14.547197322870334,
+  "CenterPositionLat": -91.46009369783681
+ },
+ {
+  "ID": 448747922,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.932004098571118,
+  "CenterPositionLat": -91.91292753421614
+ },
+ {
+  "ID": 448759897,
+  "Capacity": 8,
+  "Name": "parque",
+  "CenterPositionLon": 14.138152283078057,
+  "CenterPositionLat": -89.82993903216519
+ },
+ {
+  "ID": 448762056,
+  "Capacity": 2,
+  "Name": "PARQUE CENTRAL",
+  "CenterPositionLon": 14.714413322908742,
+  "CenterPositionLat": -91.30456847953086
+ },
+ {
+  "ID": 448843804,
+  "Capacity": 5,
+  "Name": "Parque Central, Cuilco",
+  "CenterPositionLon": 15.407451681149707,
+  "CenterPositionLat": -91.94683395185226
+ },
+ {
+  "ID": 448890046,
+  "Capacity": 15,
+  "Name": "Parque Central de Coatepeque",
+  "CenterPositionLon": 14.703839997249522,
+  "CenterPositionLat": -91.86166889397197
+ },
+ {
+  "ID": 448896704,
+  "Capacity": 4,
+  "Name": "Parque central",
+  "CenterPositionLon": 15.342227264625667,
+  "CenterPositionLat": -91.3133063543867
+ },
+ {
+  "ID": 448896708,
+  "Capacity": 29,
+  "Name": "Estadio Municipal David Herrera Mauricio",
+  "CenterPositionLon": 15.342680500770443,
+  "CenterPositionLat": -91.30463977898445
+ },
+ {
+  "ID": 448897870,
+  "Capacity": 13,
+  "Name": "Parque San Miguel, Totonicapan",
+  "CenterPositionLon": 14.91236032478773,
+  "CenterPositionLat": -91.36003638652743
+ },
+ {
+  "ID": 448901108,
+  "Capacity": 9,
+  "Name": "Parque Infantil El Cerrito",
+  "CenterPositionLon": 14.778108906199705,
+  "CenterPositionLat": -90.7920725125552
+ },
+ {
+  "ID": 448901852,
+  "Capacity": 13,
+  "Name": "Plaza Pública",
+  "CenterPositionLon": 14.780811766557054,
+  "CenterPositionLat": -90.79325899334083
+ },
+ {
+  "ID": 455887727,
+  "Capacity": 0,
+  "Name": "Omega Internet",
+  "CenterPositionLon": 15.475262560610034,
+  "CenterPositionLat": -90.36336269784744
+ },
+ {
+  "ID": 461231552,
+  "Capacity": 6,
+  "Name": "Parque Jardines de Tikal 1",
+  "CenterPositionLon": 14.631938390025232,
+  "CenterPositionLat": -90.55254091430396
+ },
+ {
+  "ID": 461257712,
+  "Capacity": 20,
+  "Name": "Parque Alamedas de Villa Flores",
+  "CenterPositionLon": 14.526912807952073,
+  "CenterPositionLat": -90.53572348667275
+ },
+ {
+  "ID": 461257819,
+  "Capacity": 0,
+  "Name": "Alamedas de villa flores redondel",
+  "CenterPositionLon": 14.52653934729879,
+  "CenterPositionLat": -90.53315547943401
+ },
+ {
+  "ID": 461257825,
+  "Capacity": 2,
+  "Name": "Área verde Sector 12",
+  "CenterPositionLon": 14.527131126661605,
+  "CenterPositionLat": -90.53315367205433
+ },
+ {
+  "ID": 461257859,
+  "Capacity": 0,
+  "Name": "Área verde 2 sector 12",
+  "CenterPositionLon": 14.527678245106342,
+  "CenterPositionLat": -90.53273956079403
+ },
+ {
+  "ID": 461258061,
+  "Capacity": 0,
+  "Name": "Área verde 4 Sector 12",
+  "CenterPositionLon": 14.529047077318149,
+  "CenterPositionLat": -90.53221747355681
+ },
+ {
+  "ID": 465474826,
+  "Capacity": 2166,
+  "Name": "Zona de Arena Volcán Acatenango",
+  "CenterPositionLon": 14.502808203655196,
+  "CenterPositionLat": -90.87577741574144
+ },
+ {
+  "ID": 466531041,
+  "Capacity": 13,
+  "Name": "Parque San Ángel",
+  "CenterPositionLon": 14.673058470116361,
+  "CenterPositionLat": -90.50408247565358
+ },
+ {
+  "ID": 467852205,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 14.590901071616514,
+  "CenterPositionLat": -90.58214998245063
+ },
+ {
+  "ID": 467882492,
+  "Capacity": 1,
+  "Name": "Parque Salvador Castillo",
+  "CenterPositionLon": 15.3159021,
+  "CenterPositionLat": -91.47494776666667
+ },
+ {
+  "ID": 467888053,
+  "Capacity": 21,
+  "Name": "eco aventura",
+  "CenterPositionLon": 14.596456565538846,
+  "CenterPositionLat": -90.56444272680453
+ },
+ {
+  "ID": 468016241,
+  "Capacity": 0,
+  "Name": "Parque Gabriela Mistral",
+  "CenterPositionLon": 15.470268722610335,
+  "CenterPositionLat": -90.37421506647426
+ },
+ {
+  "ID": 468563740,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.608368233333334,
+  "CenterPositionLat": -90.46896663333334
+ },
+ {
+  "ID": 468579549,
+  "Capacity": 1,
+  "Name": "Parque Tecún Umán",
+  "CenterPositionLon": 14.662619245383405,
+  "CenterPositionLat": -90.50229878663443
+ },
+ {
+  "ID": 468579586,
+  "Capacity": 10,
+  "Name": "Parque Ecológico Ciudad Nueva",
+  "CenterPositionLon": 14.66319941875278,
+  "CenterPositionLat": -90.50325307523994
+ },
+ {
+  "ID": 468778721,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.413360732119694,
+  "CenterPositionLat": -89.93204485406825
+ },
+ {
+  "ID": 468785799,
+  "Capacity": 37,
+  "Name": "forest",
+  "CenterPositionLon": 15.303016136107482,
+  "CenterPositionLat": -89.65311724017661
+ },
+ {
+  "ID": 468785802,
+  "Capacity": 37,
+  "Name": "forest",
+  "CenterPositionLon": 15.302122942102308,
+  "CenterPositionLat": -89.65880754916013
+ },
+ {
+  "ID": 468791131,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.300419955410964,
+  "CenterPositionLat": -89.90456217653725
+ },
+ {
+  "ID": 468924984,
+  "Capacity": 0,
+  "Name": "Gran Ceiba",
+  "CenterPositionLon": 14.661784193010172,
+  "CenterPositionLat": -90.5027281374811
+ },
+ {
+  "ID": 469205609,
+  "Capacity": 9,
+  "Name": "Parque Altos de San Angel",
+  "CenterPositionLon": 14.678519058724596,
+  "CenterPositionLat": -90.50383782186977
+ },
+ {
+  "ID": 469209427,
+  "Capacity": 11,
+  "Name": "Parque Colinas 2 de Monte Maria Sur",
+  "CenterPositionLon": 14.549395554987584,
+  "CenterPositionLat": -90.5718451645463
+ },
+ {
+  "ID": 469210395,
+  "Capacity": 7,
+  "Name": "Parque Infantil Colinas de Monte Maria Sur",
+  "CenterPositionLon": 14.550407134283267,
+  "CenterPositionLat": -90.57392871081092
+ },
+ {
+  "ID": 469491235,
+  "Capacity": 2,
+  "Name": "La Pista",
+  "CenterPositionLon": 14.642429613589178,
+  "CenterPositionLat": -90.49658770872892
+ },
+ {
+  "ID": 469804091,
+  "Capacity": 26,
+  "Name": "Parque Peñón de San Ángel",
+  "CenterPositionLon": 14.671515628780819,
+  "CenterPositionLat": -90.50337894187021
+ },
+ {
+  "ID": 469808337,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.271998472974605,
+  "CenterPositionLat": -90.03513956184781
+ },
+ {
+  "ID": 471691340,
+  "Capacity": 0,
+  "Name": "Parque Central",
+  "CenterPositionLon": 15.319099546771769,
+  "CenterPositionLat": -90.35176892395243
+ },
+ {
+  "ID": 472469682,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.597362534118167,
+  "CenterPositionLat": -90.57477000975956
+ },
+ {
+  "ID": 472470130,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.596010259604355,
+  "CenterPositionLat": -90.57706032592486
+ },
+ {
+  "ID": 473189716,
+  "Capacity": 22,
+  "Name": "Parque \"El Calvario\"",
+  "CenterPositionLon": 15.324088916758566,
+  "CenterPositionLat": -91.46755065619055
+ },
+ {
+  "ID": 475358179,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.589757643885365,
+  "CenterPositionLat": -90.59979124768924
+ },
+ {
+  "ID": 476131158,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.934308223951074,
+  "CenterPositionLat": -89.79646773996366
+ },
+ {
+  "ID": 476134144,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.9888418,
+  "CenterPositionLat": -89.71862005
+ },
+ {
+  "ID": 476391649,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.307123947103328,
+  "CenterPositionLat": -90.96735703475028
+ },
+ {
+  "ID": 476713048,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 15.241209686216864,
+  "CenterPositionLat": -92.06653439641686
+ },
+ {
+  "ID": 477967037,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.633527501087185,
+  "CenterPositionLat": -90.55532141490193
+ },
+ {
+  "ID": 479378390,
+  "Capacity": 9,
+  "Name": "Parque central de Pajapita",
+  "CenterPositionLon": 14.72265660726964,
+  "CenterPositionLat": -92.0344603372912
+ },
+ {
+  "ID": 479380224,
+  "Capacity": 3,
+  "Name": "Parque del Ferrocarril",
+  "CenterPositionLon": 14.72048895249333,
+  "CenterPositionLat": -92.03557646694135
+ },
+ {
+  "ID": 480511880,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 14.595871202026503,
+  "CenterPositionLat": -90.48486038379458
+ },
+ {
+  "ID": 481426389,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 13.978674958027975,
+  "CenterPositionLat": -90.20667456098558
+ },
+ {
+  "ID": 485599913,
+  "Capacity": 1,
+  "Name": "Parque de Guazacapán",
+  "CenterPositionLon": 14.0724017059602,
+  "CenterPositionLat": -90.4185316006692
+ },
+ {
+  "ID": 486501912,
+  "Capacity": 54,
+  "Name": "Agua Clara",
+  "CenterPositionLon": 14.962528011051814,
+  "CenterPositionLat": -92.14621587904614
+ },
+ {
+  "ID": 486644255,
+  "Capacity": 3,
+  "Name": "Parque Cañadas del naranjo",
+  "CenterPositionLon": 14.643556847231299,
+  "CenterPositionLat": -90.56016257503673
+ },
+ {
+  "ID": 486647292,
+  "Capacity": 3,
+  "Name": "Paque2 cañadas del naranjp",
+  "CenterPositionLon": 14.642500059641018,
+  "CenterPositionLat": -90.56025955971282
+ },
+ {
+  "ID": 487224466,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.62010671167092,
+  "CenterPositionLat": -90.55629698020033
+ },
+ {
+  "ID": 487224514,
+  "Capacity": 3,
+  "Name": "Parque Colonia Mirador II",
+  "CenterPositionLon": 14.615350886187025,
+  "CenterPositionLat": -90.55610976764636
+ },
+ {
+  "ID": 487225356,
+  "Capacity": 25,
+  "Name": "Campos Maria Auxiliadora",
+  "CenterPositionLon": 14.61337772804987,
+  "CenterPositionLat": -90.55758338738205
+ },
+ {
+  "ID": 488038407,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.661892784326685,
+  "CenterPositionLat": -90.4457078778033
+ },
+ {
+  "ID": 488130543,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.659586741493154,
+  "CenterPositionLat": -90.4373779469843
+ },
+ {
+  "ID": 488130544,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.659838486918193,
+  "CenterPositionLat": -90.43770830527362
+ },
+ {
+  "ID": 489864362,
+  "Capacity": 0,
+  "Name": "Ofibodega los almendros parque",
+  "CenterPositionLon": 14.644535311604065,
+  "CenterPositionLat": -90.4846808589466
+ },
+ {
+  "ID": 492864234,
+  "Capacity": 0,
+  "Name": "Parque Aldea Los Planes",
+  "CenterPositionLon": 14.752375469486324,
+  "CenterPositionLat": -89.43971000866915
+ },
+ {
+  "ID": 494772354,
+  "Capacity": 2,
+  "Name": "Parque central",
+  "CenterPositionLon": 14.76431195164955,
+  "CenterPositionLat": -89.43083462766079
+ },
+ {
+  "ID": 495273230,
+  "Capacity": 3,
+  "Name": "lavarreda",
+  "CenterPositionLon": 14.652292053809672,
+  "CenterPositionLat": -90.47552243441899
+ },
+ {
+  "ID": 495308681,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.333902360743368,
+  "CenterPositionLat": -89.70940418306644
+ },
+ {
+  "ID": 502459953,
+  "Capacity": 1,
+  "Name": "Parque Terravista",
+  "CenterPositionLon": 14.531309039845006,
+  "CenterPositionLat": -90.44675923319046
+ },
+ {
+  "ID": 516023588,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.03817235,
+  "CenterPositionLat": -90.0821966
+ },
+ {
+  "ID": 522233842,
+  "Capacity": 41,
+  "Name": "cementerio las flores",
+  "CenterPositionLon": 14.533975900340128,
+  "CenterPositionLat": -90.52804638616252
+ },
+ {
+  "ID": 526928743,
+  "Capacity": 3,
+  "Name": "Schildkrötenstation",
+  "CenterPositionLon": 13.919700409783214,
+  "CenterPositionLat": -90.60555579716743
+ },
+ {
+  "ID": 529555804,
+  "Capacity": 21,
+  "Name": "Campo de futbol",
+  "CenterPositionLon": 14.662753147835023,
+  "CenterPositionLat": -91.42662390265933
+ },
+ {
+  "ID": 531035296,
+  "Capacity": 6,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.202831785817683,
+  "CenterPositionLat": -90.8493055128799
+ },
+ {
+  "ID": 532155429,
+  "Capacity": 3,
+  "Name": "Gimnasio",
+  "CenterPositionLon": 14.5080628006624,
+  "CenterPositionLat": -90.58736981093588
+ },
+ {
+  "ID": 540286859,
+  "Capacity": 3,
+  "Name": "Parque Municipal de Rabinal",
+  "CenterPositionLon": 15.08558945,
+  "CenterPositionLat": -90.49201445
+ },
+ {
+  "ID": 541367630,
+  "Capacity": 19,
+  "Name": "Parque San José La Máquina",
+  "CenterPositionLon": 14.304877045893338,
+  "CenterPositionLat": -91.56540937075322
+ },
+ {
+  "ID": 543967479,
+  "Capacity": 169,
+  "Name": "Parque Ciudad Satelite",
+  "CenterPositionLon": 14.59413205721645,
+  "CenterPositionLat": -90.6139361756581
+ },
+ {
+  "ID": 544643505,
+  "Capacity": 0,
+  "Name": "parque teocinte",
+  "CenterPositionLon": 14.408595793252372,
+  "CenterPositionLat": -90.36883645350684
+ },
+ {
+  "ID": 544643506,
+  "Capacity": 0,
+  "Name": "parque de la escuelita",
+  "CenterPositionLon": 14.408612814070555,
+  "CenterPositionLat": -90.36939108146825
+ },
+ {
+  "ID": 544650074,
+  "Capacity": 1,
+  "Name": "Plaza Vistas de San Isidro",
+  "CenterPositionLon": 14.60294077363658,
+  "CenterPositionLat": -90.45230270175314
+ },
+ {
+  "ID": 544650075,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.604920277427356,
+  "CenterPositionLat": -90.45380853326023
+ },
+ {
+  "ID": 544650076,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.603933804948486,
+  "CenterPositionLat": -90.45405457501495
+ },
+ {
+  "ID": 545357981,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.558105395587662,
+  "CenterPositionLat": -90.73611772988241
+ },
+ {
+  "ID": 545357982,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.5581062004198,
+  "CenterPositionLat": -90.73604002645577
+ },
+ {
+  "ID": 545357983,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.55803795892667,
+  "CenterPositionLat": -90.736037761244
+ },
+ {
+  "ID": 545357984,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.558037434319493,
+  "CenterPositionLat": -90.7361154827597
+ },
+ {
+  "ID": 546382971,
+  "Capacity": 8,
+  "Name": "Parque 8a Avenida",
+  "CenterPositionLon": 14.60203992291338,
+  "CenterPositionLat": -90.55161054571968
+ },
+ {
+  "ID": 548515798,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.609623486686669,
+  "CenterPositionLat": -90.65632357402096
+ },
+ {
+  "ID": 550739632,
+  "Capacity": 1,
+  "Name": "Plaza Monumento de La Estrella",
+  "CenterPositionLon": 14.615333382335345,
+  "CenterPositionLat": -90.51387198783908
+ },
+ {
+  "ID": 550741971,
+  "Capacity": 4,
+  "Name": "Parque Quinta los Encinos 2",
+  "CenterPositionLon": 14.652162160197864,
+  "CenterPositionLat": -90.60755011080772
+ },
+ {
+  "ID": 550773134,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.85702868637024,
+  "CenterPositionLat": -91.5368970930649
+ },
+ {
+  "ID": 550774220,
+  "Capacity": 12,
+  "Name": "Parque  de la Floresta",
+  "CenterPositionLon": 14.854327154095163,
+  "CenterPositionLat": -91.53746272618622
+ },
+ {
+  "ID": 550775281,
+  "Capacity": 9,
+  "Name": "Parque centro intercultural",
+  "CenterPositionLon": 14.844861218165326,
+  "CenterPositionLat": -91.52407391830144
+ },
+ {
+  "ID": 550775808,
+  "Capacity": 9,
+  "Name": "Parque Templo minerva",
+  "CenterPositionLon": 14.845977728547451,
+  "CenterPositionLat": -91.53345253699969
+ },
+ {
+  "ID": 550781131,
+  "Capacity": 12,
+  "Name": "Parque central Playa Grande Ixcan",
+  "CenterPositionLon": 15.988532199232148,
+  "CenterPositionLat": -90.78010907452003
+ },
+ {
+  "ID": 550790833,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.8633128059237,
+  "CenterPositionLat": -91.51804874549903
+ },
+ {
+  "ID": 550790834,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.863607978530839,
+  "CenterPositionLat": -91.51783594501171
+ },
+ {
+  "ID": 550790836,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.864655215506046,
+  "CenterPositionLat": -91.51785020961131
+ },
+ {
+  "ID": 550876029,
+  "Capacity": 4,
+  "Name": "Parque Quintas los Encinos 4",
+  "CenterPositionLon": 14.65258974778934,
+  "CenterPositionLat": -90.60729901888126
+ },
+ {
+  "ID": 550876284,
+  "Capacity": 3,
+  "Name": "Parque Quinas los Encinos 3",
+  "CenterPositionLon": 14.652645281918828,
+  "CenterPositionLat": -90.60854688335843
+ },
+ {
+  "ID": 550878867,
+  "Capacity": 3,
+  "Name": "Parque Quintas los Encinos 1",
+  "CenterPositionLon": 14.651233801015131,
+  "CenterPositionLat": -90.60461318844163
+ },
+ {
+  "ID": 550897895,
+  "Capacity": 19,
+  "Name": "Campo de futbol",
+  "CenterPositionLon": 14.84565282397985,
+  "CenterPositionLat": -91.52336757164724
+ },
+ {
+  "ID": 550907290,
+  "Capacity": 10,
+  "Name": "Parque Centro Intercultural",
+  "CenterPositionLon": 14.84485377610821,
+  "CenterPositionLat": -91.52406403880222
+ },
+ {
+  "ID": 550908804,
+  "Capacity": 7,
+  "Name": "Parque de Colonia Villa linda",
+  "CenterPositionLon": 14.544989617942262,
+  "CenterPositionLat": -91.50690840944549
+ },
+ {
+  "ID": 550909010,
+  "Capacity": 3,
+  "Name": "Parque de la colonia",
+  "CenterPositionLon": 14.546489266445223,
+  "CenterPositionLat": -91.5048997387602
+ },
+ {
+  "ID": 550911964,
+  "Capacity": 5,
+  "Name": "Parque Infantil de la Colonia Sn Antonio",
+  "CenterPositionLon": 14.849478166575615,
+  "CenterPositionLat": -91.51731348152042
+ },
+ {
+  "ID": 550913857,
+  "Capacity": 5,
+  "Name": "Parque Revolucion",
+  "CenterPositionLon": 14.839414233333333,
+  "CenterPositionLat": -91.5165564
+ },
+ {
+  "ID": 550914271,
+  "Capacity": 5,
+  "Name": "Parque a las madres",
+  "CenterPositionLon": 14.839989023027774,
+  "CenterPositionLat": -91.5162394496638
+ },
+ {
+  "ID": 550914803,
+  "Capacity": 5,
+  "Name": "Parque Gabriel Pinillos",
+  "CenterPositionLon": 14.839287433333334,
+  "CenterPositionLat": -91.51806643333333
+ },
+ {
+  "ID": 550915095,
+  "Capacity": 3,
+  "Name": "Parque Exterior del Teatro Municipal",
+  "CenterPositionLon": 14.837584328119581,
+  "CenterPositionLat": -91.51895615974945
+ },
+ {
+  "ID": 550920440,
+  "Capacity": 1,
+  "Name": "Parque Fuentes II",
+  "CenterPositionLon": 14.524837753525626,
+  "CenterPositionLat": -90.56359092994327
+ },
+ {
+  "ID": 550921183,
+  "Capacity": 11,
+  "Name": "Área Recreativa, Fuentes II",
+  "CenterPositionLon": 14.525044337165877,
+  "CenterPositionLat": -90.56877002445478
+ },
+ {
+  "ID": 550921772,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.58436696831395,
+  "CenterPositionLat": -90.52112099873254
+ },
+ {
+  "ID": 550952527,
+  "Capacity": 4,
+  "Name": "Parque de Chipilapa",
+  "CenterPositionLon": 14.09759746768979,
+  "CenterPositionLat": -91.05148896078045
+ },
+ {
+  "ID": 550963298,
+  "Capacity": 4,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.084982167404256,
+  "CenterPositionLat": -91.04956193408023
+ },
+ {
+  "ID": 551104046,
+  "Capacity": 3,
+  "Name": "Parque San Pedrito",
+  "CenterPositionLon": 14.619636964980968,
+  "CenterPositionLat": -90.50964780292855
+ },
+ {
+  "ID": 551105131,
+  "Capacity": 74,
+  "Name": "Parque Ecologico Cayalá",
+  "CenterPositionLon": 14.62036211085209,
+  "CenterPositionLat": -90.48918487687804
+ },
+ {
+  "ID": 551105574,
+  "Capacity": 0,
+  "Name": "Area Verde Del Condominio",
+  "CenterPositionLon": 14.552672962710703,
+  "CenterPositionLat": -90.54466724056722
+ },
+ {
+  "ID": 551108355,
+  "Capacity": 4,
+  "Name": "Parque Guardia de Honor",
+  "CenterPositionLon": 14.612486386044484,
+  "CenterPositionLat": -90.51006136547667
+ },
+ {
+  "ID": 551131916,
+  "Capacity": 4,
+  "Name": "Parque La Villa de Guadalupe",
+  "CenterPositionLon": 14.580893843665194,
+  "CenterPositionLat": -90.50826023098274
+ },
+ {
+  "ID": 551131917,
+  "Capacity": 3,
+  "Name": "Plaza Recreativa La VIlla",
+  "CenterPositionLon": 14.589414710413982,
+  "CenterPositionLat": -90.50545370634072
+ },
+ {
+  "ID": 551366333,
+  "Capacity": 6,
+  "Name": "Parque Central Santa Cruz del Quiché",
+  "CenterPositionLon": 15.02966734683583,
+  "CenterPositionLat": -91.14900263486157
+ },
+ {
+  "ID": 551367346,
+  "Capacity": 25,
+  "Name": "Campo de Educación Física Francisco Jimenez",
+  "CenterPositionLon": 15.026154388941833,
+  "CenterPositionLat": -91.1455784288137
+ },
+ {
+  "ID": 551368687,
+  "Capacity": 10,
+  "Name": "Plaza y Parque Maya de Lemoa",
+  "CenterPositionLon": 14.990287467322455,
+  "CenterPositionLat": -91.12226615980964
+ },
+ {
+  "ID": 551369552,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.942887202263812,
+  "CenterPositionLat": -91.11235292558204
+ },
+ {
+  "ID": 552005784,
+  "Capacity": 6,
+  "Name": "Parque Municipal de Santa Lucia Cotzumalguapa",
+  "CenterPositionLon": 14.331842975846136,
+  "CenterPositionLat": -91.02432385358952
+ },
+ {
+  "ID": 552184711,
+  "Capacity": 2,
+  "Name": "Parque Iglesia San Agustín.",
+  "CenterPositionLon": 14.646961236477512,
+  "CenterPositionLat": -90.73662728303587
+ },
+ {
+  "ID": 552191527,
+  "Capacity": 0,
+  "Name": "Eventos Doña Clara.",
+  "CenterPositionLon": 14.64877119537979,
+  "CenterPositionLat": -90.73718356764209
+ },
+ {
+  "ID": 552235274,
+  "Capacity": 1,
+  "Name": "Templo Minerva",
+  "CenterPositionLon": 14.804151437008523,
+  "CenterPositionLat": -89.54401211686545
+ },
+ {
+  "ID": 552236824,
+  "Capacity": 0,
+  "Name": "Area De Monumento",
+  "CenterPositionLon": 14.796616470531628,
+  "CenterPositionLat": -89.54632125469608
+ },
+ {
+  "ID": 552238204,
+  "Capacity": 0,
+  "Name": "Parquecito de colonia Bamvi",
+  "CenterPositionLon": 14.799027833333332,
+  "CenterPositionLat": -89.5545448
+ },
+ {
+  "ID": 552410367,
+  "Capacity": 12,
+  "Name": "Plaza ISRAEL",
+  "CenterPositionLon": 14.845591336472365,
+  "CenterPositionLat": -91.52851608433839
+ },
+ {
+  "ID": 552707653,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.470242506891054,
+  "CenterPositionLat": -89.89633400120384
+ },
+ {
+  "ID": 553156361,
+  "Capacity": 25,
+  "Name": "Parque Infantil y Deportivo de la Zona 4",
+  "CenterPositionLon": 15.022820530314732,
+  "CenterPositionLat": -91.15292006595165
+ },
+ {
+  "ID": 553161119,
+  "Capacity": 182,
+  "Name": "Parque Arqueológico de Zaculeu",
+  "CenterPositionLon": 15.333418434731792,
+  "CenterPositionLat": -91.49296385777765
+ },
+ {
+  "ID": 553161850,
+  "Capacity": 140,
+  "Name": "Parque Federal",
+  "CenterPositionLon": 15.314173046200624,
+  "CenterPositionLat": -91.47571239163625
+ },
+ {
+  "ID": 553164458,
+  "Capacity": 1,
+  "Name": "Parquecito \"El Calvario\"",
+  "CenterPositionLon": 15.323537973614114,
+  "CenterPositionLat": -91.46813566015557
+ },
+ {
+  "ID": 553166555,
+  "Capacity": 1,
+  "Name": "Parque \"La Sexta\"",
+  "CenterPositionLon": 15.318858014980005,
+  "CenterPositionLat": -91.47083165841306
+ },
+ {
+  "ID": 553171524,
+  "Capacity": 9,
+  "Name": "Parque Central de Chiantla",
+  "CenterPositionLon": 15.35453009278794,
+  "CenterPositionLat": -91.45819202375013
+ },
+ {
+  "ID": 553173183,
+  "Capacity": 1,
+  "Name": "Parque Salvador Osorio",
+  "CenterPositionLon": 15.320746673426276,
+  "CenterPositionLat": -91.47236017497704
+ },
+ {
+  "ID": 553181550,
+  "Capacity": 3,
+  "Name": "Parque de Juegos URL",
+  "CenterPositionLon": 15.322495775393081,
+  "CenterPositionLat": -91.49504594616728
+ },
+ {
+  "ID": 553183400,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.317783585013188,
+  "CenterPositionLat": -91.46802886990918
+ },
+ {
+  "ID": 553183826,
+  "Capacity": 1,
+  "Name": "Parquecito Colonia Panamá",
+  "CenterPositionLon": 15.318569966666667,
+  "CenterPositionLat": -91.46711926666667
+ },
+ {
+  "ID": 553199921,
+  "Capacity": 1,
+  "Name": "Parque Complejo Deportivo",
+  "CenterPositionLon": 15.320208064655947,
+  "CenterPositionLat": -91.48233213986018
+ },
+ {
+  "ID": 553200244,
+  "Capacity": 1,
+  "Name": "Parque Complejo Deportivo",
+  "CenterPositionLon": 15.32076538815803,
+  "CenterPositionLat": -91.48263728667452
+ },
+ {
+  "ID": 553279322,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.586426411356321,
+  "CenterPositionLat": -90.52306885483142
+ },
+ {
+  "ID": 553279542,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.5860481,
+  "CenterPositionLat": -90.52185784999999
+ },
+ {
+  "ID": 553279602,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.585816259485226,
+  "CenterPositionLat": -90.52118563683969
+ },
+ {
+  "ID": 553280106,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.573137857710506,
+  "CenterPositionLat": -90.52593800950513
+ },
+ {
+  "ID": 553280782,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.575191785698754,
+  "CenterPositionLat": -90.5240338846397
+ },
+ {
+  "ID": 553280957,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 14.577391328031936,
+  "CenterPositionLat": -90.5230977915835
+ },
+ {
+  "ID": 553281064,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.578860948184001,
+  "CenterPositionLat": -90.52261107581921
+ },
+ {
+  "ID": 553281220,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.583166728002066,
+  "CenterPositionLat": -90.4858079787429
+ },
+ {
+  "ID": 553281368,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 14.602494533455369,
+  "CenterPositionLat": -90.49617188899443
+ },
+ {
+  "ID": 553290668,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 14.604362623678822,
+  "CenterPositionLat": -90.49543575775753
+ },
+ {
+  "ID": 553291011,
+  "Capacity": 0,
+  "Name": "Plaza Cardales de Cayalá",
+  "CenterPositionLon": 14.612039161693486,
+  "CenterPositionLat": -90.48306911215326
+ },
+ {
+  "ID": 553291137,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.604147209968001,
+  "CenterPositionLat": -90.48888235629937
+ },
+ {
+  "ID": 553291382,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.596982599381446,
+  "CenterPositionLat": -90.48554109677207
+ },
+ {
+  "ID": 553291625,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.61054040135421,
+  "CenterPositionLat": -90.47081283700307
+ },
+ {
+  "ID": 553291695,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 14.611912306140557,
+  "CenterPositionLat": -90.47075658404484
+ },
+ {
+  "ID": 553292652,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.609589459327335,
+  "CenterPositionLat": -90.47042334610853
+ },
+ {
+  "ID": 553292908,
+  "Capacity": 4,
+  "Name": "Plaza Central Santa Rosita",
+  "CenterPositionLon": 14.622027857378788,
+  "CenterPositionLat": -90.47826595113646
+ },
+ {
+  "ID": 553293186,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.62424232297709,
+  "CenterPositionLat": -90.47863616780208
+ },
+ {
+  "ID": 553293575,
+  "Capacity": 10,
+  "Name": "Parque \"La Unión\"",
+  "CenterPositionLon": 15.32054440328454,
+  "CenterPositionLat": -91.46998276619217
+ },
+ {
+  "ID": 553294049,
+  "Capacity": 1,
+  "Name": "Parque Barrios",
+  "CenterPositionLon": 15.32044719475648,
+  "CenterPositionLat": -91.47016648062326
+ },
+ {
+  "ID": 553294479,
+  "Capacity": 69,
+  "Name": "Plaza Virgen de Lourdes",
+  "CenterPositionLon": 14.626803904036924,
+  "CenterPositionLat": -90.477577530288
+ },
+ {
+  "ID": 553295346,
+  "Capacity": 0,
+  "Name": "Plaza Santa Amelia",
+  "CenterPositionLon": 14.625965327568379,
+  "CenterPositionLat": -90.46972050444913
+ },
+ {
+  "ID": 553295647,
+  "Capacity": 2,
+  "Name": "Plaza Argentina",
+  "CenterPositionLon": 14.585697325204583,
+  "CenterPositionLat": -90.52075057423153
+ },
+ {
+  "ID": 553316108,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 15.320714316347127,
+  "CenterPositionLat": -91.46966303128828
+ },
+ {
+  "ID": 553344314,
+  "Capacity": 0,
+  "Name": "parque de la  Iglesia Jesús el Yo Soy (JYS)",
+  "CenterPositionLon": 15.322710027411835,
+  "CenterPositionLat": -91.47570648074205
+ },
+ {
+  "ID": 553361623,
+  "Capacity": 9,
+  "Name": "Parque Comunidad San Sebastian",
+  "CenterPositionLon": 15.32147289776373,
+  "CenterPositionLat": -91.47645533019022
+ },
+ {
+  "ID": 553362096,
+  "Capacity": 0,
+  "Name": "Parque de parada de bus",
+  "CenterPositionLon": 15.321509878746353,
+  "CenterPositionLat": -91.47433960217222
+ },
+ {
+  "ID": 553418844,
+  "Capacity": 1,
+  "Name": "parque fundacion  salvacion",
+  "CenterPositionLon": 15.319229385909118,
+  "CenterPositionLat": -91.48365131979334
+ },
+ {
+  "ID": 553418845,
+  "Capacity": 0,
+  "Name": "parque de la fundacion de niños escuela fundacion salvacion",
+  "CenterPositionLon": 15.319403582657397,
+  "CenterPositionLat": -91.48401361410464
+ },
+ {
+  "ID": 553418847,
+  "Capacity": 2,
+  "Name": "Parque Monumento Al Caminante",
+  "CenterPositionLon": 15.321558633333332,
+  "CenterPositionLat": -91.49501576666667
+ },
+ {
+  "ID": 553418848,
+  "Capacity": 3,
+  "Name": "parque  el ceviche",
+  "CenterPositionLon": 15.320573219397804,
+  "CenterPositionLat": -91.49276749379713
+ },
+ {
+  "ID": 553420868,
+  "Capacity": 4,
+  "Name": "Parque Estadio Los Cuchumatanes",
+  "CenterPositionLon": 15.319688,
+  "CenterPositionLat": -91.4814047
+ },
+ {
+  "ID": 553422734,
+  "Capacity": 3,
+  "Name": "Parque del Hospital de Niños",
+  "CenterPositionLon": 15.316182180242803,
+  "CenterPositionLat": -91.51514544696141
+ },
+ {
+  "ID": 553424262,
+  "Capacity": 65,
+  "Name": "Parque la Laguna Zaculeu",
+  "CenterPositionLon": 15.322027962007246,
+  "CenterPositionLat": -91.51497079259566
+ },
+ {
+  "ID": 553436544,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 15.32176739091397,
+  "CenterPositionLat": -91.49478185387447
+ },
+ {
+  "ID": 553437025,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 15.32198964687075,
+  "CenterPositionLat": -91.49457206771284
+ },
+ {
+  "ID": 553437463,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 15.322359001327426,
+  "CenterPositionLat": -91.49467177067272
+ },
+ {
+  "ID": 553437667,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.322302434783387,
+  "CenterPositionLat": -91.49481415117562
+ },
+ {
+  "ID": 553437957,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.322530881830513,
+  "CenterPositionLat": -91.4944586584889
+ },
+ {
+  "ID": 553438022,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.322537741525105,
+  "CenterPositionLat": -91.49425210156183
+ },
+ {
+  "ID": 553443521,
+  "Capacity": 12,
+  "Name": "Parque La Juventud",
+  "CenterPositionLon": 15.355097535612908,
+  "CenterPositionLat": -91.45809519508383
+ },
+ {
+  "ID": 553632714,
+  "Capacity": 1,
+  "Name": "Parque de Juegos El Recreo",
+  "CenterPositionLon": 15.309473690214846,
+  "CenterPositionLat": -91.46960540387839
+ },
+ {
+  "ID": 553694895,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.048869379887002,
+  "CenterPositionLat": -90.03310875076937
+ },
+ {
+  "ID": 553700031,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.081364437770166,
+  "CenterPositionLat": -90.05207127008624
+ },
+ {
+  "ID": 553894407,
+  "Capacity": 2,
+  "Name": "Parque cancha de basketball",
+  "CenterPositionLon": 15.31958091651287,
+  "CenterPositionLat": -91.48234051506653
+ },
+ {
+  "ID": 554099037,
+  "Capacity": 0,
+  "Name": "Parque",
+  "CenterPositionLon": 14.136830103331263,
+  "CenterPositionLat": -90.00842034285104
+ },
+ {
+  "ID": 554118833,
+  "Capacity": 0,
+  "Name": "Rotonda",
+  "CenterPositionLon": 15.317540706581521,
+  "CenterPositionLat": -91.47121059518652
+ },
+ {
+  "ID": 554225378,
+  "Capacity": 126,
+  "Name": "Parque Atanacio Tzul",
+  "CenterPositionLon": 14.857591110939332,
+  "CenterPositionLat": -91.4807987357711
+ },
+ {
+  "ID": 554942453,
+  "Capacity": 1,
+  "Name": "Parque Natural Monumento a la Paz de Guatemala",
+  "CenterPositionLon": 15.475520374436075,
+  "CenterPositionLat": -90.37578687033104
+ },
+ {
+  "ID": 555270763,
+  "Capacity": 6,
+  "Name": "Parque Los Arcos",
+  "CenterPositionLon": 14.510521272483716,
+  "CenterPositionLat": -90.54783589277059
+ },
+ {
+  "ID": 555276892,
+  "Capacity": 40,
+  "Name": "Parque Cañadas Del Rio",
+  "CenterPositionLon": 14.511242836325216,
+  "CenterPositionLat": -90.54860289502491
+ },
+ {
+  "ID": 555281971,
+  "Capacity": 11,
+  "Name": "parque villa heremosa",
+  "CenterPositionLon": 14.518469917446968,
+  "CenterPositionLat": -90.5476708282145
+ },
+ {
+  "ID": 555284465,
+  "Capacity": 0,
+  "Name": "parque la vueltona",
+  "CenterPositionLon": 14.544429333657947,
+  "CenterPositionLat": -90.52890225754692
+ },
+ {
+  "ID": 555566420,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 15.320529278179647,
+  "CenterPositionLat": -91.42855284475152
+ },
+ {
+  "ID": 555567247,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 15.315630741877397,
+  "CenterPositionLat": -91.42737530013177
+ },
+ {
+  "ID": 555874037,
+  "Capacity": 49,
+  "Name": "Parque Tecun Uman",
+  "CenterPositionLon": 14.678093408612884,
+  "CenterPositionLat": -92.14058697456693
+ },
+ {
+  "ID": 555875151,
+  "Capacity": 13,
+  "Name": "Plaza Municipal",
+  "CenterPositionLon": 14.675212566231691,
+  "CenterPositionLat": -92.14232369122112
+ },
+ {
+  "ID": 555877313,
+  "Capacity": 6,
+  "Name": "ingreso 2 rivera del rio",
+  "CenterPositionLon": 14.50491887168395,
+  "CenterPositionLat": -90.54320017234079
+ },
+ {
+  "ID": 555878082,
+  "Capacity": 47,
+  "Name": "area verde cañadas colonial",
+  "CenterPositionLon": 14.504940600809158,
+  "CenterPositionLat": -90.5404542504141
+ },
+ {
+  "ID": 555878442,
+  "Capacity": 7,
+  "Name": "parque infantil cañadas del rio",
+  "CenterPositionLon": 14.511202438733578,
+  "CenterPositionLat": -90.54638081615164
+ },
+ {
+  "ID": 556150307,
+  "Capacity": 0,
+  "Name": "plaza",
+  "CenterPositionLon": 14.552469556041023,
+  "CenterPositionLat": -90.73961049681898
+ },
+ {
+  "ID": 556585368,
+  "Capacity": 8,
+  "Name": "Parque Colonia el maestro",
+  "CenterPositionLon": 14.86696413175841,
+  "CenterPositionLat": -91.54677647597352
+ },
+ {
+  "ID": 556587351,
+  "Capacity": 3,
+  "Name": "Parque recreativo",
+  "CenterPositionLon": 14.836365616584601,
+  "CenterPositionLat": -91.5052949568864
+ },
+ {
+  "ID": 556588719,
+  "Capacity": 16,
+  "Name": "Parque central de la colonia Molina",
+  "CenterPositionLon": 14.835867565377782,
+  "CenterPositionLat": -91.50440284534743
+ },
+ {
+  "ID": 556593286,
+  "Capacity": 2,
+  "Name": "Plazuela San Antonio",
+  "CenterPositionLon": 14.831601833333332,
+  "CenterPositionLat": -91.52024906666666
+ },
+ {
+  "ID": 556595660,
+  "Capacity": 4,
+  "Name": "Parque Infantil Colonia Molina",
+  "CenterPositionLon": 14.834882288346336,
+  "CenterPositionLat": -91.50337304247441
+ },
+ {
+  "ID": 556596831,
+  "Capacity": 10,
+  "Name": "Parque infantil Colonia Valle verde",
+  "CenterPositionLon": 14.857639273554387,
+  "CenterPositionLat": -91.53471528341542
+ },
+ {
+  "ID": 556597563,
+  "Capacity": 0,
+  "Name": "Plazuela La merced",
+  "CenterPositionLon": 14.836326740033673,
+  "CenterPositionLat": -91.5103822637222
+ },
+ {
+  "ID": 556597679,
+  "Capacity": 0,
+  "Name": "Plazuela Sab Bartolome",
+  "CenterPositionLon": 14.830740036561593,
+  "CenterPositionLat": -91.51387697907533
+ },
+ {
+  "ID": 556597783,
+  "Capacity": 2,
+  "Name": "Plazuela Transfiguracion",
+  "CenterPositionLon": 14.8294605697541,
+  "CenterPositionLat": -91.5153359414837
+ },
+ {
+  "ID": 556598196,
+  "Capacity": 2,
+  "Name": "Parque recreativo Trigales",
+  "CenterPositionLon": 14.861441900015796,
+  "CenterPositionLat": -91.51983363886828
+ },
+ {
+  "ID": 556598543,
+  "Capacity": 3,
+  "Name": "Plazuela Iglesia Colonia Xelaju",
+  "CenterPositionLon": 14.86593909323381,
+  "CenterPositionLat": -91.51966605481047
+ },
+ {
+  "ID": 556599129,
+  "Capacity": 3,
+  "Name": "parque recreativo",
+  "CenterPositionLon": 14.861367012888955,
+  "CenterPositionLat": -91.51918432005496
+ },
+ {
+  "ID": 556599141,
+  "Capacity": 3,
+  "Name": "parque recreativo",
+  "CenterPositionLon": 14.861520380993241,
+  "CenterPositionLat": -91.52087862059571
+ },
+ {
+  "ID": 556599154,
+  "Capacity": 0,
+  "Name": "parque recreativo",
+  "CenterPositionLon": 14.860713553490575,
+  "CenterPositionLat": -91.51923523914938
+ },
+ {
+  "ID": 556599211,
+  "Capacity": 2,
+  "Name": "parque recreativo",
+  "CenterPositionLon": 14.860920901212559,
+  "CenterPositionLat": -91.52097353053894
+ },
+ {
+  "ID": 556600730,
+  "Capacity": 4,
+  "Name": "Parque recreativo Iglesia mormona",
+  "CenterPositionLon": 14.832646116571569,
+  "CenterPositionLat": -91.52070435375906
+ },
+ {
+  "ID": 556601584,
+  "Capacity": 28,
+  "Name": "Parque recreativo Iglesia Mormona",
+  "CenterPositionLon": 14.848712604907652,
+  "CenterPositionLat": -91.4843671496269
+ },
+ {
+  "ID": 556802767,
+  "Capacity": 2,
+  "Name": "Parque Central",
+  "CenterPositionLon": 15.477303493362912,
+  "CenterPositionLat": -90.31078144349257
+ },
+ {
+  "ID": 556804145,
+  "Capacity": 2,
+  "Name": "Parque Infantil",
+  "CenterPositionLon": 15.475280839266714,
+  "CenterPositionLat": -90.30981714039656
+ },
+ {
+  "ID": 556811536,
+  "Capacity": 478,
+  "Name": "",
+  "CenterPositionLon": 15.476904174155981,
+  "CenterPositionLat": -90.38235907177764
+ },
+ {
+  "ID": 556811537,
+  "Capacity": 479,
+  "Name": "Parque Nacional Las Victorias",
+  "CenterPositionLon": 15.47690151926627,
+  "CenterPositionLat": -90.3823579542955
+ },
+ {
+  "ID": 556889588,
+  "Capacity": 8,
+  "Name": "Area recreativa Res. Primavera II",
+  "CenterPositionLon": 14.830032666666668,
+  "CenterPositionLat": -91.5106748
+ },
+ {
+  "ID": 557064067,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.557849088568796,
+  "CenterPositionLat": -90.73553738408992
+ },
+ {
+  "ID": 557396434,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.660071434213288,
+  "CenterPositionLat": -90.82004904326193
+ },
+ {
+  "ID": 557495064,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.659292941231595,
+  "CenterPositionLat": -90.44823767818225
+ },
+ {
+  "ID": 557850436,
+  "Capacity": 24,
+  "Name": "Parque Villa Linda 3",
+  "CenterPositionLon": 14.645435557391993,
+  "CenterPositionLat": -90.5461686590146
+ },
+ {
+  "ID": 558641939,
+  "Capacity": 60,
+  "Name": "Parque Planes de Barcenas",
+  "CenterPositionLon": 14.518358676455797,
+  "CenterPositionLat": -90.62744293970022
+ },
+ {
+  "ID": 558709814,
+  "Capacity": 1,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.691231602738238,
+  "CenterPositionLat": -89.34920338236061
+ },
+ {
+  "ID": 558719770,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.569884671891487,
+  "CenterPositionLat": -89.35534204055817
+ },
+ {
+  "ID": 558725706,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.521711381903586,
+  "CenterPositionLat": -89.45647531827223
+ },
+ {
+  "ID": 558874637,
+  "Capacity": 17,
+  "Name": "Instituto Basico por Cooperativa",
+  "CenterPositionLon": 13.923531491408951,
+  "CenterPositionLat": -90.82432228856945
+ },
+ {
+  "ID": 558940729,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.722923510693619,
+  "CenterPositionLat": -89.58585282794269
+ },
+ {
+  "ID": 559798153,
+  "Capacity": 1,
+  "Name": "Jardin Condominio Milenia",
+  "CenterPositionLon": 14.59991126863985,
+  "CenterPositionLat": -90.50527830932815
+ },
+ {
+  "ID": 559799448,
+  "Capacity": 2,
+  "Name": "Parque Oakland",
+  "CenterPositionLon": 14.596108493734175,
+  "CenterPositionLat": -90.50244222522382
+ },
+ {
+  "ID": 559799449,
+  "Capacity": 10,
+  "Name": "Parque La Joya",
+  "CenterPositionLon": 14.592930213484639,
+  "CenterPositionLat": -90.50204584556352
+ },
+ {
+  "ID": 565173543,
+  "Capacity": 3,
+  "Name": "plaza san cristobal el bajo",
+  "CenterPositionLon": 14.542745504161488,
+  "CenterPositionLat": -90.72480562999282
+ },
+ {
+  "ID": 573260473,
+  "Capacity": 1,
+  "Name": "Monumento Centro de las Americas",
+  "CenterPositionLon": 14.279079003646816,
+  "CenterPositionLat": -90.29946061001782
+ },
+ {
+  "ID": 573260961,
+  "Capacity": 1,
+  "Name": "Parque Barrios",
+  "CenterPositionLon": 14.275532944806153,
+  "CenterPositionLat": -90.29888146488392
+ },
+ {
+  "ID": 583294386,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 14.597376016393566,
+  "CenterPositionLat": -90.51720915627284
+ },
+ {
+  "ID": 583294388,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 14.601734661284482,
+  "CenterPositionLat": -90.51635185551036
+ },
+ {
+  "ID": 583294391,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 14.605990748763302,
+  "CenterPositionLat": -90.5155387003358
+ },
+ {
+  "ID": 583608845,
+  "Capacity": 1,
+  "Name": "Parque Presbiterial",
+  "CenterPositionLon": 15.309547143784814,
+  "CenterPositionLat": -91.46899741898991
+ },
+ {
+  "ID": 583608846,
+  "Capacity": 0,
+  "Name": "Parque Bethel",
+  "CenterPositionLon": 15.310041831345846,
+  "CenterPositionLat": -91.46896617744092
+ },
+ {
+  "ID": 586719263,
+  "Capacity": 17,
+  "Name": "Parque Municipal de Parramos",
+  "CenterPositionLon": 14.609364753591143,
+  "CenterPositionLat": -90.80241690151281
+ },
+ {
+  "ID": 588757010,
+  "Capacity": 6,
+  "Name": "Corredor Avenida Reforma",
+  "CenterPositionLon": 14.596089378878808,
+  "CenterPositionLat": -90.51743464227654
+ },
+ {
+  "ID": 588778680,
+  "Capacity": 8,
+  "Name": "Plaza Costa Rica",
+  "CenterPositionLon": 14.592488918149611,
+  "CenterPositionLat": -90.51851192688258
+ },
+ {
+  "ID": 590585109,
+  "Capacity": 1,
+  "Name": "Parque de la Fuente",
+  "CenterPositionLon": 14.54995163304565,
+  "CenterPositionLat": -90.57241513244016
+ },
+ {
+  "ID": 590586188,
+  "Capacity": 1,
+  "Name": "Paseo Verde Colinas de Monte Maria Sur",
+  "CenterPositionLon": 14.549916364251143,
+  "CenterPositionLat": -90.57284316444164
+ },
+ {
+  "ID": 590588320,
+  "Capacity": 6,
+  "Name": "Parque Sendero Peatonal Colinas de Monte Maria Sur",
+  "CenterPositionLon": 14.54797514851469,
+  "CenterPositionLat": -90.5725430714742
+ },
+ {
+  "ID": 590588901,
+  "Capacity": 0,
+  "Name": "Arriate Central",
+  "CenterPositionLon": 14.551315570060833,
+  "CenterPositionLat": -90.5741710396392
+ },
+ {
+  "ID": 590589036,
+  "Capacity": 0,
+  "Name": "Arriate Central",
+  "CenterPositionLon": 14.551706606024196,
+  "CenterPositionLat": -90.57432079380152
+ },
+ {
+  "ID": 590589037,
+  "Capacity": 0,
+  "Name": "Arriate Central",
+  "CenterPositionLon": 14.552168819698016,
+  "CenterPositionLat": -90.57459356045794
+ },
+ {
+  "ID": 590589669,
+  "Capacity": 0,
+  "Name": "Parque Jardín",
+  "CenterPositionLon": 14.55041689928531,
+  "CenterPositionLat": -90.57316760286668
+ },
+ {
+  "ID": 590589670,
+  "Capacity": 0,
+  "Name": "Parque Pequeño",
+  "CenterPositionLon": 14.550208686277227,
+  "CenterPositionLat": -90.57285710508118
+ },
+ {
+  "ID": 590589850,
+  "Capacity": 8,
+  "Name": "Parque Deportivo Infantil",
+  "CenterPositionLon": 14.548404883408388,
+  "CenterPositionLat": -90.57013299669842
+ },
+ {
+  "ID": 590590129,
+  "Capacity": 6,
+  "Name": "Parque Arboleda",
+  "CenterPositionLon": 14.55111610479156,
+  "CenterPositionLat": -90.57023420972885
+ },
+ {
+  "ID": 590609338,
+  "Capacity": 2,
+  "Name": "Parquecito de la 6ta",
+  "CenterPositionLon": 14.851331623024778,
+  "CenterPositionLat": -91.54248941667629
+ },
+ {
+  "ID": 590609339,
+  "Capacity": 1,
+  "Name": "Area verde del puente de Los Cerezos",
+  "CenterPositionLon": 14.851158741611252,
+  "CenterPositionLat": -91.54317916569018
+ },
+ {
+  "ID": 590609344,
+  "Capacity": 1,
+  "Name": "Playground Los Cerezos",
+  "CenterPositionLon": 14.850444313971803,
+  "CenterPositionLat": -91.54454664047991
+ },
+ {
+  "ID": 590609345,
+  "Capacity": 3,
+  "Name": "Parque de la Sexta B",
+  "CenterPositionLon": 14.850580680880535,
+  "CenterPositionLat": -91.54371908747278
+ },
+ {
+  "ID": 590609356,
+  "Capacity": 1,
+  "Name": "Jardines de Minerva",
+  "CenterPositionLon": 14.847726542744006,
+  "CenterPositionLat": -91.53623306432917
+ },
+ {
+  "ID": 599511610,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.962065444788553,
+  "CenterPositionLat": -91.79431312492012
+ },
+ {
+  "ID": 599511616,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.964172570405943,
+  "CenterPositionLat": -91.79046084121133
+ },
+ {
+  "ID": 599514291,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.964597495388599,
+  "CenterPositionLat": -91.79661688750944
+ },
+ {
+  "ID": 599514294,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 14.96534772898162,
+  "CenterPositionLat": -91.79768709218209
+ },
+ {
+  "ID": 602589017,
+  "Capacity": 0,
+  "Name": "Parquecito Lo de Fuentes",
+  "CenterPositionLon": 14.673616278640322,
+  "CenterPositionLat": -90.54530877761093
+ },
+ {
+  "ID": 602807922,
+  "Capacity": 35,
+  "Name": "Simon Bolivar",
+  "CenterPositionLon": 14.965338020624259,
+  "CenterPositionLat": -91.78793059852556
+ },
+ {
+  "ID": 604688907,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.315278151188336,
+  "CenterPositionLat": -91.4812005520984
+ },
+ {
+  "ID": 605749556,
+  "Capacity": 2,
+  "Name": "Parque Minerva",
+  "CenterPositionLon": 15.32082796780372,
+  "CenterPositionLat": -91.46428024670728
+ },
+ {
+  "ID": 606493737,
+  "Capacity": 0,
+  "Name": "Escudo UMG",
+  "CenterPositionLon": 15.316496806674447,
+  "CenterPositionLat": -91.48519138665878
+ },
+ {
+  "ID": 606493743,
+  "Capacity": 0,
+  "Name": "Slogan Universitario UMG",
+  "CenterPositionLon": 15.316648869641217,
+  "CenterPositionLat": -91.48527364920199
+ },
+ {
+  "ID": 606493744,
+  "Capacity": 0,
+  "Name": "Rotonda interna UMG",
+  "CenterPositionLon": 15.316814461617968,
+  "CenterPositionLat": -91.48547214537393
+ },
+ {
+  "ID": 606493745,
+  "Capacity": 0,
+  "Name": "Escudo Universitario UMG",
+  "CenterPositionLon": 15.317041809162985,
+  "CenterPositionLat": -91.48564097976596
+ },
+ {
+  "ID": 606493746,
+  "Capacity": 23,
+  "Name": "Campus UMG",
+  "CenterPositionLon": 15.31649627424019,
+  "CenterPositionLat": -91.48530739128812
+ },
+ {
+  "ID": 607129258,
+  "Capacity": 1,
+  "Name": "Parque Col. El Maestro I",
+  "CenterPositionLon": 14.596180149563507,
+  "CenterPositionLat": -90.49958229100058
+ },
+ {
+  "ID": 607734064,
+  "Capacity": 13,
+  "Name": "Grutas el Encanto",
+  "CenterPositionLon": 15.756412187964209,
+  "CenterPositionLat": -89.09817856586034
+ },
+ {
+  "ID": 607742254,
+  "Capacity": 0,
+  "Name": "Parque recreativo para niños Misioneros",
+  "CenterPositionLon": 15.765244069656802,
+  "CenterPositionLat": -89.10704715437753
+ },
+ {
+  "ID": 607746602,
+  "Capacity": 2,
+  "Name": "UNBOUND SUBSEDE RIO",
+  "CenterPositionLon": 15.762495366666666,
+  "CenterPositionLat": -89.10360365726933
+ },
+ {
+  "ID": 607958618,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.765776935350328,
+  "CenterPositionLat": -90.5961631283656
+ },
+ {
+  "ID": 608486890,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.661333446016739,
+  "CenterPositionLat": -90.4890053849908
+ },
+ {
+  "ID": 608486895,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.668022543736388,
+  "CenterPositionLat": -90.48557174644894
+ },
+ {
+  "ID": 608486896,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.66652679749729,
+  "CenterPositionLat": -90.48490081338606
+ },
+ {
+  "ID": 608821904,
+  "Capacity": 12,
+  "Name": "Plaza de Armas",
+  "CenterPositionLon": 15.321216796434415,
+  "CenterPositionLat": -91.4702539561044
+ },
+ {
+  "ID": 609027463,
+  "Capacity": 2,
+  "Name": "Parque de San Andrés Sajcabajá",
+  "CenterPositionLon": 15.17608334793962,
+  "CenterPositionLat": -90.94299349518411
+ },
+ {
+  "ID": 609307800,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.537915090742453,
+  "CenterPositionLat": -90.57470546162372
+ },
+ {
+  "ID": 609307801,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.539513222605192,
+  "CenterPositionLat": -90.57612089281673
+ },
+ {
+  "ID": 609307805,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.525323092298922,
+  "CenterPositionLat": -90.58811253979862
+ },
+ {
+  "ID": 609307806,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.52035735,
+  "CenterPositionLat": -90.5887312
+ },
+ {
+  "ID": 609307807,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.520746899999999,
+  "CenterPositionLat": -90.5872744
+ },
+ {
+  "ID": 609307808,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.521303649999998,
+  "CenterPositionLat": -90.5881117
+ },
+ {
+  "ID": 609316037,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.52315494391461,
+  "CenterPositionLat": -90.60129767491463
+ },
+ {
+  "ID": 609316091,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.53209177946067,
+  "CenterPositionLat": -90.60414965415063
+ },
+ {
+  "ID": 609316094,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.545268700000001,
+  "CenterPositionLat": -90.59636425
+ },
+ {
+  "ID": 609388802,
+  "Capacity": 22,
+  "Name": "Area verde",
+  "CenterPositionLon": 15.31648048850522,
+  "CenterPositionLat": -91.47040825630023
+ },
+ {
+  "ID": 609388804,
+  "Capacity": 19,
+  "Name": "Campo deportivo INMAC",
+  "CenterPositionLon": 15.313711568100713,
+  "CenterPositionLat": -91.47213854164738
+ },
+ {
+  "ID": 609388805,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 15.310277596721594,
+  "CenterPositionLat": -91.47628488015089
+ },
+ {
+  "ID": 609389541,
+  "Capacity": 1,
+  "Name": "Area interna",
+  "CenterPositionLon": 15.317948974352424,
+  "CenterPositionLat": -91.47265375253104
+ },
+ {
+  "ID": 609389542,
+  "Capacity": 0,
+  "Name": "Parque  tanque de Agua",
+  "CenterPositionLon": 15.319672911575571,
+  "CenterPositionLat": -91.47476207786043
+ },
+ {
+  "ID": 610040228,
+  "Capacity": 29,
+  "Name": "Parque Central Retalhuleu",
+  "CenterPositionLon": 14.536336135026339,
+  "CenterPositionLat": -91.67840054266355
+ },
+ {
+  "ID": 610040238,
+  "Capacity": 54,
+  "Name": "EL KIOSCO",
+  "CenterPositionLon": 14.536803203283759,
+  "CenterPositionLat": -91.68346943573954
+ },
+ {
+  "ID": 610289926,
+  "Capacity": 435,
+  "Name": "Parque Ecológico",
+  "CenterPositionLon": 14.69676172312611,
+  "CenterPositionLat": -91.87157609080187
+ },
+ {
+  "ID": 610289928,
+  "Capacity": 743,
+  "Name": "Terreno de Maíz",
+  "CenterPositionLon": 14.693970537230848,
+  "CenterPositionLat": -91.86447193951199
+ },
+ {
+  "ID": 610289930,
+  "Capacity": 12,
+  "Name": "Campo de los mosquitos",
+  "CenterPositionLon": 14.698261389738114,
+  "CenterPositionLat": -91.86285926242473
+ },
+ {
+  "ID": 610289931,
+  "Capacity": 4,
+  "Name": "Paquesito de los Enamorados",
+  "CenterPositionLon": 14.698606290331595,
+  "CenterPositionLat": -91.86253655440906
+ },
+ {
+  "ID": 610289933,
+  "Capacity": 100,
+  "Name": "area ferrocaril",
+  "CenterPositionLon": 14.69898498982685,
+  "CenterPositionLat": -91.86114582234241
+ },
+ {
+  "ID": 610289936,
+  "Capacity": 92,
+  "Name": "Terreno de la Usac",
+  "CenterPositionLon": 14.706497612844057,
+  "CenterPositionLat": -91.85704105476496
+ },
+ {
+  "ID": 610289942,
+  "Capacity": 48,
+  "Name": "Terreno valdio",
+  "CenterPositionLon": 14.695140662091248,
+  "CenterPositionLat": -91.86097617652749
+ },
+ {
+  "ID": 610319278,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.509005217566692,
+  "CenterPositionLat": -90.58019141836616
+ },
+ {
+  "ID": 610319279,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.509904015806699,
+  "CenterPositionLat": -90.57977289538293
+ },
+ {
+  "ID": 610319280,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.509796751995387,
+  "CenterPositionLat": -90.57965253392602
+ },
+ {
+  "ID": 610319281,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.509692234844518,
+  "CenterPositionLat": -90.5795262561054
+ },
+ {
+  "ID": 610319282,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.50957601757566,
+  "CenterPositionLat": -90.5794080805662
+ },
+ {
+  "ID": 610319283,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.509472652568885,
+  "CenterPositionLat": -90.5792827336323
+ },
+ {
+  "ID": 610319284,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.509381009779691,
+  "CenterPositionLat": -90.57918056441773
+ },
+ {
+  "ID": 610327454,
+  "Capacity": 3,
+  "Name": "Parque Infantil",
+  "CenterPositionLon": 14.528969815090507,
+  "CenterPositionLat": -91.50562513754525
+ },
+ {
+  "ID": 610332694,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.516670700589657,
+  "CenterPositionLat": -91.50979582159
+ },
+ {
+  "ID": 610332695,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.516781411437007,
+  "CenterPositionLat": -91.50903857691164
+ },
+ {
+  "ID": 611444613,
+  "Capacity": 0,
+  "Name": "Parque Iglesia de Dios",
+  "CenterPositionLon": 15.315716607087493,
+  "CenterPositionLat": -91.47209216949848
+ },
+ {
+  "ID": 611678859,
+  "Capacity": 72,
+  "Name": "La Linea",
+  "CenterPositionLon": 14.538120624557521,
+  "CenterPositionLat": -91.68105740846248
+ },
+ {
+  "ID": 611688810,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.544269111189793,
+  "CenterPositionLat": -91.67557496202225
+ },
+ {
+  "ID": 611688817,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.547082094627044,
+  "CenterPositionLat": -91.67855515898913
+ },
+ {
+  "ID": 611688821,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 14.531763515443084,
+  "CenterPositionLat": -91.67952243624693
+ },
+ {
+  "ID": 611694616,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 14.593709001772034,
+  "CenterPositionLat": -91.61246584767076
+ },
+ {
+  "ID": 611694635,
+  "Capacity": 273,
+  "Name": "",
+  "CenterPositionLon": 14.596267250244166,
+  "CenterPositionLat": -91.61911883130163
+ },
+ {
+  "ID": 611694636,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 14.597607912617804,
+  "CenterPositionLat": -91.61738379126012
+ },
+ {
+  "ID": 611694637,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 14.598477823352278,
+  "CenterPositionLat": -91.61501099162051
+ },
+ {
+  "ID": 611695135,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.59849548617498,
+  "CenterPositionLat": -91.6181806164161
+ },
+ {
+  "ID": 612440097,
+  "Capacity": 73,
+  "Name": "La Trinidad",
+  "CenterPositionLon": 14.531734646042917,
+  "CenterPositionLat": -91.6819224495219
+ },
+ {
+  "ID": 612440098,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.532257402360086,
+  "CenterPositionLat": -91.6801974588856
+ },
+ {
+  "ID": 612440099,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.533044162668702,
+  "CenterPositionLat": -91.68174369162566
+ },
+ {
+  "ID": 612721313,
+  "Capacity": 47,
+  "Name": "Park K.S.A.",
+  "CenterPositionLon": 14.53928442288174,
+  "CenterPositionLat": -91.6848416344375
+ },
+ {
+  "ID": 612724842,
+  "Capacity": 19,
+  "Name": "El Tractorcito",
+  "CenterPositionLon": 14.540596301282147,
+  "CenterPositionLat": -91.67542563600371
+ },
+ {
+  "ID": 612724843,
+  "Capacity": 77,
+  "Name": "La Colonia",
+  "CenterPositionLon": 14.54310665008333,
+  "CenterPositionLat": -91.67628161827218
+ },
+ {
+  "ID": 612726770,
+  "Capacity": 611,
+  "Name": "",
+  "CenterPositionLon": 14.596764234419533,
+  "CenterPositionLat": -91.61276434255862
+ },
+ {
+  "ID": 612957190,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.551235360746462,
+  "CenterPositionLat": -90.7484144592926
+ },
+ {
+  "ID": 613084729,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 14.54971142666927,
+  "CenterPositionLat": -91.6760335104499
+ },
+ {
+  "ID": 613152368,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 15.315855990085169,
+  "CenterPositionLat": -91.47834089049742
+ },
+ {
+  "ID": 613160861,
+  "Capacity": 2,
+  "Name": "La Sirena",
+  "CenterPositionLon": 14.535803266666667,
+  "CenterPositionLat": -91.67703263333334
+ },
+ {
+  "ID": 613916078,
+  "Capacity": 16,
+  "Name": "Antigua Terminal",
+  "CenterPositionLon": 14.703048597231582,
+  "CenterPositionLat": -91.86509387821602
+ },
+ {
+  "ID": 613916104,
+  "Capacity": 39,
+  "Name": "Area Ferrocarril",
+  "CenterPositionLon": 14.700193654401486,
+  "CenterPositionLat": -91.8636169791651
+ },
+ {
+  "ID": 614643380,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.5426143,
+  "CenterPositionLat": -91.67479045
+ },
+ {
+  "ID": 615339656,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.593707315086979,
+  "CenterPositionLat": -90.57674492746848
+ },
+ {
+  "ID": 615339658,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.593568716709415,
+  "CenterPositionLat": -90.57655199991416
+ },
+ {
+  "ID": 615339660,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.593494254218998,
+  "CenterPositionLat": -90.57676627800068
+ },
+ {
+  "ID": 615339662,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.593601267701246,
+  "CenterPositionLat": -90.57683147913183
+ },
+ {
+  "ID": 615339664,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.593690299092382,
+  "CenterPositionLat": -90.57659313503592
+ },
+ {
+  "ID": 615339669,
+  "Capacity": 0,
+  "Name": "La fuente",
+  "CenterPositionLon": 14.593254752722576,
+  "CenterPositionLat": -90.57909013845725
+ },
+ {
+  "ID": 615339674,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.597567377359272,
+  "CenterPositionLat": -90.5787868416938
+ },
+ {
+  "ID": 615339675,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.598206377459647,
+  "CenterPositionLat": -90.57876507612477
+ },
+ {
+  "ID": 615603391,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.406103933787064,
+  "CenterPositionLat": -90.54461248176622
+ },
+ {
+  "ID": 615608358,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.170329418718481,
+  "CenterPositionLat": -89.82706491691104
+ },
+ {
+  "ID": 615616899,
+  "Capacity": 1432,
+  "Name": "",
+  "CenterPositionLon": 14.562050045509023,
+  "CenterPositionLat": -91.67946218913846
+ },
+ {
+  "ID": 616821003,
+  "Capacity": 14,
+  "Name": "Parque Cambote Zona 11",
+  "CenterPositionLon": 15.30814504633522,
+  "CenterPositionLat": -91.49554115673477
+ },
+ {
+  "ID": 618330959,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 15.314591608380416,
+  "CenterPositionLat": -91.47911813850581
+ },
+ {
+  "ID": 618587336,
+  "Capacity": 5,
+  "Name": "Parque Central de San Juan Comalapa",
+  "CenterPositionLon": 14.740604629750381,
+  "CenterPositionLat": -90.88768728086121
+ },
+ {
+  "ID": 618590060,
+  "Capacity": 1,
+  "Name": "Parque, La Cabaña de Doña Adela",
+  "CenterPositionLon": 14.745332832056892,
+  "CenterPositionLat": -90.89245098662872
+ },
+ {
+  "ID": 618962516,
+  "Capacity": 0,
+  "Name": "Parque Iglesia Santo Hermano Pedro",
+  "CenterPositionLon": 15.319052166666667,
+  "CenterPositionLat": -91.46485766666666
+ },
+ {
+  "ID": 618971419,
+  "Capacity": 0,
+  "Name": "Rosendo Santa Cruz",
+  "CenterPositionLon": 14.288166118065485,
+  "CenterPositionLat": -89.89368773751075
+ },
+ {
+  "ID": 618993429,
+  "Capacity": 1,
+  "Name": "Parque de la Paz",
+  "CenterPositionLon": 14.739794910577407,
+  "CenterPositionLat": -90.88724920870408
+ },
+ {
+  "ID": 618994500,
+  "Capacity": 6,
+  "Name": "Parque de la Virgen de Guadalupe",
+  "CenterPositionLon": 14.74972200529186,
+  "CenterPositionLat": -90.88512945756997
+ },
+ {
+  "ID": 619339619,
+  "Capacity": 2,
+  "Name": "Parque Casa Florentina Premier",
+  "CenterPositionLon": 14.650713000000001,
+  "CenterPositionLat": -90.45474750000001
+ },
+ {
+  "ID": 619340210,
+  "Capacity": 0,
+  "Name": "Parque 2 Altos de san Angel",
+  "CenterPositionLon": 14.679443637206026,
+  "CenterPositionLat": -90.50466007701675
+ },
+ {
+  "ID": 619340211,
+  "Capacity": 3,
+  "Name": "Parque 3 Altos de San Angel",
+  "CenterPositionLon": 14.678099693779119,
+  "CenterPositionLat": -90.5057653101638
+ },
+ {
+  "ID": 619340212,
+  "Capacity": 3,
+  "Name": "Parque 3 Altos de San Angel",
+  "CenterPositionLon": 14.679213433648428,
+  "CenterPositionLat": -90.50546420271174
+ },
+ {
+  "ID": 619340213,
+  "Capacity": 0,
+  "Name": "Parque 4 Altos de San Angel",
+  "CenterPositionLon": 14.676485475922698,
+  "CenterPositionLat": -90.50338131158375
+ },
+ {
+  "ID": 619512803,
+  "Capacity": 1,
+  "Name": "Hacienda Jose Milla y Vidaurre",
+  "CenterPositionLon": 14.284508521152832,
+  "CenterPositionLat": -90.02412330977086
+ },
+ {
+  "ID": 620393683,
+  "Capacity": 1,
+  "Name": "Parque de Santa Ines",
+  "CenterPositionLon": 14.487884182907427,
+  "CenterPositionLat": -90.53848569114048
+ },
+ {
+  "ID": 620758573,
+  "Capacity": 14,
+  "Name": "Plaza España",
+  "CenterPositionLon": 14.601277006549525,
+  "CenterPositionLat": -90.518825559649
+ },
+ {
+  "ID": 620764338,
+  "Capacity": 2,
+  "Name": "Parque Municipal Santa Catarina Pinula",
+  "CenterPositionLon": 14.570556241674899,
+  "CenterPositionLat": -90.49568851455324
+ },
+ {
+  "ID": 621398010,
+  "Capacity": 0,
+  "Name": "Parque Rotonda",
+  "CenterPositionLon": 15.317739068177522,
+  "CenterPositionLat": -91.4711204656938
+ },
+ {
+  "ID": 623569683,
+  "Capacity": 1,
+  "Name": "Parque BAM",
+  "CenterPositionLon": 15.32000922246369,
+  "CenterPositionLat": -91.47003167977935
+ },
+ {
+  "ID": 623585496,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 15.316084171047843,
+  "CenterPositionLat": -91.48163614569118
+ },
+ {
+  "ID": 624313300,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.092211285128053,
+  "CenterPositionLat": -89.76468971039274
+ },
+ {
+  "ID": 624313301,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.092585986985053,
+  "CenterPositionLat": -89.76472705919696
+ },
+ {
+  "ID": 624843123,
+  "Capacity": 821,
+  "Name": "",
+  "CenterPositionLon": 14.537794046257947,
+  "CenterPositionLat": -91.66759926502203
+ },
+ {
+  "ID": 624843125,
+  "Capacity": 390,
+  "Name": "",
+  "CenterPositionLon": 14.535243562159891,
+  "CenterPositionLat": -91.67011044409371
+ },
+ {
+  "ID": 625148518,
+  "Capacity": 0,
+  "Name": "Tanque de agua",
+  "CenterPositionLon": 15.316383117099816,
+  "CenterPositionLat": -91.48438079183927
+ },
+ {
+  "ID": 625148520,
+  "Capacity": 0,
+  "Name": "Placa de construccion UMG",
+  "CenterPositionLon": 15.316458025221218,
+  "CenterPositionLat": -91.48495750991191
+ },
+ {
+  "ID": 625148521,
+  "Capacity": 0,
+  "Name": "Placa UMG",
+  "CenterPositionLon": 15.316456669127568,
+  "CenterPositionLat": -91.48495585004625
+ },
+ {
+  "ID": 625148522,
+  "Capacity": 0,
+  "Name": "UMG CAMPUS HUEHUE",
+  "CenterPositionLon": 15.316401104072895,
+  "CenterPositionLat": -91.48513373943156
+ },
+ {
+  "ID": 625695603,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.317360351135857,
+  "CenterPositionLat": -91.48575802143377
+ },
+ {
+  "ID": 625698351,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 15.321422429382675,
+  "CenterPositionLat": -91.49460563698273
+ },
+ {
+  "ID": 625698352,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.321685274892435,
+  "CenterPositionLat": -91.49453524296224
+ },
+ {
+  "ID": 625698353,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.321744046937866,
+  "CenterPositionLat": -91.4944070659356
+ },
+ {
+  "ID": 625698354,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 15.322341254921689,
+  "CenterPositionLat": -91.49441058604937
+ },
+ {
+  "ID": 625698569,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 15.317310231445722,
+  "CenterPositionLat": -91.48511680858479
+ },
+ {
+  "ID": 627472869,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.61162582534185,
+  "CenterPositionLat": -90.48395535181801
+ },
+ {
+  "ID": 632223008,
+  "Capacity": 87,
+  "Name": "Jungla Urbana",
+  "CenterPositionLon": 14.583112902513882,
+  "CenterPositionLat": -90.49187643022745
+ },
+ {
+  "ID": 632223016,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.60010638288782,
+  "CenterPositionLat": -90.50616767718928
+ },
+ {
+  "ID": 632563915,
+  "Capacity": 0,
+  "Name": "parque de santa gertrudis",
+  "CenterPositionLon": 14.31691758866187,
+  "CenterPositionLat": -90.03657934812115
+ },
+ {
+  "ID": 632564711,
+  "Capacity": 2,
+  "Name": "El cerrito",
+  "CenterPositionLon": 14.31731009984713,
+  "CenterPositionLat": -90.03883050428175
+ },
+ {
+  "ID": 632580813,
+  "Capacity": 0,
+  "Name": "filedelfia",
+  "CenterPositionLon": 14.316224715126884,
+  "CenterPositionLat": -90.03767012586508
+ },
+ {
+  "ID": 633124468,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.963559076910506,
+  "CenterPositionLat": -91.79249389230435
+ },
+ {
+  "ID": 633124469,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.964658694203461,
+  "CenterPositionLat": -91.79427164392528
+ },
+ {
+  "ID": 634079738,
+  "Capacity": 6,
+  "Name": "Bedolla",
+  "CenterPositionLon": 15.466584168221877,
+  "CenterPositionLat": -88.83784626556069
+ },
+ {
+  "ID": 634079747,
+  "Capacity": 3,
+  "Name": "Parque Rio Dulce",
+  "CenterPositionLon": 15.656123302898171,
+  "CenterPositionLat": -88.99818894915822
+ },
+ {
+  "ID": 634079748,
+  "Capacity": 11,
+  "Name": "Parque/Malecón Río Dulce",
+  "CenterPositionLon": 15.657379860766085,
+  "CenterPositionLat": -88.9999384610599
+ },
+ {
+  "ID": 635480268,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.497003807000809,
+  "CenterPositionLat": -89.64791867560943
+ },
+ {
+  "ID": 635835322,
+  "Capacity": 1,
+  "Name": "Parque Central",
+  "CenterPositionLon": 14.451436001315958,
+  "CenterPositionLat": -89.74254503514312
+ },
+ {
+  "ID": 636099425,
+  "Capacity": 0,
+  "Name": "Yo Amo Huehue",
+  "CenterPositionLon": 15.315336682668802,
+  "CenterPositionLat": -91.47551873129629
+ },
+ {
+  "ID": 636100251,
+  "Capacity": 9,
+  "Name": "Iglesia Mormona",
+  "CenterPositionLon": 15.315178058435482,
+  "CenterPositionLat": -91.47694300353459
+ },
+ {
+  "ID": 637002948,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.664637708368435,
+  "CenterPositionLat": -90.49191149383847
+ },
+ {
+  "ID": 637362223,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.944760617944013,
+  "CenterPositionLat": -89.96986076447497
+ },
+ {
+  "ID": 637390033,
+  "Capacity": 5,
+  "Name": "Parque Central de San Andrés Itzapa",
+  "CenterPositionLon": 14.620985001397765,
+  "CenterPositionLat": -90.84413272295363
+ },
+ {
+  "ID": 637390039,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 14.649785990637364,
+  "CenterPositionLat": -90.89089668312968
+ },
+ {
+  "ID": 637394691,
+  "Capacity": 22,
+  "Name": "Parque San Ángel 3",
+  "CenterPositionLon": 14.672594727188969,
+  "CenterPositionLat": -90.49895841153555
+ },
+ {
+  "ID": 637396662,
+  "Capacity": 5,
+  "Name": "Parque y paso peatonal Martinico",
+  "CenterPositionLon": 14.65749036662974,
+  "CenterPositionLat": -90.49965925793566
+ },
+ {
+  "ID": 638904139,
+  "Capacity": 0,
+  "Name": "Plaza Aldea El Limón",
+  "CenterPositionLon": 14.381004310805494,
+  "CenterPositionLat": -89.80330083264982
+ },
+ {
+  "ID": 641649374,
+  "Capacity": 3,
+  "Name": "Ruinas de Gumarkah",
+  "CenterPositionLon": 15.034423935362778,
+  "CenterPositionLat": -91.16660426452606
+ },
+ {
+  "ID": 641649375,
+  "Capacity": 1,
+  "Name": "Ruinas de Gumarkaaj",
+  "CenterPositionLon": 15.034481252774622,
+  "CenterPositionLat": -91.1662149315656
+ },
+ {
+  "ID": 646474544,
+  "Capacity": 1,
+  "Name": "Parque Central",
+  "CenterPositionLon": 15.808103833398265,
+  "CenterPositionLat": -89.87533650656219
+ },
+ {
+  "ID": 647972938,
+  "Capacity": 34,
+  "Name": "Parque Peñón de San Ángel 2",
+  "CenterPositionLon": 14.67113594287956,
+  "CenterPositionLat": -90.50654304140362
+ },
+ {
+  "ID": 652988902,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.17626897598382,
+  "CenterPositionLat": -89.74120226090325
+ },
+ {
+  "ID": 653803345,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 14.678547631368073,
+  "CenterPositionLat": -92.14218315256542
+ },
+ {
+  "ID": 654078808,
+  "Capacity": 19,
+  "Name": "Parque Central La Union",
+  "CenterPositionLon": 14.911623054927077,
+  "CenterPositionLat": -91.36074341214123
+ },
+ {
+  "ID": 658327040,
+  "Capacity": 1144,
+  "Name": "Parque CUNOROC",
+  "CenterPositionLon": 15.306338479991043,
+  "CenterPositionLat": -91.53446807685702
+ },
+ {
+  "ID": 658341408,
+  "Capacity": 13,
+  "Name": "Parque Paleontológico \"el Mamut\"",
+  "CenterPositionLon": 15.313285790052928,
+  "CenterPositionLat": -91.54695682248719
+ },
+ {
+  "ID": 658350427,
+  "Capacity": 40,
+  "Name": "Parque Area de Salud",
+  "CenterPositionLon": 15.31608555606932,
+  "CenterPositionLat": -91.51625425835414
+ },
+ {
+  "ID": 659372818,
+  "Capacity": 1,
+  "Name": "Parque Buenos Aires",
+  "CenterPositionLon": 15.34650806052174,
+  "CenterPositionLat": -91.4537194033381
+ },
+ {
+  "ID": 659407154,
+  "Capacity": 3,
+  "Name": "Parque Zaculeu Central",
+  "CenterPositionLon": 15.322591762912726,
+  "CenterPositionLat": -91.5047624501351
+ },
+ {
+  "ID": 663615962,
+  "Capacity": 0,
+  "Name": "Plaza de la Virgen",
+  "CenterPositionLon": 14.620894019859513,
+  "CenterPositionLat": -90.84385345278909
+ },
+ {
+  "ID": 663619637,
+  "Capacity": 1,
+  "Name": "Plazuela San Andrés Itzapa",
+  "CenterPositionLon": 14.621699372961913,
+  "CenterPositionLat": -90.83830370095876
+ },
+ {
+  "ID": 663808359,
+  "Capacity": 5,
+  "Name": "Área Verde para niños Los Aposentos",
+  "CenterPositionLon": 14.635726816498385,
+  "CenterPositionLat": -90.81289490410921
+ },
+ {
+  "ID": 664645913,
+  "Capacity": 74,
+  "Name": "Área Verde Pedro Molina",
+  "CenterPositionLon": 14.638598783936589,
+  "CenterPositionLat": -90.81208493048854
+ },
+ {
+  "ID": 664645914,
+  "Capacity": 48,
+  "Name": "Área Verde",
+  "CenterPositionLon": 14.640556578478476,
+  "CenterPositionLat": -90.8098791333014
+ },
+ {
+  "ID": 664645915,
+  "Capacity": 155,
+  "Name": "Área Verde Escuela Pedro Molina",
+  "CenterPositionLon": 14.63639981797944,
+  "CenterPositionLat": -90.81085053912739
+ },
+ {
+  "ID": 664662599,
+  "Capacity": 5,
+  "Name": "Parque Central El Tejar",
+  "CenterPositionLon": 14.646343565814863,
+  "CenterPositionLat": -90.79113120516588
+ },
+ {
+  "ID": 665687039,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.737480938229801,
+  "CenterPositionLat": -90.99812358865245
+ },
+ {
+  "ID": 665687494,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.73692819965541,
+  "CenterPositionLat": -90.99747771390075
+ },
+ {
+  "ID": 665962667,
+  "Capacity": 0,
+  "Name": "Plaza de la Iglesia",
+  "CenterPositionLon": 14.656669220574807,
+  "CenterPositionLat": -90.8158877877136
+ },
+ {
+  "ID": 665963515,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.65563254529012,
+  "CenterPositionLat": -90.81498764061675
+ },
+ {
+  "ID": 665964437,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.631419008838899,
+  "CenterPositionLat": -90.81084454734199
+ },
+ {
+  "ID": 665968739,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.633124133638441,
+  "CenterPositionLat": -90.81236283763863
+ },
+ {
+  "ID": 665969158,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.634262973240448,
+  "CenterPositionLat": -90.81318896627847
+ },
+ {
+  "ID": 666766783,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.620550638201408,
+  "CenterPositionLat": -90.52757594099866
+ },
+ {
+  "ID": 667267479,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.654573948050384,
+  "CenterPositionLat": -90.81433437351936
+ },
+ {
+  "ID": 667267767,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.65646872657376,
+  "CenterPositionLat": -90.81580116593837
+ },
+ {
+  "ID": 671172133,
+  "Capacity": 28,
+  "Name": "Parque Industrial",
+  "CenterPositionLon": 14.298227417233592,
+  "CenterPositionLat": -90.79001869536677
+ },
+ {
+  "ID": 675681904,
+  "Capacity": 5,
+  "Name": "Parque Justo Rufino Barrios",
+  "CenterPositionLon": 14.547141513610962,
+  "CenterPositionLat": -90.53549314889497
+ },
+ {
+  "ID": 681775559,
+  "Capacity": 1,
+  "Name": "Parque Verde Colinas de Monte Maria Sur",
+  "CenterPositionLon": 14.54789483090662,
+  "CenterPositionLat": -90.57323853228999
+ },
+ {
+  "ID": 682143678,
+  "Capacity": 1,
+  "Name": "Parque Municipal",
+  "CenterPositionLon": 14.527878387208668,
+  "CenterPositionLat": -91.36778282785194
+ },
+ {
+  "ID": 682185739,
+  "Capacity": 1,
+  "Name": "Parque Peatonal Colinas de Monte Maria Sur",
+  "CenterPositionLon": 14.548577067278721,
+  "CenterPositionLat": -90.57275968736641
+ },
+ {
+  "ID": 682185967,
+  "Capacity": 1,
+  "Name": "Parque Verde Colinas de Monte Maria sur",
+  "CenterPositionLon": 14.54906600093642,
+  "CenterPositionLat": -90.5733681381768
+ },
+ {
+  "ID": 682185968,
+  "Capacity": 8,
+  "Name": "Parque Farolas Colinas de Monte Maria Sur",
+  "CenterPositionLon": 14.548861443119934,
+  "CenterPositionLat": -90.57381783276179
+ },
+ {
+  "ID": 682185969,
+  "Capacity": 2,
+  "Name": "Parque Juegos Infantiles",
+  "CenterPositionLon": 14.549767345948942,
+  "CenterPositionLat": -90.57142351255708
+ },
+ {
+  "ID": 682499112,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.663432159592116,
+  "CenterPositionLat": -89.8462542633321
+ },
+ {
+  "ID": 682524271,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.663389976803375,
+  "CenterPositionLat": -89.84691000521269
+ },
+ {
+  "ID": 682781989,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.518848399301685,
+  "CenterPositionLat": -89.76984420619574
+ },
+ {
+  "ID": 690605409,
+  "Capacity": 12,
+  "Name": "Area Verde",
+  "CenterPositionLon": 14.517873271765284,
+  "CenterPositionLat": -90.56590695012177
+ },
+ {
+  "ID": 690605797,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 14.51933244005762,
+  "CenterPositionLat": -90.57130752526191
+ },
+ {
+  "ID": 690609792,
+  "Capacity": 2372,
+  "Name": "",
+  "CenterPositionLon": 14.497745523562399,
+  "CenterPositionLat": -90.61206840256757
+ },
+ {
+  "ID": 690916822,
+  "Capacity": 350,
+  "Name": "",
+  "CenterPositionLon": 14.532299172686061,
+  "CenterPositionLat": -90.55687623716001
+ },
+ {
+  "ID": 690984507,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 14.54283184035767,
+  "CenterPositionLat": -90.61276172913593
+ },
+ {
+  "ID": 691310446,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 14.511750643452123,
+  "CenterPositionLat": -90.6177053787702
+ },
+ {
+  "ID": 691314134,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.529705419427692,
+  "CenterPositionLat": -90.58570895692404
+ },
+ {
+  "ID": 691314137,
+  "Capacity": 17,
+  "Name": "Campo San José el Placer",
+  "CenterPositionLon": 14.540522347238415,
+  "CenterPositionLat": -90.58866975361698
+ },
+ {
+  "ID": 691314138,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 14.535973577983563,
+  "CenterPositionLat": -90.58470664033821
+ },
+ {
+  "ID": 691314140,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.536060720555056,
+  "CenterPositionLat": -90.58330958753488
+ },
+ {
+  "ID": 691314141,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 14.534375748833687,
+  "CenterPositionLat": -90.59026165179928
+ },
+ {
+  "ID": 691314147,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 14.523762274782213,
+  "CenterPositionLat": -90.59449218310361
+ },
+ {
+  "ID": 691703336,
+  "Capacity": 0,
+  "Name": "Excavación arqueológica protegido con un muro de contención",
+  "CenterPositionLon": 14.54719660210159,
+  "CenterPositionLat": -90.72993744787676
+ },
+ {
+  "ID": 692100499,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.28337468000495,
+  "CenterPositionLat": -89.88719521728069
+ },
+ {
+  "ID": 693601317,
+  "Capacity": 34,
+  "Name": "Parque Monte Real 2",
+  "CenterPositionLon": 14.649444708031659,
+  "CenterPositionLat": -90.57013374965953
+ },
+ {
+  "ID": 695505989,
+  "Capacity": 0,
+  "Name": "Pila de los Rodas",
+  "CenterPositionLon": 14.868380802094356,
+  "CenterPositionLat": -91.57314202780084
+ },
+ {
+  "ID": 695655269,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 14.621423220668,
+  "CenterPositionLat": -90.8368340599966
+ },
+ {
+  "ID": 695898538,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.528638942163832,
+  "CenterPositionLat": -90.57581006941271
+ },
+ {
+  "ID": 697012405,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.621085479243957,
+  "CenterPositionLat": -90.84343050087585
+ },
+ {
+  "ID": 699512166,
+  "Capacity": 3,
+  "Name": "parque",
+  "CenterPositionLon": 14.333902202515702,
+  "CenterPositionLat": -89.70941351895218
+ },
+ {
+  "ID": 699596686,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.624461960551633,
+  "CenterPositionLat": -90.52137261078553
+ },
+ {
+  "ID": 699706155,
+  "Capacity": 1,
+  "Name": "Parque Prados de Santa Rita",
+  "CenterPositionLon": 14.627077959,
+  "CenterPositionLat": -90.57244708698443
+ },
+ {
+  "ID": 699706974,
+  "Capacity": 3,
+  "Name": "Parque Santa Rita 2",
+  "CenterPositionLon": 14.625392620867407,
+  "CenterPositionLat": -90.5713657961788
+ },
+ {
+  "ID": 699711352,
+  "Capacity": 13,
+  "Name": "Parque Santa Rita 1",
+  "CenterPositionLon": 14.625841251350908,
+  "CenterPositionLat": -90.57426964046769
+ },
+ {
+  "ID": 699711353,
+  "Capacity": 5,
+  "Name": "Parque Colonia La Escuadrilla",
+  "CenterPositionLon": 14.625771799667627,
+  "CenterPositionLat": -90.5763291136507
+ },
+ {
+  "ID": 699711355,
+  "Capacity": 3,
+  "Name": "Parque Colonia La Escuadrilla",
+  "CenterPositionLon": 14.625392138564266,
+  "CenterPositionLat": -90.57532971681258
+ },
+ {
+  "ID": 699711358,
+  "Capacity": 2,
+  "Name": "Parque Colonia Santa Mónica",
+  "CenterPositionLon": 14.626327090982722,
+  "CenterPositionLat": -90.57798098967146
+ },
+ {
+  "ID": 699795846,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.819711763280129,
+  "CenterPositionLat": -90.51246093254305
+ },
+ {
+  "ID": 699797745,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.6297471521563,
+  "CenterPositionLat": -90.57104649643618
+ },
+ {
+  "ID": 699797746,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.625477667306567,
+  "CenterPositionLat": -90.56782184550453
+ },
+ {
+  "ID": 699797747,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.625338361237336,
+  "CenterPositionLat": -90.56650590874119
+ },
+ {
+  "ID": 699797749,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.625167317592958,
+  "CenterPositionLat": -90.56464120445897
+ },
+ {
+  "ID": 699797750,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.625013203670376,
+  "CenterPositionLat": -90.563332276193
+ },
+ {
+  "ID": 699797751,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.624877219068365,
+  "CenterPositionLat": -90.56203856218927
+ },
+ {
+  "ID": 700240940,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.510896008531972,
+  "CenterPositionLat": -90.57655221914682
+ },
+ {
+  "ID": 700240965,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.530474020443446,
+  "CenterPositionLat": -90.59234681425747
+ },
+ {
+  "ID": 700240967,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 14.528915268423315,
+  "CenterPositionLat": -90.59284144479531
+ },
+ {
+  "ID": 700244667,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 14.515388673926534,
+  "CenterPositionLat": -90.57481141738732
+ },
+ {
+  "ID": 700244682,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.50971206423899,
+  "CenterPositionLat": -90.58096739614142
+ },
+ {
+  "ID": 700244683,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.513519020989657,
+  "CenterPositionLat": -90.5742432141519
+ },
+ {
+  "ID": 700450052,
+  "Capacity": 10,
+  "Name": "Parque Jardines de Tikal 1",
+  "CenterPositionLon": 14.629593631662793,
+  "CenterPositionLat": -90.55391349896865
+ },
+ {
+  "ID": 700450132,
+  "Capacity": 2,
+  "Name": "Parque Colonia Centroamérica",
+  "CenterPositionLon": 14.635928131875449,
+  "CenterPositionLat": -90.55505780675874
+ },
+ {
+  "ID": 700557787,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 15.803799530537155,
+  "CenterPositionLat": -89.86514728611633
+ },
+ {
+  "ID": 700557788,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.808084599999999,
+  "CenterPositionLat": -89.8753256
+ },
+ {
+  "ID": 700574803,
+  "Capacity": 8,
+  "Name": "Parque Jardines de Tikal 2",
+  "CenterPositionLon": 14.635992357994215,
+  "CenterPositionLat": -90.55979169238547
+ },
+ {
+  "ID": 700576178,
+  "Capacity": 5,
+  "Name": "Parque Villa Linda 2",
+  "CenterPositionLon": 14.642569442626286,
+  "CenterPositionLat": -90.55036600729338
+ },
+ {
+  "ID": 700576179,
+  "Capacity": 1,
+  "Name": "Parque Villa Linda 2",
+  "CenterPositionLon": 14.643379477381147,
+  "CenterPositionLat": -90.55311968094856
+ },
+ {
+  "ID": 700585386,
+  "Capacity": 2,
+  "Name": "Parque Condominio La Fontana",
+  "CenterPositionLon": 14.64618749018926,
+  "CenterPositionLat": -90.56875171111633
+ },
+ {
+  "ID": 700586553,
+  "Capacity": 34,
+  "Name": "Parque Valle del Sol",
+  "CenterPositionLon": 14.647284030094177,
+  "CenterPositionLat": -90.56515538050336
+ },
+ {
+  "ID": 700599543,
+  "Capacity": 4,
+  "Name": "Parque Lomas del Rodeo",
+  "CenterPositionLon": 14.637516170989151,
+  "CenterPositionLat": -90.57058321600483
+ },
+ {
+  "ID": 700599629,
+  "Capacity": 5,
+  "Name": "Parque Manzana E",
+  "CenterPositionLon": 14.639477993365267,
+  "CenterPositionLat": -90.57591821358187
+ },
+ {
+  "ID": 700599630,
+  "Capacity": 2,
+  "Name": "Parque Manzana D",
+  "CenterPositionLon": 14.639348221660834,
+  "CenterPositionLat": -90.57438035396395
+ },
+ {
+  "ID": 700600224,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 14.646935700621793,
+  "CenterPositionLat": -90.57471290581735
+ },
+ {
+  "ID": 700753378,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.645068798916864,
+  "CenterPositionLat": -90.52485527573953
+ },
+ {
+  "ID": 700779606,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.519862635100758,
+  "CenterPositionLat": -90.58516058552978
+ },
+ {
+  "ID": 700779607,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.5211548,
+  "CenterPositionLat": -90.58201345
+ },
+ {
+  "ID": 700779611,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.50972373769094,
+  "CenterPositionLat": -90.57643238949603
+ },
+ {
+  "ID": 700779622,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 14.512451145046379,
+  "CenterPositionLat": -90.56159900434508
+ },
+ {
+  "ID": 700779637,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 14.518126861659557,
+  "CenterPositionLat": -90.57176102678883
+ },
+ {
+  "ID": 700779661,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 14.539038679426152,
+  "CenterPositionLat": -90.59624941232289
+ },
+ {
+  "ID": 700779681,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 14.544854111246451,
+  "CenterPositionLat": -90.5944530681059
+ },
+ {
+  "ID": 700779695,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.509941493163687,
+  "CenterPositionLat": -90.5602292651524
+ },
+ {
+  "ID": 700952554,
+  "Capacity": 4,
+  "Name": "Parque",
+  "CenterPositionLon": 14.639504910408228,
+  "CenterPositionLat": -90.5592414045692
+ },
+ {
+  "ID": 700989547,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.612258884698422,
+  "CenterPositionLat": -90.53113551136573
+ },
+ {
+  "ID": 701145178,
+  "Capacity": 2,
+  "Name": "Parque Colonia 4 de Febrero",
+  "CenterPositionLon": 14.644656580863955,
+  "CenterPositionLat": -90.53808445931243
+ },
+ {
+  "ID": 701910758,
+  "Capacity": 11,
+  "Name": "Parque Villa Mequi",
+  "CenterPositionLon": 15.307816488779189,
+  "CenterPositionLat": -91.50151900168711
+ },
+ {
+  "ID": 702025240,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.504838266874758,
+  "CenterPositionLat": -90.57437504444114
+ },
+ {
+  "ID": 702160322,
+  "Capacity": 1217,
+  "Name": "",
+  "CenterPositionLon": 14.48118908109732,
+  "CenterPositionLat": -90.5515246681155
+ },
+ {
+  "ID": 702160323,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 14.560709502997577,
+  "CenterPositionLat": -90.59790161672176
+ },
+ {
+  "ID": 702168243,
+  "Capacity": 7,
+  "Name": "Parque Utatlán 1",
+  "CenterPositionLon": 14.628262668057804,
+  "CenterPositionLat": -90.55830975990804
+ },
+ {
+  "ID": 702323792,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 14.523378136106484,
+  "CenterPositionLat": -90.58885176070284
+ },
+ {
+  "ID": 702323811,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 14.53063654510457,
+  "CenterPositionLat": -90.58988607903866
+ },
+ {
+  "ID": 702942432,
+  "Capacity": 5,
+  "Name": "Centro Turistico Ojo de Agua (Q 5/persona)",
+  "CenterPositionLon": 14.774672440428253,
+  "CenterPositionLat": -90.80634941372625
+ },
+ {
+  "ID": 702949181,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.761125962716472,
+  "CenterPositionLat": -90.99162324876075
+ },
+ {
+  "ID": 704742729,
+  "Capacity": 2,
+  "Name": "Parque La Hermosa",
+  "CenterPositionLon": 15.31120695,
+  "CenterPositionLat": -91.46222945
+ },
+ {
+  "ID": 705254963,
+  "Capacity": 1,
+  "Name": "Plaza Modulo 16-01",
+  "CenterPositionLon": 14.54963555,
+  "CenterPositionLat": -90.55068895
+ },
+ {
+  "ID": 705254964,
+  "Capacity": 1,
+  "Name": "Plaza Modulo 16-02",
+  "CenterPositionLon": 14.54948015,
+  "CenterPositionLat": -90.5493897
+ },
+ {
+  "ID": 711155896,
+  "Capacity": 15,
+  "Name": "Parque Los Pinos",
+  "CenterPositionLon": 14.659852987476354,
+  "CenterPositionLat": -90.52927536418949
+ },
+ {
+  "ID": 711546574,
+  "Capacity": 2,
+  "Name": "Parquecito Sakerty 1",
+  "CenterPositionLon": 14.655333221356548,
+  "CenterPositionLat": -90.52785207291303
+ },
+ {
+  "ID": 711857013,
+  "Capacity": 2,
+  "Name": "Parque Plaza La Juventud Gualán",
+  "CenterPositionLon": 15.112668632000196,
+  "CenterPositionLat": -89.35870900472875
+ },
+ {
+  "ID": 712328055,
+  "Capacity": 0,
+  "Name": "Cancha de Soccer",
+  "CenterPositionLon": 14.616603216325911,
+  "CenterPositionLat": -90.57218681895782
+ },
+ {
+  "ID": 712328056,
+  "Capacity": 0,
+  "Name": "Area de Niños",
+  "CenterPositionLon": 14.617346874022276,
+  "CenterPositionLat": -90.57241570337355
+ },
+ {
+  "ID": 713145491,
+  "Capacity": 0,
+  "Name": "Zona Verde",
+  "CenterPositionLon": 14.616254531573063,
+  "CenterPositionLat": -90.57186350622963
+ },
+ {
+  "ID": 713145493,
+  "Capacity": 1,
+  "Name": "Zona Verde",
+  "CenterPositionLon": 14.61585452348207,
+  "CenterPositionLat": -90.57158741525724
+ },
+ {
+  "ID": 715515952,
+  "Capacity": 16,
+  "Name": "Piscinas HOL",
+  "CenterPositionLon": 15.083283901687285,
+  "CenterPositionLat": -89.50708974080128
+ },
+ {
+  "ID": 716026695,
+  "Capacity": 0,
+  "Name": "PARQUE DE LAS AMERICAS",
+  "CenterPositionLon": 14.811791321071713,
+  "CenterPositionLat": -89.38659300329338
+ },
+ {
+  "ID": 717451062,
+  "Capacity": 7,
+  "Name": "Parque Y",
+  "CenterPositionLon": 14.561600902150243,
+  "CenterPositionLat": -89.35492018038106
+ },
+ {
+  "ID": 717914793,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.296172580777798,
+  "CenterPositionLat": -89.72069206178016
+ },
+ {
+  "ID": 718519526,
+  "Capacity": 13,
+  "Name": "Parque Central Santa Maria Nebaj",
+  "CenterPositionLon": 15.405784582480853,
+  "CenterPositionLat": -91.14696781620137
+ },
+ {
+  "ID": 719487561,
+  "Capacity": 124,
+  "Name": "Parque Arqueologico de chiantla Viejo",
+  "CenterPositionLon": 15.387699039427169,
+  "CenterPositionLat": -91.46115528424279
+ },
+ {
+  "ID": 721617987,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 16.921850189923354,
+  "CenterPositionLat": -89.89648079800082
+ },
+ {
+  "ID": 727875529,
+  "Capacity": 22,
+  "Name": "Área verde Interplaza Xela",
+  "CenterPositionLon": 14.535921547652995,
+  "CenterPositionLat": -91.49434542181147
+ },
+ {
+  "ID": 733463737,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 14.47098116589571,
+  "CenterPositionLat": -90.55164886884043
+ },
+ {
+  "ID": 733463755,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 14.467454432519466,
+  "CenterPositionLat": -90.55404831657985
+ },
+ {
+  "ID": 734606017,
+  "Capacity": 0,
+  "Name": "Plazuela villa linda",
+  "CenterPositionLon": 14.545687409973285,
+  "CenterPositionLat": -91.50530444674794
+ },
+ {
+  "ID": 734606018,
+  "Capacity": 1,
+  "Name": "Parque infantil Villa linda",
+  "CenterPositionLon": 14.546063372904603,
+  "CenterPositionLat": -91.50461617203486
+ },
+ {
+  "ID": 736631271,
+  "Capacity": 1,
+  "Name": "Plaza Ceremonial Oxlajuj Baq'tun",
+  "CenterPositionLon": 14.943107135821322,
+  "CenterPositionLat": -91.11705082080198
+ },
+ {
+  "ID": 736634116,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 14.945785641452641,
+  "CenterPositionLat": -91.10707393343088
+ },
+ {
+  "ID": 736637680,
+  "Capacity": 44,
+  "Name": "Parque Rivera Del Rio",
+  "CenterPositionLon": 14.50606730187489,
+  "CenterPositionLat": -90.54277251705183
+ },
+ {
+  "ID": 736641645,
+  "Capacity": 19,
+  "Name": "parque el jocotillo",
+  "CenterPositionLon": 14.35158039689932,
+  "CenterPositionLat": -90.50684191465655
+ },
+ {
+  "ID": 736646001,
+  "Capacity": 19,
+  "Name": "Casa Tzocoma parque ecológico",
+  "CenterPositionLon": 14.950030617086487,
+  "CenterPositionLat": -91.11096512964063
+ },
+ {
+  "ID": 737419442,
+  "Capacity": 7,
+  "Name": "Parque infantil",
+  "CenterPositionLon": 14.533202202338098,
+  "CenterPositionLat": -91.51636577196392
+ },
+ {
+  "ID": 737430194,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.591005809066488,
+  "CenterPositionLat": -91.51734421771557
+ },
+ {
+  "ID": 737438710,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 14.52838335151798,
+  "CenterPositionLat": -91.52057401159354
+ },
+ {
+  "ID": 737439276,
+  "Capacity": 23,
+  "Name": "Parque Colonia San Andrés",
+  "CenterPositionLon": 14.536886567984322,
+  "CenterPositionLat": -91.48821502654894
+ },
+ {
+  "ID": 737450256,
+  "Capacity": 3,
+  "Name": "Parque Central Santo Tomás la Unión",
+  "CenterPositionLon": 14.631883800761399,
+  "CenterPositionLat": -91.41141794450046
+ },
+ {
+  "ID": 737450257,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 14.585380766412333,
+  "CenterPositionLat": -91.52078703369644
+ },
+ {
+  "ID": 737470337,
+  "Capacity": 3,
+  "Name": "Parque Infantil",
+  "CenterPositionLon": 14.590857079156642,
+  "CenterPositionLat": -91.5185063789587
+ },
+ {
+  "ID": 737622660,
+  "Capacity": 17,
+  "Name": "Área verde Plaza Américas",
+  "CenterPositionLon": 14.534287948176724,
+  "CenterPositionLat": -91.49511683984552
+ },
+ {
+  "ID": 737727446,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.538727050937982,
+  "CenterPositionLat": -91.51557843834136
+ },
+ {
+  "ID": 744631656,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 14.619679818220959,
+  "CenterPositionLat": -90.83619147607118
+ },
+ {
+  "ID": 744633223,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 14.619234398923698,
+  "CenterPositionLat": -90.83548770695407
+ },
+ {
+  "ID": 747416588,
+  "Capacity": 3,
+  "Name": "Parque Los Encinos",
+  "CenterPositionLon": 15.31150563212103,
+  "CenterPositionLat": -91.47903157684974
+ },
+ {
+  "ID": 747465168,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.56431551841565,
+  "CenterPositionLat": -89.34955215483306
+ },
+ {
+  "ID": 747465171,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.564638993836548,
+  "CenterPositionLat": -89.35073416828543
+ },
+ {
+  "ID": 747870822,
+  "Capacity": 2,
+  "Name": "Colegio Parroquial",
+  "CenterPositionLon": 14.570007753504175,
+  "CenterPositionLat": -90.49473518652024
+ },
+ {
+  "ID": 747907986,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.572623995759752,
+  "CenterPositionLat": -90.49847350509958
+ },
+ {
+  "ID": 752838133,
+  "Capacity": 0,
+  "Name": "Parque Central de Morazan",
+  "CenterPositionLon": 14.933194879875723,
+  "CenterPositionLat": -90.14337042361569
+ },
+ {
+  "ID": 755794124,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.539518366666666,
+  "CenterPositionLat": -90.57474613333332
+ },
+ {
+  "ID": 755794131,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 14.559447414651956,
+  "CenterPositionLat": -90.57708034298028
+ },
+ {
+  "ID": 759105353,
+  "Capacity": 1,
+  "Name": "Parque primavera 1",
+  "CenterPositionLon": 14.619768668773933,
+  "CenterPositionLat": -90.61314646404536
+ },
+ {
+  "ID": 759471076,
+  "Capacity": 1,
+  "Name": "Parque primavera 2",
+  "CenterPositionLon": 14.618632294672773,
+  "CenterPositionLat": -90.61341231996609
+ },
+ {
+  "ID": 759471082,
+  "Capacity": 1,
+  "Name": "Parque primavera 3",
+  "CenterPositionLon": 14.617824203296722,
+  "CenterPositionLat": -90.61397715490189
+ },
+ {
+  "ID": 761080287,
+  "Capacity": 1,
+  "Name": "Parque los Olivos",
+  "CenterPositionLon": 15.807588533333334,
+  "CenterPositionLat": -89.8753705
+ },
+ {
+  "ID": 761080288,
+  "Capacity": 2,
+  "Name": "Parque Valle del Sol",
+  "CenterPositionLon": 15.807980574911289,
+  "CenterPositionLat": -89.87740107039528
+ },
+ {
+  "ID": 761080289,
+  "Capacity": 9,
+  "Name": "Parque los Pinos del Encanto",
+  "CenterPositionLon": 15.802683388979744,
+  "CenterPositionLat": -89.85918383047736
+ },
+ {
+  "ID": 761080290,
+  "Capacity": 0,
+  "Name": "Parque las Rosas",
+  "CenterPositionLon": 15.80630360410003,
+  "CenterPositionLat": -89.85868407915466
+ },
+ {
+  "ID": 761080291,
+  "Capacity": 8,
+  "Name": "Parque la Independecia",
+  "CenterPositionLon": 15.805113525414491,
+  "CenterPositionLat": -89.86049198108576
+ },
+ {
+  "ID": 761080292,
+  "Capacity": 13,
+  "Name": "Parque el campo",
+  "CenterPositionLon": 15.803505891771035,
+  "CenterPositionLat": -89.87153098978335
+ },
+ {
+  "ID": 761080900,
+  "Capacity": 3,
+  "Name": "Parque infantil 30 de junio",
+  "CenterPositionLon": 15.805796568836247,
+  "CenterPositionLat": -89.8649659770817
+ },
+ {
+  "ID": 762073626,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.621512359480617,
+  "CenterPositionLat": -90.84402457797367
+ },
+ {
+  "ID": 762669940,
+  "Capacity": 4,
+  "Name": "Estadio Miguel Garcia Granados",
+  "CenterPositionLon": 15.401448111477807,
+  "CenterPositionLat": -91.15370311824515
+ },
+ {
+  "ID": 762669943,
+  "Capacity": 0,
+  "Name": "Parque de Salquilito",
+  "CenterPositionLon": 15.409297960441574,
+  "CenterPositionLat": -91.15100622353127
+ },
+ {
+  "ID": 763172662,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.588728243143406,
+  "CenterPositionLat": -90.57829477490093
+ },
+ {
+  "ID": 765178267,
+  "Capacity": 2,
+  "Name": "La Pinada",
+  "CenterPositionLon": 14.872663210777455,
+  "CenterPositionLat": -91.53420690384792
+ },
+ {
+  "ID": 765237021,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.641926173466276,
+  "CenterPositionLat": -90.49565358442204
+ },
+ {
+  "ID": 765237464,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 14.664699585947686,
+  "CenterPositionLat": -90.49088452666794
+ },
+ {
+  "ID": 768428915,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.584640210967148,
+  "CenterPositionLat": -90.55416036615624
+ },
+ {
+  "ID": 768428923,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.584720085306513,
+  "CenterPositionLat": -90.55297073709129
+ },
+ {
+  "ID": 768428924,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.584626342974499,
+  "CenterPositionLat": -90.55264823922121
+ },
+ {
+  "ID": 769394674,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.585073434064403,
+  "CenterPositionLat": -90.55327696779553
+ },
+ {
+  "ID": 771506067,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.677460820259705,
+  "CenterPositionLat": -90.50352749555779
+ },
+ {
+  "ID": 771506069,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.67557482127074,
+  "CenterPositionLat": -90.5030424298799
+ },
+ {
+  "ID": 775162597,
+  "Capacity": 41,
+  "Name": "Parque Litegua Gualán",
+  "CenterPositionLon": 15.115301707468953,
+  "CenterPositionLat": -89.358286064925
+ },
+ {
+  "ID": 775162794,
+  "Capacity": 11,
+  "Name": "Parque El Centro, Gualán",
+  "CenterPositionLon": 15.113339414597027,
+  "CenterPositionLat": -89.36232682617504
+ },
+ {
+  "ID": 775163104,
+  "Capacity": 11,
+  "Name": "Parque Fuente Los Jarrones, Gualán",
+  "CenterPositionLon": 15.11330164193895,
+  "CenterPositionLat": -89.3554302529294
+ },
+ {
+  "ID": 775163451,
+  "Capacity": 10,
+  "Name": "Parque San Miguel Las Bancas",
+  "CenterPositionLon": 15.114049996701862,
+  "CenterPositionLat": -89.36068375965878
+ },
+ {
+  "ID": 775163847,
+  "Capacity": 3,
+  "Name": "Parque Vias del Tren, Gualán",
+  "CenterPositionLon": 15.112854330137605,
+  "CenterPositionLat": -89.35677421974864
+ },
+ {
+  "ID": 775164186,
+  "Capacity": 6,
+  "Name": "Parque y Area Verde La Cienega, Gualán",
+  "CenterPositionLon": 15.11500902819442,
+  "CenterPositionLat": -89.35368838515437
+ },
+ {
+  "ID": 775164497,
+  "Capacity": 23,
+  "Name": "Parque Antiguo La Cienega, Gualán",
+  "CenterPositionLon": 15.116433223682593,
+  "CenterPositionLat": -89.35176809582211
+ },
+ {
+  "ID": 775168570,
+  "Capacity": 44,
+  "Name": "Parque y Area Verde La Pedrera",
+  "CenterPositionLon": 15.10932094601322,
+  "CenterPositionLat": -89.35890643369515
+ },
+ {
+  "ID": 775168736,
+  "Capacity": 80,
+  "Name": "Parque y Area Verde Mayuelas",
+  "CenterPositionLon": 15.130693770935181,
+  "CenterPositionLat": -89.35137831421632
+ },
+ {
+  "ID": 780066117,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 15.627576124447735,
+  "CenterPositionLat": -91.88926241188992
+ },
+ {
+  "ID": 780066133,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.636960126297886,
+  "CenterPositionLat": -91.91981808711151
+ },
+ {
+  "ID": 788293835,
+  "Capacity": 0,
+  "Name": "parque zona 6",
+  "CenterPositionLon": 15.309757221858598,
+  "CenterPositionLat": -91.4674829760296
+ },
+ {
+  "ID": 788293837,
+  "Capacity": 14,
+  "Name": "campo de futbol",
+  "CenterPositionLon": 15.310041261983633,
+  "CenterPositionLat": -91.47051039554133
+ },
+ {
+  "ID": 790441164,
+  "Capacity": 4,
+  "Name": "Plaza verde, Catedral",
+  "CenterPositionLon": 14.301326393626875,
+  "CenterPositionLat": -90.78582692468163
+ },
+ {
+  "ID": 791582733,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 14.627282281263204,
+  "CenterPositionLat": -90.56921850656325
+ },
+ {
+  "ID": 791948353,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.537585250855823,
+  "CenterPositionLat": -90.57873503731274
+ },
+ {
+  "ID": 791948354,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.537561610719774,
+  "CenterPositionLat": -90.57838642176934
+ },
+ {
+  "ID": 791948355,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.537107076588748,
+  "CenterPositionLat": -90.57859993900254
+ },
+ {
+  "ID": 791948356,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.536418393096001,
+  "CenterPositionLat": -90.57880908784925
+ },
+ {
+  "ID": 791948357,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.536400968165678,
+  "CenterPositionLat": -90.57851860359868
+ },
+ {
+  "ID": 791948358,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.535690208194243,
+  "CenterPositionLat": -90.57851192920903
+ },
+ {
+  "ID": 791948359,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.535725048663707,
+  "CenterPositionLat": -90.57894547555777
+ },
+ {
+  "ID": 791948360,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.535691878268493,
+  "CenterPositionLat": -90.57872614995966
+ },
+ {
+  "ID": 791948361,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.535004511724694,
+  "CenterPositionLat": -90.57892893892152
+ },
+ {
+  "ID": 791948363,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.534314281021494,
+  "CenterPositionLat": -90.57907082763731
+ },
+ {
+  "ID": 791948364,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.534299045076933,
+  "CenterPositionLat": -90.57886627369513
+ },
+ {
+  "ID": 791948366,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.534103368670424,
+  "CenterPositionLat": -90.57858972128558
+ },
+ {
+  "ID": 791948367,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.533904541876604,
+  "CenterPositionLat": -90.57904256812063
+ },
+ {
+  "ID": 791948369,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.533327787900031,
+  "CenterPositionLat": -90.57909260283661
+ },
+ {
+  "ID": 791948370,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.532481054319804,
+  "CenterPositionLat": -90.57916553750947
+ },
+ {
+  "ID": 791948371,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.531937186443441,
+  "CenterPositionLat": -90.57921152820228
+ },
+ {
+  "ID": 791948373,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.531496057241798,
+  "CenterPositionLat": -90.57912396810607
+ },
+ {
+  "ID": 791948374,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.531512150089043,
+  "CenterPositionLat": -90.57933261441572
+ },
+ {
+  "ID": 791948375,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.531033040566433,
+  "CenterPositionLat": -90.5789801181145
+ },
+ {
+  "ID": 791948376,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.530900272025413,
+  "CenterPositionLat": -90.57925858919016
+ },
+ {
+  "ID": 791948377,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.530273975408518,
+  "CenterPositionLat": -90.57903866562081
+ },
+ {
+  "ID": 791948378,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.530487922884118,
+  "CenterPositionLat": -90.57865645186891
+ },
+ {
+  "ID": 791948380,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.53638239600379,
+  "CenterPositionLat": -90.57516575789009
+ },
+ {
+  "ID": 791948381,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.537132833333333,
+  "CenterPositionLat": -90.57592566666666
+ },
+ {
+  "ID": 791948382,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.536572453252129,
+  "CenterPositionLat": -90.57419825883085
+ },
+ {
+  "ID": 791950881,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 14.508903065012897,
+  "CenterPositionLat": -90.59886707918079
+ },
+ {
+  "ID": 791958872,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.523605673428818,
+  "CenterPositionLat": -90.57790778006036
+ },
+ {
+  "ID": 792301236,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 15.309704619898026,
+  "CenterPositionLat": -91.46860579724495
+ },
+ {
+  "ID": 792301238,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 15.309502331596521,
+  "CenterPositionLat": -91.46827374669908
+ },
+ {
+  "ID": 792302805,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 15.310076317317407,
+  "CenterPositionLat": -91.46788575622449
+ },
+ {
+  "ID": 792304609,
+  "Capacity": 6,
+  "Name": "cancha de futbol",
+  "CenterPositionLon": 15.30895376717469,
+  "CenterPositionLat": -91.46931497095977
+ },
+ {
+  "ID": 792304610,
+  "Capacity": 20,
+  "Name": "area de juegos",
+  "CenterPositionLon": 15.30911965002003,
+  "CenterPositionLat": -91.47073904861114
+ },
+ {
+  "ID": 792749558,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.51810788659763,
+  "CenterPositionLat": -90.56854916982535
+ },
+ {
+  "ID": 792749559,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.517929745044515,
+  "CenterPositionLat": -90.56773510496792
+ },
+ {
+  "ID": 793633930,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 14.518569586898888,
+  "CenterPositionLat": -90.56297931442255
+ },
+ {
+  "ID": 793644042,
+  "Capacity": 7,
+  "Name": "Parque Ecológico Kanajuyú",
+  "CenterPositionLon": 14.610572531918415,
+  "CenterPositionLat": -90.4786124466001
+ },
+ {
+  "ID": 795508560,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.537008418465307,
+  "CenterPositionLat": -90.585469830004
+ },
+ {
+  "ID": 795819305,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 15.309685575358799,
+  "CenterPositionLat": -91.47004068767686
+ },
+ {
+  "ID": 795851716,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.49310673457846,
+  "CenterPositionLat": -90.58494324661397
+ },
+ {
+  "ID": 795851717,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 14.493461597726766,
+  "CenterPositionLat": -90.58697324313074
+ },
+ {
+  "ID": 800571913,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.31622811954882,
+  "CenterPositionLat": -90.03805136736472
+ },
+ {
+  "ID": 800574386,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 14.316523305011218,
+  "CenterPositionLat": -90.0381255954715
+ }
+]

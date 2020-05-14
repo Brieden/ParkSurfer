@@ -1,0 +1,30 @@
+[
+ {
+  "ID": 341038856,
+  "Capacity": 130,
+  "Name": "Childrens Park",
+  "CenterPositionLon": 21.782433317712,
+  "CenterPositionLat": -72.21088286822257
+ },
+ {
+  "ID": 410381414,
+  "Capacity": 160,
+  "Name": "Historic Lighthouse Park",
+  "CenterPositionLon": 21.51164335,
+  "CenterPositionLat": -71.13348644999999
+ },
+ {
+  "ID": 411815523,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 21.469994435729227,
+  "CenterPositionLat": -71.14577963542888
+ },
+ {
+  "ID": 411904621,
+  "Capacity": 75,
+  "Name": "Lester Williams Community Park",
+  "CenterPositionLon": 21.453300941415065,
+  "CenterPositionLat": -71.14435664612186
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "ID": 150436795,
+  "Capacity": 403,
+  "Name": "Radio Range Recreation Park",
+  "CenterPositionLon": 17.11003794615986,
+  "CenterPositionLat": -61.836468431931806
+ },
+ {
+  "ID": 396326682,
+  "Capacity": 1250,
+  "Name": "",
+  "CenterPositionLon": 17.1155282728698,
+  "CenterPositionLat": -61.845056501220974
+ },
+ {
+  "ID": 461387420,
+  "Capacity": 1035,
+  "Name": "",
+  "CenterPositionLon": 17.04959877039187,
+  "CenterPositionLat": -61.89475258441815
+ },
+ {
+  "ID": 464109674,
+  "Capacity": 572,
+  "Name": "Radio Range Playing Field",
+  "CenterPositionLon": 17.110468923758603,
+  "CenterPositionLat": -61.837594981822996
+ },
+ {
+  "ID": 469235522,
+  "Capacity": 1069,
+  "Name": "Powells Cricket Field",
+  "CenterPositionLon": 17.141813017748913,
+  "CenterPositionLat": -61.80140347530317
+ },
+ {
+  "ID": 469236052,
+  "Capacity": 133,
+  "Name": "Coolidge Small Park",
+  "CenterPositionLon": 17.141048631519816,
+  "CenterPositionLat": -61.797318345553165
+ },
+ {
+  "ID": 469481955,
+  "Capacity": 3545,
+  "Name": "Victoria Park",
+  "CenterPositionLon": 17.12054481176377,
+  "CenterPositionLat": -61.83750361184734
+ },
+ {
+  "ID": 552080094,
+  "Capacity": 44,
+  "Name": "St. John's Lighthouse Park",
+  "CenterPositionLon": 17.117751660105704,
+  "CenterPositionLat": -61.83971174723628
+ },
+ {
+  "ID": 555984822,
+  "Capacity": 963,
+  "Name": "",
+  "CenterPositionLon": 17.11767890361873,
+  "CenterPositionLat": -61.81531826110607
+ },
+ {
+  "ID": 555984831,
+  "Capacity": 282,
+  "Name": "National Hero's Park",
+  "CenterPositionLon": 17.115191367954047,
+  "CenterPositionLat": -61.81535939114401
+ },
+ {
+  "ID": 556004917,
+  "Capacity": 1496,
+  "Name": "Nelson's Dockyard National Park",
+  "CenterPositionLon": 17.008291492289022,
+  "CenterPositionLat": -61.76519481528512
+ },
+ {
+  "ID": 556004918,
+  "Capacity": 4078,
+  "Name": "",
+  "CenterPositionLon": 17.141824470055553,
+  "CenterPositionLat": -61.820332119259184
+ },
+ {
+  "ID": 556004919,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 17.131851789223667,
+  "CenterPositionLat": -61.863294322994605
+ },
+ {
+  "ID": 556015233,
+  "Capacity": 1905,
+  "Name": "",
+  "CenterPositionLon": 17.081548412101185,
+  "CenterPositionLat": -61.74557552645565
+ },
+ {
+  "ID": 556015236,
+  "Capacity": 181,
+  "Name": "Paradise Lawn",
+  "CenterPositionLon": 17.118493271903418,
+  "CenterPositionLat": -61.84466248310229
+ },
+ {
+  "ID": 556015237,
+  "Capacity": 39,
+  "Name": "Judgement Square",
+  "CenterPositionLon": 17.119967175772736,
+  "CenterPositionLat": -61.84370240803043
+ },
+ {
+  "ID": 556015239,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 17.121429172746257,
+  "CenterPositionLat": -61.84333357326562
+ },
+ {
+  "ID": 556099546,
+  "Capacity": 754,
+  "Name": "",
+  "CenterPositionLon": 17.108725463347614,
+  "CenterPositionLat": -61.79888571625984
+ },
+ {
+  "ID": 556099554,
+  "Capacity": 1000,
+  "Name": "",
+  "CenterPositionLon": 17.02458479722013,
+  "CenterPositionLat": -61.771716783638134
+ },
+ {
+  "ID": 556099571,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 17.121964418763714,
+  "CenterPositionLat": -61.845628224087214
+ },
+ {
+  "ID": 590142083,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 17.038960097667957,
+  "CenterPositionLat": -61.78680285299258
+ },
+ {
+  "ID": 590142084,
+  "Capacity": 394,
+  "Name": "",
+  "CenterPositionLon": 17.06419956434121,
+  "CenterPositionLat": -61.886150974419465
+ },
+ {
+  "ID": 749852933,
+  "Capacity": 1262,
+  "Name": "Blackburne Park",
+  "CenterPositionLon": 17.132305484437705,
+  "CenterPositionLat": -61.84987089006332
+ },
+ {
+  "ID": 749853682,
+  "Capacity": 253,
+  "Name": "all saints park",
+  "CenterPositionLon": 17.060823274106703,
+  "CenterPositionLat": -61.79051068767641
+ }
+]

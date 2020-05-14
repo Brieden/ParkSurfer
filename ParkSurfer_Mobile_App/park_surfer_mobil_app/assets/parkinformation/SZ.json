@@ -1,0 +1,30 @@
+[
+ {
+  "ID": 162207260,
+  "Capacity": 20429,
+  "Name": "",
+  "CenterPositionLon": -26.319480140211297,
+  "CenterPositionLat": 31.140994485054172
+ },
+ {
+  "ID": 430901756,
+  "Capacity": 61512,
+  "Name": "",
+  "CenterPositionLon": -27.010604493930607,
+  "CenterPositionLat": 31.95416152386319
+ },
+ {
+  "ID": 430914040,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": -26.960566767164764,
+  "CenterPositionLat": 31.898505782475816
+ },
+ {
+  "ID": 581694951,
+  "Capacity": 12165,
+  "Name": "",
+  "CenterPositionLon": -26.448194861634992,
+  "CenterPositionLat": 31.205257056668618
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "ID": 383803426,
+  "Capacity": 730,
+  "Name": "Camerhogne Park",
+  "CenterPositionLon": 12.023935772791182,
+  "CenterPositionLat": -61.75984256659363
+ },
+ {
+  "ID": 384029499,
+  "Capacity": 116,
+  "Name": "Tanteen Playground",
+  "CenterPositionLon": 12.04803714659024,
+  "CenterPositionLat": -61.745298029084964
+ },
+ {
+  "ID": 435997323,
+  "Capacity": 655,
+  "Name": "Botanical Gardens",
+  "CenterPositionLon": 12.046711712548916,
+  "CenterPositionLat": -61.74459700945049
+ },
+ {
+  "ID": 448062351,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 12.004883024044688,
+  "CenterPositionLat": -61.75779590431514
+ },
+ {
+  "ID": 448064918,
+  "Capacity": 529,
+  "Name": "",
+  "CenterPositionLon": 12.057073427605301,
+  "CenterPositionLat": -61.72227892118112
+ },
+ {
+  "ID": 448064919,
+  "Capacity": 16747,
+  "Name": "",
+  "CenterPositionLon": 12.054351288965439,
+  "CenterPositionLat": -61.72301253392126
+ },
+ {
+  "ID": 451481996,
+  "Capacity": 111,
+  "Name": "Public access to L'Anse Aux Epines Beach",
+  "CenterPositionLon": 12.00111435733772,
+  "CenterPositionLat": -61.758011643540414
+ },
+ {
+  "ID": 525846369,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 12.016163487641277,
+  "CenterPositionLat": -61.76018538109645
+ },
+ {
+  "ID": 672997352,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 12.135184898862997,
+  "CenterPositionLat": -61.61984004214658
+ }
+]

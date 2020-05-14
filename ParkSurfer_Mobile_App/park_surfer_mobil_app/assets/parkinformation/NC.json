@@ -1,0 +1,961 @@
+[
+ {
+  "ID": 37793929,
+  "Capacity": 704,
+  "Name": "Square Yves Tual",
+  "CenterPositionLon": -22.275079165219744,
+  "CenterPositionLat": 166.4424253744267
+ },
+ {
+  "ID": 43102272,
+  "Capacity": 567,
+  "Name": "",
+  "CenterPositionLon": -22.27419349978927,
+  "CenterPositionLat": 166.4469576080699
+ },
+ {
+  "ID": 43102273,
+  "Capacity": 1039,
+  "Name": "Place Bir Hakeim",
+  "CenterPositionLon": -22.27414087951846,
+  "CenterPositionLat": 166.44771383083844
+ },
+ {
+  "ID": 46648465,
+  "Capacity": 868,
+  "Name": "",
+  "CenterPositionLon": -22.297447291759955,
+  "CenterPositionLat": 166.44520780890397
+ },
+ {
+  "ID": 62252601,
+  "Capacity": 11317,
+  "Name": "Parc Fayard",
+  "CenterPositionLon": -22.158035528017383,
+  "CenterPositionLat": 166.44733486429212
+ },
+ {
+  "ID": 62264057,
+  "Capacity": 4529,
+  "Name": "Park de la Coulée",
+  "CenterPositionLon": -22.235217886573786,
+  "CenterPositionLat": 166.57912451143045
+ },
+ {
+  "ID": 70370502,
+  "Capacity": 10381,
+  "Name": "Parc de Koutio",
+  "CenterPositionLon": -22.21426106688848,
+  "CenterPositionLat": 166.46691174392961
+ },
+ {
+  "ID": 72509224,
+  "Capacity": 1417,
+  "Name": "Aire polyvalente de Ouémo",
+  "CenterPositionLon": -22.28185142928739,
+  "CenterPositionLat": 166.47199346480534
+ },
+ {
+  "ID": 72546112,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": -21.8649915270638,
+  "CenterPositionLat": 166.04810644858702
+ },
+ {
+  "ID": 72677336,
+  "Capacity": 8550,
+  "Name": "Parc municipal du Receiving Georges Brunelet",
+  "CenterPositionLon": -22.294159035021014,
+  "CenterPositionLat": 166.44433064355422
+ },
+ {
+  "ID": 72677362,
+  "Capacity": 902,
+  "Name": "",
+  "CenterPositionLon": -22.291781118129833,
+  "CenterPositionLat": 166.44603239070565
+ },
+ {
+  "ID": 73012844,
+  "Capacity": 574,
+  "Name": "",
+  "CenterPositionLon": -21.71047860031945,
+  "CenterPositionLat": 165.83038422229578
+ },
+ {
+  "ID": 73012846,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": -21.71041446150235,
+  "CenterPositionLat": 165.8297650187173
+ },
+ {
+  "ID": 73188618,
+  "Capacity": 12297,
+  "Name": "Espace vert de l'ex-terrain Laguarde",
+  "CenterPositionLon": -22.268000141253925,
+  "CenterPositionLat": 166.46593660912706
+ },
+ {
+  "ID": 73201881,
+  "Capacity": 2139,
+  "Name": "",
+  "CenterPositionLon": -22.279137640876268,
+  "CenterPositionLat": 166.4638557911834
+ },
+ {
+  "ID": 73339538,
+  "Capacity": 1202,
+  "Name": "",
+  "CenterPositionLon": -21.69433474295178,
+  "CenterPositionLat": 165.67849625828794
+ },
+ {
+  "ID": 73924064,
+  "Capacity": 10275,
+  "Name": "Mango",
+  "CenterPositionLon": -21.983790716919707,
+  "CenterPositionLat": 166.21431534968727
+ },
+ {
+  "ID": 73998131,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": -21.119091350362375,
+  "CenterPositionLat": 164.90123759152388
+ },
+ {
+  "ID": 74100993,
+  "Capacity": 359,
+  "Name": "",
+  "CenterPositionLon": -21.052821559772525,
+  "CenterPositionLat": 164.85346333331864
+ },
+ {
+  "ID": 75373426,
+  "Capacity": 44,
+  "Name": "Place Celières",
+  "CenterPositionLon": -22.278456653471988,
+  "CenterPositionLat": 166.45081065707745
+ },
+ {
+  "ID": 76133522,
+  "Capacity": 241,
+  "Name": "Parc Pierre WRIGHT",
+  "CenterPositionLon": -20.556452140429474,
+  "CenterPositionLat": 164.28328868190715
+ },
+ {
+  "ID": 82187655,
+  "Capacity": 1188,
+  "Name": "Jardin Océaniens",
+  "CenterPositionLon": -22.30267277565587,
+  "CenterPositionLat": 166.44575019405335
+ },
+ {
+  "ID": 85476222,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": -22.26073004493539,
+  "CenterPositionLat": 166.44630373540932
+ },
+ {
+  "ID": 86685881,
+  "Capacity": 743,
+  "Name": "espace vert",
+  "CenterPositionLon": -22.210349677013923,
+  "CenterPositionLat": 166.4708588878593
+ },
+ {
+  "ID": 109506953,
+  "Capacity": 264,
+  "Name": "Espace vert du musée de la ville",
+  "CenterPositionLon": -22.270241396190368,
+  "CenterPositionLat": 166.44218699345095
+ },
+ {
+  "ID": 115577271,
+  "Capacity": 4676,
+  "Name": "Parc Urbain de Sainte-Marie",
+  "CenterPositionLon": -22.279883673383416,
+  "CenterPositionLat": 166.46826085957403
+ },
+ {
+  "ID": 115577275,
+  "Capacity": 2517,
+  "Name": "Plage de Magenta",
+  "CenterPositionLon": -22.265960967067922,
+  "CenterPositionLat": 166.47170330884475
+ },
+ {
+  "ID": 117755659,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": -22.27446473112771,
+  "CenterPositionLat": 166.44326230022006
+ },
+ {
+  "ID": 117755660,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": -22.274416359769397,
+  "CenterPositionLat": 166.44392936750978
+ },
+ {
+  "ID": 120491853,
+  "Capacity": 324,
+  "Name": "",
+  "CenterPositionLon": -22.306543046543446,
+  "CenterPositionLat": 166.46075509365878
+ },
+ {
+  "ID": 126096442,
+  "Capacity": 1319977,
+  "Name": "Vallée Tabou Site historique province Sud",
+  "CenterPositionLon": -21.542416355925095,
+  "CenterPositionLat": 165.3557557979422
+ },
+ {
+  "ID": 181965574,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": -22.292996572912124,
+  "CenterPositionLat": 166.45768180968577
+ },
+ {
+  "ID": 187903443,
+  "Capacity": 126,
+  "Name": "Jardin Néo-Zélandais",
+  "CenterPositionLon": -22.277676591551025,
+  "CenterPositionLat": 166.44241535211637
+ },
+ {
+  "ID": 189887771,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -22.295335201666806,
+  "CenterPositionLat": 166.45079771834077
+ },
+ {
+  "ID": 195646206,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -22.278822824435053,
+  "CenterPositionLat": 166.4508138947948
+ },
+ {
+  "ID": 195647244,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": -22.278112317675,
+  "CenterPositionLat": 166.451214964617
+ },
+ {
+  "ID": 203274671,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": -22.27731401593672,
+  "CenterPositionLat": 166.44499516540526
+ },
+ {
+  "ID": 204331350,
+  "Capacity": 470,
+  "Name": "Espace vert rue du Docteur Trubert",
+  "CenterPositionLon": -22.292823924311044,
+  "CenterPositionLat": 166.45309548935623
+ },
+ {
+  "ID": 206030266,
+  "Capacity": 289,
+  "Name": "Parc El Alamein",
+  "CenterPositionLon": -22.282245102542213,
+  "CenterPositionLat": 166.4461357143647
+ },
+ {
+  "ID": 206175954,
+  "Capacity": 221,
+  "Name": "Place de la Valbonne",
+  "CenterPositionLon": -22.27466217409006,
+  "CenterPositionLat": 166.44679255306065
+ },
+ {
+  "ID": 206188358,
+  "Capacity": 195,
+  "Name": "Place des gendarmes et militaires morts pour la France",
+  "CenterPositionLon": -22.273765794765918,
+  "CenterPositionLat": 166.44670991625563
+ },
+ {
+  "ID": 206422964,
+  "Capacity": 1359,
+  "Name": "espace vert",
+  "CenterPositionLon": -22.201694108540128,
+  "CenterPositionLat": 166.47056314796785
+ },
+ {
+  "ID": 207535256,
+  "Capacity": 12,
+  "Name": "Place Île de Lumière",
+  "CenterPositionLon": -22.2763206,
+  "CenterPositionLat": 166.4458137
+ },
+ {
+  "ID": 236931220,
+  "Capacity": 269,
+  "Name": "Parc du Bicentenaire",
+  "CenterPositionLon": -22.20915893345429,
+  "CenterPositionLat": 166.47391877006925
+ },
+ {
+  "ID": 366603329,
+  "Capacity": 3542,
+  "Name": "PARC",
+  "CenterPositionLon": -21.566777038767064,
+  "CenterPositionLat": 165.4897586749315
+ },
+ {
+  "ID": 413770534,
+  "Capacity": 823,
+  "Name": "Parc Jean-Louis Duron",
+  "CenterPositionLon": -22.227075919833585,
+  "CenterPositionLat": 166.43107446419577
+ },
+ {
+  "ID": 413773464,
+  "Capacity": 1613,
+  "Name": "Espace Vert de Kaméré",
+  "CenterPositionLon": -22.230069187548317,
+  "CenterPositionLat": 166.4297955454192
+ },
+ {
+  "ID": 413773465,
+  "Capacity": 2415,
+  "Name": "Espace Vert de Kaméré",
+  "CenterPositionLon": -22.22919233089349,
+  "CenterPositionLat": 166.4328315570469
+ },
+ {
+  "ID": 413776975,
+  "Capacity": 670,
+  "Name": "Espace vert de la chapelle de Logicoop",
+  "CenterPositionLon": -22.23533948502865,
+  "CenterPositionLat": 166.43388672874016
+ },
+ {
+  "ID": 414016254,
+  "Capacity": 3219,
+  "Name": "Parc Grand Chef Charles Attiti",
+  "CenterPositionLon": -22.23126180271989,
+  "CenterPositionLat": 166.42444481009096
+ },
+ {
+  "ID": 414032338,
+  "Capacity": 3724,
+  "Name": "Parc Antinéa KAWKA",
+  "CenterPositionLon": -22.230566689065565,
+  "CenterPositionLat": 166.4918406811382
+ },
+ {
+  "ID": 414328551,
+  "Capacity": 505,
+  "Name": "",
+  "CenterPositionLon": -22.238377735655938,
+  "CenterPositionLat": 166.49170115181607
+ },
+ {
+  "ID": 414357280,
+  "Capacity": 196,
+  "Name": "Parc Patrick Lecomte",
+  "CenterPositionLon": -22.23516108675205,
+  "CenterPositionLat": 166.48412758327638
+ },
+ {
+  "ID": 414570615,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": -22.225029505865884,
+  "CenterPositionLat": 166.50760562412108
+ },
+ {
+  "ID": 414868996,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": -22.24055679755927,
+  "CenterPositionLat": 166.50298653480726
+ },
+ {
+  "ID": 416813830,
+  "Capacity": 642,
+  "Name": "",
+  "CenterPositionLon": -22.193157958786657,
+  "CenterPositionLat": 166.44805654100114
+ },
+ {
+  "ID": 416880265,
+  "Capacity": 742,
+  "Name": "",
+  "CenterPositionLon": -22.19623444990371,
+  "CenterPositionLat": 166.45015426939665
+ },
+ {
+  "ID": 417134267,
+  "Capacity": 657,
+  "Name": "",
+  "CenterPositionLon": -22.218989643158743,
+  "CenterPositionLat": 166.47295738384446
+ },
+ {
+  "ID": 417957499,
+  "Capacity": 569,
+  "Name": "",
+  "CenterPositionLon": -22.2078547918251,
+  "CenterPositionLat": 166.4564230879816
+ },
+ {
+  "ID": 418251335,
+  "Capacity": 1257,
+  "Name": "",
+  "CenterPositionLon": -22.1993602958463,
+  "CenterPositionLat": 166.4537998110707
+ },
+ {
+  "ID": 418370884,
+  "Capacity": 551,
+  "Name": "",
+  "CenterPositionLon": -22.20532394173477,
+  "CenterPositionLat": 166.45624131154358
+ },
+ {
+  "ID": 418849038,
+  "Capacity": 917,
+  "Name": "",
+  "CenterPositionLon": -22.20065441039421,
+  "CenterPositionLat": 166.4582029363822
+ },
+ {
+  "ID": 419358790,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": -21.713759482902695,
+  "CenterPositionLat": 165.83001601997495
+ },
+ {
+  "ID": 422906519,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": -22.23100101802707,
+  "CenterPositionLat": 166.48137641725728
+ },
+ {
+  "ID": 422924021,
+  "Capacity": 373,
+  "Name": "Parc Moh Kasim",
+  "CenterPositionLon": -22.24377272688293,
+  "CenterPositionLat": 166.4789557640924
+ },
+ {
+  "ID": 423514033,
+  "Capacity": 4181,
+  "Name": "Parc de la Rivière Salée",
+  "CenterPositionLon": -22.234855550896143,
+  "CenterPositionLat": 166.46615245165626
+ },
+ {
+  "ID": 423530437,
+  "Capacity": 544,
+  "Name": "Espace vert de la maison de quartier de Rivière Salée",
+  "CenterPositionLon": -22.233852242837994,
+  "CenterPositionLat": 166.46799808921483
+ },
+ {
+  "ID": 424000761,
+  "Capacity": 926,
+  "Name": "Parc Christian Mercier",
+  "CenterPositionLon": -22.237443079180718,
+  "CenterPositionLat": 166.47078586443286
+ },
+ {
+  "ID": 424885058,
+  "Capacity": 267,
+  "Name": "Parc Marie Waheo",
+  "CenterPositionLon": -22.231617905798274,
+  "CenterPositionLat": 166.46029487046758
+ },
+ {
+  "ID": 425929429,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": -22.252970109278312,
+  "CenterPositionLat": 166.4570133541245
+ },
+ {
+  "ID": 425931250,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": -22.250840254225757,
+  "CenterPositionLat": 166.4551486963075
+ },
+ {
+  "ID": 426259002,
+  "Capacity": 347,
+  "Name": "Parc Guy Esparbes",
+  "CenterPositionLon": -22.25366394704513,
+  "CenterPositionLat": 166.46748921537036
+ },
+ {
+  "ID": 426259383,
+  "Capacity": 892,
+  "Name": "",
+  "CenterPositionLon": -22.254945853721438,
+  "CenterPositionLat": 166.46738916033928
+ },
+ {
+  "ID": 426503646,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": -22.26471063285151,
+  "CenterPositionLat": 166.4427378589489
+ },
+ {
+  "ID": 427476008,
+  "Capacity": 78,
+  "Name": "Parc Pierre Mariotti",
+  "CenterPositionLon": -22.253421543595763,
+  "CenterPositionLat": 166.4693733336518
+ },
+ {
+  "ID": 428793383,
+  "Capacity": 1063,
+  "Name": "Espace vert de la maison de quartier Artigue",
+  "CenterPositionLon": -22.256454822329246,
+  "CenterPositionLat": 166.46531289129672
+ },
+ {
+  "ID": 457414886,
+  "Capacity": 161,
+  "Name": "Aire du Gué de la Pourina",
+  "CenterPositionLon": -22.096234550000002,
+  "CenterPositionLat": 166.66933939999998
+ },
+ {
+  "ID": 457414887,
+  "Capacity": 3512,
+  "Name": "Aire de bon secours",
+  "CenterPositionLon": -22.14669043528747,
+  "CenterPositionLat": 166.70577606428324
+ },
+ {
+  "ID": 488647235,
+  "Capacity": 289,
+  "Name": "Esplanade du 22 Avril",
+  "CenterPositionLon": -22.168097425964696,
+  "CenterPositionLat": 166.45816637153698
+ },
+ {
+  "ID": 503316419,
+  "Capacity": 1251,
+  "Name": "Le Parc de Magenta",
+  "CenterPositionLon": -22.269957759579547,
+  "CenterPositionLat": 166.46586546371182
+ },
+ {
+  "ID": 542503010,
+  "Capacity": 200,
+  "Name": "Espace vert des Tennis du Ouen Toro",
+  "CenterPositionLon": -22.30809467351093,
+  "CenterPositionLat": 166.4512942956463
+ },
+ {
+  "ID": 542503416,
+  "Capacity": 1629,
+  "Name": "Parc ex-Aquarêve",
+  "CenterPositionLon": -22.310586175034878,
+  "CenterPositionLat": 166.45268459675077
+ },
+ {
+  "ID": 542505568,
+  "Capacity": 61811,
+  "Name": "Parc municipal naturel du Ouen Toro Cécil Audet et Albert Etuvé",
+  "CenterPositionLon": -22.307670295961216,
+  "CenterPositionLat": 166.45553251908478
+ },
+ {
+  "ID": 542507476,
+  "Capacity": 1839,
+  "Name": "Espace vert de la maison commune de Tuband",
+  "CenterPositionLon": -22.289501394234648,
+  "CenterPositionLat": 166.45308658517257
+ },
+ {
+  "ID": 542507797,
+  "Capacity": 1401,
+  "Name": "Espace vert de N'Géa",
+  "CenterPositionLon": -22.287389320098193,
+  "CenterPositionLat": 166.45693299232573
+ },
+ {
+  "ID": 542509397,
+  "Capacity": 1107,
+  "Name": "Espace vert Plaine de Sainte-Marie",
+  "CenterPositionLon": -22.28139126891781,
+  "CenterPositionLat": 166.45759318885155
+ },
+ {
+  "ID": 542509398,
+  "Capacity": 2169,
+  "Name": "Espace vert de la maison de quartier de la Vallée des Colons",
+  "CenterPositionLon": -22.279895133108408,
+  "CenterPositionLat": 166.45837258712572
+ },
+ {
+  "ID": 542509899,
+  "Capacity": 126,
+  "Name": "Espace vert du Théâtre de Poche",
+  "CenterPositionLon": -22.276856188821608,
+  "CenterPositionLat": 166.44865197943204
+ },
+ {
+  "ID": 542510148,
+  "Capacity": 444,
+  "Name": "Espace vert du marché municipal",
+  "CenterPositionLon": -22.274956241760275,
+  "CenterPositionLat": 166.44133287330382
+ },
+ {
+  "ID": 542510359,
+  "Capacity": 607,
+  "Name": "Espace vert de la garre maritime intérieure",
+  "CenterPositionLon": -22.27149429732766,
+  "CenterPositionLat": 166.43737511765227
+ },
+ {
+  "ID": 542511868,
+  "Capacity": 822,
+  "Name": "Espace vert de la maison de quartier de la Vallée du Tir",
+  "CenterPositionLon": -22.25777440071947,
+  "CenterPositionLat": 166.44761876751508
+ },
+ {
+  "ID": 544923456,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": -22.300879638099392,
+  "CenterPositionLat": 166.445720764781
+ },
+ {
+  "ID": 545128656,
+  "Capacity": 1648,
+  "Name": "Parc du fort Ouémo",
+  "CenterPositionLon": -22.27684808567457,
+  "CenterPositionLat": 166.47998504391396
+ },
+ {
+  "ID": 545160756,
+  "Capacity": 99,
+  "Name": "Park Albert David",
+  "CenterPositionLon": -22.273544380238093,
+  "CenterPositionLat": 166.46783009908248
+ },
+ {
+  "ID": 546689969,
+  "Capacity": 1261,
+  "Name": "Promenade du Général Simon",
+  "CenterPositionLon": -22.28771529025267,
+  "CenterPositionLat": 166.44362873643317
+ },
+ {
+  "ID": 546690008,
+  "Capacity": 183,
+  "Name": "",
+  "CenterPositionLon": -22.287393839392443,
+  "CenterPositionLat": 166.44475002541841
+ },
+ {
+  "ID": 546690010,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": -22.28748973257961,
+  "CenterPositionLat": 166.44477872750684
+ },
+ {
+  "ID": 546697779,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": -22.292157811760074,
+  "CenterPositionLat": 166.4467915961968
+ },
+ {
+  "ID": 547555486,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": -22.277373268490408,
+  "CenterPositionLat": 166.44274686643175
+ },
+ {
+  "ID": 547555493,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": -22.276110412136237,
+  "CenterPositionLat": 166.44270376824198
+ },
+ {
+  "ID": 547564982,
+  "Capacity": 37,
+  "Name": "Square Douarre",
+  "CenterPositionLon": -22.272489842331346,
+  "CenterPositionLat": 166.44405020040196
+ },
+ {
+  "ID": 548268615,
+  "Capacity": 5555,
+  "Name": "Promenade Pierre Vernier",
+  "CenterPositionLon": -22.296681431242003,
+  "CenterPositionLat": 166.45850991900292
+ },
+ {
+  "ID": 551517227,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": -22.276173954993666,
+  "CenterPositionLat": 166.4519061550546
+ },
+ {
+  "ID": 552239141,
+  "Capacity": 14023,
+  "Name": "Parc municipal naturel du Ouen Toro Cécil Audet et Albert Etuvé",
+  "CenterPositionLon": -22.305445038317195,
+  "CenterPositionLat": 166.45055337863448
+ },
+ {
+  "ID": 552509160,
+  "Capacity": 1301,
+  "Name": "Plage aérodrome de Magenta - Les hélices",
+  "CenterPositionLon": -22.26022424874635,
+  "CenterPositionLat": 166.47465264302852
+ },
+ {
+  "ID": 553894479,
+  "Capacity": 508,
+  "Name": "Espace vert - Notre Dame du Pacifique",
+  "CenterPositionLon": -22.26313295182582,
+  "CenterPositionLat": 166.44983859338524
+ },
+ {
+  "ID": 561149981,
+  "Capacity": 9207,
+  "Name": "Parc de la Maire Annexe",
+  "CenterPositionLon": -22.209476839802566,
+  "CenterPositionLat": 166.46684620853864
+ },
+ {
+  "ID": 585537284,
+  "Capacity": 178,
+  "Name": "Parc Carcopino 3000",
+  "CenterPositionLon": -22.28001906244411,
+  "CenterPositionLat": 166.44380819667217
+ },
+ {
+  "ID": 597136725,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": -22.27089684620539,
+  "CenterPositionLat": 166.46146267062
+ },
+ {
+  "ID": 597585413,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": -22.27861611313554,
+  "CenterPositionLat": 166.44859556747136
+ },
+ {
+  "ID": 630063972,
+  "Capacity": 847,
+  "Name": "Espace vert de la maison de quartier - cité Boston",
+  "CenterPositionLon": -22.240658880203284,
+  "CenterPositionLat": 166.458851619597
+ },
+ {
+  "ID": 630117049,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": -22.234272771479148,
+  "CenterPositionLat": 166.42939720545536
+ },
+ {
+  "ID": 630128689,
+  "Capacity": 161,
+  "Name": "Espace vert - Route des Trois Baies",
+  "CenterPositionLon": -22.2271945179646,
+  "CenterPositionLat": 166.4322872519839
+ },
+ {
+  "ID": 630378679,
+  "Capacity": 118,
+  "Name": "Parc Marconi",
+  "CenterPositionLon": -22.238950695960305,
+  "CenterPositionLat": 166.44043487639163
+ },
+ {
+  "ID": 630790115,
+  "Capacity": 1812,
+  "Name": "",
+  "CenterPositionLon": -22.26925497795716,
+  "CenterPositionLat": 166.44520636883362
+ },
+ {
+  "ID": 630842949,
+  "Capacity": 1385,
+  "Name": "",
+  "CenterPositionLon": -22.233653622007825,
+  "CenterPositionLat": 166.43797723249386
+ },
+ {
+  "ID": 634025225,
+  "Capacity": 685,
+  "Name": "Espace Ducos",
+  "CenterPositionLon": -22.245174425548917,
+  "CenterPositionLat": 166.44202279672484
+ },
+ {
+  "ID": 634107328,
+  "Capacity": 1316,
+  "Name": "",
+  "CenterPositionLon": -22.227765471157195,
+  "CenterPositionLat": 166.4288296516621
+ },
+ {
+  "ID": 642015094,
+  "Capacity": 956,
+  "Name": "Parc de Robinson",
+  "CenterPositionLon": -22.216446619591327,
+  "CenterPositionLat": 166.5121233972091
+ },
+ {
+  "ID": 643575391,
+  "Capacity": 1194,
+  "Name": "",
+  "CenterPositionLon": -22.208516021052688,
+  "CenterPositionLat": 166.4621840441321
+ },
+ {
+  "ID": 658931723,
+  "Capacity": 5956,
+  "Name": "",
+  "CenterPositionLon": -22.28217566596121,
+  "CenterPositionLat": 166.4600497536491
+ },
+ {
+  "ID": 675342378,
+  "Capacity": 1602,
+  "Name": "Parc de Yahoué",
+  "CenterPositionLon": -22.210490208106407,
+  "CenterPositionLat": 166.48731362782837
+ },
+ {
+  "ID": 675761615,
+  "Capacity": 995,
+  "Name": "",
+  "CenterPositionLon": -21.544246641458088,
+  "CenterPositionLat": 167.88263431800476
+ },
+ {
+  "ID": 682602943,
+  "Capacity": 602,
+  "Name": "",
+  "CenterPositionLon": -22.278641509212992,
+  "CenterPositionLat": 166.63957719790935
+ },
+ {
+  "ID": 699550650,
+  "Capacity": 478,
+  "Name": "Parc Paul Bichon",
+  "CenterPositionLon": -22.263121643658383,
+  "CenterPositionLat": 166.44743841896178
+ },
+ {
+  "ID": 704701294,
+  "Capacity": 1243,
+  "Name": "",
+  "CenterPositionLon": -22.124232972371058,
+  "CenterPositionLat": 166.3707160111702
+ },
+ {
+  "ID": 717449252,
+  "Capacity": 1851,
+  "Name": "Parc Leko",
+  "CenterPositionLon": -22.2707863864116,
+  "CenterPositionLat": 166.5650689198127
+ },
+ {
+  "ID": 718250836,
+  "Capacity": 5221,
+  "Name": "Parc de la Corniche",
+  "CenterPositionLon": -22.28983269714506,
+  "CenterPositionLat": 166.60941146115897
+ },
+ {
+  "ID": 721091843,
+  "Capacity": 427,
+  "Name": "Parc du Général Patch",
+  "CenterPositionLon": -22.265581054088944,
+  "CenterPositionLat": 166.4407611293445
+ },
+ {
+  "ID": 721768820,
+  "Capacity": 25914,
+  "Name": "Parc du Mont-Goumba",
+  "CenterPositionLon": -22.241086440135756,
+  "CenterPositionLat": 166.5869637613163
+ },
+ {
+  "ID": 721799037,
+  "Capacity": 1283,
+  "Name": "Espace vert de Montravel",
+  "CenterPositionLon": -22.250786673846775,
+  "CenterPositionLat": 166.45366558637645
+ },
+ {
+  "ID": 722063541,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": -22.234203245652008,
+  "CenterPositionLat": 166.4693051572415
+ },
+ {
+  "ID": 722063551,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": -22.2340905,
+  "CenterPositionLat": 166.4702585
+ },
+ {
+  "ID": 722063558,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": -22.233912286617922,
+  "CenterPositionLat": 166.47122928727688
+ },
+ {
+  "ID": 724179925,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": -22.232535792006164,
+  "CenterPositionLat": 166.46982746849324
+ },
+ {
+  "ID": 724809117,
+  "Capacity": 34,
+  "Name": "Parking Nakamal Cabanon",
+  "CenterPositionLon": -22.280298871110745,
+  "CenterPositionLat": 166.44387524708438
+ },
+ {
+  "ID": 795505894,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": -22.280643169864398,
+  "CenterPositionLat": 166.46827517988967
+ }
+]

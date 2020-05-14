@@ -1,0 +1,4104 @@
+[
+ {
+  "ID": 147255491,
+  "Capacity": 514,
+  "Name": "Makoanyane Square",
+  "CenterPositionLon": -29.313789579022018,
+  "CenterPositionLat": 27.483095888303165
+ },
+ {
+  "ID": 147255688,
+  "Capacity": 6541,
+  "Name": "Maseru Central Park",
+  "CenterPositionLon": -29.314012981403494,
+  "CenterPositionLat": 27.49002592847218
+ },
+ {
+  "ID": 266701510,
+  "Capacity": 650,
+  "Name": "Qoqolosing Park",
+  "CenterPositionLon": -28.872321020753436,
+  "CenterPositionLat": 28.048585533713776
+ },
+ {
+  "ID": 294191794,
+  "Capacity": 3719,
+  "Name": "",
+  "CenterPositionLon": -29.345783838389654,
+  "CenterPositionLat": 27.662320142094988
+ },
+ {
+  "ID": 294342902,
+  "Capacity": 693,
+  "Name": "",
+  "CenterPositionLon": -29.12701404242117,
+  "CenterPositionLat": 27.75042849125252
+ },
+ {
+  "ID": 294343200,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": -29.130206813813356,
+  "CenterPositionLat": 27.74377020709694
+ },
+ {
+  "ID": 294343572,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": -29.131940341113662,
+  "CenterPositionLat": 27.745468669507915
+ },
+ {
+  "ID": 294344850,
+  "Capacity": 758,
+  "Name": "Sefika sa Moshoeshoe Park",
+  "CenterPositionLon": -29.315701501260342,
+  "CenterPositionLat": 27.481634687419646
+ },
+ {
+  "ID": 294345024,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": -29.132213318298042,
+  "CenterPositionLat": 27.748023651158338
+ },
+ {
+  "ID": 294346259,
+  "Capacity": 585,
+  "Name": "",
+  "CenterPositionLon": -29.13143778671545,
+  "CenterPositionLat": 27.749834720055212
+ },
+ {
+  "ID": 294346791,
+  "Capacity": 636,
+  "Name": "",
+  "CenterPositionLon": -29.124118849333183,
+  "CenterPositionLat": 27.742469078595864
+ },
+ {
+  "ID": 294347020,
+  "Capacity": 582,
+  "Name": "",
+  "CenterPositionLon": -29.124524083712846,
+  "CenterPositionLat": 27.740810249313164
+ },
+ {
+  "ID": 294347820,
+  "Capacity": 716,
+  "Name": "",
+  "CenterPositionLon": -29.124540903853124,
+  "CenterPositionLat": 27.750370146792832
+ },
+ {
+  "ID": 294348570,
+  "Capacity": 386,
+  "Name": "",
+  "CenterPositionLon": -29.129221079810698,
+  "CenterPositionLat": 27.7505506291275
+ },
+ {
+  "ID": 294348571,
+  "Capacity": 572,
+  "Name": "",
+  "CenterPositionLon": -29.13200613114541,
+  "CenterPositionLat": 27.741807201184066
+ },
+ {
+  "ID": 319000565,
+  "Capacity": 117,
+  "Name": "ministry of forestry plantation",
+  "CenterPositionLon": -29.281194,
+  "CenterPositionLat": 29.0774065
+ },
+ {
+  "ID": 319018177,
+  "Capacity": 759,
+  "Name": "",
+  "CenterPositionLon": -29.288104305805398,
+  "CenterPositionLat": 29.06844282488136
+ },
+ {
+  "ID": 322479662,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -29.313133870212152,
+  "CenterPositionLat": 27.531680386705883
+ },
+ {
+  "ID": 323266680,
+  "Capacity": 1195,
+  "Name": "",
+  "CenterPositionLon": -29.10231252012125,
+  "CenterPositionLat": 27.964635903368148
+ },
+ {
+  "ID": 325202020,
+  "Capacity": 12734,
+  "Name": "Malinaka Leisure Park",
+  "CenterPositionLon": -28.858948526658544,
+  "CenterPositionLat": 28.058420224910474
+ },
+ {
+  "ID": 325214263,
+  "Capacity": 3511,
+  "Name": "botanic garden",
+  "CenterPositionLon": -29.038237395816026,
+  "CenterPositionLat": 28.24825551705765
+ },
+ {
+  "ID": 327964468,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": -28.8852112,
+  "CenterPositionLat": 27.91449555
+ },
+ {
+  "ID": 331007116,
+  "Capacity": 475,
+  "Name": "Monument Park",
+  "CenterPositionLon": -29.304833811520286,
+  "CenterPositionLat": 27.466954460926274
+ },
+ {
+  "ID": 331053940,
+  "Capacity": 33337,
+  "Name": "",
+  "CenterPositionLon": -30.20068354697385,
+  "CenterPositionLat": 27.868610388552174
+ },
+ {
+  "ID": 332073482,
+  "Capacity": 43,
+  "Name": "Makoanyane Park",
+  "CenterPositionLon": -29.152762767630875,
+  "CenterPositionLat": 27.743015212697895
+ },
+ {
+  "ID": 332073486,
+  "Capacity": 431,
+  "Name": "Taoana Square",
+  "CenterPositionLon": -29.145073355864966,
+  "CenterPositionLat": 27.740126021909237
+ },
+ {
+  "ID": 334472692,
+  "Capacity": 659,
+  "Name": "holim'a eona Park",
+  "CenterPositionLon": -29.402629590468695,
+  "CenterPositionLat": 27.55979169226341
+ },
+ {
+  "ID": 335232164,
+  "Capacity": 12849,
+  "Name": "",
+  "CenterPositionLon": -29.190784325824556,
+  "CenterPositionLat": 27.613883316685193
+ },
+ {
+  "ID": 343695221,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": -29.39202295449239,
+  "CenterPositionLat": 27.5378252648679
+ },
+ {
+  "ID": 362898680,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": -29.04186795625748,
+  "CenterPositionLat": 28.24384611685786
+ },
+ {
+  "ID": 362899140,
+  "Capacity": 870,
+  "Name": "swamp",
+  "CenterPositionLon": -29.03382454671693,
+  "CenterPositionLat": 28.2547898851469
+ },
+ {
+  "ID": 362901024,
+  "Capacity": 609,
+  "Name": "",
+  "CenterPositionLon": -29.034379413104123,
+  "CenterPositionLat": 28.257213969266132
+ },
+ {
+  "ID": 362901563,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": -29.045617417518248,
+  "CenterPositionLat": 28.33548417455129
+ },
+ {
+  "ID": 362915390,
+  "Capacity": 1593,
+  "Name": "",
+  "CenterPositionLon": -29.040274143712278,
+  "CenterPositionLat": 28.316499897767805
+ },
+ {
+  "ID": 362919758,
+  "Capacity": 3947,
+  "Name": "woodland",
+  "CenterPositionLon": -29.03940168612793,
+  "CenterPositionLat": 28.30283338694094
+ },
+ {
+  "ID": 362966094,
+  "Capacity": 570,
+  "Name": "shrub",
+  "CenterPositionLon": -28.98096930330815,
+  "CenterPositionLat": 28.3080914859686
+ },
+ {
+  "ID": 362969266,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": -28.977454811207377,
+  "CenterPositionLat": 28.28293737257088
+ },
+ {
+  "ID": 362993734,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": -28.839227492966426,
+  "CenterPositionLat": 28.0689263180489
+ },
+ {
+  "ID": 362993735,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": -28.839450725256114,
+  "CenterPositionLat": 28.068671318022385
+ },
+ {
+  "ID": 363015771,
+  "Capacity": 212,
+  "Name": "",
+  "CenterPositionLon": -28.836983433961183,
+  "CenterPositionLat": 28.067504186550185
+ },
+ {
+  "ID": 363017173,
+  "Capacity": 375,
+  "Name": "",
+  "CenterPositionLon": -28.837754187492962,
+  "CenterPositionLat": 28.065463289046523
+ },
+ {
+  "ID": 363020696,
+  "Capacity": 489,
+  "Name": "",
+  "CenterPositionLon": -29.071101366892574,
+  "CenterPositionLat": 28.253001183615023
+ },
+ {
+  "ID": 363022022,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": -28.835725262202857,
+  "CenterPositionLat": 28.070000771909562
+ },
+ {
+  "ID": 363093517,
+  "Capacity": 695,
+  "Name": "",
+  "CenterPositionLon": -29.036195609968914,
+  "CenterPositionLat": 28.28901359205545
+ },
+ {
+  "ID": 363093924,
+  "Capacity": 1239,
+  "Name": "",
+  "CenterPositionLon": -29.034241196209756,
+  "CenterPositionLat": 28.29445838940308
+ },
+ {
+  "ID": 363118461,
+  "Capacity": 11433,
+  "Name": "",
+  "CenterPositionLon": -29.787879114932853,
+  "CenterPositionLat": 27.375689436539883
+ },
+ {
+  "ID": 363153784,
+  "Capacity": 656,
+  "Name": "",
+  "CenterPositionLon": -28.792812776015815,
+  "CenterPositionLat": 28.16752620585899
+ },
+ {
+  "ID": 364252047,
+  "Capacity": 120,
+  "Name": "",
+  "CenterPositionLon": -29.3577212807763,
+  "CenterPositionLat": 27.59450344954912
+ },
+ {
+  "ID": 364941059,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": -28.832075085031313,
+  "CenterPositionLat": 28.070735126406408
+ },
+ {
+  "ID": 365670955,
+  "Capacity": 828,
+  "Name": "",
+  "CenterPositionLon": -29.311683908871068,
+  "CenterPositionLat": 27.531802125060416
+ },
+ {
+  "ID": 365704569,
+  "Capacity": 3351,
+  "Name": "",
+  "CenterPositionLon": -29.31609857925658,
+  "CenterPositionLat": 27.482463921233943
+ },
+ {
+  "ID": 365968168,
+  "Capacity": 425,
+  "Name": "",
+  "CenterPositionLon": -28.95568199475844,
+  "CenterPositionLat": 28.215597522988087
+ },
+ {
+  "ID": 366353184,
+  "Capacity": 465,
+  "Name": "",
+  "CenterPositionLon": -28.9761816185604,
+  "CenterPositionLat": 28.30326795385237
+ },
+ {
+  "ID": 366469396,
+  "Capacity": 10100,
+  "Name": "Maqhekung",
+  "CenterPositionLon": -29.29835257725999,
+  "CenterPositionLat": 27.519066025449163
+ },
+ {
+  "ID": 366649615,
+  "Capacity": 634,
+  "Name": "traditional hedge",
+  "CenterPositionLon": -28.789844002817016,
+  "CenterPositionLat": 28.190911555582392
+ },
+ {
+  "ID": 366651665,
+  "Capacity": 695,
+  "Name": "traditional hedge",
+  "CenterPositionLon": -28.788533382755677,
+  "CenterPositionLat": 28.191383355889528
+ },
+ {
+  "ID": 366853368,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": -29.181210640069494,
+  "CenterPositionLat": 28.512432322421144
+ },
+ {
+  "ID": 367460556,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": -29.081597336218113,
+  "CenterPositionLat": 27.80184249420704
+ },
+ {
+  "ID": 367465425,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": -29.081015308959945,
+  "CenterPositionLat": 27.801297242756306
+ },
+ {
+  "ID": 367465426,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -29.080849022757214,
+  "CenterPositionLat": 27.80159568166924
+ },
+ {
+  "ID": 367465431,
+  "Capacity": 191,
+  "Name": "",
+  "CenterPositionLon": -29.080531572083117,
+  "CenterPositionLat": 27.803072849882472
+ },
+ {
+  "ID": 367583763,
+  "Capacity": 465,
+  "Name": "shrubland",
+  "CenterPositionLon": -28.89418138950951,
+  "CenterPositionLat": 28.193853992587133
+ },
+ {
+  "ID": 367683006,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": -28.754177898985642,
+  "CenterPositionLat": 28.13191689929766
+ },
+ {
+  "ID": 367815176,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": -28.77441566624485,
+  "CenterPositionLat": 28.329902170924363
+ },
+ {
+  "ID": 368148226,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -28.77227013183715,
+  "CenterPositionLat": 28.344632007996495
+ },
+ {
+  "ID": 369253577,
+  "Capacity": 6671,
+  "Name": "",
+  "CenterPositionLon": -28.61753177572334,
+  "CenterPositionLat": 28.617090846131482
+ },
+ {
+  "ID": 369866017,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": -28.617219656316422,
+  "CenterPositionLat": 28.46535597268946
+ },
+ {
+  "ID": 369866022,
+  "Capacity": 411,
+  "Name": "",
+  "CenterPositionLon": -28.61703800481223,
+  "CenterPositionLat": 28.464238140471654
+ },
+ {
+  "ID": 369867456,
+  "Capacity": 581,
+  "Name": "",
+  "CenterPositionLon": -28.620687913138333,
+  "CenterPositionLat": 28.461857163530247
+ },
+ {
+  "ID": 369874247,
+  "Capacity": 681,
+  "Name": "",
+  "CenterPositionLon": -28.623050824387906,
+  "CenterPositionLat": 28.467300836399485
+ },
+ {
+  "ID": 369888861,
+  "Capacity": 656,
+  "Name": "",
+  "CenterPositionLon": -28.613893802753218,
+  "CenterPositionLat": 28.475124383298926
+ },
+ {
+  "ID": 370149081,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": -28.63478221054174,
+  "CenterPositionLat": 28.45295464630411
+ },
+ {
+  "ID": 370556148,
+  "Capacity": 250,
+  "Name": "",
+  "CenterPositionLon": -28.767253848166657,
+  "CenterPositionLat": 28.43989366629396
+ },
+ {
+  "ID": 371182578,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": -29.853785625686083,
+  "CenterPositionLat": 28.001872473677405
+ },
+ {
+  "ID": 376405560,
+  "Capacity": 884,
+  "Name": "",
+  "CenterPositionLon": -28.89060477031076,
+  "CenterPositionLat": 28.32166799769548
+ },
+ {
+  "ID": 376411044,
+  "Capacity": 1195,
+  "Name": "",
+  "CenterPositionLon": -28.85484130868042,
+  "CenterPositionLat": 28.27162200388951
+ },
+ {
+  "ID": 376411069,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": -28.856255227072563,
+  "CenterPositionLat": 28.271200929875146
+ },
+ {
+  "ID": 376422534,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": -28.856300861093835,
+  "CenterPositionLat": 28.27161048556365
+ },
+ {
+  "ID": 376422535,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": -28.85637136016712,
+  "CenterPositionLat": 28.27221738299829
+ },
+ {
+  "ID": 378188047,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": -28.75817146093191,
+  "CenterPositionLat": 28.500305978876998
+ },
+ {
+  "ID": 378369365,
+  "Capacity": 181,
+  "Name": "",
+  "CenterPositionLon": -28.776999440509723,
+  "CenterPositionLat": 28.338431705813203
+ },
+ {
+  "ID": 378636422,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": -28.753399749494683,
+  "CenterPositionLat": 28.13678021114407
+ },
+ {
+  "ID": 378636862,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": -28.744371520724126,
+  "CenterPositionLat": 28.23982752496731
+ },
+ {
+  "ID": 378636969,
+  "Capacity": 250,
+  "Name": "",
+  "CenterPositionLon": -29.285338386643918,
+  "CenterPositionLat": 29.05556391787318
+ },
+ {
+  "ID": 378636970,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": -29.285073024204358,
+  "CenterPositionLat": 29.055737057929363
+ },
+ {
+  "ID": 378637006,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": -29.28539843805015,
+  "CenterPositionLat": 29.056144552006025
+ },
+ {
+  "ID": 378638692,
+  "Capacity": 256,
+  "Name": "",
+  "CenterPositionLon": -28.751323750962296,
+  "CenterPositionLat": 28.136959990324247
+ },
+ {
+  "ID": 378642202,
+  "Capacity": 35,
+  "Name": "small forest",
+  "CenterPositionLon": -29.280329106940957,
+  "CenterPositionLat": 29.04803410071618
+ },
+ {
+  "ID": 378643138,
+  "Capacity": 279,
+  "Name": "",
+  "CenterPositionLon": -28.869141385690178,
+  "CenterPositionLat": 28.066970036543562
+ },
+ {
+  "ID": 379554211,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -28.797883176362944,
+  "CenterPositionLat": 28.193287893835613
+ },
+ {
+  "ID": 379555326,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": -28.765575995729684,
+  "CenterPositionLat": 28.201107203469885
+ },
+ {
+  "ID": 379555583,
+  "Capacity": 2216,
+  "Name": "",
+  "CenterPositionLon": -28.835877023802297,
+  "CenterPositionLat": 28.200480809931435
+ },
+ {
+  "ID": 379556189,
+  "Capacity": 2535,
+  "Name": "",
+  "CenterPositionLon": -28.82718513384701,
+  "CenterPositionLat": 28.24722048922189
+ },
+ {
+  "ID": 379556193,
+  "Capacity": 2296,
+  "Name": "",
+  "CenterPositionLon": -28.82456314234665,
+  "CenterPositionLat": 28.248833784729708
+ },
+ {
+  "ID": 379556195,
+  "Capacity": 1878,
+  "Name": "",
+  "CenterPositionLon": -28.844505789828077,
+  "CenterPositionLat": 28.245086540326096
+ },
+ {
+  "ID": 379556196,
+  "Capacity": 1134,
+  "Name": "",
+  "CenterPositionLon": -28.842578826797457,
+  "CenterPositionLat": 28.246803231821374
+ },
+ {
+  "ID": 379556197,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": -28.84222038937695,
+  "CenterPositionLat": 28.246209644345353
+ },
+ {
+  "ID": 379556198,
+  "Capacity": 1118,
+  "Name": "",
+  "CenterPositionLon": -28.83922813397817,
+  "CenterPositionLat": 28.248837672215906
+ },
+ {
+  "ID": 379558673,
+  "Capacity": 360,
+  "Name": "",
+  "CenterPositionLon": -29.304801057002553,
+  "CenterPositionLat": 29.038850025005516
+ },
+ {
+  "ID": 379558675,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": -29.2983385400312,
+  "CenterPositionLat": 29.037123449574548
+ },
+ {
+  "ID": 379561105,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": -29.29934263770064,
+  "CenterPositionLat": 29.0603245655876
+ },
+ {
+  "ID": 379561108,
+  "Capacity": 343,
+  "Name": "",
+  "CenterPositionLon": -29.298402593075718,
+  "CenterPositionLat": 29.060928783711322
+ },
+ {
+  "ID": 379561110,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": -29.29840868688153,
+  "CenterPositionLat": 29.060347810735173
+ },
+ {
+  "ID": 379579099,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": -29.286127696477497,
+  "CenterPositionLat": 29.05743832541143
+ },
+ {
+  "ID": 380050993,
+  "Capacity": 1762,
+  "Name": "",
+  "CenterPositionLon": -28.79070302066487,
+  "CenterPositionLat": 28.19832946553702
+ },
+ {
+  "ID": 380052444,
+  "Capacity": 1914,
+  "Name": "woodland",
+  "CenterPositionLon": -28.72372059369418,
+  "CenterPositionLat": 28.21361034654091
+ },
+ {
+  "ID": 380052544,
+  "Capacity": 397,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.815068619581027,
+  "CenterPositionLat": 28.238390650655578
+ },
+ {
+  "ID": 380052545,
+  "Capacity": 114,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.814479765143762,
+  "CenterPositionLat": 28.23928148704589
+ },
+ {
+  "ID": 380056771,
+  "Capacity": 481,
+  "Name": "scrob land",
+  "CenterPositionLon": -29.29836883997177,
+  "CenterPositionLat": 29.02954066761763
+ },
+ {
+  "ID": 380057049,
+  "Capacity": 260,
+  "Name": "scrub lands",
+  "CenterPositionLon": -29.2985203291486,
+  "CenterPositionLat": 29.029099203592512
+ },
+ {
+  "ID": 380058561,
+  "Capacity": 114,
+  "Name": "woodland and scrub",
+  "CenterPositionLon": -28.79412182404175,
+  "CenterPositionLat": 28.175891275189134
+ },
+ {
+  "ID": 380780110,
+  "Capacity": 3194,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.788602541910482,
+  "CenterPositionLat": 28.205474871278764
+ },
+ {
+  "ID": 380780401,
+  "Capacity": 984,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.79054836162064,
+  "CenterPositionLat": 28.205576407415748
+ },
+ {
+  "ID": 380782798,
+  "Capacity": 2482,
+  "Name": "",
+  "CenterPositionLon": -29.287436687752443,
+  "CenterPositionLat": 29.066683831230495
+ },
+ {
+  "ID": 380782814,
+  "Capacity": 1519,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.758572721494897,
+  "CenterPositionLat": 28.141104390475512
+ },
+ {
+  "ID": 381443480,
+  "Capacity": 36347,
+  "Name": "",
+  "CenterPositionLon": -28.732127411964868,
+  "CenterPositionLat": 28.183365168630065
+ },
+ {
+  "ID": 381444068,
+  "Capacity": 740,
+  "Name": "",
+  "CenterPositionLon": -28.738636460429234,
+  "CenterPositionLat": 28.18333361095857
+ },
+ {
+  "ID": 381444514,
+  "Capacity": 1845,
+  "Name": "",
+  "CenterPositionLon": -28.79533297793454,
+  "CenterPositionLat": 28.16148007221798
+ },
+ {
+  "ID": 381445085,
+  "Capacity": 91,
+  "Name": "woodland",
+  "CenterPositionLon": -28.887760092815483,
+  "CenterPositionLat": 28.006465906330625
+ },
+ {
+  "ID": 381445449,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": -29.511778690947374,
+  "CenterPositionLat": 28.60695505480589
+ },
+ {
+  "ID": 381445455,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": -28.865071847360003,
+  "CenterPositionLat": 28.070374209154416
+ },
+ {
+  "ID": 381445457,
+  "Capacity": 2196,
+  "Name": "",
+  "CenterPositionLon": -28.78895275679096,
+  "CenterPositionLat": 28.20787369532454
+ },
+ {
+  "ID": 381446918,
+  "Capacity": 2166,
+  "Name": "",
+  "CenterPositionLon": -28.74447567799162,
+  "CenterPositionLat": 28.20027276343763
+ },
+ {
+  "ID": 381446938,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -28.745628689488893,
+  "CenterPositionLat": 28.201411411974597
+ },
+ {
+  "ID": 381446940,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": -28.746111840797447,
+  "CenterPositionLat": 28.2007463098911
+ },
+ {
+  "ID": 381446943,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": -28.747032301271666,
+  "CenterPositionLat": 28.200784828163677
+ },
+ {
+  "ID": 381446946,
+  "Capacity": 243,
+  "Name": "",
+  "CenterPositionLon": -28.747783839963994,
+  "CenterPositionLat": 28.199820052610654
+ },
+ {
+  "ID": 381447401,
+  "Capacity": 378,
+  "Name": "",
+  "CenterPositionLon": -28.752442232653248,
+  "CenterPositionLat": 28.2035550989839
+ },
+ {
+  "ID": 381447402,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": -28.751954414218428,
+  "CenterPositionLat": 28.202802686966226
+ },
+ {
+  "ID": 381447734,
+  "Capacity": 387,
+  "Name": "",
+  "CenterPositionLon": -28.75041721774266,
+  "CenterPositionLat": 28.201204894701647
+ },
+ {
+  "ID": 381448041,
+  "Capacity": 246,
+  "Name": "",
+  "CenterPositionLon": -28.746540947299533,
+  "CenterPositionLat": 28.19850361335671
+ },
+ {
+  "ID": 382264963,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": -29.304033530744412,
+  "CenterPositionLat": 29.029621063170282
+ },
+ {
+  "ID": 382269121,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": -29.302460667375396,
+  "CenterPositionLat": 29.028892413847334
+ },
+ {
+  "ID": 382474704,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": -28.749073508064324,
+  "CenterPositionLat": 28.198433599941815
+ },
+ {
+  "ID": 382474706,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": -28.748528861734915,
+  "CenterPositionLat": 28.198358205664405
+ },
+ {
+  "ID": 383043337,
+  "Capacity": 2678,
+  "Name": "",
+  "CenterPositionLon": -28.867888681502972,
+  "CenterPositionLat": 28.054585469170842
+ },
+ {
+  "ID": 383043681,
+  "Capacity": 2035,
+  "Name": "shrubary",
+  "CenterPositionLon": -29.511219064463614,
+  "CenterPositionLat": 28.596611021480534
+ },
+ {
+  "ID": 383045090,
+  "Capacity": 233,
+  "Name": "woodland and scrub",
+  "CenterPositionLon": -28.782251602238006,
+  "CenterPositionLat": 28.17271197894104
+ },
+ {
+  "ID": 383045091,
+  "Capacity": 316,
+  "Name": "woodland and scrub",
+  "CenterPositionLon": -28.781338163719976,
+  "CenterPositionLat": 28.174232068475586
+ },
+ {
+  "ID": 383045092,
+  "Capacity": 1410,
+  "Name": "woodland",
+  "CenterPositionLon": -28.78026063929539,
+  "CenterPositionLat": 28.175957081093298
+ },
+ {
+  "ID": 383045443,
+  "Capacity": 537,
+  "Name": "shrubary",
+  "CenterPositionLon": -28.77991708184402,
+  "CenterPositionLat": 28.18145852087604
+ },
+ {
+  "ID": 383045444,
+  "Capacity": 300,
+  "Name": "",
+  "CenterPositionLon": -28.779963668006666,
+  "CenterPositionLat": 28.184008001583347
+ },
+ {
+  "ID": 383049976,
+  "Capacity": 2387,
+  "Name": "",
+  "CenterPositionLon": -28.89868017554923,
+  "CenterPositionLat": 28.201786124285036
+ },
+ {
+  "ID": 383050316,
+  "Capacity": 795,
+  "Name": "",
+  "CenterPositionLon": -28.897348999409893,
+  "CenterPositionLat": 28.201776297562795
+ },
+ {
+  "ID": 383050443,
+  "Capacity": 923,
+  "Name": "",
+  "CenterPositionLon": -28.897996813460015,
+  "CenterPositionLat": 28.20303979588992
+ },
+ {
+  "ID": 383331063,
+  "Capacity": 660,
+  "Name": "woodland",
+  "CenterPositionLon": -28.88938244486212,
+  "CenterPositionLat": 27.998159680031133
+ },
+ {
+  "ID": 383544725,
+  "Capacity": 492,
+  "Name": "woodland",
+  "CenterPositionLon": -28.897437401864543,
+  "CenterPositionLat": 28.021963166228335
+ },
+ {
+  "ID": 384140998,
+  "Capacity": 254,
+  "Name": "",
+  "CenterPositionLon": -28.759004879138125,
+  "CenterPositionLat": 28.247354830303465
+ },
+ {
+  "ID": 384284293,
+  "Capacity": 1224,
+  "Name": "",
+  "CenterPositionLon": -28.911560293890737,
+  "CenterPositionLat": 28.04495750203282
+ },
+ {
+  "ID": 384284841,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": -28.882507468018268,
+  "CenterPositionLat": 28.045892222253887
+ },
+ {
+  "ID": 384284870,
+  "Capacity": 15639,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.838751490461455,
+  "CenterPositionLat": 28.282434145519723
+ },
+ {
+  "ID": 384285425,
+  "Capacity": 598,
+  "Name": "",
+  "CenterPositionLon": -28.880931341116447,
+  "CenterPositionLat": 28.104203171513333
+ },
+ {
+  "ID": 384285622,
+  "Capacity": 501,
+  "Name": "",
+  "CenterPositionLon": -28.88249871022126,
+  "CenterPositionLat": 28.110956148903746
+ },
+ {
+  "ID": 384285751,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": -28.88132879986266,
+  "CenterPositionLat": 28.107805110978067
+ },
+ {
+  "ID": 384285916,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": -28.88167407457303,
+  "CenterPositionLat": 28.107914489249655
+ },
+ {
+  "ID": 384288387,
+  "Capacity": 1345,
+  "Name": "",
+  "CenterPositionLon": -28.829511707605462,
+  "CenterPositionLat": 28.095612661276505
+ },
+ {
+  "ID": 384288796,
+  "Capacity": 9219,
+  "Name": "Woodland",
+  "CenterPositionLon": -28.837164397621212,
+  "CenterPositionLat": 28.287814187048454
+ },
+ {
+  "ID": 384288937,
+  "Capacity": 400,
+  "Name": "",
+  "CenterPositionLon": -28.81848257116964,
+  "CenterPositionLat": 28.100413464142115
+ },
+ {
+  "ID": 384288938,
+  "Capacity": 570,
+  "Name": "",
+  "CenterPositionLon": -28.820871998279195,
+  "CenterPositionLat": 28.122611508985955
+ },
+ {
+  "ID": 384289093,
+  "Capacity": 2049,
+  "Name": "",
+  "CenterPositionLon": -28.788777306795737,
+  "CenterPositionLat": 28.12070095341884
+ },
+ {
+  "ID": 384289190,
+  "Capacity": 1057,
+  "Name": "",
+  "CenterPositionLon": -28.78594040038415,
+  "CenterPositionLat": 28.12499708047033
+ },
+ {
+  "ID": 384290214,
+  "Capacity": 785,
+  "Name": "",
+  "CenterPositionLon": -28.764410129178376,
+  "CenterPositionLat": 28.134529393011512
+ },
+ {
+  "ID": 384292062,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": -28.825090613266934,
+  "CenterPositionLat": 28.08015297113905
+ },
+ {
+  "ID": 384292632,
+  "Capacity": 100,
+  "Name": "woodland",
+  "CenterPositionLon": -28.889226012778796,
+  "CenterPositionLat": 28.010409868708457
+ },
+ {
+  "ID": 384294873,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": -29.58631980968764,
+  "CenterPositionLat": 28.249232134738914
+ },
+ {
+  "ID": 384295470,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": -28.741769859671056,
+  "CenterPositionLat": 28.199144789540412
+ },
+ {
+  "ID": 384296571,
+  "Capacity": 1052,
+  "Name": "",
+  "CenterPositionLon": -28.885533162349773,
+  "CenterPositionLat": 27.996758458939283
+ },
+ {
+  "ID": 384296587,
+  "Capacity": 204,
+  "Name": "",
+  "CenterPositionLon": -28.71620102385841,
+  "CenterPositionLat": 28.224300317300127
+ },
+ {
+  "ID": 384301484,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": -28.89567391850359,
+  "CenterPositionLat": 27.993476178583425
+ },
+ {
+  "ID": 384305282,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": -28.734710448393578,
+  "CenterPositionLat": 28.209843471178793
+ },
+ {
+  "ID": 384308454,
+  "Capacity": 239,
+  "Name": "",
+  "CenterPositionLon": -28.73244056769409,
+  "CenterPositionLat": 28.198137739782506
+ },
+ {
+  "ID": 384312073,
+  "Capacity": 2138,
+  "Name": "woodland",
+  "CenterPositionLon": -28.919165936613247,
+  "CenterPositionLat": 28.110316344025694
+ },
+ {
+  "ID": 384312299,
+  "Capacity": 928,
+  "Name": "woodlands",
+  "CenterPositionLon": -28.920393056747397,
+  "CenterPositionLat": 28.111777528696308
+ },
+ {
+  "ID": 384312311,
+  "Capacity": 239,
+  "Name": "woodland",
+  "CenterPositionLon": -28.919012147688985,
+  "CenterPositionLat": 28.110881228172417
+ },
+ {
+  "ID": 384312580,
+  "Capacity": 1873,
+  "Name": "woodland",
+  "CenterPositionLon": -28.920418480844727,
+  "CenterPositionLat": 28.112898170119177
+ },
+ {
+  "ID": 384312619,
+  "Capacity": 221,
+  "Name": "woodland",
+  "CenterPositionLon": -28.921499419694495,
+  "CenterPositionLat": 28.112274640270726
+ },
+ {
+  "ID": 384314869,
+  "Capacity": 14586,
+  "Name": "",
+  "CenterPositionLon": -28.888336273088782,
+  "CenterPositionLat": 28.255308488946643
+ },
+ {
+  "ID": 384315159,
+  "Capacity": 11025,
+  "Name": "",
+  "CenterPositionLon": -28.886881967033737,
+  "CenterPositionLat": 28.258117086109614
+ },
+ {
+  "ID": 384315178,
+  "Capacity": 334,
+  "Name": "",
+  "CenterPositionLon": -28.895088924917182,
+  "CenterPositionLat": 28.052902143264014
+ },
+ {
+  "ID": 384315299,
+  "Capacity": 2173,
+  "Name": "",
+  "CenterPositionLon": -28.894517779312146,
+  "CenterPositionLat": 28.260963703211118
+ },
+ {
+  "ID": 384315416,
+  "Capacity": 2719,
+  "Name": "",
+  "CenterPositionLon": -28.890981767066325,
+  "CenterPositionLat": 28.264503172265336
+ },
+ {
+  "ID": 384315420,
+  "Capacity": 631,
+  "Name": "",
+  "CenterPositionLon": -28.893120372398435,
+  "CenterPositionLat": 28.25875323183427
+ },
+ {
+  "ID": 384317354,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": -28.847151693434647,
+  "CenterPositionLat": 28.242059614849683
+ },
+ {
+  "ID": 384317373,
+  "Capacity": 59,
+  "Name": "shrubary",
+  "CenterPositionLon": -28.791626759507615,
+  "CenterPositionLat": 28.43703290663502
+ },
+ {
+  "ID": 384317377,
+  "Capacity": 461,
+  "Name": "woodland",
+  "CenterPositionLon": -28.792236056001933,
+  "CenterPositionLat": 28.434511988646864
+ },
+ {
+  "ID": 384317379,
+  "Capacity": 93,
+  "Name": "woodland",
+  "CenterPositionLon": -28.791356069703852,
+  "CenterPositionLat": 28.433882600325354
+ },
+ {
+  "ID": 384317536,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": -28.84569160544175,
+  "CenterPositionLat": 28.241857808294434
+ },
+ {
+  "ID": 384318539,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": -28.84567070787683,
+  "CenterPositionLat": 28.242622458422485
+ },
+ {
+  "ID": 384322454,
+  "Capacity": 3341,
+  "Name": "",
+  "CenterPositionLon": -28.8826305409083,
+  "CenterPositionLat": 28.248576346465278
+ },
+ {
+  "ID": 384322455,
+  "Capacity": 203,
+  "Name": "",
+  "CenterPositionLon": -28.87380234614663,
+  "CenterPositionLat": 28.25010502716188
+ },
+ {
+  "ID": 384322456,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": -28.874292007697914,
+  "CenterPositionLat": 28.249349279737345
+ },
+ {
+  "ID": 384322457,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": -28.87533675553042,
+  "CenterPositionLat": 28.249368203497717
+ },
+ {
+  "ID": 384325296,
+  "Capacity": 4129,
+  "Name": "",
+  "CenterPositionLon": -28.887542671061933,
+  "CenterPositionLat": 28.2645605723487
+ },
+ {
+  "ID": 384325297,
+  "Capacity": 7236,
+  "Name": "",
+  "CenterPositionLon": -28.8884373544811,
+  "CenterPositionLat": 28.261852227384928
+ },
+ {
+  "ID": 384327684,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": -28.800874079709036,
+  "CenterPositionLat": 28.186395245311076
+ },
+ {
+  "ID": 384327694,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": -28.800354042981844,
+  "CenterPositionLat": 28.18646071339137
+ },
+ {
+  "ID": 384329194,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": -28.83784615217138,
+  "CenterPositionLat": 28.16264529590633
+ },
+ {
+  "ID": 384330678,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": -28.69958878394013,
+  "CenterPositionLat": 28.333097933303737
+ },
+ {
+  "ID": 384332835,
+  "Capacity": 130,
+  "Name": "",
+  "CenterPositionLon": -28.732626534811182,
+  "CenterPositionLat": 28.29494088164992
+ },
+ {
+  "ID": 384332946,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -28.752499928315054,
+  "CenterPositionLat": 28.12940191105772
+ },
+ {
+  "ID": 384332947,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": -28.752881418434782,
+  "CenterPositionLat": 28.129232681017843
+ },
+ {
+  "ID": 384332948,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": -28.753029381542138,
+  "CenterPositionLat": 28.129405817766596
+ },
+ {
+  "ID": 384333025,
+  "Capacity": 7793,
+  "Name": "",
+  "CenterPositionLon": -28.85729380594398,
+  "CenterPositionLat": 28.232724956050493
+ },
+ {
+  "ID": 384333076,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -28.751838224699124,
+  "CenterPositionLat": 28.131734073905708
+ },
+ {
+  "ID": 384333154,
+  "Capacity": 325,
+  "Name": "",
+  "CenterPositionLon": -28.855192631849768,
+  "CenterPositionLat": 28.239022828676152
+ },
+ {
+  "ID": 384333283,
+  "Capacity": 435,
+  "Name": "",
+  "CenterPositionLon": -28.854826582223577,
+  "CenterPositionLat": 28.240555694260397
+ },
+ {
+  "ID": 384333358,
+  "Capacity": 2302,
+  "Name": "woodland",
+  "CenterPositionLon": -28.906267727389146,
+  "CenterPositionLat": 28.22614078453277
+ },
+ {
+  "ID": 384333401,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": -28.87222829283989,
+  "CenterPositionLat": 28.23893375959764
+ },
+ {
+  "ID": 384333650,
+  "Capacity": 2269,
+  "Name": "",
+  "CenterPositionLon": -28.86027683228027,
+  "CenterPositionLat": 28.19433693105512
+ },
+ {
+  "ID": 384334252,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": -28.757859015698816,
+  "CenterPositionLat": 28.126948272566473
+ },
+ {
+  "ID": 384334541,
+  "Capacity": 1628,
+  "Name": "",
+  "CenterPositionLon": -28.856268133834767,
+  "CenterPositionLat": 28.199680146498768
+ },
+ {
+  "ID": 384334577,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": -28.75528086885584,
+  "CenterPositionLat": 28.129159383983367
+ },
+ {
+  "ID": 384334668,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": -28.754831937263805,
+  "CenterPositionLat": 28.1269821472812
+ },
+ {
+  "ID": 384334671,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": -28.857382887519954,
+  "CenterPositionLat": 28.198272086509576
+ },
+ {
+  "ID": 384334829,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": -28.755133751538253,
+  "CenterPositionLat": 28.12752087316596
+ },
+ {
+  "ID": 384335378,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": -28.761340750085605,
+  "CenterPositionLat": 28.12917971181929
+ },
+ {
+  "ID": 384335379,
+  "Capacity": 612,
+  "Name": "",
+  "CenterPositionLon": -28.762058219011962,
+  "CenterPositionLat": 28.13014814793304
+ },
+ {
+  "ID": 384335380,
+  "Capacity": 256,
+  "Name": "",
+  "CenterPositionLon": -28.762089608881027,
+  "CenterPositionLat": 28.128306643765477
+ },
+ {
+  "ID": 384335381,
+  "Capacity": 768,
+  "Name": "",
+  "CenterPositionLon": -28.760469377138392,
+  "CenterPositionLat": 28.131419058681804
+ },
+ {
+  "ID": 384335392,
+  "Capacity": 231,
+  "Name": "",
+  "CenterPositionLon": -28.75558658859084,
+  "CenterPositionLat": 28.133582090457555
+ },
+ {
+  "ID": 384335400,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": -28.752887949407253,
+  "CenterPositionLat": 28.135091474110407
+ },
+ {
+  "ID": 384335401,
+  "Capacity": 1080,
+  "Name": "",
+  "CenterPositionLon": -28.751403472783682,
+  "CenterPositionLat": 28.135715690308196
+ },
+ {
+  "ID": 384336264,
+  "Capacity": 570,
+  "Name": "",
+  "CenterPositionLon": -28.753891017635276,
+  "CenterPositionLat": 28.12718025296148
+ },
+ {
+  "ID": 384336265,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": -28.75376989751651,
+  "CenterPositionLat": 28.128838144365748
+ },
+ {
+  "ID": 384336319,
+  "Capacity": 3780,
+  "Name": "",
+  "CenterPositionLon": -28.86109843246778,
+  "CenterPositionLat": 28.198432736300884
+ },
+ {
+  "ID": 384336398,
+  "Capacity": 833,
+  "Name": "",
+  "CenterPositionLon": -28.828307537696965,
+  "CenterPositionLat": 28.13697065023859
+ },
+ {
+  "ID": 384336483,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": -28.874439115892848,
+  "CenterPositionLat": 28.250153618542942
+ },
+ {
+  "ID": 384336485,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": -28.87329305854244,
+  "CenterPositionLat": 28.25109464308775
+ },
+ {
+  "ID": 384336610,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": -28.753778982583302,
+  "CenterPositionLat": 28.128834642790817
+ },
+ {
+  "ID": 384354006,
+  "Capacity": 6140,
+  "Name": "",
+  "CenterPositionLon": -28.912385999683902,
+  "CenterPositionLat": 28.253983200770246
+ },
+ {
+  "ID": 384354007,
+  "Capacity": 493,
+  "Name": "",
+  "CenterPositionLon": -28.924960753518096,
+  "CenterPositionLat": 28.2745063216379
+ },
+ {
+  "ID": 384354008,
+  "Capacity": 368,
+  "Name": "",
+  "CenterPositionLon": -28.923834259503234,
+  "CenterPositionLat": 28.27442820870342
+ },
+ {
+  "ID": 384360872,
+  "Capacity": 1161,
+  "Name": "",
+  "CenterPositionLon": -28.827989747196696,
+  "CenterPositionLat": 28.21475018909764
+ },
+ {
+  "ID": 384360875,
+  "Capacity": 814,
+  "Name": "",
+  "CenterPositionLon": -28.830992373594373,
+  "CenterPositionLat": 28.211413460991267
+ },
+ {
+  "ID": 384395500,
+  "Capacity": 252,
+  "Name": "",
+  "CenterPositionLon": -28.745610611985107,
+  "CenterPositionLat": 28.21021620509579
+ },
+ {
+  "ID": 384395784,
+  "Capacity": 2292,
+  "Name": "",
+  "CenterPositionLon": -28.782948438940757,
+  "CenterPositionLat": 28.14269069834514
+ },
+ {
+  "ID": 384395786,
+  "Capacity": 1766,
+  "Name": "",
+  "CenterPositionLon": -28.77841388903819,
+  "CenterPositionLat": 28.13300083211033
+ },
+ {
+  "ID": 384396990,
+  "Capacity": 4007,
+  "Name": "",
+  "CenterPositionLon": -28.801850867766753,
+  "CenterPositionLat": 28.158546399154613
+ },
+ {
+  "ID": 384397582,
+  "Capacity": 559,
+  "Name": "",
+  "CenterPositionLon": -28.794897847459616,
+  "CenterPositionLat": 28.160156759695294
+ },
+ {
+  "ID": 384397685,
+  "Capacity": 441,
+  "Name": "",
+  "CenterPositionLon": -28.77927583018616,
+  "CenterPositionLat": 28.165971114103822
+ },
+ {
+  "ID": 384399338,
+  "Capacity": 508,
+  "Name": "",
+  "CenterPositionLon": -28.744053723618308,
+  "CenterPositionLat": 28.212177655825037
+ },
+ {
+  "ID": 384399350,
+  "Capacity": 620,
+  "Name": "",
+  "CenterPositionLon": -28.78825685788602,
+  "CenterPositionLat": 28.22242089921991
+ },
+ {
+  "ID": 384399407,
+  "Capacity": 504,
+  "Name": "",
+  "CenterPositionLon": -28.777449405264992,
+  "CenterPositionLat": 28.160658799383658
+ },
+ {
+  "ID": 384399776,
+  "Capacity": 607,
+  "Name": "woodlands",
+  "CenterPositionLon": -28.764126021740324,
+  "CenterPositionLat": 28.192309249101978
+ },
+ {
+  "ID": 384402701,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -28.790086248881106,
+  "CenterPositionLat": 28.14603592338847
+ },
+ {
+  "ID": 384403839,
+  "Capacity": 667,
+  "Name": "",
+  "CenterPositionLon": -28.73425373110766,
+  "CenterPositionLat": 28.171439907281187
+ },
+ {
+  "ID": 384403840,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": -28.732709009243518,
+  "CenterPositionLat": 28.17072279463411
+ },
+ {
+  "ID": 384403842,
+  "Capacity": 964,
+  "Name": "",
+  "CenterPositionLon": -28.731528961950865,
+  "CenterPositionLat": 28.169105567255404
+ },
+ {
+  "ID": 384404164,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": -29.760469989181445,
+  "CenterPositionLat": 28.358266602005166
+ },
+ {
+  "ID": 384413302,
+  "Capacity": 714,
+  "Name": "woodland",
+  "CenterPositionLon": -28.888892469170628,
+  "CenterPositionLat": 28.1320031623901
+ },
+ {
+  "ID": 384416333,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": -28.770734106762767,
+  "CenterPositionLat": 28.23498384208218
+ },
+ {
+  "ID": 384417922,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": -28.767825498422813,
+  "CenterPositionLat": 28.238614870499887
+ },
+ {
+  "ID": 384420620,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": -28.768164006252228,
+  "CenterPositionLat": 28.239977281066302
+ },
+ {
+  "ID": 384421225,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": -28.916306843142667,
+  "CenterPositionLat": 28.20234123058885
+ },
+ {
+  "ID": 384436248,
+  "Capacity": 741,
+  "Name": "",
+  "CenterPositionLon": -28.754672872936794,
+  "CenterPositionLat": 28.13320217093523
+ },
+ {
+  "ID": 384457228,
+  "Capacity": 223,
+  "Name": "",
+  "CenterPositionLon": -29.67528979222285,
+  "CenterPositionLat": 27.81750109940233
+ },
+ {
+  "ID": 384458353,
+  "Capacity": 1366,
+  "Name": "",
+  "CenterPositionLon": -29.113421250527125,
+  "CenterPositionLat": 28.02537997225381
+ },
+ {
+  "ID": 384459098,
+  "Capacity": 795,
+  "Name": "",
+  "CenterPositionLon": -28.748757700995323,
+  "CenterPositionLat": 28.387083855155964
+ },
+ {
+  "ID": 384459099,
+  "Capacity": 877,
+  "Name": "",
+  "CenterPositionLon": -28.750759647305408,
+  "CenterPositionLat": 28.386602576502117
+ },
+ {
+  "ID": 384460335,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": -28.994846576214705,
+  "CenterPositionLat": 28.54335769451788
+ },
+ {
+  "ID": 384460887,
+  "Capacity": 188,
+  "Name": "vegitation",
+  "CenterPositionLon": -29.793673848115187,
+  "CenterPositionLat": 27.526632340522287
+ },
+ {
+  "ID": 384460888,
+  "Capacity": 1855,
+  "Name": "woodland and scrub",
+  "CenterPositionLon": -29.793329570793038,
+  "CenterPositionLat": 27.528522286840293
+ },
+ {
+  "ID": 384465085,
+  "Capacity": 540,
+  "Name": "",
+  "CenterPositionLon": -29.505803935708386,
+  "CenterPositionLat": 28.84558116326899
+ },
+ {
+  "ID": 386104599,
+  "Capacity": 1796,
+  "Name": "",
+  "CenterPositionLon": -29.500539962903602,
+  "CenterPositionLat": 27.88218815391347
+ },
+ {
+  "ID": 386234318,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": -28.80266045869902,
+  "CenterPositionLat": 28.35322083707811
+ },
+ {
+  "ID": 386245360,
+  "Capacity": 429,
+  "Name": "",
+  "CenterPositionLon": -28.887700222106783,
+  "CenterPositionLat": 28.162376957516024
+ },
+ {
+  "ID": 388566284,
+  "Capacity": 270,
+  "Name": "",
+  "CenterPositionLon": -28.856283760023185,
+  "CenterPositionLat": 28.235715375262327
+ },
+ {
+  "ID": 389538697,
+  "Capacity": 693,
+  "Name": "",
+  "CenterPositionLon": -29.675823586846505,
+  "CenterPositionLat": 28.717530828192384
+ },
+ {
+  "ID": 389709410,
+  "Capacity": 125,
+  "Name": "",
+  "CenterPositionLon": -29.501353945091903,
+  "CenterPositionLat": 28.919219818212387
+ },
+ {
+  "ID": 389735500,
+  "Capacity": 721,
+  "Name": "",
+  "CenterPositionLon": -29.69655465378135,
+  "CenterPositionLat": 28.885390220702384
+ },
+ {
+  "ID": 389738286,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": -29.710093375855827,
+  "CenterPositionLat": 28.79875052761331
+ },
+ {
+  "ID": 390012619,
+  "Capacity": 115,
+  "Name": "woodland",
+  "CenterPositionLon": -29.659709338623436,
+  "CenterPositionLat": 28.746406785105304
+ },
+ {
+  "ID": 390201645,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": -28.907623847215426,
+  "CenterPositionLat": 28.03505767182326
+ },
+ {
+  "ID": 390203414,
+  "Capacity": 2135,
+  "Name": "",
+  "CenterPositionLon": -28.9110481598377,
+  "CenterPositionLat": 28.03145959973908
+ },
+ {
+  "ID": 390205814,
+  "Capacity": 1416,
+  "Name": "",
+  "CenterPositionLon": -28.91605373700427,
+  "CenterPositionLat": 28.031203922989604
+ },
+ {
+  "ID": 390834446,
+  "Capacity": 659,
+  "Name": "",
+  "CenterPositionLon": -28.923118952624232,
+  "CenterPositionLat": 28.341963766165506
+ },
+ {
+  "ID": 390834483,
+  "Capacity": 455,
+  "Name": "",
+  "CenterPositionLon": -28.922254566074542,
+  "CenterPositionLat": 28.33954950402603
+ },
+ {
+  "ID": 390964234,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": -29.620240143870003,
+  "CenterPositionLat": 27.498312251745634
+ },
+ {
+  "ID": 390975328,
+  "Capacity": 1480,
+  "Name": "Rasberry park",
+  "CenterPositionLon": -29.6223116436997,
+  "CenterPositionLat": 27.50871285417925
+ },
+ {
+  "ID": 390992863,
+  "Capacity": 312,
+  "Name": "",
+  "CenterPositionLon": -29.62282816751521,
+  "CenterPositionLat": 27.503897532698524
+ },
+ {
+  "ID": 398014273,
+  "Capacity": 67,
+  "Name": "Forest",
+  "CenterPositionLon": -30.193317508363926,
+  "CenterPositionLat": 27.797597577411754
+ },
+ {
+  "ID": 408826462,
+  "Capacity": 2068,
+  "Name": "woodland",
+  "CenterPositionLon": -28.95184461744432,
+  "CenterPositionLat": 27.852522674639733
+ },
+ {
+  "ID": 408827469,
+  "Capacity": 2904,
+  "Name": "",
+  "CenterPositionLon": -29.00195601823644,
+  "CenterPositionLat": 28.20420158839968
+ },
+ {
+  "ID": 408831245,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": -29.005098695319013,
+  "CenterPositionLat": 27.82270330448251
+ },
+ {
+  "ID": 409990541,
+  "Capacity": 2280,
+  "Name": "scrub land",
+  "CenterPositionLon": -29.804969652441546,
+  "CenterPositionLat": 27.710628037870702
+ },
+ {
+  "ID": 409992901,
+  "Capacity": 61,
+  "Name": "scrub land",
+  "CenterPositionLon": -30.029743463321783,
+  "CenterPositionLat": 28.137222033237684
+ },
+ {
+  "ID": 409999779,
+  "Capacity": 301,
+  "Name": "scrub land",
+  "CenterPositionLon": -30.026832996033082,
+  "CenterPositionLat": 28.134476555345493
+ },
+ {
+  "ID": 410014069,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": -29.852410537678935,
+  "CenterPositionLat": 28.711765531743904
+ },
+ {
+  "ID": 410014943,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": -29.85671122076613,
+  "CenterPositionLat": 28.712711560040013
+ },
+ {
+  "ID": 410035512,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": -30.118110943428313,
+  "CenterPositionLat": 27.804162586388138
+ },
+ {
+  "ID": 419212669,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -28.969456358789223,
+  "CenterPositionLat": 28.028241555367774
+ },
+ {
+  "ID": 419215672,
+  "Capacity": 741,
+  "Name": "",
+  "CenterPositionLon": -29.002284496554015,
+  "CenterPositionLat": 28.0037294967737
+ },
+ {
+  "ID": 419216196,
+  "Capacity": 2459,
+  "Name": "",
+  "CenterPositionLon": -28.904898814807442,
+  "CenterPositionLat": 27.96926550275185
+ },
+ {
+  "ID": 419217883,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": -28.969458587994925,
+  "CenterPositionLat": 28.030194383807263
+ },
+ {
+  "ID": 419218336,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": -29.0026706823503,
+  "CenterPositionLat": 28.00554338034071
+ },
+ {
+  "ID": 420153914,
+  "Capacity": 320,
+  "Name": "",
+  "CenterPositionLon": -28.882830031085728,
+  "CenterPositionLat": 28.247627203474497
+ },
+ {
+  "ID": 425512736,
+  "Capacity": 1354,
+  "Name": "Forest",
+  "CenterPositionLon": -28.743519241150437,
+  "CenterPositionLat": 28.343856092978314
+ },
+ {
+  "ID": 429579555,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": -28.700682763070944,
+  "CenterPositionLat": 28.33697351972789
+ },
+ {
+  "ID": 430986194,
+  "Capacity": 476,
+  "Name": "Forest",
+  "CenterPositionLon": -28.941869015725164,
+  "CenterPositionLat": 28.61456759910154
+ },
+ {
+  "ID": 432069663,
+  "Capacity": 14358,
+  "Name": "",
+  "CenterPositionLon": -28.864937568163317,
+  "CenterPositionLat": 28.375640589201435
+ },
+ {
+  "ID": 432538491,
+  "Capacity": 239,
+  "Name": "scrubs",
+  "CenterPositionLon": -28.852892899815608,
+  "CenterPositionLat": 28.43210548209109
+ },
+ {
+  "ID": 433255084,
+  "Capacity": 962,
+  "Name": "",
+  "CenterPositionLon": -28.97552574827432,
+  "CenterPositionLat": 28.553415346396925
+ },
+ {
+  "ID": 433801252,
+  "Capacity": 243,
+  "Name": "",
+  "CenterPositionLon": -28.927929587837223,
+  "CenterPositionLat": 28.567872536994894
+ },
+ {
+  "ID": 433801798,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": -28.927473817371318,
+  "CenterPositionLat": 28.566920691136584
+ },
+ {
+  "ID": 434691565,
+  "Capacity": 2906,
+  "Name": "",
+  "CenterPositionLon": -29.52594492816803,
+  "CenterPositionLat": 28.127508680308427
+ },
+ {
+  "ID": 437002493,
+  "Capacity": 240,
+  "Name": "",
+  "CenterPositionLon": -29.39216261120049,
+  "CenterPositionLat": 27.537021714669145
+ },
+ {
+  "ID": 437007069,
+  "Capacity": 8546,
+  "Name": "",
+  "CenterPositionLon": -29.396516105328715,
+  "CenterPositionLat": 27.53490120280774
+ },
+ {
+  "ID": 437567652,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -28.783770733333334,
+  "CenterPositionLat": 28.431200966666665
+ },
+ {
+  "ID": 437575534,
+  "Capacity": 508,
+  "Name": "",
+  "CenterPositionLon": -28.80743654157657,
+  "CenterPositionLat": 28.393699238505278
+ },
+ {
+  "ID": 437575669,
+  "Capacity": 350,
+  "Name": "",
+  "CenterPositionLon": -28.806668359279307,
+  "CenterPositionLat": 28.396040979880244
+ },
+ {
+  "ID": 437575671,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": -28.806077912283488,
+  "CenterPositionLat": 28.39525472704523
+ },
+ {
+  "ID": 437577782,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": -28.806476293323403,
+  "CenterPositionLat": 28.40056190765835
+ },
+ {
+  "ID": 437578115,
+  "Capacity": 579,
+  "Name": "",
+  "CenterPositionLon": -28.80750985948398,
+  "CenterPositionLat": 28.401020213491808
+ },
+ {
+  "ID": 443347324,
+  "Capacity": 433,
+  "Name": "",
+  "CenterPositionLon": -29.36171482475258,
+  "CenterPositionLat": 27.522613437897494
+ },
+ {
+  "ID": 443417424,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -29.357558126984934,
+  "CenterPositionLat": 27.497779714610356
+ },
+ {
+  "ID": 443417425,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": -29.35777915708086,
+  "CenterPositionLat": 27.498097489893766
+ },
+ {
+  "ID": 443417430,
+  "Capacity": 629,
+  "Name": "",
+  "CenterPositionLon": -29.355897449016712,
+  "CenterPositionLat": 27.493934918789677
+ },
+ {
+  "ID": 443422781,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": -29.35510558609234,
+  "CenterPositionLat": 27.496131233340016
+ },
+ {
+  "ID": 443422783,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": -29.35513251851961,
+  "CenterPositionLat": 27.497526996053594
+ },
+ {
+  "ID": 443422785,
+  "Capacity": 370,
+  "Name": "",
+  "CenterPositionLon": -29.355344712125586,
+  "CenterPositionLat": 27.50036192654552
+ },
+ {
+  "ID": 443427531,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -29.34783522719203,
+  "CenterPositionLat": 27.480683673083327
+ },
+ {
+  "ID": 443427533,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": -29.34416430100091,
+  "CenterPositionLat": 27.482102949801266
+ },
+ {
+  "ID": 444537061,
+  "Capacity": 5256,
+  "Name": "un used field",
+  "CenterPositionLon": -29.51442238806357,
+  "CenterPositionLat": 27.835577316936917
+ },
+ {
+  "ID": 444571311,
+  "Capacity": 22,
+  "Name": "Shrubbery",
+  "CenterPositionLon": -29.356322274214914,
+  "CenterPositionLat": 27.49610020264905
+ },
+ {
+  "ID": 445647102,
+  "Capacity": 76399,
+  "Name": "",
+  "CenterPositionLon": -29.64604518227099,
+  "CenterPositionLat": 27.668952437134628
+ },
+ {
+  "ID": 445682231,
+  "Capacity": 604,
+  "Name": "",
+  "CenterPositionLon": -29.337050578081413,
+  "CenterPositionLat": 27.466780148019406
+ },
+ {
+  "ID": 445687812,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": -30.424244959900708,
+  "CenterPositionLat": 27.6455072382159
+ },
+ {
+  "ID": 446964014,
+  "Capacity": 3086,
+  "Name": "shrubland",
+  "CenterPositionLon": -29.819554863511083,
+  "CenterPositionLat": 27.59657426984523
+ },
+ {
+  "ID": 446964215,
+  "Capacity": 261,
+  "Name": "",
+  "CenterPositionLon": -29.607346467794613,
+  "CenterPositionLat": 27.25944949497745
+ },
+ {
+  "ID": 446964594,
+  "Capacity": 3833,
+  "Name": "shrubland",
+  "CenterPositionLon": -29.7442444199673,
+  "CenterPositionLat": 27.640392556855893
+ },
+ {
+  "ID": 446965383,
+  "Capacity": 2054,
+  "Name": "shrubland",
+  "CenterPositionLon": -29.751364164908793,
+  "CenterPositionLat": 27.54276789101159
+ },
+ {
+  "ID": 446966196,
+  "Capacity": 1431,
+  "Name": "scrubland",
+  "CenterPositionLon": -29.71337128837769,
+  "CenterPositionLat": 27.646952793844875
+ },
+ {
+  "ID": 446966948,
+  "Capacity": 27,
+  "Name": "scrub oland",
+  "CenterPositionLon": -29.712041161421812,
+  "CenterPositionLat": 27.64647304777619
+ },
+ {
+  "ID": 446967124,
+  "Capacity": 129,
+  "Name": "scrub land",
+  "CenterPositionLon": -29.71085828408568,
+  "CenterPositionLat": 27.644196720259337
+ },
+ {
+  "ID": 446967271,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -29.712219602400516,
+  "CenterPositionLat": 27.641399516658893
+ },
+ {
+  "ID": 446967657,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": -29.712234754708227,
+  "CenterPositionLat": 27.641044486635685
+ },
+ {
+  "ID": 447262312,
+  "Capacity": 175,
+  "Name": "",
+  "CenterPositionLon": -29.779714615831967,
+  "CenterPositionLat": 27.286433322164314
+ },
+ {
+  "ID": 452070694,
+  "Capacity": 5269,
+  "Name": "Pola park",
+  "CenterPositionLon": -29.52524724475799,
+  "CenterPositionLat": 28.60116649564714
+ },
+ {
+  "ID": 454224954,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": -29.7002339724034,
+  "CenterPositionLat": 28.451412851499356
+ },
+ {
+  "ID": 454226234,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": -29.248001043399956,
+  "CenterPositionLat": 27.8252320906518
+ },
+ {
+  "ID": 454227071,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": -29.35214953405136,
+  "CenterPositionLat": 27.735174036753914
+ },
+ {
+  "ID": 454227072,
+  "Capacity": 1578,
+  "Name": "Shrubbery",
+  "CenterPositionLon": -29.351285550481702,
+  "CenterPositionLat": 27.736113804164713
+ },
+ {
+  "ID": 454227847,
+  "Capacity": 125,
+  "Name": "",
+  "CenterPositionLon": -29.354446113960847,
+  "CenterPositionLat": 27.735914461784947
+ },
+ {
+  "ID": 454232519,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": -29.741165531361837,
+  "CenterPositionLat": 28.690496169699387
+ },
+ {
+  "ID": 454233710,
+  "Capacity": 341,
+  "Name": "",
+  "CenterPositionLon": -29.420481578441994,
+  "CenterPositionLat": 27.95271047245541
+ },
+ {
+  "ID": 454234295,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": -29.351676969397502,
+  "CenterPositionLat": 27.734830470495456
+ },
+ {
+  "ID": 454234687,
+  "Capacity": 200,
+  "Name": "",
+  "CenterPositionLon": -29.30463650344488,
+  "CenterPositionLat": 27.49191052563363
+ },
+ {
+  "ID": 454234688,
+  "Capacity": 138,
+  "Name": "Wood",
+  "CenterPositionLon": -29.30421251336554,
+  "CenterPositionLat": 27.491706768165276
+ },
+ {
+  "ID": 454234689,
+  "Capacity": 193,
+  "Name": "Wood",
+  "CenterPositionLon": -29.30340872102789,
+  "CenterPositionLat": 27.49127834705994
+ },
+ {
+  "ID": 454235686,
+  "Capacity": 810,
+  "Name": "Harambe's Woods",
+  "CenterPositionLon": -29.506656000057287,
+  "CenterPositionLat": 27.876337050928097
+ },
+ {
+  "ID": 454236209,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": -29.272926249185616,
+  "CenterPositionLat": 27.56689130096353
+ },
+ {
+  "ID": 454236856,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": -29.615532832988528,
+  "CenterPositionLat": 28.720982278901374
+ },
+ {
+  "ID": 454237051,
+  "Capacity": 552,
+  "Name": "",
+  "CenterPositionLon": -29.405802515308963,
+  "CenterPositionLat": 27.727775527057403
+ },
+ {
+  "ID": 454237206,
+  "Capacity": 498,
+  "Name": "",
+  "CenterPositionLon": -29.405067358064432,
+  "CenterPositionLat": 27.728283935277684
+ },
+ {
+  "ID": 454237519,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": -29.5252134,
+  "CenterPositionLat": 28.744590966666667
+ },
+ {
+  "ID": 454237828,
+  "Capacity": 319,
+  "Name": "scrube",
+  "CenterPositionLon": -29.43420564485135,
+  "CenterPositionLat": 27.49736427412959
+ },
+ {
+  "ID": 454241888,
+  "Capacity": 992,
+  "Name": "",
+  "CenterPositionLon": -29.63852406478975,
+  "CenterPositionLat": 27.734201339249875
+ },
+ {
+  "ID": 454241918,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -29.338762021516477,
+  "CenterPositionLat": 27.831992489999372
+ },
+ {
+  "ID": 454241920,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": -29.338085058231698,
+  "CenterPositionLat": 27.83161603626163
+ },
+ {
+  "ID": 454242500,
+  "Capacity": 305,
+  "Name": "",
+  "CenterPositionLon": -29.410710359806775,
+  "CenterPositionLat": 27.467203652588374
+ },
+ {
+  "ID": 454242850,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": -29.37192409552138,
+  "CenterPositionLat": 27.736869755987527
+ },
+ {
+  "ID": 454245266,
+  "Capacity": 1521,
+  "Name": "",
+  "CenterPositionLon": -29.564560152030683,
+  "CenterPositionLat": 27.8186810657427
+ },
+ {
+  "ID": 454249892,
+  "Capacity": 11791,
+  "Name": "",
+  "CenterPositionLon": -28.802473752526872,
+  "CenterPositionLat": 28.167272900819473
+ },
+ {
+  "ID": 454250391,
+  "Capacity": 1417,
+  "Name": "",
+  "CenterPositionLon": -29.572083981356375,
+  "CenterPositionLat": 27.889728818981062
+ },
+ {
+  "ID": 454252436,
+  "Capacity": 2299,
+  "Name": "",
+  "CenterPositionLon": -29.578187838304988,
+  "CenterPositionLat": 27.893798683775223
+ },
+ {
+  "ID": 454252440,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": -29.578113499999997,
+  "CenterPositionLat": 27.895003433333333
+ },
+ {
+  "ID": 454257100,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -29.57714886275882,
+  "CenterPositionLat": 27.890283751617975
+ },
+ {
+  "ID": 454257855,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": -29.58246336666667,
+  "CenterPositionLat": 27.8918005
+ },
+ {
+  "ID": 454270406,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -29.689754679783476,
+  "CenterPositionLat": 27.702493637973074
+ },
+ {
+  "ID": 454272258,
+  "Capacity": 16224,
+  "Name": "",
+  "CenterPositionLon": -29.464352959744566,
+  "CenterPositionLat": 27.899550851304042
+ },
+ {
+  "ID": 454288542,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -29.512901862646647,
+  "CenterPositionLat": 27.83827622674524
+ },
+ {
+  "ID": 454288940,
+  "Capacity": 8976,
+  "Name": "",
+  "CenterPositionLon": -29.68066537171949,
+  "CenterPositionLat": 27.66329706898895
+ },
+ {
+  "ID": 454289230,
+  "Capacity": 371,
+  "Name": "scrubland",
+  "CenterPositionLon": -29.368704428061626,
+  "CenterPositionLat": 27.685999626907204
+ },
+ {
+  "ID": 454297278,
+  "Capacity": 14076,
+  "Name": "",
+  "CenterPositionLon": -29.384135332535596,
+  "CenterPositionLat": 27.746916333970443
+ },
+ {
+  "ID": 454299390,
+  "Capacity": 811,
+  "Name": "",
+  "CenterPositionLon": -29.550264325948607,
+  "CenterPositionLat": 27.917222561860726
+ },
+ {
+  "ID": 454301546,
+  "Capacity": 288,
+  "Name": "treees",
+  "CenterPositionLon": -29.37081257706928,
+  "CenterPositionLat": 27.709518938742765
+ },
+ {
+  "ID": 454303466,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -29.79059326917083,
+  "CenterPositionLat": 28.36535879587161
+ },
+ {
+  "ID": 454304099,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -29.188923429684294,
+  "CenterPositionLat": 29.03140589254497
+ },
+ {
+  "ID": 454305455,
+  "Capacity": 27,
+  "Name": "boulder",
+  "CenterPositionLon": -29.346150353935126,
+  "CenterPositionLat": 27.690517142192938
+ },
+ {
+  "ID": 454306225,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": -29.62741290722597,
+  "CenterPositionLat": 27.568179648566765
+ },
+ {
+  "ID": 454306257,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": -29.631009964096748,
+  "CenterPositionLat": 27.554643592659378
+ },
+ {
+  "ID": 454306259,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": -29.63064147326039,
+  "CenterPositionLat": 27.553774481130343
+ },
+ {
+  "ID": 454313273,
+  "Capacity": 7517,
+  "Name": "",
+  "CenterPositionLon": -29.43279299769578,
+  "CenterPositionLat": 27.587385507499416
+ },
+ {
+  "ID": 454313276,
+  "Capacity": 3523,
+  "Name": "",
+  "CenterPositionLon": -29.43664870268142,
+  "CenterPositionLat": 27.588986380428373
+ },
+ {
+  "ID": 454320631,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": -29.062357632171015,
+  "CenterPositionLat": 29.061855945268224
+ },
+ {
+  "ID": 454320636,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": -29.064507370077,
+  "CenterPositionLat": 29.063381255326682
+ },
+ {
+  "ID": 454344928,
+  "Capacity": 1894,
+  "Name": "",
+  "CenterPositionLon": -29.85181391978904,
+  "CenterPositionLat": 27.55969092464122
+ },
+ {
+  "ID": 454346584,
+  "Capacity": 2869,
+  "Name": "",
+  "CenterPositionLon": -29.461200039111052,
+  "CenterPositionLat": 27.667726259944892
+ },
+ {
+  "ID": 454347053,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": -29.460569777520792,
+  "CenterPositionLat": 27.669109268801858
+ },
+ {
+  "ID": 454348053,
+  "Capacity": 3845,
+  "Name": "Wood",
+  "CenterPositionLon": -29.565874180543705,
+  "CenterPositionLat": 27.75900698625525
+ },
+ {
+  "ID": 454349201,
+  "Capacity": 4176,
+  "Name": "Wood",
+  "CenterPositionLon": -29.563118316478683,
+  "CenterPositionLat": 27.756149420939863
+ },
+ {
+  "ID": 454350914,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -29.36954555568188,
+  "CenterPositionLat": 28.03710783157065
+ },
+ {
+  "ID": 454350983,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": -29.36889082635068,
+  "CenterPositionLat": 28.036814627661997
+ },
+ {
+  "ID": 454351032,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": -29.368751599051787,
+  "CenterPositionLat": 28.03673681085922
+ },
+ {
+  "ID": 454356241,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -29.544267870469763,
+  "CenterPositionLat": 28.80904108871492
+ },
+ {
+  "ID": 454356242,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": -29.544415626202557,
+  "CenterPositionLat": 28.80933772032778
+ },
+ {
+  "ID": 454357162,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -29.544520347233828,
+  "CenterPositionLat": 28.809199932710328
+ },
+ {
+  "ID": 454362651,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": -29.5861184904409,
+  "CenterPositionLat": 27.6444006339631
+ },
+ {
+  "ID": 454363387,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -29.665778302676177,
+  "CenterPositionLat": 27.795996045480376
+ },
+ {
+  "ID": 454363532,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -29.66593759948325,
+  "CenterPositionLat": 27.795874494185384
+ },
+ {
+  "ID": 454363597,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": -29.666025302854905,
+  "CenterPositionLat": 27.795896346940452
+ },
+ {
+  "ID": 454363701,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": -29.666122850404296,
+  "CenterPositionLat": 27.796031364362474
+ },
+ {
+  "ID": 454363849,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -29.666079181013295,
+  "CenterPositionLat": 27.79611361515127
+ },
+ {
+  "ID": 454364270,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -29.66617375368707,
+  "CenterPositionLat": 27.795812387553095
+ },
+ {
+  "ID": 454364506,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": -29.66625299854466,
+  "CenterPositionLat": 27.79618399990046
+ },
+ {
+  "ID": 454364566,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -29.666152803735105,
+  "CenterPositionLat": 27.795925271326304
+ },
+ {
+  "ID": 454364657,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -29.666198804994384,
+  "CenterPositionLat": 27.795959128043414
+ },
+ {
+  "ID": 454364676,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -29.666252944359027,
+  "CenterPositionLat": 27.796013607323257
+ },
+ {
+  "ID": 454364746,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": -29.666260005622966,
+  "CenterPositionLat": 27.795928746539815
+ },
+ {
+  "ID": 454364853,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -29.666311416834947,
+  "CenterPositionLat": 27.79596144326674
+ },
+ {
+  "ID": 454364881,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": -29.666355683842163,
+  "CenterPositionLat": 27.796026397977823
+ },
+ {
+  "ID": 454364937,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": -29.666365603115054,
+  "CenterPositionLat": 27.796133755555736
+ },
+ {
+  "ID": 454365247,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -29.666428059933914,
+  "CenterPositionLat": 27.79603656501846
+ },
+ {
+  "ID": 454365323,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -29.666555473351405,
+  "CenterPositionLat": 27.79621904216065
+ },
+ {
+  "ID": 454365401,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -29.66670537565854,
+  "CenterPositionLat": 27.796357224982454
+ },
+ {
+  "ID": 454365406,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": -29.66678484161361,
+  "CenterPositionLat": 27.796439363591265
+ },
+ {
+  "ID": 454365454,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -29.66691704189875,
+  "CenterPositionLat": 27.79654907797511
+ },
+ {
+  "ID": 454365493,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -29.666982642721898,
+  "CenterPositionLat": 27.79661446963792
+ },
+ {
+  "ID": 454365523,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": -29.667069214351898,
+  "CenterPositionLat": 27.79671653240151
+ },
+ {
+  "ID": 454365587,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -29.667123016755767,
+  "CenterPositionLat": 27.796780830938413
+ },
+ {
+  "ID": 454365613,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -29.667276808412335,
+  "CenterPositionLat": 27.796985505047086
+ },
+ {
+  "ID": 454365697,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -29.667194764028192,
+  "CenterPositionLat": 27.79710699896821
+ },
+ {
+  "ID": 454365718,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -29.667114881030198,
+  "CenterPositionLat": 27.797213205013335
+ },
+ {
+  "ID": 454365734,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -29.666901074925224,
+  "CenterPositionLat": 27.797512246664418
+ },
+ {
+  "ID": 454365841,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": -29.66590528686393,
+  "CenterPositionLat": 27.796494156916786
+ },
+ {
+  "ID": 454365953,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": -29.665662804295025,
+  "CenterPositionLat": 27.796191677928448
+ },
+ {
+  "ID": 454366006,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": -29.66555847212811,
+  "CenterPositionLat": 27.796388841179866
+ },
+ {
+  "ID": 454366607,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -29.665227802826976,
+  "CenterPositionLat": 27.79718480160023
+ },
+ {
+  "ID": 454366694,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -29.665279761451544,
+  "CenterPositionLat": 27.797353449610394
+ },
+ {
+  "ID": 454367108,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": -29.665476778597863,
+  "CenterPositionLat": 27.797416345911717
+ },
+ {
+  "ID": 454367158,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -29.665722620372236,
+  "CenterPositionLat": 27.797380471146905
+ },
+ {
+  "ID": 454367214,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": -29.665881102810477,
+  "CenterPositionLat": 27.797415944112547
+ },
+ {
+  "ID": 454367274,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": -29.665833037734217,
+  "CenterPositionLat": 27.797047964984095
+ },
+ {
+  "ID": 454369517,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -29.66588570871238,
+  "CenterPositionLat": 27.79551361148472
+ },
+ {
+  "ID": 454369578,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": -29.66946845,
+  "CenterPositionLat": 27.7987373
+ },
+ {
+  "ID": 454370081,
+  "Capacity": 130,
+  "Name": "",
+  "CenterPositionLon": -29.87235185630965,
+  "CenterPositionLat": 27.370889546309286
+ },
+ {
+  "ID": 454370358,
+  "Capacity": 1624,
+  "Name": "",
+  "CenterPositionLon": -29.391237395471492,
+  "CenterPositionLat": 27.44929299397472
+ },
+ {
+  "ID": 454371922,
+  "Capacity": 249,
+  "Name": "",
+  "CenterPositionLon": -29.388546874762326,
+  "CenterPositionLat": 27.44923044863432
+ },
+ {
+  "ID": 454372093,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": -29.670635349999998,
+  "CenterPositionLat": 27.79613985
+ },
+ {
+  "ID": 454372845,
+  "Capacity": 2579,
+  "Name": "",
+  "CenterPositionLon": -29.5521725954436,
+  "CenterPositionLat": 27.666052676209954
+ },
+ {
+  "ID": 454372846,
+  "Capacity": 1517,
+  "Name": "",
+  "CenterPositionLon": -29.552089296131616,
+  "CenterPositionLat": 27.664397407544666
+ },
+ {
+  "ID": 454372848,
+  "Capacity": 1096,
+  "Name": "",
+  "CenterPositionLon": -29.552663065750227,
+  "CenterPositionLat": 27.66537634854098
+ },
+ {
+  "ID": 454388074,
+  "Capacity": 1159,
+  "Name": "",
+  "CenterPositionLon": -28.781514416845532,
+  "CenterPositionLat": 28.480889255832327
+ },
+ {
+  "ID": 454391806,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -29.548227566666665,
+  "CenterPositionLat": 28.357738766666664
+ },
+ {
+  "ID": 454392870,
+  "Capacity": 1336,
+  "Name": "",
+  "CenterPositionLon": -30.311716209332268,
+  "CenterPositionLat": 27.594500664609804
+ },
+ {
+  "ID": 454397847,
+  "Capacity": 161,
+  "Name": "",
+  "CenterPositionLon": -29.26988718088549,
+  "CenterPositionLat": 29.079922875869716
+ },
+ {
+  "ID": 454397852,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": -29.270743863677772,
+  "CenterPositionLat": 29.0798195774885
+ },
+ {
+  "ID": 454398175,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": -29.405215211875984,
+  "CenterPositionLat": 27.672772131355234
+ },
+ {
+  "ID": 454398422,
+  "Capacity": 2442,
+  "Name": "",
+  "CenterPositionLon": -29.481544023749247,
+  "CenterPositionLat": 27.671673243306888
+ },
+ {
+  "ID": 454399579,
+  "Capacity": 659,
+  "Name": "woodland",
+  "CenterPositionLon": -29.558426236773997,
+  "CenterPositionLat": 27.74251010087183
+ },
+ {
+  "ID": 454399842,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": -29.552947343564103,
+  "CenterPositionLat": 28.246756482415314
+ },
+ {
+  "ID": 454400125,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -29.881021250324473,
+  "CenterPositionLat": 27.684032204162207
+ },
+ {
+  "ID": 454402847,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": -28.74565336308115,
+  "CenterPositionLat": 28.466787379516948
+ },
+ {
+  "ID": 454403083,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": -28.746526042462232,
+  "CenterPositionLat": 28.466267007271625
+ },
+ {
+  "ID": 454408965,
+  "Capacity": 947,
+  "Name": "",
+  "CenterPositionLon": -29.830845186805647,
+  "CenterPositionLat": 27.42112140698056
+ },
+ {
+  "ID": 454408966,
+  "Capacity": 393,
+  "Name": "",
+  "CenterPositionLon": -29.830527786627965,
+  "CenterPositionLat": 27.423202896200966
+ },
+ {
+  "ID": 454409620,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": -29.936760313235865,
+  "CenterPositionLat": 27.98390621752724
+ },
+ {
+  "ID": 454409883,
+  "Capacity": 1446,
+  "Name": "",
+  "CenterPositionLon": -29.818658482654303,
+  "CenterPositionLat": 27.446010585535117
+ },
+ {
+  "ID": 454411001,
+  "Capacity": 351,
+  "Name": "Hedge",
+  "CenterPositionLon": -29.74225685995866,
+  "CenterPositionLat": 28.39830151162165
+ },
+ {
+  "ID": 454411703,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -28.743402488312196,
+  "CenterPositionLat": 28.466939889005484
+ },
+ {
+  "ID": 454411901,
+  "Capacity": 7695,
+  "Name": "",
+  "CenterPositionLon": -28.983615484992534,
+  "CenterPositionLat": 28.13913219871658
+ },
+ {
+  "ID": 454412256,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": -29.417903841458518,
+  "CenterPositionLat": 28.237540944090302
+ },
+ {
+  "ID": 454412279,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": -29.614106501983834,
+  "CenterPositionLat": 27.49369449203031
+ },
+ {
+  "ID": 454413991,
+  "Capacity": 3091,
+  "Name": "",
+  "CenterPositionLon": -29.41815227297964,
+  "CenterPositionLat": 28.242534305545714
+ },
+ {
+  "ID": 454414663,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -28.740670377294208,
+  "CenterPositionLat": 28.452440247263905
+ },
+ {
+  "ID": 454419754,
+  "Capacity": 32598,
+  "Name": "",
+  "CenterPositionLon": -29.511490048401118,
+  "CenterPositionLat": 27.711930049182442
+ },
+ {
+  "ID": 454419756,
+  "Capacity": 12853,
+  "Name": "",
+  "CenterPositionLon": -29.50555445782948,
+  "CenterPositionLat": 27.712030456923912
+ },
+ {
+  "ID": 454420390,
+  "Capacity": 23,
+  "Name": "wood",
+  "CenterPositionLon": -29.97620639505338,
+  "CenterPositionLat": 27.33878373486838
+ },
+ {
+  "ID": 454421407,
+  "Capacity": 321,
+  "Name": "",
+  "CenterPositionLon": -29.551868140006313,
+  "CenterPositionLat": 27.454451519846653
+ },
+ {
+  "ID": 454422783,
+  "Capacity": 2951,
+  "Name": "",
+  "CenterPositionLon": -30.18473815839486,
+  "CenterPositionLat": 27.425465809652625
+ },
+ {
+  "ID": 454422809,
+  "Capacity": 151,
+  "Name": "Wood",
+  "CenterPositionLon": -29.975747216003302,
+  "CenterPositionLat": 27.34175203986715
+ },
+ {
+  "ID": 454423354,
+  "Capacity": 763,
+  "Name": "",
+  "CenterPositionLon": -30.006745005567304,
+  "CenterPositionLat": 27.35261539722731
+ },
+ {
+  "ID": 454423563,
+  "Capacity": 4377,
+  "Name": "",
+  "CenterPositionLon": -30.01849049148378,
+  "CenterPositionLat": 27.357380890608233
+ },
+ {
+  "ID": 454424674,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": -29.282245943417145,
+  "CenterPositionLat": 28.99165183222585
+ },
+ {
+  "ID": 454427143,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": -29.759529972236752,
+  "CenterPositionLat": 27.188921956088052
+ },
+ {
+  "ID": 454427263,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": -28.929211330255118,
+  "CenterPositionLat": 28.628074003953525
+ },
+ {
+  "ID": 454427415,
+  "Capacity": 362,
+  "Name": "",
+  "CenterPositionLon": -28.92732194289206,
+  "CenterPositionLat": 28.62825177302
+ },
+ {
+  "ID": 454427770,
+  "Capacity": 680,
+  "Name": "",
+  "CenterPositionLon": -28.925032582950134,
+  "CenterPositionLat": 28.629102886870914
+ },
+ {
+  "ID": 454429596,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": -30.22849662052856,
+  "CenterPositionLat": 27.8028448458773
+ },
+ {
+  "ID": 454433274,
+  "Capacity": 193,
+  "Name": "",
+  "CenterPositionLon": -29.550055300293113,
+  "CenterPositionLat": 27.60278328438681
+ },
+ {
+  "ID": 454434038,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": -29.548595366889135,
+  "CenterPositionLat": 27.611626043479195
+ },
+ {
+  "ID": 454437159,
+  "Capacity": 1803,
+  "Name": "",
+  "CenterPositionLon": -29.636805641513405,
+  "CenterPositionLat": 28.23765717177361
+ },
+ {
+  "ID": 454437742,
+  "Capacity": 1924,
+  "Name": "",
+  "CenterPositionLon": -29.481320796402,
+  "CenterPositionLat": 27.566047284073868
+ },
+ {
+  "ID": 454441498,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": -29.391241410566643,
+  "CenterPositionLat": 27.459560781147157
+ },
+ {
+  "ID": 454445227,
+  "Capacity": 503,
+  "Name": "",
+  "CenterPositionLon": -28.72563131976077,
+  "CenterPositionLat": 28.215751133340763
+ },
+ {
+  "ID": 454446812,
+  "Capacity": 1118,
+  "Name": "",
+  "CenterPositionLon": -29.984723357746386,
+  "CenterPositionLat": 27.328611851915248
+ },
+ {
+  "ID": 463763873,
+  "Capacity": 103,
+  "Name": "group of large trees",
+  "CenterPositionLon": -30.349487217886367,
+  "CenterPositionLat": 27.870517668075742
+ },
+ {
+  "ID": 478994085,
+  "Capacity": 668,
+  "Name": "",
+  "CenterPositionLon": -28.65063667372017,
+  "CenterPositionLat": 28.4290322289622
+ },
+ {
+  "ID": 478994176,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": -28.650063711555664,
+  "CenterPositionLat": 28.42894535785107
+ },
+ {
+  "ID": 478994391,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": -28.650436501360723,
+  "CenterPositionLat": 28.429456289208847
+ },
+ {
+  "ID": 478994410,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": -28.649250569642057,
+  "CenterPositionLat": 28.429509750119834
+ },
+ {
+  "ID": 478994423,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": -28.650549697721804,
+  "CenterPositionLat": 28.430270115144538
+ },
+ {
+  "ID": 478997105,
+  "Capacity": 649,
+  "Name": "",
+  "CenterPositionLon": -28.647326022765302,
+  "CenterPositionLat": 28.414015622935395
+ },
+ {
+  "ID": 478997728,
+  "Capacity": 109,
+  "Name": "",
+  "CenterPositionLon": -28.648222510440117,
+  "CenterPositionLat": 28.41243036568167
+ },
+ {
+  "ID": 479010804,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": -28.634763690740723,
+  "CenterPositionLat": 28.42130780174443
+ },
+ {
+  "ID": 479010805,
+  "Capacity": 171,
+  "Name": "",
+  "CenterPositionLon": -28.633792278376934,
+  "CenterPositionLat": 28.421007852155252
+ },
+ {
+  "ID": 479010806,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": -28.63482020239958,
+  "CenterPositionLat": 28.42178529719605
+ },
+ {
+  "ID": 479010807,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": -28.63336343906774,
+  "CenterPositionLat": 28.42178848157288
+ },
+ {
+  "ID": 479026098,
+  "Capacity": 602,
+  "Name": "",
+  "CenterPositionLon": -28.64640382235833,
+  "CenterPositionLat": 28.41445621189879
+ },
+ {
+  "ID": 479029273,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": -28.649299187741423,
+  "CenterPositionLat": 28.432355454213816
+ },
+ {
+  "ID": 479035099,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": -28.649817120434314,
+  "CenterPositionLat": 28.43398792791979
+ },
+ {
+  "ID": 480167749,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": -28.801806318139935,
+  "CenterPositionLat": 28.519176230282454
+ },
+ {
+  "ID": 480210555,
+  "Capacity": 242,
+  "Name": "",
+  "CenterPositionLon": -28.79596316815194,
+  "CenterPositionLat": 28.50459371423615
+ },
+ {
+  "ID": 480210556,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": -28.795028129627408,
+  "CenterPositionLat": 28.50671303732307
+ },
+ {
+  "ID": 480211476,
+  "Capacity": 371,
+  "Name": "",
+  "CenterPositionLon": -28.78779558696262,
+  "CenterPositionLat": 28.50900077031999
+ },
+ {
+  "ID": 480211478,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": -28.787669564660007,
+  "CenterPositionLat": 28.509617423349905
+ },
+ {
+  "ID": 480213386,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": -28.787883266568343,
+  "CenterPositionLat": 28.507926691598573
+ },
+ {
+  "ID": 480343263,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": -28.912163719926113,
+  "CenterPositionLat": 28.635757024840775
+ },
+ {
+  "ID": 480601119,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": -28.93307190787146,
+  "CenterPositionLat": 28.618991391867883
+ },
+ {
+  "ID": 480601120,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": -28.920157910131298,
+  "CenterPositionLat": 28.624277428448828
+ },
+ {
+  "ID": 480604375,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": -28.928932609689348,
+  "CenterPositionLat": 28.625056133387552
+ },
+ {
+  "ID": 480605283,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": -28.937008690458107,
+  "CenterPositionLat": 28.62462641825741
+ },
+ {
+  "ID": 480608798,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": -28.928896138560805,
+  "CenterPositionLat": 28.61353208217801
+ },
+ {
+  "ID": 481804535,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": -28.743983043676298,
+  "CenterPositionLat": 28.503524495080498
+ },
+ {
+  "ID": 481949488,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": -28.745606281562598,
+  "CenterPositionLat": 28.501230649691045
+ },
+ {
+  "ID": 481974420,
+  "Capacity": 250,
+  "Name": "",
+  "CenterPositionLon": -28.955645153815524,
+  "CenterPositionLat": 28.598768991894183
+ },
+ {
+  "ID": 481974421,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": -28.956733282172433,
+  "CenterPositionLat": 28.59997677546427
+ },
+ {
+  "ID": 481974423,
+  "Capacity": 415,
+  "Name": "",
+  "CenterPositionLon": -28.94763338836116,
+  "CenterPositionLat": 28.606055025536154
+ },
+ {
+  "ID": 481974424,
+  "Capacity": 320,
+  "Name": "",
+  "CenterPositionLon": -28.947147195717893,
+  "CenterPositionLat": 28.60675194933065
+ },
+ {
+  "ID": 487974970,
+  "Capacity": 1094,
+  "Name": "",
+  "CenterPositionLon": -28.738475780253502,
+  "CenterPositionLat": 28.47299878433127
+ },
+ {
+  "ID": 489236512,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -29.418491302522465,
+  "CenterPositionLat": 29.114756748629944
+ },
+ {
+  "ID": 489249913,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": -29.404898563544613,
+  "CenterPositionLat": 29.09251372792399
+ },
+ {
+  "ID": 489249914,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": -29.405651468943365,
+  "CenterPositionLat": 29.0934104512178
+ },
+ {
+  "ID": 489251873,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": -29.39019744120729,
+  "CenterPositionLat": 29.095743026470767
+ },
+ {
+  "ID": 489251875,
+  "Capacity": 4681,
+  "Name": "",
+  "CenterPositionLon": -29.38945450276275,
+  "CenterPositionLat": 29.1006689656791
+ },
+ {
+  "ID": 489272725,
+  "Capacity": 343,
+  "Name": "",
+  "CenterPositionLon": -29.413979391020497,
+  "CenterPositionLat": 29.021319705834735
+ },
+ {
+  "ID": 491095335,
+  "Capacity": 308,
+  "Name": "",
+  "CenterPositionLon": -29.495354655882203,
+  "CenterPositionLat": 28.936136350600833
+ },
+ {
+  "ID": 491110361,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": -29.47648184109616,
+  "CenterPositionLat": 28.918504975659253
+ },
+ {
+  "ID": 491573084,
+  "Capacity": 280,
+  "Name": "",
+  "CenterPositionLon": -29.699866709627486,
+  "CenterPositionLat": 27.301827140665534
+ },
+ {
+  "ID": 491573085,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": -29.699651685235278,
+  "CenterPositionLat": 27.301768719084166
+ },
+ {
+  "ID": 491576687,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": -29.746922232593352,
+  "CenterPositionLat": 27.423791223768113
+ },
+ {
+  "ID": 491598748,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": -29.53462268029234,
+  "CenterPositionLat": 28.26514253571443
+ },
+ {
+  "ID": 491613762,
+  "Capacity": 160,
+  "Name": "",
+  "CenterPositionLon": -29.706977480559846,
+  "CenterPositionLat": 27.539049466932084
+ },
+ {
+  "ID": 491613763,
+  "Capacity": 427,
+  "Name": "tres",
+  "CenterPositionLon": -29.700941078687695,
+  "CenterPositionLat": 27.535834906248553
+ },
+ {
+  "ID": 491613764,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": -29.70048049129882,
+  "CenterPositionLat": 27.5358078255192
+ },
+ {
+  "ID": 491613765,
+  "Capacity": 239,
+  "Name": "",
+  "CenterPositionLon": -29.6997894241969,
+  "CenterPositionLat": 27.534550291709955
+ },
+ {
+  "ID": 491701560,
+  "Capacity": 383,
+  "Name": "",
+  "CenterPositionLon": -29.659854368991056,
+  "CenterPositionLat": 27.31935799031347
+ },
+ {
+  "ID": 491710390,
+  "Capacity": 913,
+  "Name": "",
+  "CenterPositionLon": -29.129113293118962,
+  "CenterPositionLat": 27.794638929271137
+ },
+ {
+  "ID": 492543894,
+  "Capacity": 824,
+  "Name": "",
+  "CenterPositionLon": -29.8448563926634,
+  "CenterPositionLat": 27.260597024068247
+ },
+ {
+  "ID": 508403930,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": -29.24362787812891,
+  "CenterPositionLat": 29.00522744487994
+ },
+ {
+  "ID": 508403934,
+  "Capacity": 41,
+  "Name": "scrub",
+  "CenterPositionLon": -29.2427932092181,
+  "CenterPositionLat": 29.006878252775117
+ },
+ {
+  "ID": 508407513,
+  "Capacity": 60,
+  "Name": "scrub",
+  "CenterPositionLon": -29.23847982202183,
+  "CenterPositionLat": 29.011177825312167
+ },
+ {
+  "ID": 508918939,
+  "Capacity": 129,
+  "Name": "scrub",
+  "CenterPositionLon": -29.277236151748777,
+  "CenterPositionLat": 29.11502858091922
+ },
+ {
+  "ID": 508918940,
+  "Capacity": 45,
+  "Name": "scrub",
+  "CenterPositionLon": -29.276640104103834,
+  "CenterPositionLat": 29.114810949509593
+ },
+ {
+  "ID": 508918941,
+  "Capacity": 73,
+  "Name": "scrub",
+  "CenterPositionLon": -29.275524975949764,
+  "CenterPositionLat": 29.11502781094357
+ },
+ {
+  "ID": 508918942,
+  "Capacity": 42,
+  "Name": "scrub",
+  "CenterPositionLon": -29.274664222180007,
+  "CenterPositionLat": 29.114803285431908
+ },
+ {
+  "ID": 508918943,
+  "Capacity": 81,
+  "Name": "scrub",
+  "CenterPositionLon": -29.274075447811548,
+  "CenterPositionLat": 29.11478023021582
+ },
+ {
+  "ID": 508927382,
+  "Capacity": 169,
+  "Name": "scrub",
+  "CenterPositionLon": -29.282140120407597,
+  "CenterPositionLat": 29.13134713532683
+ },
+ {
+  "ID": 508942176,
+  "Capacity": 176,
+  "Name": "scrub",
+  "CenterPositionLon": -29.278987840896168,
+  "CenterPositionLat": 29.11555101711507
+ },
+ {
+  "ID": 508945582,
+  "Capacity": 53,
+  "Name": "scrub",
+  "CenterPositionLon": -29.27979039823068,
+  "CenterPositionLat": 29.13522801062395
+ },
+ {
+  "ID": 508951373,
+  "Capacity": 2126,
+  "Name": "scrub",
+  "CenterPositionLon": -29.23699484941448,
+  "CenterPositionLat": 29.0632232147135
+ },
+ {
+  "ID": 508951377,
+  "Capacity": 827,
+  "Name": "scrub",
+  "CenterPositionLon": -29.24350416369772,
+  "CenterPositionLat": 29.060898956614963
+ },
+ {
+  "ID": 508951378,
+  "Capacity": 363,
+  "Name": "scrub",
+  "CenterPositionLon": -29.24242919627604,
+  "CenterPositionLat": 29.06079881419022
+ },
+ {
+  "ID": 508952230,
+  "Capacity": 328,
+  "Name": "scrub",
+  "CenterPositionLon": -29.235043390131597,
+  "CenterPositionLat": 29.05738733948725
+ },
+ {
+  "ID": 508952231,
+  "Capacity": 432,
+  "Name": "scrub",
+  "CenterPositionLon": -29.23589362369797,
+  "CenterPositionLat": 29.06165242225059
+ },
+ {
+  "ID": 508952232,
+  "Capacity": 703,
+  "Name": "scrub",
+  "CenterPositionLon": -29.23974121670047,
+  "CenterPositionLat": 29.064731952060953
+ },
+ {
+  "ID": 508954442,
+  "Capacity": 1405,
+  "Name": "scrub",
+  "CenterPositionLon": -29.23004705129898,
+  "CenterPositionLat": 29.06852829277817
+ },
+ {
+  "ID": 508955555,
+  "Capacity": 573,
+  "Name": "scrub",
+  "CenterPositionLon": -29.230090331958518,
+  "CenterPositionLat": 29.064885262907946
+ },
+ {
+  "ID": 508957391,
+  "Capacity": 10228,
+  "Name": "scrub",
+  "CenterPositionLon": -29.238706551547345,
+  "CenterPositionLat": 29.104908607910172
+ },
+ {
+  "ID": 509193427,
+  "Capacity": 1664,
+  "Name": "scrub",
+  "CenterPositionLon": -29.247242073493073,
+  "CenterPositionLat": 29.094123048799243
+ },
+ {
+  "ID": 509195394,
+  "Capacity": 242,
+  "Name": "scrub",
+  "CenterPositionLon": -29.24651805289341,
+  "CenterPositionLat": 29.09475485710624
+ },
+ {
+  "ID": 509195395,
+  "Capacity": 268,
+  "Name": "scrub",
+  "CenterPositionLon": -29.24555423346215,
+  "CenterPositionLat": 29.095162697691737
+ },
+ {
+  "ID": 509200176,
+  "Capacity": 254,
+  "Name": "scrub",
+  "CenterPositionLon": -29.090757783290854,
+  "CenterPositionLat": 28.966227106720183
+ },
+ {
+  "ID": 509211470,
+  "Capacity": 525,
+  "Name": "scrub",
+  "CenterPositionLon": -29.21513293196295,
+  "CenterPositionLat": 28.877235719948917
+ },
+ {
+  "ID": 509214670,
+  "Capacity": 302,
+  "Name": "scrub",
+  "CenterPositionLon": -29.228130688688445,
+  "CenterPositionLat": 28.869117545659552
+ },
+ {
+  "ID": 509214674,
+  "Capacity": 194,
+  "Name": "scrub",
+  "CenterPositionLon": -29.219814070251086,
+  "CenterPositionLat": 28.86670907233024
+ },
+ {
+  "ID": 511964021,
+  "Capacity": 72,
+  "Name": "scrub",
+  "CenterPositionLon": -29.211130730423456,
+  "CenterPositionLat": 29.08130777336619
+ },
+ {
+  "ID": 511964022,
+  "Capacity": 1243,
+  "Name": "scrub",
+  "CenterPositionLon": -29.21518477442229,
+  "CenterPositionLat": 29.079310953755435
+ },
+ {
+  "ID": 511964024,
+  "Capacity": 12819,
+  "Name": "scrub",
+  "CenterPositionLon": -29.222618410177105,
+  "CenterPositionLat": 29.07479742411918
+ },
+ {
+  "ID": 511998658,
+  "Capacity": 2198,
+  "Name": "scrub",
+  "CenterPositionLon": -29.21262829250347,
+  "CenterPositionLat": 29.07463126373379
+ },
+ {
+  "ID": 512008442,
+  "Capacity": 923,
+  "Name": "scrub",
+  "CenterPositionLon": -29.135928217001805,
+  "CenterPositionLat": 28.851944788985694
+ },
+ {
+  "ID": 512294741,
+  "Capacity": 223,
+  "Name": "",
+  "CenterPositionLon": -29.29664141825506,
+  "CenterPositionLat": 28.81757255546747
+ },
+ {
+  "ID": 512299237,
+  "Capacity": 403,
+  "Name": "",
+  "CenterPositionLon": -29.318755776354887,
+  "CenterPositionLat": 28.785363988392792
+ },
+ {
+  "ID": 512299238,
+  "Capacity": 539,
+  "Name": "",
+  "CenterPositionLon": -29.319395475253753,
+  "CenterPositionLat": 28.786203103712644
+ },
+ {
+  "ID": 512299239,
+  "Capacity": 474,
+  "Name": "",
+  "CenterPositionLon": -29.320362528638622,
+  "CenterPositionLat": 28.78776381468112
+ },
+ {
+  "ID": 512302653,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": -29.306504192195238,
+  "CenterPositionLat": 28.79868232424406
+ },
+ {
+  "ID": 512302654,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": -29.306381499866824,
+  "CenterPositionLat": 28.79840912463744
+ },
+ {
+  "ID": 512302655,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": -29.30660238696593,
+  "CenterPositionLat": 28.798283578702637
+ },
+ {
+  "ID": 512302673,
+  "Capacity": 537,
+  "Name": "",
+  "CenterPositionLon": -29.319323845775834,
+  "CenterPositionLat": 28.78967987205523
+ },
+ {
+  "ID": 512302676,
+  "Capacity": 632,
+  "Name": "",
+  "CenterPositionLon": -29.32023205494011,
+  "CenterPositionLat": 28.79027210713046
+ },
+ {
+  "ID": 512302678,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": -29.323131046379185,
+  "CenterPositionLat": 28.791136920807045
+ },
+ {
+  "ID": 512302680,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": -29.322305400535235,
+  "CenterPositionLat": 28.79213705654669
+ },
+ {
+  "ID": 512302682,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": -29.321990928768212,
+  "CenterPositionLat": 28.792048943803675
+ },
+ {
+  "ID": 512302684,
+  "Capacity": 202,
+  "Name": "",
+  "CenterPositionLon": -29.321858717849658,
+  "CenterPositionLat": 28.79097509898191
+ },
+ {
+  "ID": 512302689,
+  "Capacity": 398,
+  "Name": "",
+  "CenterPositionLon": -29.32078066857037,
+  "CenterPositionLat": 28.78713884327388
+ },
+ {
+  "ID": 693937772,
+  "Capacity": 104066,
+  "Name": "",
+  "CenterPositionLon": -29.38552518428224,
+  "CenterPositionLat": 27.619004312143186
+ }
+]

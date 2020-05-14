@@ -1,0 +1,275 @@
+[
+ {
+  "ID": 32226507,
+  "Capacity": 9324,
+  "Name": "Joseph F Flores Beach Park",
+  "CenterPositionLon": 13.503142565013794,
+  "CenterPositionLat": 144.78816908088737
+ },
+ {
+  "ID": 32526508,
+  "Capacity": 7910,
+  "Name": "Robbie Webber Soccer Field",
+  "CenterPositionLon": 13.512098954814258,
+  "CenterPositionLat": 144.83151793534665
+ },
+ {
+  "ID": 254744854,
+  "Capacity": 9999,
+  "Name": "",
+  "CenterPositionLon": 13.510870832766479,
+  "CenterPositionLat": 144.82890478884727
+ },
+ {
+  "ID": 254754146,
+  "Capacity": 2804,
+  "Name": "Jose U Atogue Ballpark",
+  "CenterPositionLon": 13.439222097529044,
+  "CenterPositionLat": 144.76583586222637
+ },
+ {
+  "ID": 254754474,
+  "Capacity": 3377,
+  "Name": "",
+  "CenterPositionLon": 13.447055500736521,
+  "CenterPositionLat": 144.8007537483986
+ },
+ {
+  "ID": 254755968,
+  "Capacity": 3405,
+  "Name": "Admiral William E Leahy Sports Complex",
+  "CenterPositionLon": 13.474224784849481,
+  "CenterPositionLat": 144.80585330812974
+ },
+ {
+  "ID": 254983418,
+  "Capacity": 2634,
+  "Name": "",
+  "CenterPositionLon": 13.50125364476834,
+  "CenterPositionLat": 144.7823293478945
+ },
+ {
+  "ID": 256256192,
+  "Capacity": 2405,
+  "Name": "",
+  "CenterPositionLon": 13.558385698786367,
+  "CenterPositionLat": 144.84465339926447
+ },
+ {
+  "ID": 268244306,
+  "Capacity": 1252,
+  "Name": "Fort Soledad",
+  "CenterPositionLon": 13.294790501455322,
+  "CenterPositionLat": 144.66081763556207
+ },
+ {
+  "ID": 289489454,
+  "Capacity": 1762,
+  "Name": "Plaza de Espana",
+  "CenterPositionLon": 13.473990204362787,
+  "CenterPositionLat": 144.7514972750781
+ },
+ {
+  "ID": 328928224,
+  "Capacity": 2134,
+  "Name": "Lencho Park",
+  "CenterPositionLon": 13.517513026122124,
+  "CenterPositionLat": 144.8393701396538
+ },
+ {
+  "ID": 388446757,
+  "Capacity": 6646,
+  "Name": "Apaca Point, War in the Pacific National Historical Park",
+  "CenterPositionLon": 13.40297514643876,
+  "CenterPositionLat": 144.66282296562875
+ },
+ {
+  "ID": 388446758,
+  "Capacity": 2916,
+  "Name": "Ga'an Point, War in the Pacific National Historical Park",
+  "CenterPositionLon": 13.38691878874057,
+  "CenterPositionLat": 144.65776391388806
+ },
+ {
+  "ID": 399546482,
+  "Capacity": 377,
+  "Name": "",
+  "CenterPositionLon": 13.476619755186414,
+  "CenterPositionLat": 144.75021154410362
+ },
+ {
+  "ID": 399546483,
+  "Capacity": 736,
+  "Name": "",
+  "CenterPositionLon": 13.476268250265544,
+  "CenterPositionLat": 144.75164997351976
+ },
+ {
+  "ID": 399546733,
+  "Capacity": 1219,
+  "Name": "Latte Stone Park",
+  "CenterPositionLon": 13.47224331746346,
+  "CenterPositionLat": 144.7512928106764
+ },
+ {
+  "ID": 426096015,
+  "Capacity": 17474,
+  "Name": "Dano Park",
+  "CenterPositionLon": 13.23657308480186,
+  "CenterPositionLat": 144.64898347389783
+ },
+ {
+  "ID": 456682251,
+  "Capacity": 9615,
+  "Name": "Piti Guns Unit War In the Pacific National Historical Park",
+  "CenterPositionLon": 13.459837373384822,
+  "CenterPositionLat": 144.69486536339548
+ },
+ {
+  "ID": 481693035,
+  "Capacity": 1085,
+  "Name": "Mangilao Rookie Leauge Baseball Fields",
+  "CenterPositionLon": 13.44871840242883,
+  "CenterPositionLat": 144.80343697118198
+ },
+ {
+  "ID": 481694277,
+  "Capacity": 695,
+  "Name": "Overflow Parking",
+  "CenterPositionLon": 13.432175605195711,
+  "CenterPositionLat": 144.80045740020932
+ },
+ {
+  "ID": 481713705,
+  "Capacity": 877,
+  "Name": "President's Grove",
+  "CenterPositionLon": 13.434616785982952,
+  "CenterPositionLat": 144.802261000912
+ },
+ {
+  "ID": 481714546,
+  "Capacity": 2573,
+  "Name": "University of Guam Courtyard",
+  "CenterPositionLon": 13.431971824019405,
+  "CenterPositionLat": 144.80313317453843
+ },
+ {
+  "ID": 503857055,
+  "Capacity": 628,
+  "Name": "Piti Ballpark",
+  "CenterPositionLon": 13.45964821419576,
+  "CenterPositionLat": 144.69196736765372
+ },
+ {
+  "ID": 503860327,
+  "Capacity": 1286,
+  "Name": "Pedro Santos Park",
+  "CenterPositionLon": 13.464693290398557,
+  "CenterPositionLat": 144.69272625325974
+ },
+ {
+  "ID": 503860329,
+  "Capacity": 936,
+  "Name": "Hoover Park",
+  "CenterPositionLon": 13.463959814707884,
+  "CenterPositionLat": 144.691885684119
+ },
+ {
+  "ID": 503874704,
+  "Capacity": 1192,
+  "Name": "Adelup Park",
+  "CenterPositionLon": 13.478741599326234,
+  "CenterPositionLat": 144.72990527013562
+ },
+ {
+  "ID": 504214572,
+  "Capacity": 1097,
+  "Name": "Atantano Shrine",
+  "CenterPositionLon": 13.424147541343816,
+  "CenterPositionLat": 144.67827244675289
+ },
+ {
+  "ID": 504322436,
+  "Capacity": 869,
+  "Name": "Asan Community Center",
+  "CenterPositionLon": 13.471936780135376,
+  "CenterPositionLat": 144.7162849428633
+ },
+ {
+  "ID": 506027771,
+  "Capacity": 2554,
+  "Name": "Ipan Beach Park",
+  "CenterPositionLon": 13.360185054606605,
+  "CenterPositionLat": 144.77099166608238
+ },
+ {
+  "ID": 506032672,
+  "Capacity": 8238,
+  "Name": "Paseo De Susana Park",
+  "CenterPositionLon": 13.479487950594923,
+  "CenterPositionLat": 144.75319074239036
+ },
+ {
+  "ID": 506033314,
+  "Capacity": 494,
+  "Name": "Triangle Park",
+  "CenterPositionLon": 13.470865507854725,
+  "CenterPositionLat": 144.7512011035124
+ },
+ {
+  "ID": 507791525,
+  "Capacity": 766,
+  "Name": "Talofofo Ballpark",
+  "CenterPositionLon": 13.354383850394449,
+  "CenterPositionLat": 144.75510566375567
+ },
+ {
+  "ID": 552168870,
+  "Capacity": 15071,
+  "Name": "Arc Light Memorial Park",
+  "CenterPositionLon": 13.569399262260626,
+  "CenterPositionLat": 144.92079669974837
+ },
+ {
+  "ID": 552924891,
+  "Capacity": 1267,
+  "Name": "Talo Verde Central Park",
+  "CenterPositionLon": 13.499463487584407,
+  "CenterPositionLat": 144.79271478599046
+ },
+ {
+  "ID": 558799213,
+  "Capacity": 778,
+  "Name": "Chinese Park",
+  "CenterPositionLon": 13.502947695041062,
+  "CenterPositionLat": 144.80095024335577
+ },
+ {
+  "ID": 584377430,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 13.374407419566703,
+  "CenterPositionLat": 144.7384018825879
+ },
+ {
+  "ID": 589337274,
+  "Capacity": 124,
+  "Name": "Cindo Park",
+  "CenterPositionLon": 13.471939947057066,
+  "CenterPositionLat": 144.76479536489617
+ },
+ {
+  "ID": 606591976,
+  "Capacity": 253,
+  "Name": "Chief Quipuha Park",
+  "CenterPositionLon": 13.477315839213146,
+  "CenterPositionLat": 144.75391176941716
+ },
+ {
+  "ID": 616387730,
+  "Capacity": 25373,
+  "Name": "Asan Memorial Beach Unit War in the Pacific National Historical Park",
+  "CenterPositionLon": 13.473675189835685,
+  "CenterPositionLat": 144.70926489275323
+ }
+]

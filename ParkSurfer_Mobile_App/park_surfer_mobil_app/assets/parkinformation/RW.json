@@ -1,0 +1,233 @@
+[
+ {
+  "ID": 125898414,
+  "Capacity": 3915,
+  "Name": "",
+  "CenterPositionLon": -1.9460560685278556,
+  "CenterPositionLat": 30.092270145091106
+ },
+ {
+  "ID": 173161712,
+  "Capacity": 1224,
+  "Name": "",
+  "CenterPositionLon": -1.9383906245680698,
+  "CenterPositionLat": 30.08014917208504
+ },
+ {
+  "ID": 173165126,
+  "Capacity": 3515,
+  "Name": "",
+  "CenterPositionLon": -1.9453739645329244,
+  "CenterPositionLat": 30.130903116957402
+ },
+ {
+  "ID": 236533790,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": -1.7992751814981596,
+  "CenterPositionLat": 30.505046578100245
+ },
+ {
+  "ID": 236533791,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": -1.7994368336244095,
+  "CenterPositionLat": 30.504546785091463
+ },
+ {
+  "ID": 266069385,
+  "Capacity": 281,
+  "Name": "",
+  "CenterPositionLon": -1.688293083361567,
+  "CenterPositionLat": 29.248413045843776
+ },
+ {
+  "ID": 266069386,
+  "Capacity": 321,
+  "Name": "",
+  "CenterPositionLon": -1.6881686664962146,
+  "CenterPositionLat": 29.247960323588288
+ },
+ {
+  "ID": 312768620,
+  "Capacity": 2667,
+  "Name": "",
+  "CenterPositionLon": -2.7139474299086004,
+  "CenterPositionLat": 29.605252828240165
+ },
+ {
+  "ID": 312768621,
+  "Capacity": 930,
+  "Name": "",
+  "CenterPositionLon": -2.7155118273525973,
+  "CenterPositionLat": 29.60482167525965
+ },
+ {
+  "ID": 312817253,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": -2.8000396890224137,
+  "CenterPositionLat": 29.620287620926597
+ },
+ {
+  "ID": 352855706,
+  "Capacity": 690,
+  "Name": "",
+  "CenterPositionLon": -1.9268806828518006,
+  "CenterPositionLat": 30.092178420063473
+ },
+ {
+  "ID": 352856655,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": -1.9264511109649307,
+  "CenterPositionLat": 30.09289916336759
+ },
+ {
+  "ID": 354871524,
+  "Capacity": 203,
+  "Name": "Kigali park",
+  "CenterPositionLon": -1.9626771786880408,
+  "CenterPositionLat": 30.061647346310597
+ },
+ {
+  "ID": 361498777,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": -2.5175869684527172,
+  "CenterPositionLat": 28.89647731445175
+ },
+ {
+  "ID": 436749613,
+  "Capacity": 1124,
+  "Name": "Ngoma Playground",
+  "CenterPositionLon": -2.6004906027034043,
+  "CenterPositionLat": 29.724729134261125
+ },
+ {
+  "ID": 443893938,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -1.9509070549717302,
+  "CenterPositionLat": 30.048099717799687
+ },
+ {
+  "ID": 443893953,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": -1.9500542092396433,
+  "CenterPositionLat": 30.047811298593707
+ },
+ {
+  "ID": 494328971,
+  "Capacity": 344,
+  "Name": "",
+  "CenterPositionLon": -1.9368752366339375,
+  "CenterPositionLat": 30.078831161178044
+ },
+ {
+  "ID": 565748031,
+  "Capacity": 1142,
+  "Name": "",
+  "CenterPositionLon": -1.9561846906022164,
+  "CenterPositionLat": 30.10879912946749
+ },
+ {
+  "ID": 565748032,
+  "Capacity": 320,
+  "Name": "",
+  "CenterPositionLon": -1.955449129415871,
+  "CenterPositionLat": 30.10809412737111
+ },
+ {
+  "ID": 580144239,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": -1.9259810346455668,
+  "CenterPositionLat": 30.090573863924828
+ },
+ {
+  "ID": 580144240,
+  "Capacity": 329,
+  "Name": "",
+  "CenterPositionLon": -1.9258926317961593,
+  "CenterPositionLat": 30.091183351849473
+ },
+ {
+  "ID": 586845691,
+  "Capacity": 328,
+  "Name": "",
+  "CenterPositionLon": -1.6748219977659125,
+  "CenterPositionLat": 29.339144600586774
+ },
+ {
+  "ID": 586845736,
+  "Capacity": 204,
+  "Name": "",
+  "CenterPositionLon": -1.6831323049866564,
+  "CenterPositionLat": 29.35385989025317
+ },
+ {
+  "ID": 586845773,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": -1.6733930190880142,
+  "CenterPositionLat": 29.35899611557258
+ },
+ {
+  "ID": 588426315,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": -1.5076898122650828,
+  "CenterPositionLat": 29.63717976695986
+ },
+ {
+  "ID": 588426350,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": -1.5048843501241216,
+  "CenterPositionLat": 29.637787028417957
+ },
+ {
+  "ID": 617191748,
+  "Capacity": 2290,
+  "Name": "Juru Park",
+  "CenterPositionLon": -1.996056814604197,
+  "CenterPositionLat": 30.070661382015572
+ },
+ {
+  "ID": 625725390,
+  "Capacity": 267,
+  "Name": "",
+  "CenterPositionLon": -1.5013949335670584,
+  "CenterPositionLat": 29.611085153833102
+ },
+ {
+  "ID": 672091130,
+  "Capacity": 243,
+  "Name": "",
+  "CenterPositionLon": -1.954403355861044,
+  "CenterPositionLat": 30.06103342727396
+ },
+ {
+  "ID": 751494425,
+  "Capacity": 744,
+  "Name": "",
+  "CenterPositionLon": -2.070238878793094,
+  "CenterPositionLat": 29.351198879344334
+ },
+ {
+  "ID": 765200556,
+  "Capacity": 728,
+  "Name": "Camp kigali parking",
+  "CenterPositionLon": -1.9606880207273047,
+  "CenterPositionLat": 30.062286919279547
+ },
+ {
+  "ID": 781719538,
+  "Capacity": 116,
+  "Name": "Imfura Park",
+  "CenterPositionLon": -1.9486812862744507,
+  "CenterPositionLat": 30.060806040051673
+ }
+]

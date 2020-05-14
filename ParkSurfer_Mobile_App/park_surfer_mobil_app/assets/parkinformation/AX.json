@@ -1,0 +1,331 @@
+[
+ {
+  "ID": 34561808,
+  "Capacity": 6517,
+  "Name": "Lilla holmen",
+  "CenterPositionLon": 60.09595858696356,
+  "CenterPositionLat": 19.95076800182924
+ },
+ {
+  "ID": 171773512,
+  "Capacity": 1216,
+  "Name": "Esplanaden",
+  "CenterPositionLon": 60.096941855407174,
+  "CenterPositionLat": 19.932841191105652
+ },
+ {
+  "ID": 171773513,
+  "Capacity": 804,
+  "Name": "Esplanaden",
+  "CenterPositionLon": 60.096780900931876,
+  "CenterPositionLat": 19.930042871245462
+ },
+ {
+  "ID": 171773514,
+  "Capacity": 1231,
+  "Name": "Esplanaden",
+  "CenterPositionLon": 60.0971927997469,
+  "CenterPositionLat": 19.937041931486718
+ },
+ {
+  "ID": 171773515,
+  "Capacity": 1150,
+  "Name": "Esplanaden",
+  "CenterPositionLon": 60.09741230019761,
+  "CenterPositionLat": 19.940655468155654
+ },
+ {
+  "ID": 229021670,
+  "Capacity": 163,
+  "Name": "Tusenskönan",
+  "CenterPositionLon": 60.10036567197822,
+  "CenterPositionLat": 19.939838694114957
+ },
+ {
+  "ID": 305761874,
+  "Capacity": 2039,
+  "Name": "Stadshusbacken",
+  "CenterPositionLon": 60.09683819955366,
+  "CenterPositionLat": 19.943468422991113
+ },
+ {
+  "ID": 305814739,
+  "Capacity": 1212,
+  "Name": "Horelliparken",
+  "CenterPositionLon": 60.082586759012344,
+  "CenterPositionLat": 19.935990885571094
+ },
+ {
+  "ID": 306475870,
+  "Capacity": 5909,
+  "Name": "Vikingabyn / Vikingamarknaden",
+  "CenterPositionLon": 60.27149217184758,
+  "CenterPositionLat": 20.059323734250864
+ },
+ {
+  "ID": 329117747,
+  "Capacity": 29407,
+  "Name": "Tullarns äng",
+  "CenterPositionLon": 60.094333312561126,
+  "CenterPositionLat": 19.949018672199298
+ },
+ {
+  "ID": 453577663,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 60.15413619537643,
+  "CenterPositionLat": 19.94861429494182
+ },
+ {
+  "ID": 491695309,
+  "Capacity": 1919,
+  "Name": "Lindan",
+  "CenterPositionLon": 60.09254543818648,
+  "CenterPositionLat": 19.941992632899293
+ },
+ {
+  "ID": 493148135,
+  "Capacity": 2761,
+  "Name": "Miramarparken",
+  "CenterPositionLon": 60.1013934691251,
+  "CenterPositionLat": 19.944271422563546
+ },
+ {
+  "ID": 493216931,
+  "Capacity": 619,
+  "Name": "Wirénska parken",
+  "CenterPositionLon": 60.09822351685377,
+  "CenterPositionLat": 19.943458625192847
+ },
+ {
+  "ID": 493232273,
+  "Capacity": 704,
+  "Name": "Sundbloms skvären",
+  "CenterPositionLon": 60.09765091001479,
+  "CenterPositionLat": 19.94340371565135
+ },
+ {
+  "ID": 493255832,
+  "Capacity": 10503,
+  "Name": "Badhusparken",
+  "CenterPositionLon": 60.09902342070916,
+  "CenterPositionLat": 19.926652815769273
+ },
+ {
+  "ID": 493255833,
+  "Capacity": 651,
+  "Name": "Engelska parken",
+  "CenterPositionLon": 60.09770741265038,
+  "CenterPositionLat": 19.926151282717075
+ },
+ {
+  "ID": 493261712,
+  "Capacity": 589,
+  "Name": "",
+  "CenterPositionLon": 60.09802967375566,
+  "CenterPositionLat": 19.93464743868448
+ },
+ {
+  "ID": 493261713,
+  "Capacity": 402,
+  "Name": "",
+  "CenterPositionLon": 60.098833278104976,
+  "CenterPositionLat": 19.934438546677733
+ },
+ {
+  "ID": 527070511,
+  "Capacity": 324,
+  "Name": "",
+  "CenterPositionLon": 60.09581849267506,
+  "CenterPositionLat": 19.935190129036158
+ },
+ {
+  "ID": 527070512,
+  "Capacity": 865,
+  "Name": "",
+  "CenterPositionLon": 60.094951005552545,
+  "CenterPositionLat": 19.935395531658653
+ },
+ {
+  "ID": 527070540,
+  "Capacity": 478,
+  "Name": "Självstyrelseparken",
+  "CenterPositionLon": 60.098845438079685,
+  "CenterPositionLat": 19.944546796159607
+ },
+ {
+  "ID": 529235022,
+  "Capacity": 895,
+  "Name": "",
+  "CenterPositionLon": 60.09370294888776,
+  "CenterPositionLat": 19.935717455237796
+ },
+ {
+  "ID": 544350238,
+  "Capacity": 5548,
+  "Name": "",
+  "CenterPositionLon": 60.120702238194376,
+  "CenterPositionLat": 19.947003096743806
+ },
+ {
+  "ID": 544899361,
+  "Capacity": 8593,
+  "Name": "Hindersböleängarna",
+  "CenterPositionLon": 60.117658024980976,
+  "CenterPositionLat": 19.955713999347363
+ },
+ {
+  "ID": 545311530,
+  "Capacity": 2628,
+  "Name": "",
+  "CenterPositionLon": 60.26270311810339,
+  "CenterPositionLat": 19.9332524757276
+ },
+ {
+  "ID": 545327637,
+  "Capacity": 4582,
+  "Name": "",
+  "CenterPositionLon": 60.11018702142999,
+  "CenterPositionLat": 19.944204428773002
+ },
+ {
+  "ID": 555527202,
+  "Capacity": 2261,
+  "Name": "",
+  "CenterPositionLon": 60.07742453903373,
+  "CenterPositionLat": 19.94070994985305
+ },
+ {
+  "ID": 574891027,
+  "Capacity": 283,
+  "Name": "",
+  "CenterPositionLon": 60.09657977903496,
+  "CenterPositionLat": 19.928000646729572
+ },
+ {
+  "ID": 577268082,
+  "Capacity": 1174,
+  "Name": "",
+  "CenterPositionLon": 60.23142964309807,
+  "CenterPositionLat": 19.987629636616496
+ },
+ {
+  "ID": 577564174,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": 60.22752953846825,
+  "CenterPositionLat": 19.977438084145817
+ },
+ {
+  "ID": 580259698,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 60.091062030311285,
+  "CenterPositionLat": 19.930246257757045
+ },
+ {
+  "ID": 584444508,
+  "Capacity": 723,
+  "Name": "Ateljéparken",
+  "CenterPositionLon": 60.08630968744913,
+  "CenterPositionLat": 19.954723858325135
+ },
+ {
+  "ID": 586408661,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 60.120529123497306,
+  "CenterPositionLat": 19.9383295562091
+ },
+ {
+  "ID": 656815233,
+  "Capacity": 1407,
+  "Name": "Boviks parken",
+  "CenterPositionLon": 60.26338673447337,
+  "CenterPositionLat": 19.7042047638043
+ },
+ {
+  "ID": 687581675,
+  "Capacity": 116,
+  "Name": "Kvarnbo Parken",
+  "CenterPositionLon": 60.275744698010854,
+  "CenterPositionLat": 20.06265429338582
+ },
+ {
+  "ID": 687581676,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 60.27564145099952,
+  "CenterPositionLat": 20.062480956364872
+ },
+ {
+  "ID": 757527416,
+  "Capacity": 997,
+  "Name": "",
+  "CenterPositionLon": 60.299287075548236,
+  "CenterPositionLat": 19.969061336247385
+ },
+ {
+  "ID": 757527419,
+  "Capacity": 1200,
+  "Name": "",
+  "CenterPositionLon": 60.30765025916517,
+  "CenterPositionLat": 19.968248579871872
+ },
+ {
+  "ID": 757527420,
+  "Capacity": 823,
+  "Name": "",
+  "CenterPositionLon": 60.30709002212035,
+  "CenterPositionLat": 19.967411494659768
+ },
+ {
+  "ID": 757527421,
+  "Capacity": 447,
+  "Name": "",
+  "CenterPositionLon": 60.308716989246335,
+  "CenterPositionLat": 19.979746983088756
+ },
+ {
+  "ID": 757527422,
+  "Capacity": 14921,
+  "Name": "",
+  "CenterPositionLon": 60.30167730473884,
+  "CenterPositionLat": 19.99328457189415
+ },
+ {
+  "ID": 757527423,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 60.30316785957342,
+  "CenterPositionLat": 19.992051505302516
+ },
+ {
+  "ID": 757527424,
+  "Capacity": 11617,
+  "Name": "",
+  "CenterPositionLon": 60.30301195937997,
+  "CenterPositionLat": 19.99061445206148
+ },
+ {
+  "ID": 757527425,
+  "Capacity": 1275,
+  "Name": "",
+  "CenterPositionLon": 60.299585583513796,
+  "CenterPositionLat": 19.968187394054613
+ },
+ {
+  "ID": 757527426,
+  "Capacity": 533,
+  "Name": "",
+  "CenterPositionLon": 60.29985814775741,
+  "CenterPositionLat": 19.968938924599506
+ },
+ {
+  "ID": 759676088,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 60.1017532162787,
+  "CenterPositionLat": 19.942375360333198
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "ID": 6275507,
+  "Capacity": 2709,
+  "Name": "Parc Central",
+  "CenterPositionLon": 42.505952014697954,
+  "CenterPositionLat": 1.5258269162841975
+ },
+ {
+  "ID": 25770728,
+  "Capacity": 185,
+  "Name": "Plaça Guillemó",
+  "CenterPositionLon": 42.50819771306796,
+  "CenterPositionLat": 1.521627580525545
+ },
+ {
+  "ID": 194525693,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 42.468038125209645,
+  "CenterPositionLat": 1.4929211522143488
+ },
+ {
+  "ID": 194554950,
+  "Capacity": 566,
+  "Name": "",
+  "CenterPositionLon": 42.50968829105824,
+  "CenterPositionLat": 1.5370870351730965
+ },
+ {
+  "ID": 194554962,
+  "Capacity": 846,
+  "Name": "",
+  "CenterPositionLon": 42.510362149725296,
+  "CenterPositionLat": 1.5372500397254345
+ },
+ {
+  "ID": 200522662,
+  "Capacity": 2170,
+  "Name": "Parc del Prat Gran",
+  "CenterPositionLon": 42.534111725992744,
+  "CenterPositionLat": 1.578477118840526
+ },
+ {
+  "ID": 226847051,
+  "Capacity": 77,
+  "Name": "Plaça Príncep Benlloch",
+  "CenterPositionLon": 42.507619000000005,
+  "CenterPositionLat": 1.5220078666666668
+ },
+ {
+  "ID": 247994524,
+  "Capacity": 448,
+  "Name": "Parc de la Mola",
+  "CenterPositionLon": 42.51110978672454,
+  "CenterPositionLat": 1.5390186316567638
+ },
+ {
+  "ID": 270885831,
+  "Capacity": 173,
+  "Name": "Plaça Rebés",
+  "CenterPositionLon": 42.50745302131427,
+  "CenterPositionLat": 1.5227172484589935
+ },
+ {
+  "ID": 293095351,
+  "Capacity": 1646,
+  "Name": "Parc Prat Gran",
+  "CenterPositionLon": 42.549066442316864,
+  "CenterPositionLat": 1.511765825377493
+ },
+ {
+  "ID": 293106080,
+  "Capacity": 352,
+  "Name": "Piscina Prat del Molí",
+  "CenterPositionLon": 42.54485971691099,
+  "CenterPositionLat": 1.51660287580077
+ },
+ {
+  "ID": 320001516,
+  "Capacity": 760,
+  "Name": "",
+  "CenterPositionLon": 42.5056505023927,
+  "CenterPositionLat": 1.5273937613374085
+ },
+ {
+  "ID": 361846817,
+  "Capacity": 181,
+  "Name": "Plaça del Poble",
+  "CenterPositionLon": 42.50683884400156,
+  "CenterPositionLat": 1.5223707813459515
+ },
+ {
+  "ID": 398296264,
+  "Capacity": 193,
+  "Name": "",
+  "CenterPositionLon": 42.578819197829795,
+  "CenterPositionLat": 1.6532372311119434
+ },
+ {
+  "ID": 551433983,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 42.54374235247283,
+  "CenterPositionLat": 1.7337479846417223
+ },
+ {
+  "ID": 553345908,
+  "Capacity": 85,
+  "Name": "Plaza del monumento al inmigrante",
+  "CenterPositionLon": 42.506830473749766,
+  "CenterPositionLat": 1.5201989161186193
+ },
+ {
+  "ID": 553345911,
+  "Capacity": 14,
+  "Name": "Plaza del Contrapas",
+  "CenterPositionLon": 42.50708682997811,
+  "CenterPositionLat": 1.5211340900166115
+ },
+ {
+  "ID": 565491814,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": 42.5107433,
+  "CenterPositionLat": 1.5360643666666665
+ },
+ {
+  "ID": 565492628,
+  "Capacity": 286,
+  "Name": "",
+  "CenterPositionLon": 42.505645715887844,
+  "CenterPositionLat": 1.5234389423398687
+ },
+ {
+  "ID": 565493750,
+  "Capacity": 358,
+  "Name": "",
+  "CenterPositionLon": 42.49486780594936,
+  "CenterPositionLat": 1.4984441738186196
+ },
+ {
+  "ID": 610566777,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 42.546442046843964,
+  "CenterPositionLat": 1.5092931765511481
+ },
+ {
+  "ID": 664719127,
+  "Capacity": 253,
+  "Name": "Parc de la Gent Gran",
+  "CenterPositionLon": 42.53526979008105,
+  "CenterPositionLat": 1.5811962352243485
+ },
+ {
+  "ID": 713157069,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 42.55583062560195,
+  "CenterPositionLat": 1.534819403347074
+ },
+ {
+  "ID": 766852015,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 42.51217175161588,
+  "CenterPositionLat": 1.5397030772800928
+ }
+]

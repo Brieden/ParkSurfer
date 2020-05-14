@@ -1,0 +1,2116 @@
+[
+ {
+  "ID": 48233521,
+  "Capacity": 371,
+  "Name": "Place Boyer",
+  "CenterPositionLon": 18.512765061560938,
+  "CenterPositionLat": -72.28220650359523
+ },
+ {
+  "ID": 48233545,
+  "Capacity": 445,
+  "Name": "Place Saint-Pierre",
+  "CenterPositionLon": 18.510275948584294,
+  "CenterPositionLat": -72.28705910653836
+ },
+ {
+  "ID": 48237184,
+  "Capacity": 5055,
+  "Name": "",
+  "CenterPositionLon": 18.546023163158235,
+  "CenterPositionLat": -72.31052339917284
+ },
+ {
+  "ID": 48237535,
+  "Capacity": 598,
+  "Name": "Square des Nations Unies",
+  "CenterPositionLon": 18.549111130773394,
+  "CenterPositionLat": -72.34798453500021
+ },
+ {
+  "ID": 48287797,
+  "Capacity": 272,
+  "Name": "Place Sainte Anne",
+  "CenterPositionLon": 18.54130615343815,
+  "CenterPositionLat": -72.34396424857374
+ },
+ {
+  "ID": 48305945,
+  "Capacity": 284,
+  "Name": "",
+  "CenterPositionLon": 18.539772500294976,
+  "CenterPositionLat": -72.3366491115975
+ },
+ {
+  "ID": 48329801,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": 18.543714619495905,
+  "CenterPositionLat": -72.40055585994992
+ },
+ {
+  "ID": 48330034,
+  "Capacity": 639,
+  "Name": "Place Louverture",
+  "CenterPositionLon": 18.543282661653066,
+  "CenterPositionLat": -72.33839194805992
+ },
+ {
+  "ID": 48330726,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": 18.55103668286138,
+  "CenterPositionLat": -72.34667811851187
+ },
+ {
+  "ID": 48330848,
+  "Capacity": 5101,
+  "Name": "Parc Jean Marie Vincent",
+  "CenterPositionLon": 18.562245482665876,
+  "CenterPositionLat": -72.33510956720856
+ },
+ {
+  "ID": 48359802,
+  "Capacity": 159,
+  "Name": "Place D'Armes",
+  "CenterPositionLon": 18.235125824516416,
+  "CenterPositionLat": -72.53672537089892
+ },
+ {
+  "ID": 48370581,
+  "Capacity": 242,
+  "Name": "Place Savanne la Poudrière",
+  "CenterPositionLon": 19.446446965688033,
+  "CenterPositionLat": -72.68816561918014
+ },
+ {
+  "ID": 48371950,
+  "Capacity": 317,
+  "Name": "Savanne Christ",
+  "CenterPositionLon": 19.45015317214243,
+  "CenterPositionLat": -72.69264015943064
+ },
+ {
+  "ID": 48389963,
+  "Capacity": 917,
+  "Name": "",
+  "CenterPositionLon": 18.5349699707734,
+  "CenterPositionLat": -72.38800071928546
+ },
+ {
+  "ID": 48411458,
+  "Capacity": 275,
+  "Name": "",
+  "CenterPositionLon": 19.761581239073546,
+  "CenterPositionLat": -72.20063609317516
+ },
+ {
+  "ID": 48415386,
+  "Capacity": 59,
+  "Name": "Park Montache",
+  "CenterPositionLon": 19.76165635210685,
+  "CenterPositionLat": -72.20279217414078
+ },
+ {
+  "ID": 48423555,
+  "Capacity": 199,
+  "Name": "Parc Vincent Carnegie",
+  "CenterPositionLon": 19.766137911919092,
+  "CenterPositionLat": -72.19567315041151
+ },
+ {
+  "ID": 48486169,
+  "Capacity": 517,
+  "Name": "Place d'Armes",
+  "CenterPositionLon": 18.27953521975379,
+  "CenterPositionLat": -73.39433073044127
+ },
+ {
+  "ID": 48486388,
+  "Capacity": 816,
+  "Name": "Parc Dupin Castor Fils",
+  "CenterPositionLon": 18.281838953126353,
+  "CenterPositionLat": -73.39938539448788
+ },
+ {
+  "ID": 48491538,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 18.429656222757323,
+  "CenterPositionLat": -72.76991600425451
+ },
+ {
+  "ID": 48527087,
+  "Capacity": 253,
+  "Name": "Place Charlemagne Péralte",
+  "CenterPositionLon": 19.14463406700385,
+  "CenterPositionLat": -72.00601954920441
+ },
+ {
+  "ID": 48546409,
+  "Capacity": 213,
+  "Name": "Place d’Armes",
+  "CenterPositionLon": 18.43287265,
+  "CenterPositionLat": -72.86648405000001
+ },
+ {
+  "ID": 48561140,
+  "Capacity": 23,
+  "Name": "Place Capois la Mort",
+  "CenterPositionLon": 19.939787631297968,
+  "CenterPositionLat": -72.83056683106125
+ },
+ {
+  "ID": 48570736,
+  "Capacity": 305,
+  "Name": "Place d'Armes d'Arcahaie",
+  "CenterPositionLon": 18.77003946926605,
+  "CenterPositionLat": -72.51257343158507
+ },
+ {
+  "ID": 48587502,
+  "Capacity": 308,
+  "Name": "Place Notre-Dame",
+  "CenterPositionLon": 19.550734470559902,
+  "CenterPositionLat": -71.72448570499165
+ },
+ {
+  "ID": 48592164,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": 18.54389449530217,
+  "CenterPositionLat": -72.33697967603086
+ },
+ {
+  "ID": 48636346,
+  "Capacity": 548,
+  "Name": "",
+  "CenterPositionLon": 18.61814276944457,
+  "CenterPositionLat": -72.24859960310447
+ },
+ {
+  "ID": 48657235,
+  "Capacity": 403,
+  "Name": "",
+  "CenterPositionLon": 18.626570888371862,
+  "CenterPositionLat": -72.2675701955319
+ },
+ {
+  "ID": 48657236,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 18.62708165582314,
+  "CenterPositionLat": -72.2660513946672
+ },
+ {
+  "ID": 48657524,
+  "Capacity": 1109,
+  "Name": "",
+  "CenterPositionLon": 18.636272421560598,
+  "CenterPositionLat": -72.26585686996573
+ },
+ {
+  "ID": 48659492,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 18.575176591858828,
+  "CenterPositionLat": -72.29682770345771
+ },
+ {
+  "ID": 48659493,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 18.574965809879007,
+  "CenterPositionLat": -72.2963117830574
+ },
+ {
+  "ID": 48659494,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 18.574904220853114,
+  "CenterPositionLat": -72.29671779963127
+ },
+ {
+  "ID": 48659720,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 18.57488343200527,
+  "CenterPositionLat": -72.30480483668157
+ },
+ {
+  "ID": 48661080,
+  "Capacity": 254,
+  "Name": "",
+  "CenterPositionLon": 18.431514577673404,
+  "CenterPositionLat": -72.85891962758983
+ },
+ {
+  "ID": 48663258,
+  "Capacity": 387,
+  "Name": "",
+  "CenterPositionLon": 18.548341954907613,
+  "CenterPositionLat": -72.28773203018444
+ },
+ {
+  "ID": 48684049,
+  "Capacity": 119,
+  "Name": "",
+  "CenterPositionLon": 19.336782619412027,
+  "CenterPositionLat": -72.1152397401982
+ },
+ {
+  "ID": 48705212,
+  "Capacity": 262,
+  "Name": "Place Publique de Limonade",
+  "CenterPositionLon": 19.669516692034446,
+  "CenterPositionLat": -72.1265259061316
+ },
+ {
+  "ID": 48747118,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 18.507022004100683,
+  "CenterPositionLat": -72.62828994585192
+ },
+ {
+  "ID": 48747119,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 18.506626542987945,
+  "CenterPositionLat": -72.62826117724478
+ },
+ {
+  "ID": 48747120,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 18.50836083020523,
+  "CenterPositionLat": -72.6297041288735
+ },
+ {
+  "ID": 48793953,
+  "Capacity": 8514,
+  "Name": "",
+  "CenterPositionLon": 19.723539994577205,
+  "CenterPositionLat": -72.19710502578882
+ },
+ {
+  "ID": 48832335,
+  "Capacity": 323,
+  "Name": "",
+  "CenterPositionLon": 18.570749640239317,
+  "CenterPositionLat": -72.29149057134548
+ },
+ {
+  "ID": 49154624,
+  "Capacity": 111,
+  "Name": "",
+  "CenterPositionLon": 19.706164863990427,
+  "CenterPositionLat": -72.40268156779996
+ },
+ {
+  "ID": 49187698,
+  "Capacity": 4898,
+  "Name": "Parc du Repos",
+  "CenterPositionLon": 19.710160495430205,
+  "CenterPositionLat": -72.27681499096825
+ },
+ {
+  "ID": 49810896,
+  "Capacity": 526,
+  "Name": "",
+  "CenterPositionLon": 18.532884800328997,
+  "CenterPositionLat": -72.30242976038348
+ },
+ {
+  "ID": 49988666,
+  "Capacity": 2092,
+  "Name": "",
+  "CenterPositionLon": 18.519968685299474,
+  "CenterPositionLat": -72.29686788601073
+ },
+ {
+  "ID": 50283199,
+  "Capacity": 2140,
+  "Name": "",
+  "CenterPositionLon": 18.508992959395336,
+  "CenterPositionLat": -72.29783929990319
+ },
+ {
+  "ID": 50380184,
+  "Capacity": 1736,
+  "Name": "",
+  "CenterPositionLon": 18.524807904595956,
+  "CenterPositionLat": -72.27216160334399
+ },
+ {
+  "ID": 54338637,
+  "Capacity": 262,
+  "Name": "Place de la Croix des Bouquets",
+  "CenterPositionLon": 18.577882931292198,
+  "CenterPositionLat": -72.225732498468
+ },
+ {
+  "ID": 88608023,
+  "Capacity": 20,
+  "Name": "Place Calvaire",
+  "CenterPositionLon": 19.63481766678444,
+  "CenterPositionLat": -71.95613620683123
+ },
+ {
+  "ID": 91687745,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 18.503475838487574,
+  "CenterPositionLat": -73.34527341528864
+ },
+ {
+  "ID": 92250657,
+  "Capacity": 2275,
+  "Name": "Jardin Botanique des Cayes",
+  "CenterPositionLon": 18.234896002331972,
+  "CenterPositionLat": -73.7555297472784
+ },
+ {
+  "ID": 93210159,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 18.484449933333334,
+  "CenterPositionLat": -72.30921916666668
+ },
+ {
+  "ID": 95587455,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 18.675782503201297,
+  "CenterPositionLat": -71.95139798298011
+ },
+ {
+  "ID": 108188371,
+  "Capacity": 162,
+  "Name": "Cour de La Primature",
+  "CenterPositionLon": 18.53101574268245,
+  "CenterPositionLat": -72.30039527699488
+ },
+ {
+  "ID": 111267243,
+  "Capacity": 193,
+  "Name": "Place Saint Louis",
+  "CenterPositionLon": 18.64457862474282,
+  "CenterPositionLat": -74.1137832386112
+ },
+ {
+  "ID": 111287672,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 18.640134293027597,
+  "CenterPositionLat": -74.11465576862813
+ },
+ {
+  "ID": 112468300,
+  "Capacity": 80,
+  "Name": "Place St Joseph",
+  "CenterPositionLon": 18.15929868278507,
+  "CenterPositionLat": -73.8060291793734
+ },
+ {
+  "ID": 116398106,
+  "Capacity": 38,
+  "Name": "Place Immaculee Conception",
+  "CenterPositionLon": 18.57379680876407,
+  "CenterPositionLat": -72.32853994329066
+ },
+ {
+  "ID": 120465162,
+  "Capacity": 42,
+  "Name": "Place Linteau 1",
+  "CenterPositionLon": 18.582458712994832,
+  "CenterPositionLat": -72.33284613446216
+ },
+ {
+  "ID": 121509874,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 18.5108645798959,
+  "CenterPositionLat": -72.28739673055328
+ },
+ {
+  "ID": 122207445,
+  "Capacity": 1440,
+  "Name": "Place Fierté",
+  "CenterPositionLon": 18.57791038214716,
+  "CenterPositionLat": -72.3310186897276
+ },
+ {
+  "ID": 128007746,
+  "Capacity": 1227,
+  "Name": "",
+  "CenterPositionLon": 18.442997385367626,
+  "CenterPositionLat": -72.32070871208961
+ },
+ {
+  "ID": 137319159,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 18.262669833320306,
+  "CenterPositionLat": -73.54582870033292
+ },
+ {
+  "ID": 144929582,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 18.2618535,
+  "CenterPositionLat": -73.54686935
+ },
+ {
+  "ID": 146398062,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 18.299536790052752,
+  "CenterPositionLat": -73.65530833208622
+ },
+ {
+  "ID": 146487582,
+  "Capacity": 21,
+  "Name": "Place D'armes De Cavaillon",
+  "CenterPositionLon": 18.299469877741807,
+  "CenterPositionLat": -73.65504748734425
+ },
+ {
+  "ID": 147107894,
+  "Capacity": 9,
+  "Name": "Amani-y",
+  "CenterPositionLon": 19.106754251435092,
+  "CenterPositionLat": -72.69841818377081
+ },
+ {
+  "ID": 150790628,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 19.763930649119587,
+  "CenterPositionLat": -72.1967883970645
+ },
+ {
+  "ID": 157033511,
+  "Capacity": 70,
+  "Name": "Place Publique Monseigneur Robert Margron",
+  "CenterPositionLon": 18.084622612378354,
+  "CenterPositionLat": -73.65416701887501
+ },
+ {
+  "ID": 157489118,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 18.079123758256127,
+  "CenterPositionLat": -73.683173563773
+ },
+ {
+  "ID": 158050049,
+  "Capacity": 339,
+  "Name": "",
+  "CenterPositionLon": 18.83459911936634,
+  "CenterPositionLat": -72.10481217424532
+ },
+ {
+  "ID": 158711119,
+  "Capacity": 12,
+  "Name": "Place La Paix",
+  "CenterPositionLon": 18.0696176337439,
+  "CenterPositionLat": -73.66585221690545
+ },
+ {
+  "ID": 162785562,
+  "Capacity": 417,
+  "Name": "",
+  "CenterPositionLon": 18.76841490086688,
+  "CenterPositionLat": -72.51232502385899
+ },
+ {
+  "ID": 164398965,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 18.509746384287364,
+  "CenterPositionLat": -72.28657364559753
+ },
+ {
+  "ID": 169916157,
+  "Capacity": 117,
+  "Name": "Place du Canapé-Vert",
+  "CenterPositionLon": 18.532575289339885,
+  "CenterPositionLat": -72.31624875845199
+ },
+ {
+  "ID": 184819898,
+  "Capacity": 164,
+  "Name": "Place de Saint Raphaël",
+  "CenterPositionLon": 19.43938772524831,
+  "CenterPositionLat": -72.1999579911575
+ },
+ {
+  "ID": 185216207,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 18.829914891466107,
+  "CenterPositionLat": -71.9364247249523
+ },
+ {
+  "ID": 194313652,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 19.528238503654894,
+  "CenterPositionLat": -72.24303279436991
+ },
+ {
+  "ID": 201226021,
+  "Capacity": 304,
+  "Name": "Place Saint-Joseph de Fort-Liberté",
+  "CenterPositionLon": 19.66686319596084,
+  "CenterPositionLat": -71.83965675391482
+ },
+ {
+  "ID": 204720402,
+  "Capacity": 1140,
+  "Name": "",
+  "CenterPositionLon": 18.72243365154783,
+  "CenterPositionLat": -72.38093117101373
+ },
+ {
+  "ID": 210234390,
+  "Capacity": 11,
+  "Name": "Parc de Jeux Normil Charles",
+  "CenterPositionLon": 19.107552495462443,
+  "CenterPositionLat": -72.69855163027344
+ },
+ {
+  "ID": 211518893,
+  "Capacity": 212,
+  "Name": "Place Vertières",
+  "CenterPositionLon": 19.736170794525652,
+  "CenterPositionLat": -72.22085982233159
+ },
+ {
+  "ID": 216966757,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 19.691758909236558,
+  "CenterPositionLat": -72.0218539728434
+ },
+ {
+  "ID": 216984796,
+  "Capacity": 108,
+  "Name": "Place Publique de Terrier-Rouge",
+  "CenterPositionLon": 19.637206003677946,
+  "CenterPositionLat": -71.95401622435536
+ },
+ {
+  "ID": 217000772,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 19.68391245,
+  "CenterPositionLat": -71.99189989999999
+ },
+ {
+  "ID": 217583243,
+  "Capacity": 88,
+  "Name": "Place Saint-Jean",
+  "CenterPositionLon": 19.618479344947932,
+  "CenterPositionLat": -72.02168101327368
+ },
+ {
+  "ID": 217868055,
+  "Capacity": 35,
+  "Name": "Place de la Persévérance",
+  "CenterPositionLon": 19.747894738330658,
+  "CenterPositionLat": -72.2051124007522
+ },
+ {
+  "ID": 217976995,
+  "Capacity": 77,
+  "Name": "Place Notre-Dame de Grand-Bassin",
+  "CenterPositionLon": 19.57533201823473,
+  "CenterPositionLat": -71.93664551432524
+ },
+ {
+  "ID": 217978915,
+  "Capacity": 37,
+  "Name": "Place Public de kraze zo",
+  "CenterPositionLon": 19.724863982593664,
+  "CenterPositionLat": -72.1901816805611
+ },
+ {
+  "ID": 218250308,
+  "Capacity": 112,
+  "Name": "Place St Louis de Quartier-Morin",
+  "CenterPositionLon": 19.697389114549093,
+  "CenterPositionLat": -72.15811279182917
+ },
+ {
+  "ID": 218756557,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 19.667474357342712,
+  "CenterPositionLat": -71.83661177838982
+ },
+ {
+  "ID": 219166991,
+  "Capacity": 44,
+  "Name": "Cour du Caïmitier",
+  "CenterPositionLon": 19.604915765281344,
+  "CenterPositionLat": -72.21914784185583
+ },
+ {
+  "ID": 219176874,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 19.77307170467403,
+  "CenterPositionLat": -72.24721915668744
+ },
+ {
+  "ID": 219329753,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 19.7451400431634,
+  "CenterPositionLat": -72.21038535301896
+ },
+ {
+  "ID": 220397421,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 19.617028045839895,
+  "CenterPositionLat": -72.02490914039669
+ },
+ {
+  "ID": 220821408,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 19.68193296666667,
+  "CenterPositionLat": -72.1800412
+ },
+ {
+  "ID": 222254195,
+  "Capacity": 212,
+  "Name": "Breda",
+  "CenterPositionLon": 19.722768086252795,
+  "CenterPositionLat": -72.22967478560588
+ },
+ {
+  "ID": 222512613,
+  "Capacity": 30,
+  "Name": "Parc Sainte Elizabeth De Caracol",
+  "CenterPositionLon": 19.69264381146447,
+  "CenterPositionLat": -72.01812447163982
+ },
+ {
+  "ID": 222969578,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 19.203589251044765,
+  "CenterPositionLat": -72.59932014650059
+ },
+ {
+  "ID": 223564133,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 19.58378134334788,
+  "CenterPositionLat": -72.08889491547151
+ },
+ {
+  "ID": 224263836,
+  "Capacity": 1,
+  "Name": "Place Pont Manma",
+  "CenterPositionLon": 19.658337680386733,
+  "CenterPositionLat": -72.11621470248213
+ },
+ {
+  "ID": 224278809,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 19.519338701122376,
+  "CenterPositionLat": -71.88202944942323
+ },
+ {
+  "ID": 225286333,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 19.521941078882346,
+  "CenterPositionLat": -71.92331886344444
+ },
+ {
+  "ID": 225434614,
+  "Capacity": 45,
+  "Name": "Place de Dubison",
+  "CenterPositionLon": 19.60543214015456,
+  "CenterPositionLat": -72.03474326035271
+ },
+ {
+  "ID": 228767619,
+  "Capacity": 26,
+  "Name": "Place Acul Basse-Terre",
+  "CenterPositionLon": 19.204096653277034,
+  "CenterPositionLat": -72.60779543409343
+ },
+ {
+  "ID": 233964410,
+  "Capacity": 68,
+  "Name": "Place Arnold Piaubert",
+  "CenterPositionLon": 19.672159658782853,
+  "CenterPositionLat": -72.68454892269679
+ },
+ {
+  "ID": 234029461,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": 18.541330109877563,
+  "CenterPositionLat": -72.28588373432532
+ },
+ {
+  "ID": 239450160,
+  "Capacity": 231,
+  "Name": "Place Horèbe",
+  "CenterPositionLon": 18.673717061926155,
+  "CenterPositionLat": -72.23421234686866
+ },
+ {
+  "ID": 240300617,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 19.369158316500272,
+  "CenterPositionLat": -71.98270741377883
+ },
+ {
+  "ID": 247097495,
+  "Capacity": 12,
+  "Name": "Tree Nursery",
+  "CenterPositionLon": 18.379441511515907,
+  "CenterPositionLat": -72.82611433390885
+ },
+ {
+  "ID": 248562818,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 19.76583960879304,
+  "CenterPositionLat": -72.19896994585723
+ },
+ {
+  "ID": 248968465,
+  "Capacity": 474,
+  "Name": "",
+  "CenterPositionLon": 19.375089652603332,
+  "CenterPositionLat": -72.33300875434283
+ },
+ {
+  "ID": 249086723,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": 19.36759434546974,
+  "CenterPositionLat": -72.33222638148995
+ },
+ {
+  "ID": 249101288,
+  "Capacity": 171,
+  "Name": "",
+  "CenterPositionLon": 19.366030373305648,
+  "CenterPositionLat": -72.33642022237309
+ },
+ {
+  "ID": 249101289,
+  "Capacity": 411,
+  "Name": "",
+  "CenterPositionLon": 19.366247063517513,
+  "CenterPositionLat": -72.33450211918762
+ },
+ {
+  "ID": 249657680,
+  "Capacity": 3441,
+  "Name": "Parc Pomme",
+  "CenterPositionLon": 19.37779431802073,
+  "CenterPositionLat": -72.33400936445591
+ },
+ {
+  "ID": 249657761,
+  "Capacity": 726,
+  "Name": "",
+  "CenterPositionLon": 19.378832754233237,
+  "CenterPositionLat": -72.33191824496193
+ },
+ {
+  "ID": 249658190,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 19.377652370123432,
+  "CenterPositionLat": -72.32754827463968
+ },
+ {
+  "ID": 249658191,
+  "Capacity": 1437,
+  "Name": "",
+  "CenterPositionLon": 19.378966872747373,
+  "CenterPositionLat": -72.32888136147398
+ },
+ {
+  "ID": 249658274,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 19.37878120782172,
+  "CenterPositionLat": -72.32689688850274
+ },
+ {
+  "ID": 249661560,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 19.394972997849454,
+  "CenterPositionLat": -72.33089235178855
+ },
+ {
+  "ID": 249661921,
+  "Capacity": 388,
+  "Name": "",
+  "CenterPositionLon": 19.39216351250335,
+  "CenterPositionLat": -72.33080049856693
+ },
+ {
+  "ID": 249662311,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 19.380239721445882,
+  "CenterPositionLat": -72.32726414739368
+ },
+ {
+  "ID": 249662640,
+  "Capacity": 1833,
+  "Name": "",
+  "CenterPositionLon": 19.388536434072368,
+  "CenterPositionLat": -72.31592949207152
+ },
+ {
+  "ID": 250074722,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 19.38224281853665,
+  "CenterPositionLat": -72.34282513604222
+ },
+ {
+  "ID": 250079340,
+  "Capacity": 183,
+  "Name": "",
+  "CenterPositionLon": 19.36737860748883,
+  "CenterPositionLat": -72.33944441703866
+ },
+ {
+  "ID": 250079341,
+  "Capacity": 1276,
+  "Name": "",
+  "CenterPositionLon": 19.3653411809455,
+  "CenterPositionLat": -72.34054186985047
+ },
+ {
+  "ID": 250079344,
+  "Capacity": 588,
+  "Name": "",
+  "CenterPositionLon": 19.363375696334845,
+  "CenterPositionLat": -72.33869412279245
+ },
+ {
+  "ID": 250079345,
+  "Capacity": 1891,
+  "Name": "",
+  "CenterPositionLon": 19.362094462135666,
+  "CenterPositionLat": -72.33667657880716
+ },
+ {
+  "ID": 250080102,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 19.366601738922522,
+  "CenterPositionLat": -72.31619711001974
+ },
+ {
+  "ID": 250080103,
+  "Capacity": 4690,
+  "Name": "Ti mango",
+  "CenterPositionLon": 19.36269452907007,
+  "CenterPositionLat": -72.31346232046978
+ },
+ {
+  "ID": 250080104,
+  "Capacity": 469,
+  "Name": "",
+  "CenterPositionLon": 19.37077416936981,
+  "CenterPositionLat": -72.31234842530169
+ },
+ {
+  "ID": 250080106,
+  "Capacity": 4530,
+  "Name": "",
+  "CenterPositionLon": 19.376785415753975,
+  "CenterPositionLat": -72.2902403594961
+ },
+ {
+  "ID": 251735111,
+  "Capacity": 506,
+  "Name": "Place de La Paix",
+  "CenterPositionLon": 18.555215780432267,
+  "CenterPositionLat": -72.33729835441085
+ },
+ {
+  "ID": 253910869,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 18.58557552370673,
+  "CenterPositionLat": -72.27396806102185
+ },
+ {
+  "ID": 259092542,
+  "Capacity": 24,
+  "Name": "Place Publique de La Victoire",
+  "CenterPositionLon": 19.337409519018298,
+  "CenterPositionLat": -72.02075959338457
+ },
+ {
+  "ID": 268672980,
+  "Capacity": 22,
+  "Name": "Place Publique de Ranquitte",
+  "CenterPositionLon": 19.413384722340947,
+  "CenterPositionLat": -72.07973707599062
+ },
+ {
+  "ID": 268930723,
+  "Capacity": 6,
+  "Name": "Place Saint Francois d'Assise de Ranquitte",
+  "CenterPositionLon": 19.41325078119069,
+  "CenterPositionLat": -72.07960923918715
+ },
+ {
+  "ID": 269113551,
+  "Capacity": 1112,
+  "Name": "Parc Ti Mango",
+  "CenterPositionLon": 19.360688651896936,
+  "CenterPositionLat": -72.31887515138735
+ },
+ {
+  "ID": 293211083,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 18.658450557985777,
+  "CenterPositionLat": -72.27140407998435
+ },
+ {
+  "ID": 293211084,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 18.66442133345184,
+  "CenterPositionLat": -72.277938365384
+ },
+ {
+  "ID": 295038240,
+  "Capacity": 109,
+  "Name": "Place d’Armes",
+  "CenterPositionLon": 19.93863723798358,
+  "CenterPositionLat": -72.82980770286333
+ },
+ {
+  "ID": 299325037,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 18.440668999256296,
+  "CenterPositionLat": -72.85511766095654
+ },
+ {
+  "ID": 313550524,
+  "Capacity": 1511,
+  "Name": "Place Hugo Chavez",
+  "CenterPositionLon": 18.57437144876836,
+  "CenterPositionLat": -72.2989582070321
+ },
+ {
+  "ID": 324863354,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 19.470873268196367,
+  "CenterPositionLat": -72.11520710823342
+ },
+ {
+  "ID": 329038043,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 18.682092205412513,
+  "CenterPositionLat": -72.32598048690112
+ },
+ {
+  "ID": 331415298,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 18.65025384270019,
+  "CenterPositionLat": -72.27176091087676
+ },
+ {
+  "ID": 332576144,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 19.84593876914182,
+  "CenterPositionLat": -72.52324231057572
+ },
+ {
+  "ID": 332576584,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 19.84634668476992,
+  "CenterPositionLat": -72.52301307757422
+ },
+ {
+  "ID": 337799203,
+  "Capacity": 341,
+  "Name": "",
+  "CenterPositionLon": 19.604439106432444,
+  "CenterPositionLat": -72.21897061844592
+ },
+ {
+  "ID": 344147708,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 19.26948996778493,
+  "CenterPositionLat": -71.93891151660239
+ },
+ {
+  "ID": 344147709,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 19.164806105094485,
+  "CenterPositionLat": -71.7901031354795
+ },
+ {
+  "ID": 344147710,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 19.269294224551484,
+  "CenterPositionLat": -71.93839958870635
+ },
+ {
+  "ID": 351663527,
+  "Capacity": 7,
+  "Name": "Tom \u0026 Molly's Run",
+  "CenterPositionLon": 18.540136896445826,
+  "CenterPositionLat": -72.26216636023018
+ },
+ {
+  "ID": 351663528,
+  "Capacity": 2,
+  "Name": "Avacado Garden",
+  "CenterPositionLon": 18.540098794120006,
+  "CenterPositionLat": -72.26195971918995
+ },
+ {
+  "ID": 373781636,
+  "Capacity": 471,
+  "Name": "Parc Delatour",
+  "CenterPositionLon": 19.373589796841536,
+  "CenterPositionLat": -72.33689666153741
+ },
+ {
+  "ID": 373788683,
+  "Capacity": 961,
+  "Name": "Parc Cleci Beach",
+  "CenterPositionLon": 19.36418346761363,
+  "CenterPositionLat": -72.33994840914959
+ },
+ {
+  "ID": 373808561,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 19.369900111619444,
+  "CenterPositionLat": -72.33383093106278
+ },
+ {
+  "ID": 374223406,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 19.375631335178173,
+  "CenterPositionLat": -72.3358328423961
+ },
+ {
+  "ID": 374351019,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 19.37054392635984,
+  "CenterPositionLat": -72.33399234260538
+ },
+ {
+  "ID": 374351025,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 19.369891120702405,
+  "CenterPositionLat": -72.33462222586644
+ },
+ {
+  "ID": 374543922,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 19.371600761633406,
+  "CenterPositionLat": -72.33261403756744
+ },
+ {
+  "ID": 374903802,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 19.36825250357454,
+  "CenterPositionLat": -72.33268059723063
+ },
+ {
+  "ID": 380048055,
+  "Capacity": 21,
+  "Name": "Place de la Solidarité Dominico-Haïtienne",
+  "CenterPositionLon": 19.65604452172068,
+  "CenterPositionLat": -72.07024564047359
+ },
+ {
+  "ID": 380553984,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 18.522444460931258,
+  "CenterPositionLat": -72.33715696199631
+ },
+ {
+  "ID": 380554880,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 18.522492141472448,
+  "CenterPositionLat": -72.33738258396859
+ },
+ {
+  "ID": 380683428,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 18.526618536203625,
+  "CenterPositionLat": -72.33619041832013
+ },
+ {
+  "ID": 380955290,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 18.524749430663768,
+  "CenterPositionLat": -72.33738226694939
+ },
+ {
+  "ID": 381285150,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 18.654414280768695,
+  "CenterPositionLat": -72.23311997913355
+ },
+ {
+  "ID": 381287277,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 18.66466226298768,
+  "CenterPositionLat": -72.23583808495586
+ },
+ {
+  "ID": 381699245,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 19.69275345274496,
+  "CenterPositionLat": -72.0170701653566
+ },
+ {
+  "ID": 381708783,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 19.70536809666707,
+  "CenterPositionLat": -71.94798537468557
+ },
+ {
+  "ID": 381711470,
+  "Capacity": 1399,
+  "Name": "",
+  "CenterPositionLon": 19.651027453533167,
+  "CenterPositionLat": -72.05679742453799
+ },
+ {
+  "ID": 381711471,
+  "Capacity": 1482,
+  "Name": "",
+  "CenterPositionLon": 19.649905452795668,
+  "CenterPositionLat": -72.05694549009746
+ },
+ {
+  "ID": 381711472,
+  "Capacity": 1462,
+  "Name": "",
+  "CenterPositionLon": 19.64860939455256,
+  "CenterPositionLat": -72.05706133628408
+ },
+ {
+  "ID": 381711473,
+  "Capacity": 1398,
+  "Name": "",
+  "CenterPositionLon": 19.648884910947057,
+  "CenterPositionLat": -72.05421379040042
+ },
+ {
+  "ID": 381711474,
+  "Capacity": 1291,
+  "Name": "",
+  "CenterPositionLon": 19.649942511490224,
+  "CenterPositionLat": -72.05406619122101
+ },
+ {
+  "ID": 381711475,
+  "Capacity": 1569,
+  "Name": "",
+  "CenterPositionLon": 19.652918942593395,
+  "CenterPositionLat": -72.0567565529724
+ },
+ {
+  "ID": 381717121,
+  "Capacity": 2217,
+  "Name": "",
+  "CenterPositionLon": 19.63684261783403,
+  "CenterPositionLat": -71.92364196906439
+ },
+ {
+  "ID": 384184623,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 18.652882266666666,
+  "CenterPositionLat": -72.2731525
+ },
+ {
+  "ID": 384184624,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 18.673616433333333,
+  "CenterPositionLat": -72.28666143333334
+ },
+ {
+  "ID": 384184626,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 18.661354549254366,
+  "CenterPositionLat": -72.29073290042972
+ },
+ {
+  "ID": 384403467,
+  "Capacity": 10,
+  "Name": "Place Publique",
+  "CenterPositionLon": 18.66694850336758,
+  "CenterPositionLat": -72.28686320449367
+ },
+ {
+  "ID": 385134052,
+  "Capacity": 10,
+  "Name": "Oxygène",
+  "CenterPositionLon": 18.66423124254332,
+  "CenterPositionLat": -72.27248641737398
+ },
+ {
+  "ID": 385431423,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 18.664234741450237,
+  "CenterPositionLat": -72.24351082633923
+ },
+ {
+  "ID": 385461064,
+  "Capacity": 5,
+  "Name": "Place Zanmitay",
+  "CenterPositionLon": 18.656727587929822,
+  "CenterPositionLat": -72.23802404961404
+ },
+ {
+  "ID": 387009105,
+  "Capacity": 12,
+  "Name": "Place Publique",
+  "CenterPositionLon": 18.661646129831603,
+  "CenterPositionLat": -72.24172643604416
+ },
+ {
+  "ID": 388912176,
+  "Capacity": 62,
+  "Name": "Place publique d'Anse d'Hainault",
+  "CenterPositionLon": 18.485029927612437,
+  "CenterPositionLat": -74.45197524642437
+ },
+ {
+  "ID": 389464784,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 18.435100800532425,
+  "CenterPositionLat": -73.07839526263675
+ },
+ {
+  "ID": 392089641,
+  "Capacity": 87,
+  "Name": "Coracess",
+  "CenterPositionLon": 18.684695456536577,
+  "CenterPositionLat": -72.31889108533616
+ },
+ {
+  "ID": 420293390,
+  "Capacity": 17,
+  "Name": "Place Publique",
+  "CenterPositionLon": 18.6554608,
+  "CenterPositionLat": -72.2523129
+ },
+ {
+  "ID": 420597516,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 18.660539825956157,
+  "CenterPositionLat": -72.2437022576041
+ },
+ {
+  "ID": 422031436,
+  "Capacity": 4,
+  "Name": "Place de Canaan 3",
+  "CenterPositionLon": 18.645587681849268,
+  "CenterPositionLat": -72.27382752690467
+ },
+ {
+  "ID": 422073824,
+  "Capacity": 6,
+  "Name": "Place Onaville",
+  "CenterPositionLon": 18.663528911021277,
+  "CenterPositionLat": -72.23239681319703
+ },
+ {
+  "ID": 445393328,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 18.30645566090353,
+  "CenterPositionLat": -74.219086237221
+ },
+ {
+  "ID": 445428499,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 18.304918074368402,
+  "CenterPositionLat": -74.22004949121956
+ },
+ {
+  "ID": 445657664,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 18.199556494535763,
+  "CenterPositionLat": -73.75246274500826
+ },
+ {
+  "ID": 445660046,
+  "Capacity": 361,
+  "Name": "",
+  "CenterPositionLon": 18.21062691135231,
+  "CenterPositionLat": -73.75918935790168
+ },
+ {
+  "ID": 445682581,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 18.2529726,
+  "CenterPositionLat": -73.7640185
+ },
+ {
+  "ID": 445913129,
+  "Capacity": 628,
+  "Name": "",
+  "CenterPositionLon": 18.43468239919397,
+  "CenterPositionLat": -73.90642520147473
+ },
+ {
+  "ID": 446891928,
+  "Capacity": 246,
+  "Name": "Soccer Field",
+  "CenterPositionLon": 18.234694241267032,
+  "CenterPositionLat": -72.52154714720096
+ },
+ {
+  "ID": 446951552,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": 18.052432705819985,
+  "CenterPositionLat": -71.74978756115901
+ },
+ {
+  "ID": 447052115,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 18.186982883359573,
+  "CenterPositionLat": -71.91931810225378
+ },
+ {
+  "ID": 447111990,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 18.21234800098238,
+  "CenterPositionLat": -71.82308604798881
+ },
+ {
+  "ID": 447213266,
+  "Capacity": 9,
+  "Name": "Basketball Court",
+  "CenterPositionLon": 18.646471137865053,
+  "CenterPositionLat": -74.118410340204
+ },
+ {
+  "ID": 447226828,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 18.6424631,
+  "CenterPositionLat": -74.1148882
+ },
+ {
+  "ID": 447459754,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 18.454394137192104,
+  "CenterPositionLat": -72.36108800174131
+ },
+ {
+  "ID": 447462665,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": 18.45405423032456,
+  "CenterPositionLat": -72.36070326278711
+ },
+ {
+  "ID": 447476579,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 18.45114723895469,
+  "CenterPositionLat": -72.28409796077862
+ },
+ {
+  "ID": 447477577,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 18.452241557271925,
+  "CenterPositionLat": -72.28037419938678
+ },
+ {
+  "ID": 447478935,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": 18.453046049031318,
+  "CenterPositionLat": -72.283448304711
+ },
+ {
+  "ID": 447490230,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 18.385900638957892,
+  "CenterPositionLat": -72.20149065649746
+ },
+ {
+  "ID": 447490325,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 18.45329497537303,
+  "CenterPositionLat": -72.28226603214718
+ },
+ {
+  "ID": 447491225,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 18.390047349982556,
+  "CenterPositionLat": -72.1970371062251
+ },
+ {
+  "ID": 447492375,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 18.38883225863236,
+  "CenterPositionLat": -72.19742440028872
+ },
+ {
+  "ID": 447492796,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 18.388396919859826,
+  "CenterPositionLat": -72.19815807916851
+ },
+ {
+  "ID": 447493770,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 18.388512843613718,
+  "CenterPositionLat": -72.2012051885048
+ },
+ {
+  "ID": 447494079,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 18.38679059793975,
+  "CenterPositionLat": -72.20021663496652
+ },
+ {
+  "ID": 447494370,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 18.387561217820984,
+  "CenterPositionLat": -72.19977475316053
+ },
+ {
+  "ID": 447494736,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 18.389634262952196,
+  "CenterPositionLat": -72.19681887037119
+ },
+ {
+  "ID": 447495224,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 18.389846643049644,
+  "CenterPositionLat": -72.19692877696714
+ },
+ {
+  "ID": 447495479,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 18.389358216373747,
+  "CenterPositionLat": -72.19680824166473
+ },
+ {
+  "ID": 447496085,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 18.389352595978508,
+  "CenterPositionLat": -72.19737901599676
+ },
+ {
+  "ID": 447496363,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 18.389084933486963,
+  "CenterPositionLat": -72.19684992015469
+ },
+ {
+  "ID": 447497378,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 18.387320511183734,
+  "CenterPositionLat": -72.19855891267358
+ },
+ {
+  "ID": 447497379,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 18.386918262544846,
+  "CenterPositionLat": -72.1984768340969
+ },
+ {
+  "ID": 447497904,
+  "Capacity": 175,
+  "Name": "",
+  "CenterPositionLon": 18.38897163414635,
+  "CenterPositionLat": -72.19855961438086
+ },
+ {
+  "ID": 447498270,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 18.390498475797287,
+  "CenterPositionLat": -72.2005561653732
+ },
+ {
+  "ID": 447499221,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 18.387015572846614,
+  "CenterPositionLat": -72.2019963236279
+ },
+ {
+  "ID": 447499485,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 18.386803763345004,
+  "CenterPositionLat": -72.19757009658639
+ },
+ {
+  "ID": 447499568,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 18.387632493698217,
+  "CenterPositionLat": -72.19789349934011
+ },
+ {
+  "ID": 447499829,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 18.388922883762422,
+  "CenterPositionLat": -72.19926621885219
+ },
+ {
+  "ID": 447500334,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 18.388568879305353,
+  "CenterPositionLat": -72.19934038915734
+ },
+ {
+  "ID": 447500430,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 18.387872383059598,
+  "CenterPositionLat": -72.19981082096862
+ },
+ {
+  "ID": 447502133,
+  "Capacity": 1142,
+  "Name": "",
+  "CenterPositionLon": 18.403622547364208,
+  "CenterPositionLat": -72.20458139074641
+ },
+ {
+  "ID": 447503164,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 18.401923329190506,
+  "CenterPositionLat": -72.20342177367331
+ },
+ {
+  "ID": 447503314,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 18.401698538622224,
+  "CenterPositionLat": -72.20324099037298
+ },
+ {
+  "ID": 447507417,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 18.49343243829417,
+  "CenterPositionLat": -72.27090126535343
+ },
+ {
+  "ID": 447510848,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 18.493561898663035,
+  "CenterPositionLat": -72.26927992868116
+ },
+ {
+  "ID": 447521367,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 18.494003447356043,
+  "CenterPositionLat": -72.27330262955664
+ },
+ {
+  "ID": 447523577,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 18.49113368830284,
+  "CenterPositionLat": -72.27131629865775
+ },
+ {
+  "ID": 448778094,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 18.88250836369361,
+  "CenterPositionLat": -73.03141863276214
+ },
+ {
+  "ID": 452260683,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": 18.60074842185269,
+  "CenterPositionLat": -74.0173712057396
+ },
+ {
+  "ID": 452289396,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 18.621421002165896,
+  "CenterPositionLat": -74.09315621687468
+ },
+ {
+  "ID": 456702577,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 18.533091651753374,
+  "CenterPositionLat": -72.35417766059804
+ },
+ {
+  "ID": 456702680,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 18.534408509238393,
+  "CenterPositionLat": -72.3571376965898
+ },
+ {
+  "ID": 458112195,
+  "Capacity": 3497,
+  "Name": "",
+  "CenterPositionLon": 18.56330566567122,
+  "CenterPositionLat": -72.26301367574833
+ },
+ {
+  "ID": 461728312,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 18.530881900360885,
+  "CenterPositionLat": -72.3501329491756
+ },
+ {
+  "ID": 461728313,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 18.530890751569046,
+  "CenterPositionLat": -72.3498962846441
+ },
+ {
+  "ID": 473378776,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 18.605876085249246,
+  "CenterPositionLat": -72.33129697841393
+ },
+ {
+  "ID": 473588095,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 18.645721275028748,
+  "CenterPositionLat": -72.26003633443597
+ },
+ {
+  "ID": 475890901,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 18.643911549095506,
+  "CenterPositionLat": -72.26911483914813
+ },
+ {
+  "ID": 489887964,
+  "Capacity": 63,
+  "Name": "Place Tapis Rouge",
+  "CenterPositionLon": 18.524080557332255,
+  "CenterPositionLat": -72.33296793699701
+ },
+ {
+  "ID": 491619856,
+  "Capacity": 324,
+  "Name": "(Projet) Place publique Donald Polyte",
+  "CenterPositionLon": 18.476144357561513,
+  "CenterPositionLat": -73.95852430436395
+ },
+ {
+  "ID": 491619857,
+  "Capacity": 5,
+  "Name": "Place Nelson Alexis (Sejèn)",
+  "CenterPositionLon": 18.478154582723246,
+  "CenterPositionLat": -73.956675918365
+ },
+ {
+  "ID": 491619858,
+  "Capacity": 43,
+  "Name": "(Projet) Place du Café",
+  "CenterPositionLon": 18.48035143252229,
+  "CenterPositionLat": -73.95838338361501
+ },
+ {
+  "ID": 499157711,
+  "Capacity": 205,
+  "Name": "Parc Sainte Agnès",
+  "CenterPositionLon": 18.475262805801336,
+  "CenterPositionLat": -73.9462580445226
+ },
+ {
+  "ID": 511169859,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 18.867763610961777,
+  "CenterPositionLat": -71.76504628331055
+ },
+ {
+  "ID": 511721516,
+  "Capacity": 128,
+  "Name": "place belladère",
+  "CenterPositionLon": 18.86793679933006,
+  "CenterPositionLat": -71.76293664338301
+ },
+ {
+  "ID": 534151676,
+  "Capacity": 469,
+  "Name": "",
+  "CenterPositionLon": 19.67307873113843,
+  "CenterPositionLat": -72.12267093654194
+ },
+ {
+  "ID": 545921487,
+  "Capacity": 888,
+  "Name": "",
+  "CenterPositionLon": 18.574008688284877,
+  "CenterPositionLat": -72.2944874860669
+ },
+ {
+  "ID": 602581833,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 19.370591223291132,
+  "CenterPositionLat": -72.33453872919986
+ },
+ {
+  "ID": 632300095,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 19.633598189623914,
+  "CenterPositionLat": -72.31923790698578
+ },
+ {
+  "ID": 633709864,
+  "Capacity": 28,
+  "Name": "Parc du lecee jean-baptiste point du sable",
+  "CenterPositionLon": 19.140231489615278,
+  "CenterPositionLat": -72.66949599782951
+ },
+ {
+  "ID": 641339209,
+  "Capacity": 199,
+  "Name": "",
+  "CenterPositionLon": 18.538427169381013,
+  "CenterPositionLat": -72.48115477321781
+ },
+ {
+  "ID": 661494914,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 18.56081551453891,
+  "CenterPositionLat": -74.42255947127867
+ },
+ {
+  "ID": 678708653,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 18.644480458762363,
+  "CenterPositionLat": -74.11407323745036
+ },
+ {
+  "ID": 678708655,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 18.644570777594502,
+  "CenterPositionLat": -74.11373969236804
+ },
+ {
+  "ID": 678708657,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 18.64459998595675,
+  "CenterPositionLat": -74.11401735572373
+ },
+ {
+  "ID": 680696268,
+  "Capacity": 222,
+  "Name": "Parc Thomas Théodat",
+  "CenterPositionLon": 18.591449873587358,
+  "CenterPositionLat": -72.2754461900059
+ },
+ {
+  "ID": 697624494,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 19.37103632729674,
+  "CenterPositionLat": -72.33491835821478
+ },
+ {
+  "ID": 697629058,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 19.370512642937424,
+  "CenterPositionLat": -72.33319004253251
+ },
+ {
+  "ID": 697629059,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 19.370984791557476,
+  "CenterPositionLat": -72.33448598608624
+ },
+ {
+  "ID": 699019799,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 18.24921571347417,
+  "CenterPositionLat": -74.09724699337123
+ },
+ {
+  "ID": 707965570,
+  "Capacity": 64,
+  "Name": "Place de Thomonde",
+  "CenterPositionLon": 19.017749709971497,
+  "CenterPositionLat": -71.96411112809501
+ },
+ {
+  "ID": 708917678,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 18.651559954474923,
+  "CenterPositionLat": -72.0960496108455
+ },
+ {
+  "ID": 742825994,
+  "Capacity": 50,
+  "Name": "sportveld",
+  "CenterPositionLon": 19.137421301031885,
+  "CenterPositionLat": -72.58345824453295
+ },
+ {
+  "ID": 749416677,
+  "Capacity": 133,
+  "Name": "Veld",
+  "CenterPositionLon": 18.8872881,
+  "CenterPositionLat": -72.21553300000001
+ },
+ {
+  "ID": 749417903,
+  "Capacity": 143,
+  "Name": "Veld",
+  "CenterPositionLon": 18.88710158981065,
+  "CenterPositionLat": -72.21668368175618
+ },
+ {
+  "ID": 749417904,
+  "Capacity": 122,
+  "Name": "veld",
+  "CenterPositionLon": 18.88627745754282,
+  "CenterPositionLat": -72.21693593993321
+ },
+ {
+  "ID": 749417905,
+  "Capacity": 234,
+  "Name": "veld",
+  "CenterPositionLon": 18.88635678464368,
+  "CenterPositionLat": -72.21582651786038
+ },
+ {
+  "ID": 749417906,
+  "Capacity": 307,
+  "Name": "Veld",
+  "CenterPositionLon": 18.887987664930744,
+  "CenterPositionLat": -72.21626795074671
+ },
+ {
+  "ID": 749417907,
+  "Capacity": 172,
+  "Name": "veld",
+  "CenterPositionLon": 18.88783630813322,
+  "CenterPositionLat": -72.21544893417116
+ },
+ {
+  "ID": 749420166,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 18.95131365271925,
+  "CenterPositionLat": -72.31205316575681
+ },
+ {
+  "ID": 749420167,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 18.95122362042799,
+  "CenterPositionLat": -72.31136794794965
+ },
+ {
+  "ID": 749420168,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 18.950727107890742,
+  "CenterPositionLat": -72.31199858478264
+ },
+ {
+  "ID": 749420169,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 18.950694962179778,
+  "CenterPositionLat": -72.31273230277074
+ },
+ {
+  "ID": 749420170,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 18.950478853447972,
+  "CenterPositionLat": -72.31250996920004
+ },
+ {
+  "ID": 749432670,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 18.936700892978333,
+  "CenterPositionLat": -72.33417695375931
+ },
+ {
+  "ID": 749432671,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 18.939660796570802,
+  "CenterPositionLat": -72.33840015117248
+ },
+ {
+  "ID": 749432672,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 18.93973432095589,
+  "CenterPositionLat": -72.3390977008459
+ },
+ {
+  "ID": 749432673,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 18.939719433333334,
+  "CenterPositionLat": -72.33878316666667
+ },
+ {
+  "ID": 749432674,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 18.939386961638377,
+  "CenterPositionLat": -72.3394858330262
+ },
+ {
+  "ID": 749435201,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 19.12533808150818,
+  "CenterPositionLat": -72.53005395862507
+ },
+ {
+  "ID": 749751344,
+  "Capacity": 75,
+  "Name": "werkterein",
+  "CenterPositionLon": 18.80921741643747,
+  "CenterPositionLat": -72.05468953181813
+ },
+ {
+  "ID": 749758685,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 19.120187115767447,
+  "CenterPositionLat": -72.5341807357908
+ },
+ {
+  "ID": 754826628,
+  "Capacity": 43,
+  "Name": "Place Toussaint Louverture",
+  "CenterPositionLon": 18.54455991432396,
+  "CenterPositionLat": -72.33834794231882
+ },
+ {
+  "ID": 754826629,
+  "Capacity": 194,
+  "Name": "Place des Martyrs",
+  "CenterPositionLon": 18.54467540279615,
+  "CenterPositionLat": -72.3376755744466
+ },
+ {
+  "ID": 754826630,
+  "Capacity": 40,
+  "Name": "Place du Marron Inconnu",
+  "CenterPositionLon": 18.545179705826033,
+  "CenterPositionLat": -72.33825669741283
+ },
+ {
+  "ID": 772939336,
+  "Capacity": 301,
+  "Name": "",
+  "CenterPositionLon": 18.54120469271264,
+  "CenterPositionLat": -72.1685936698765
+ }
+]

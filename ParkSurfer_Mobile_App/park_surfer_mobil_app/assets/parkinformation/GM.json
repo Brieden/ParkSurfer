@@ -1,0 +1,240 @@
+[
+ {
+  "ID": 113756823,
+  "Capacity": 15041,
+  "Name": "Methodist Mission",
+  "CenterPositionLon": 13.272645826773887,
+  "CenterPositionLat": -16.65394155623527
+ },
+ {
+  "ID": 194573789,
+  "Capacity": 1610,
+  "Name": "",
+  "CenterPositionLon": 13.45703850701737,
+  "CenterPositionLat": -16.58291277100444
+ },
+ {
+  "ID": 244091222,
+  "Capacity": 12423,
+  "Name": "",
+  "CenterPositionLon": 13.158613100671605,
+  "CenterPositionLat": -16.76626530119877
+ },
+ {
+  "ID": 255916662,
+  "Capacity": 784875,
+  "Name": "Furnya Forest Park",
+  "CenterPositionLon": 13.26864362091294,
+  "CenterPositionLat": -16.609474208278804
+ },
+ {
+  "ID": 334260871,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 13.442357436065873,
+  "CenterPositionLat": -16.722317048879063
+ },
+ {
+  "ID": 371247506,
+  "Capacity": 3840,
+  "Name": "",
+  "CenterPositionLon": 13.448483911017163,
+  "CenterPositionLat": -15.542848434353102
+ },
+ {
+  "ID": 371247694,
+  "Capacity": 1016,
+  "Name": "Football Field",
+  "CenterPositionLon": 13.447032085989981,
+  "CenterPositionLat": -15.541524459128114
+ },
+ {
+  "ID": 373349002,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": 13.362247499527701,
+  "CenterPositionLat": -13.980890938983455
+ },
+ {
+  "ID": 373349003,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 13.362601315999996,
+  "CenterPositionLat": -13.98103948574925
+ },
+ {
+  "ID": 373349004,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 13.362733162855971,
+  "CenterPositionLat": -13.980641867248869
+ },
+ {
+  "ID": 373349005,
+  "Capacity": 225,
+  "Name": "",
+  "CenterPositionLon": 13.362723995506645,
+  "CenterPositionLat": -13.98029815476789
+ },
+ {
+  "ID": 373349784,
+  "Capacity": 564,
+  "Name": "",
+  "CenterPositionLon": 13.360264216804978,
+  "CenterPositionLat": -13.982411814387188
+ },
+ {
+  "ID": 373349789,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 13.360005129489148,
+  "CenterPositionLat": -13.983173934443627
+ },
+ {
+  "ID": 373350453,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": 13.359411881106734,
+  "CenterPositionLat": -13.981087722496241
+ },
+ {
+  "ID": 373350454,
+  "Capacity": 202,
+  "Name": "",
+  "CenterPositionLon": 13.359375603590573,
+  "CenterPositionLat": -13.980513969926122
+ },
+ {
+  "ID": 373941013,
+  "Capacity": 300,
+  "Name": "",
+  "CenterPositionLon": 13.322433810203915,
+  "CenterPositionLat": -14.00822654759228
+ },
+ {
+  "ID": 373986221,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 13.453900192539248,
+  "CenterPositionLat": -16.683161526588265
+ },
+ {
+  "ID": 387558561,
+  "Capacity": 961,
+  "Name": "Football Field",
+  "CenterPositionLon": 13.208264202441935,
+  "CenterPositionLat": -16.14155894271927
+ },
+ {
+  "ID": 435571432,
+  "Capacity": 1285,
+  "Name": "Agriculture Camp",
+  "CenterPositionLon": 13.719551477030802,
+  "CenterPositionLat": -15.014707231352713
+ },
+ {
+  "ID": 452699972,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 13.457693808808392,
+  "CenterPositionLat": -14.686630442274492
+ },
+ {
+  "ID": 489663449,
+  "Capacity": 987,
+  "Name": "Football Field",
+  "CenterPositionLon": 13.284981373007225,
+  "CenterPositionLat": -16.645952137516634
+ },
+ {
+  "ID": 605692738,
+  "Capacity": 311,
+  "Name": "Paradise View Park",
+  "CenterPositionLon": 13.3923101,
+  "CenterPositionLat": -16.7107179
+ },
+ {
+  "ID": 668914175,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 13.54304222680721,
+  "CenterPositionLat": -14.482568181245163
+ },
+ {
+  "ID": 668914176,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 13.543295542262175,
+  "CenterPositionLat": -14.481930636545282
+ },
+ {
+  "ID": 668914178,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 13.544369,
+  "CenterPositionLat": -14.4846207
+ },
+ {
+  "ID": 668914179,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 13.545105334641757,
+  "CenterPositionLat": -14.48676267858536
+ },
+ {
+  "ID": 668914189,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 13.550011443683319,
+  "CenterPositionLat": -14.485490055647666
+ },
+ {
+  "ID": 668914190,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 13.550280243849578,
+  "CenterPositionLat": -14.484277506184641
+ },
+ {
+  "ID": 668914191,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 13.550313626305483,
+  "CenterPositionLat": -14.484903902291386
+ },
+ {
+  "ID": 668914192,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 13.550673034495501,
+  "CenterPositionLat": -14.484066629329503
+ },
+ {
+  "ID": 683086534,
+  "Capacity": 231,
+  "Name": "Football field",
+  "CenterPositionLon": 13.383364099759032,
+  "CenterPositionLat": -15.532328940897616
+ },
+ {
+  "ID": 683086537,
+  "Capacity": 616,
+  "Name": "Football Field",
+  "CenterPositionLon": 13.38526089463598,
+  "CenterPositionLat": -15.53179406970753
+ },
+ {
+  "ID": 751833940,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 13.451076290741296,
+  "CenterPositionLat": -16.572572358835973
+ },
+ {
+  "ID": 772792644,
+  "Capacity": 259,
+  "Name": "Private park",
+  "CenterPositionLon": 13.462613506990381,
+  "CenterPositionLat": -16.685761532676167
+ }
+]

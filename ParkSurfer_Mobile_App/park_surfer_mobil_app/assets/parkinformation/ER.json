@@ -1,0 +1,128 @@
+[
+ {
+  "ID": 81897918,
+  "Capacity": 378,
+  "Name": "",
+  "CenterPositionLon": 15.33489589543052,
+  "CenterPositionLat": 38.9380926416083
+ },
+ {
+  "ID": 93973865,
+  "Capacity": 926,
+  "Name": "",
+  "CenterPositionLon": 15.335125193729976,
+  "CenterPositionLat": 38.94533869619466
+ },
+ {
+  "ID": 120789693,
+  "Capacity": 300,
+  "Name": "",
+  "CenterPositionLon": 15.336234679533824,
+  "CenterPositionLat": 38.9410560718949
+ },
+ {
+  "ID": 145349485,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 15.338864496964796,
+  "CenterPositionLat": 38.94615053833532
+ },
+ {
+  "ID": 281679036,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 15.293879426264663,
+  "CenterPositionLat": 38.90503048112538
+ },
+ {
+  "ID": 281679038,
+  "Capacity": 506,
+  "Name": "",
+  "CenterPositionLon": 15.293773268943907,
+  "CenterPositionLat": 38.904780759148494
+ },
+ {
+  "ID": 281679040,
+  "Capacity": 520,
+  "Name": "",
+  "CenterPositionLon": 15.293674607585471,
+  "CenterPositionLat": 38.905621687729436
+ },
+ {
+  "ID": 318398205,
+  "Capacity": 464,
+  "Name": "",
+  "CenterPositionLon": 15.33953815728613,
+  "CenterPositionLat": 38.94472173200437
+ },
+ {
+  "ID": 319259694,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 15.33932115,
+  "CenterPositionLat": 38.9430772
+ },
+ {
+  "ID": 319266575,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 15.33788017568535,
+  "CenterPositionLat": 38.94152133869736
+ },
+ {
+  "ID": 359244689,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": 15.330117733333333,
+  "CenterPositionLat": 38.94764103333333
+ },
+ {
+  "ID": 382096572,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 16.184617474611617,
+  "CenterPositionLat": 38.687979798553215
+ },
+ {
+  "ID": 397489879,
+  "Capacity": 855,
+  "Name": "",
+  "CenterPositionLon": 14.633070932095206,
+  "CenterPositionLat": 38.83671235004616
+ },
+ {
+  "ID": 421604578,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 15.340746659925685,
+  "CenterPositionLat": 38.932056292813606
+ },
+ {
+  "ID": 524999967,
+  "Capacity": 2935,
+  "Name": "",
+  "CenterPositionLon": 13.047106782690438,
+  "CenterPositionLat": 42.71848253689009
+ },
+ {
+  "ID": 530529271,
+  "Capacity": 235,
+  "Name": "",
+  "CenterPositionLon": 14.889582875072744,
+  "CenterPositionLat": 38.8189436190088
+ },
+ {
+  "ID": 668779260,
+  "Capacity": 396920,
+  "Name": "ፓርክ ሰማአታት፣ Semaetat National Park منتزه الشهداء الوطني",
+  "CenterPositionLon": 15.306057773917463,
+  "CenterPositionLat": 38.96548386941536
+ },
+ {
+  "ID": 688475953,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 13.014411268297302,
+  "CenterPositionLat": 42.745044275143655
+ }
+]

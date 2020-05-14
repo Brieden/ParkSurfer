@@ -1,0 +1,205 @@
+[
+ {
+  "ID": 188626342,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 4.363063566666667,
+  "CenterPositionLat": 18.578565133333335
+ },
+ {
+  "ID": 227638353,
+  "Capacity": 1356,
+  "Name": "",
+  "CenterPositionLon": 4.399183013404777,
+  "CenterPositionLat": 18.525605720087714
+ },
+ {
+  "ID": 312768542,
+  "Capacity": 57790,
+  "Name": "",
+  "CenterPositionLon": 4.563801039018907,
+  "CenterPositionLat": 22.487447376326724
+ },
+ {
+  "ID": 315279577,
+  "Capacity": 1537,
+  "Name": "",
+  "CenterPositionLon": 4.807372775752245,
+  "CenterPositionLat": 23.161070720387745
+ },
+ {
+  "ID": 316073499,
+  "Capacity": 87,
+  "Name": "Jardin de Mairie",
+  "CenterPositionLon": 4.365096419281207,
+  "CenterPositionLat": 18.573553990448612
+ },
+ {
+  "ID": 316074493,
+  "Capacity": 214,
+  "Name": "",
+  "CenterPositionLon": 4.364226134555304,
+  "CenterPositionLat": 18.57295071784829
+ },
+ {
+  "ID": 394055415,
+  "Capacity": 3086,
+  "Name": "",
+  "CenterPositionLon": 4.371981914079494,
+  "CenterPositionLat": 18.623486115637622
+ },
+ {
+  "ID": 397989717,
+  "Capacity": 2245,
+  "Name": "",
+  "CenterPositionLon": 4.31782922444138,
+  "CenterPositionLat": 18.50762754663102
+ },
+ {
+  "ID": 398339744,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 4.384128529856829,
+  "CenterPositionLat": 18.536342242071477
+ },
+ {
+  "ID": 398340513,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 4.386294122202709,
+  "CenterPositionLat": 18.54405485170498
+ },
+ {
+  "ID": 398340527,
+  "Capacity": 193,
+  "Name": "",
+  "CenterPositionLon": 4.384040950714524,
+  "CenterPositionLat": 18.53536156242304
+ },
+ {
+  "ID": 400792235,
+  "Capacity": 42,
+  "Name": "parco",
+  "CenterPositionLon": 4.383245535119267,
+  "CenterPositionLat": 18.56219186121894
+ },
+ {
+  "ID": 400792236,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 4.380558351817967,
+  "CenterPositionLat": 18.559723195212175
+ },
+ {
+  "ID": 400797370,
+  "Capacity": 1723,
+  "Name": "",
+  "CenterPositionLon": 4.389905040420074,
+  "CenterPositionLat": 18.55412353885146
+ },
+ {
+  "ID": 540429477,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 6.323753342868041,
+  "CenterPositionLat": 19.077384919978428
+ },
+ {
+  "ID": 722335090,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 6.741164690587301,
+  "CenterPositionLat": 17.321712583455177
+ },
+ {
+  "ID": 725450125,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 6.697127520782159,
+  "CenterPositionLat": 17.84300388110153
+ },
+ {
+  "ID": 754935708,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 10.816992027177784,
+  "CenterPositionLat": 22.646194050787248
+ },
+ {
+  "ID": 792998873,
+  "Capacity": 376,
+  "Name": "",
+  "CenterPositionLon": 4.369659106374062,
+  "CenterPositionLat": 18.578306239068667
+ },
+ {
+  "ID": 793289599,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 4.363892804833008,
+  "CenterPositionLat": 18.582157508550765
+ },
+ {
+  "ID": 794560130,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 4.3672697931187265,
+  "CenterPositionLat": 18.58453084541421
+ },
+ {
+  "ID": 795003323,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": 4.3713475672744,
+  "CenterPositionLat": 18.581312541843037
+ },
+ {
+  "ID": 797021817,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 4.909060156312011,
+  "CenterPositionLat": 20.83332782176808
+ },
+ {
+  "ID": 797304934,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 4.8720425731988515,
+  "CenterPositionLat": 20.230550122507335
+ },
+ {
+  "ID": 798408887,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 5.825154707735439,
+  "CenterPositionLat": 20.729301701794864
+ },
+ {
+  "ID": 798408889,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 5.825371148319567,
+  "CenterPositionLat": 20.729343685844615
+ },
+ {
+  "ID": 798646625,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 6.12284462978198,
+  "CenterPositionLat": 20.829607254859265
+ },
+ {
+  "ID": 798735811,
+  "Capacity": 13782,
+  "Name": "",
+  "CenterPositionLon": 6.315707144709585,
+  "CenterPositionLat": 21.11286466342324
+ },
+ {
+  "ID": 802723127,
+  "Capacity": 626,
+  "Name": "",
+  "CenterPositionLon": 4.362505399956444,
+  "CenterPositionLat": 18.588446633310717
+ }
+]

@@ -1,0 +1,135 @@
+[
+ {
+  "ID": 48226990,
+  "Capacity": 437,
+  "Name": "Praça de Independência",
+  "CenterPositionLon": 0.33941640709815685,
+  "CenterPositionLat": 6.730556505237689
+ },
+ {
+  "ID": 206539561,
+  "Capacity": 3967,
+  "Name": "",
+  "CenterPositionLon": 0.3528255414016727,
+  "CenterPositionLat": 6.717293974887635
+ },
+ {
+  "ID": 206543332,
+  "Capacity": 558,
+  "Name": "",
+  "CenterPositionLon": 0.3365261359923182,
+  "CenterPositionLat": 6.7324771363579385
+ },
+ {
+  "ID": 206543431,
+  "Capacity": 3124,
+  "Name": "Parque Polular",
+  "CenterPositionLon": 0.3414956628680886,
+  "CenterPositionLat": 6.736554936780667
+ },
+ {
+  "ID": 208842459,
+  "Capacity": 416,
+  "Name": "Praça Marcelo da Veiga",
+  "CenterPositionLon": 1.6401548634236909,
+  "CenterPositionLat": 7.4206776991349646
+ },
+ {
+  "ID": 223283809,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 0.3680389826475684,
+  "CenterPositionLat": 6.6447019201850885
+ },
+ {
+  "ID": 223284037,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 0.3661043773784195,
+  "CenterPositionLat": 6.642144191834341
+ },
+ {
+  "ID": 243244802,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 1.6394594666666666,
+  "CenterPositionLat": 7.4194993333333334
+ },
+ {
+  "ID": 243553367,
+  "Capacity": 495,
+  "Name": "",
+  "CenterPositionLon": 1.6697970465336758,
+  "CenterPositionLat": 7.383795861299815
+ },
+ {
+  "ID": 243553634,
+  "Capacity": 1473,
+  "Name": "",
+  "CenterPositionLon": 1.633195928655669,
+  "CenterPositionLat": 7.416260661783231
+ },
+ {
+  "ID": 243555034,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 1.6399112253050145,
+  "CenterPositionLat": 7.4239047751636
+ },
+ {
+  "ID": 243606119,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 0.33958068457602936,
+  "CenterPositionLat": 6.732930899709033
+ },
+ {
+  "ID": 304819796,
+  "Capacity": 333,
+  "Name": "",
+  "CenterPositionLon": 0.34519358658561283,
+  "CenterPositionLat": 6.737334023349997
+ },
+ {
+  "ID": 304819797,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 0.3454954005446794,
+  "CenterPositionLat": 6.739456535749031
+ },
+ {
+  "ID": 304820000,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 0.33898663763298,
+  "CenterPositionLat": 6.732560388865119
+ },
+ {
+  "ID": 380019444,
+  "Capacity": 925,
+  "Name": "",
+  "CenterPositionLon": 0.33584878288971615,
+  "CenterPositionLat": 6.731973740610756
+ },
+ {
+  "ID": 413048315,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 0.32866660309220763,
+  "CenterPositionLat": 6.665404117333963
+ },
+ {
+  "ID": 463433097,
+  "Capacity": 330,
+  "Name": "",
+  "CenterPositionLon": 0.33731097365103785,
+  "CenterPositionLat": 6.73107738113472
+ },
+ {
+  "ID": 533397389,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 0.3439287905051821,
+  "CenterPositionLat": 6.722232413707998
+ }
+]

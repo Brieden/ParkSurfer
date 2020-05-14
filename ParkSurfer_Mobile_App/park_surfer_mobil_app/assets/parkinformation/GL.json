@@ -1,0 +1,107 @@
+[
+ {
+  "ID": 255823933,
+  "Capacity": 775,
+  "Name": "",
+  "CenterPositionLon": 64.17979385533202,
+  "CenterPositionLat": -51.74144483808088
+ },
+ {
+  "ID": 255823949,
+  "Capacity": 1672,
+  "Name": "Aqqaluk Plads",
+  "CenterPositionLon": 64.1804312221538,
+  "CenterPositionLat": -51.741676405742986
+ },
+ {
+  "ID": 504895983,
+  "Capacity": 338,
+  "Name": "Frilandsmuseet Park",
+  "CenterPositionLon": 69.21917864121754,
+  "CenterPositionLat": -51.10487083725652
+ },
+ {
+  "ID": 504895984,
+  "Capacity": 3021,
+  "Name": "Pisuffissaq Park",
+  "CenterPositionLon": 69.21933767688392,
+  "CenterPositionLat": -51.10213891521003
+ },
+ {
+  "ID": 504895985,
+  "Capacity": 228,
+  "Name": "Ammukajaaq Park",
+  "CenterPositionLon": 69.21743839299486,
+  "CenterPositionLat": -51.10330773307925
+ },
+ {
+  "ID": 504905395,
+  "Capacity": 304,
+  "Name": "Centrum Park",
+  "CenterPositionLon": 69.21593403547854,
+  "CenterPositionLat": -51.10322281933
+ },
+ {
+  "ID": 504905396,
+  "Capacity": 631,
+  "Name": "Mathias Storch Memorial",
+  "CenterPositionLon": 69.2161314133538,
+  "CenterPositionLat": -51.10496210232945
+ },
+ {
+  "ID": 555781186,
+  "Capacity": 2807,
+  "Name": "",
+  "CenterPositionLon": 64.1728107086705,
+  "CenterPositionLat": -51.745597010137864
+ },
+ {
+  "ID": 555855522,
+  "Capacity": 49228,
+  "Name": "",
+  "CenterPositionLon": 64.19409174071738,
+  "CenterPositionLat": -51.69272278233211
+ },
+ {
+  "ID": 555857327,
+  "Capacity": 2011,
+  "Name": "",
+  "CenterPositionLon": 64.16691096487583,
+  "CenterPositionLat": -51.72770359719431
+ },
+ {
+  "ID": 704981785,
+  "Capacity": 67300,
+  "Name": "Flower Valley",
+  "CenterPositionLon": 61.19419391191057,
+  "CenterPositionLat": -45.34818162846293
+ },
+ {
+  "ID": 744915325,
+  "Capacity": 898,
+  "Name": "",
+  "CenterPositionLon": 68.82025245935395,
+  "CenterPositionLat": -51.19141250448827
+ },
+ {
+  "ID": 745690534,
+  "Capacity": 1319,
+  "Name": "",
+  "CenterPositionLon": 61.994941895833215,
+  "CenterPositionLat": -49.66784855775691
+ },
+ {
+  "ID": 745696888,
+  "Capacity": 635,
+  "Name": "",
+  "CenterPositionLon": 61.993785503774255,
+  "CenterPositionLat": -49.66857127808562
+ },
+ {
+  "ID": 790224354,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 66.89723193489246,
+  "CenterPositionLat": -52.86000557509734
+ }
+]

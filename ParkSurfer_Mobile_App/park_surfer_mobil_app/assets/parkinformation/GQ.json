@@ -1,0 +1,79 @@
+[
+ {
+  "ID": 273890442,
+  "Capacity": 516,
+  "Name": "Plaza de la Independencia",
+  "CenterPositionLon": 3.7572434221379005,
+  "CenterPositionLat": 8.78319323533223
+ },
+ {
+  "ID": 306012813,
+  "Capacity": 3119,
+  "Name": "",
+  "CenterPositionLon": 3.739881595040205,
+  "CenterPositionLat": 8.806927136145585
+ },
+ {
+  "ID": 306012814,
+  "Capacity": 1180,
+  "Name": "",
+  "CenterPositionLon": 3.7417720333071616,
+  "CenterPositionLat": 8.808006132574093
+ },
+ {
+  "ID": 357834287,
+  "Capacity": 1239,
+  "Name": "",
+  "CenterPositionLon": 3.7397105467956178,
+  "CenterPositionLat": 8.805287235015923
+ },
+ {
+  "ID": 363635642,
+  "Capacity": 624,
+  "Name": "Plaza de San Fernando",
+  "CenterPositionLon": 3.757359677034515,
+  "CenterPositionLat": 8.799680276511243
+ },
+ {
+  "ID": 440106283,
+  "Capacity": 220,
+  "Name": "Plaza de la Libertad",
+  "CenterPositionLon": 1.8635453040048489,
+  "CenterPositionLat": 9.76446722136203
+ },
+ {
+  "ID": 496242315,
+  "Capacity": 1635,
+  "Name": "Plaza Mongomo",
+  "CenterPositionLon": 1.6275161690357551,
+  "CenterPositionLat": 11.319808556671136
+ },
+ {
+  "ID": 638398364,
+  "Capacity": 1841,
+  "Name": "Parque de Alcaide",
+  "CenterPositionLon": 3.744468084017488,
+  "CenterPositionLat": 8.7889580712311
+ },
+ {
+  "ID": 654192586,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": 1.8666574831651566,
+  "CenterPositionLat": 9.766568960840285
+ },
+ {
+  "ID": 654502236,
+  "Capacity": 93243,
+  "Name": "Parque Nacional de Malabo",
+  "CenterPositionLon": 3.7493627331162775,
+  "CenterPositionLat": 8.727852926331886
+ },
+ {
+  "ID": 671054537,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": -1.4046689741723282,
+  "CenterPositionLat": 5.632603679024702
+ }
+]

@@ -1,0 +1,828 @@
+[
+ {
+  "ID": 45368320,
+  "Capacity": 225,
+  "Name": "",
+  "CenterPositionLon": -18.784271976578392,
+  "CenterPositionLat": 47.46368449120702
+ },
+ {
+  "ID": 45368329,
+  "Capacity": 850,
+  "Name": "",
+  "CenterPositionLon": -18.78702646439528,
+  "CenterPositionLat": 47.462842774506186
+ },
+ {
+  "ID": 45418366,
+  "Capacity": 2384,
+  "Name": "Jardin d'Ambohijatovo",
+  "CenterPositionLon": -18.912799849719107,
+  "CenterPositionLat": 47.52949485145757
+ },
+ {
+  "ID": 45418367,
+  "Capacity": 925,
+  "Name": "Jardin d'Andohalo",
+  "CenterPositionLon": -18.91832317223919,
+  "CenterPositionLat": 47.53201160949486
+ },
+ {
+  "ID": 48550510,
+  "Capacity": 718,
+  "Name": "",
+  "CenterPositionLon": -18.909790141071504,
+  "CenterPositionLat": 47.51748277281716
+ },
+ {
+  "ID": 53578966,
+  "Capacity": 1771,
+  "Name": "Club Nautique et de Tennis Toamasina",
+  "CenterPositionLon": -18.15852974903918,
+  "CenterPositionLat": 49.42248250875582
+ },
+ {
+  "ID": 115189969,
+  "Capacity": 479,
+  "Name": "Kianja Meva",
+  "CenterPositionLon": -21.440516979873607,
+  "CenterPositionLat": 47.099259330141585
+ },
+ {
+  "ID": 119497169,
+  "Capacity": 1288,
+  "Name": "",
+  "CenterPositionLon": -23.357882795214582,
+  "CenterPositionLat": 43.6662692477958
+ },
+ {
+  "ID": 175905152,
+  "Capacity": 13501,
+  "Name": "Parc de l'Est",
+  "CenterPositionLon": -19.862483685918164,
+  "CenterPositionLat": 47.04191854288872
+ },
+ {
+  "ID": 178550873,
+  "Capacity": 21463,
+  "Name": "Tsimbazaza",
+  "CenterPositionLon": -18.93070603375199,
+  "CenterPositionLat": 47.52624004162702
+ },
+ {
+  "ID": 191053048,
+  "Capacity": 501,
+  "Name": "",
+  "CenterPositionLon": -13.40658814063073,
+  "CenterPositionLat": 48.27691756654507
+ },
+ {
+  "ID": 191053064,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": -13.406075857279946,
+  "CenterPositionLat": 48.27389807875948
+ },
+ {
+  "ID": 192208946,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": -13.40593727304506,
+  "CenterPositionLat": 48.273206068264614
+ },
+ {
+  "ID": 192208949,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": -13.406080766520768,
+  "CenterPositionLat": 48.27347756190369
+ },
+ {
+  "ID": 192634701,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": -13.397811732270203,
+  "CenterPositionLat": 48.26401623219913
+ },
+ {
+  "ID": 193462494,
+  "Capacity": 182,
+  "Name": "Place Kabary",
+  "CenterPositionLon": -12.270017627726952,
+  "CenterPositionLat": 49.294398728514736
+ },
+ {
+  "ID": 193462498,
+  "Capacity": 238,
+  "Name": "Place Forch",
+  "CenterPositionLon": -12.277784393605968,
+  "CenterPositionLat": 49.29130468697457
+ },
+ {
+  "ID": 193462500,
+  "Capacity": 1169,
+  "Name": "Jardin Tropical",
+  "CenterPositionLon": -12.2715798738042,
+  "CenterPositionLat": 49.294782615821454
+ },
+ {
+  "ID": 193465009,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -12.2820847,
+  "CenterPositionLat": 49.29255896666667
+ },
+ {
+  "ID": 193465013,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": -12.282393128840084,
+  "CenterPositionLat": 49.29295874754047
+ },
+ {
+  "ID": 193465015,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -12.282670066666666,
+  "CenterPositionLat": 49.292524033333336
+ },
+ {
+  "ID": 193465017,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -12.282648131994359,
+  "CenterPositionLat": 49.29275042391302
+ },
+ {
+  "ID": 193465018,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": -12.282210966666668,
+  "CenterPositionLat": 49.29238216666667
+ },
+ {
+  "ID": 193465019,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": -12.282414533333332,
+  "CenterPositionLat": 49.292341066666665
+ },
+ {
+  "ID": 193465020,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": -12.282215333333335,
+  "CenterPositionLat": 49.29285156666666
+ },
+ {
+  "ID": 193465023,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": -12.282084266666667,
+  "CenterPositionLat": 49.29279523333334
+ },
+ {
+  "ID": 193475768,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": -12.278588533333334,
+  "CenterPositionLat": 49.2915701
+ },
+ {
+  "ID": 193599663,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -12.278097082679823,
+  "CenterPositionLat": 49.28793834811493
+ },
+ {
+  "ID": 193599689,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": -12.278342652192606,
+  "CenterPositionLat": 49.28813548194424
+ },
+ {
+  "ID": 193637105,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": -13.406204566267663,
+  "CenterPositionLat": 48.274452185356544
+ },
+ {
+  "ID": 194919052,
+  "Capacity": 534080,
+  "Name": "Tsingy Rouges",
+  "CenterPositionLon": -12.641684537661792,
+  "CenterPositionLat": 49.490361185219236
+ },
+ {
+  "ID": 199406536,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -13.443211255583968,
+  "CenterPositionLat": 48.34396528799821
+ },
+ {
+  "ID": 199406541,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": -13.443456344580435,
+  "CenterPositionLat": 48.34385170412915
+ },
+ {
+  "ID": 240790216,
+  "Capacity": 2382,
+  "Name": "",
+  "CenterPositionLon": -19.865503466841137,
+  "CenterPositionLat": 47.0330435372465
+ },
+ {
+  "ID": 240790222,
+  "Capacity": 868,
+  "Name": "",
+  "CenterPositionLon": -19.87032098540147,
+  "CenterPositionLat": 47.03719040947703
+ },
+ {
+  "ID": 240790228,
+  "Capacity": 2682,
+  "Name": "",
+  "CenterPositionLon": -19.86793299166032,
+  "CenterPositionLat": 47.03287870984259
+ },
+ {
+  "ID": 240790315,
+  "Capacity": 2835,
+  "Name": "",
+  "CenterPositionLon": -19.870311214928726,
+  "CenterPositionLat": 47.03586021909352
+ },
+ {
+  "ID": 240790323,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": -19.869743870139096,
+  "CenterPositionLat": 47.03459926003689
+ },
+ {
+  "ID": 244052305,
+  "Capacity": 904,
+  "Name": "",
+  "CenterPositionLon": -19.866859632661438,
+  "CenterPositionLat": 47.037118083201804
+ },
+ {
+  "ID": 245759696,
+  "Capacity": 311,
+  "Name": "Point de vue",
+  "CenterPositionLon": -21.44569312559927,
+  "CenterPositionLat": 47.07833421063731
+ },
+ {
+  "ID": 252574546,
+  "Capacity": 692,
+  "Name": "Parc des Moutons",
+  "CenterPositionLon": -18.866785243865685,
+  "CenterPositionLat": 47.5345901855061
+ },
+ {
+  "ID": 287855325,
+  "Capacity": 1028,
+  "Name": "Place de la Colonne",
+  "CenterPositionLon": -18.15963605892281,
+  "CenterPositionLat": 49.41709489757799
+ },
+ {
+  "ID": 359656604,
+  "Capacity": 1226,
+  "Name": "A\u0026Z Parc",
+  "CenterPositionLon": -20.519972984947426,
+  "CenterPositionLat": 47.24737841864474
+ },
+ {
+  "ID": 364082847,
+  "Capacity": 31,
+  "Name": "Jardin botanique de l'association AVUPMA",
+  "CenterPositionLon": -12.28266379776189,
+  "CenterPositionLat": 49.29347887642981
+ },
+ {
+  "ID": 377442742,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": -13.394951894694374,
+  "CenterPositionLat": 48.26324484129054
+ },
+ {
+  "ID": 377442743,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": -13.395002302038094,
+  "CenterPositionLat": 48.26354741277765
+ },
+ {
+  "ID": 381770792,
+  "Capacity": 329,
+  "Name": "",
+  "CenterPositionLon": -21.395123031734734,
+  "CenterPositionLat": 47.115071676986176
+ },
+ {
+  "ID": 381770794,
+  "Capacity": 1175,
+  "Name": "",
+  "CenterPositionLon": -21.396422163856425,
+  "CenterPositionLat": 47.11606083939467
+ },
+ {
+  "ID": 383580138,
+  "Capacity": 431,
+  "Name": "Soccer Field",
+  "CenterPositionLon": -14.60012524065182,
+  "CenterPositionLat": 49.633263791696855
+ },
+ {
+  "ID": 383807581,
+  "Capacity": 416,
+  "Name": "Soccer Field",
+  "CenterPositionLon": -14.591472231903802,
+  "CenterPositionLat": 49.62860916816372
+ },
+ {
+  "ID": 383812404,
+  "Capacity": 230,
+  "Name": "Soccer Field",
+  "CenterPositionLon": -14.606904073036928,
+  "CenterPositionLat": 49.636767746267324
+ },
+ {
+  "ID": 384369432,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -16.16761904500398,
+  "CenterPositionLat": 49.76440240900104
+ },
+ {
+  "ID": 384369435,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -16.16752017404922,
+  "CenterPositionLat": 49.7642352
+ },
+ {
+  "ID": 384375153,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": -16.16879789007083,
+  "CenterPositionLat": 49.76376370486053
+ },
+ {
+  "ID": 384389086,
+  "Capacity": 51,
+  "Name": "Basket ball court",
+  "CenterPositionLon": -16.1706953012678,
+  "CenterPositionLat": 49.7716733970124
+ },
+ {
+  "ID": 385170810,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": -19.428816606369697,
+  "CenterPositionLat": 48.93270814555119
+ },
+ {
+  "ID": 385170811,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": -19.428463727935974,
+  "CenterPositionLat": 48.932250478080725
+ },
+ {
+  "ID": 385170812,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": -19.428815636320618,
+  "CenterPositionLat": 48.93217316008279
+ },
+ {
+  "ID": 385170829,
+  "Capacity": 223,
+  "Name": "",
+  "CenterPositionLon": -19.428010596664535,
+  "CenterPositionLat": 48.92880380908928
+ },
+ {
+  "ID": 385170849,
+  "Capacity": 459,
+  "Name": "",
+  "CenterPositionLon": -19.4278532272352,
+  "CenterPositionLat": 48.93332213465658
+ },
+ {
+  "ID": 386373388,
+  "Capacity": 953,
+  "Name": "",
+  "CenterPositionLon": -13.403322238820774,
+  "CenterPositionLat": 48.25975126504542
+ },
+ {
+  "ID": 386935034,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": -13.399851857465414,
+  "CenterPositionLat": 48.27424646798297
+ },
+ {
+  "ID": 387062803,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": -13.400656556265483,
+  "CenterPositionLat": 48.270091876044994
+ },
+ {
+  "ID": 387062809,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": -13.40192143025678,
+  "CenterPositionLat": 48.27044090607726
+ },
+ {
+  "ID": 388181464,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -13.401539685022774,
+  "CenterPositionLat": 48.26360949116401
+ },
+ {
+  "ID": 388182285,
+  "Capacity": 1837,
+  "Name": "",
+  "CenterPositionLon": -13.39947574154367,
+  "CenterPositionLat": 48.26173457343502
+ },
+ {
+  "ID": 388182286,
+  "Capacity": 404,
+  "Name": "",
+  "CenterPositionLon": -13.400323552791825,
+  "CenterPositionLat": 48.26055438150987
+ },
+ {
+  "ID": 388182287,
+  "Capacity": 549,
+  "Name": "",
+  "CenterPositionLon": -13.403219905391932,
+  "CenterPositionLat": 48.25856971211323
+ },
+ {
+  "ID": 388182655,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": -13.4035384635842,
+  "CenterPositionLat": 48.26228513833258
+ },
+ {
+  "ID": 390251580,
+  "Capacity": 1784,
+  "Name": "Lac Matsabory",
+  "CenterPositionLon": -13.396826985300464,
+  "CenterPositionLat": 48.21049154677542
+ },
+ {
+  "ID": 394339414,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": -18.96666848216058,
+  "CenterPositionLat": 46.72180130397683
+ },
+ {
+  "ID": 408269890,
+  "Capacity": 416,
+  "Name": "Kianja Maitsoririnina CUA",
+  "CenterPositionLon": -18.89782460183533,
+  "CenterPositionLat": 47.52397760125847
+ },
+ {
+  "ID": 422338677,
+  "Capacity": 284,
+  "Name": "Park Ganagana Fotsimaso",
+  "CenterPositionLon": -14.89360235889229,
+  "CenterPositionLat": 47.986048163162486
+ },
+ {
+  "ID": 425805977,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": -23.12532300898274,
+  "CenterPositionLat": 43.6092910197622
+ },
+ {
+  "ID": 425806042,
+  "Capacity": 585,
+  "Name": "",
+  "CenterPositionLon": -23.13700369319707,
+  "CenterPositionLat": 43.61878545001043
+ },
+ {
+  "ID": 425806046,
+  "Capacity": 1488,
+  "Name": "",
+  "CenterPositionLon": -23.13436238232352,
+  "CenterPositionLat": 43.61596632861507
+ },
+ {
+  "ID": 426203818,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": -23.123203959768393,
+  "CenterPositionLat": 43.60952449244605
+ },
+ {
+  "ID": 455480087,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": -21.92811154536454,
+  "CenterPositionLat": 43.978198667665836
+ },
+ {
+  "ID": 480630202,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": -14.26893587511791,
+  "CenterPositionLat": 50.13081747681607
+ },
+ {
+  "ID": 480630203,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": -14.268601474678825,
+  "CenterPositionLat": 50.133180505123676
+ },
+ {
+  "ID": 480631453,
+  "Capacity": 181,
+  "Name": "",
+  "CenterPositionLon": -14.265680670298973,
+  "CenterPositionLat": 50.163997223670656
+ },
+ {
+  "ID": 513225721,
+  "Capacity": 1017,
+  "Name": "",
+  "CenterPositionLon": -19.853469773596576,
+  "CenterPositionLat": 47.0321689240645
+ },
+ {
+  "ID": 513225722,
+  "Capacity": 378,
+  "Name": "",
+  "CenterPositionLon": -19.85491630321711,
+  "CenterPositionLat": 47.03243208976797
+ },
+ {
+  "ID": 514384588,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": -19.861317430873353,
+  "CenterPositionLat": 47.0338017976047
+ },
+ {
+  "ID": 517720353,
+  "Capacity": 761,
+  "Name": "",
+  "CenterPositionLon": -18.915323487922993,
+  "CenterPositionLat": 47.5508198919407
+ },
+ {
+  "ID": 517726764,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": -18.913386255113288,
+  "CenterPositionLat": 47.55145268600308
+ },
+ {
+  "ID": 517881632,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": -18.91536634166338,
+  "CenterPositionLat": 47.55317809017379
+ },
+ {
+  "ID": 525781974,
+  "Capacity": 583,
+  "Name": "Place Bien Aimé",
+  "CenterPositionLon": -18.160453221093746,
+  "CenterPositionLat": 49.42128146935482
+ },
+ {
+  "ID": 526985901,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": -18.91997936699571,
+  "CenterPositionLat": 47.51927060321973
+ },
+ {
+  "ID": 539457049,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": -12.292376658780118,
+  "CenterPositionLat": 49.2905471459237
+ },
+ {
+  "ID": 541089046,
+  "Capacity": 765,
+  "Name": "",
+  "CenterPositionLon": -19.635864172844844,
+  "CenterPositionLat": 48.81167998923385
+ },
+ {
+  "ID": 541536024,
+  "Capacity": 450,
+  "Name": "Place Japonais",
+  "CenterPositionLon": -12.26770746820663,
+  "CenterPositionLat": 49.297960242257794
+ },
+ {
+  "ID": 542224700,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -19.15951995,
+  "CenterPositionLat": 46.74205275
+ },
+ {
+  "ID": 543104012,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": -18.938807213200764,
+  "CenterPositionLat": 47.488210358994024
+ },
+ {
+  "ID": 544006763,
+  "Capacity": 699,
+  "Name": "",
+  "CenterPositionLon": -20.503989613781492,
+  "CenterPositionLat": 44.394974049638705
+ },
+ {
+  "ID": 544007232,
+  "Capacity": 305,
+  "Name": "",
+  "CenterPositionLon": -20.504142085198236,
+  "CenterPositionLat": 44.38371216708641
+ },
+ {
+  "ID": 544007306,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": -20.504514703585066,
+  "CenterPositionLat": 44.3850278307938
+ },
+ {
+  "ID": 561671101,
+  "Capacity": 4803,
+  "Name": "Colline Royale d'Ambohidratrimo",
+  "CenterPositionLon": -18.820778516595396,
+  "CenterPositionLat": 47.44173251966716
+ },
+ {
+  "ID": 565751475,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": -13.283864125828716,
+  "CenterPositionLat": 48.21436169043129
+ },
+ {
+  "ID": 604895349,
+  "Capacity": 125,
+  "Name": "",
+  "CenterPositionLon": -18.90876740822275,
+  "CenterPositionLat": 47.46793959992628
+ },
+ {
+  "ID": 608942851,
+  "Capacity": 2276,
+  "Name": "",
+  "CenterPositionLon": -23.60974328422983,
+  "CenterPositionLat": 43.66490567437921
+ },
+ {
+  "ID": 612864287,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": -18.772465336123354,
+  "CenterPositionLat": 46.049209738361384
+ },
+ {
+  "ID": 623085468,
+  "Capacity": 861,
+  "Name": "",
+  "CenterPositionLon": -18.74612822178951,
+  "CenterPositionLat": 47.50589709828047
+ },
+ {
+  "ID": 624417991,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": -18.890207236126336,
+  "CenterPositionLat": 47.51455272971166
+ },
+ {
+  "ID": 659523624,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": -13.443038501720597,
+  "CenterPositionLat": 48.34419831545947
+ },
+ {
+  "ID": 659523630,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -13.444461989895121,
+  "CenterPositionLat": 48.33957050164856
+ },
+ {
+  "ID": 684921191,
+  "Capacity": 185,
+  "Name": "parc à boeufs",
+  "CenterPositionLon": -19.069882669059382,
+  "CenterPositionLat": 46.86393926750507
+ },
+ {
+  "ID": 684984866,
+  "Capacity": 11903,
+  "Name": "",
+  "CenterPositionLon": -22.619412855659135,
+  "CenterPositionLat": 45.38839509773225
+ },
+ {
+  "ID": 684984867,
+  "Capacity": 3269,
+  "Name": "",
+  "CenterPositionLon": -22.609251929806227,
+  "CenterPositionLat": 45.40149452526423
+ },
+ {
+  "ID": 692937827,
+  "Capacity": 65406,
+  "Name": "Sahaedena",
+  "CenterPositionLon": -20.800649100305257,
+  "CenterPositionLat": 48.39360848221414
+ },
+ {
+  "ID": 721864183,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": -22.402716049757927,
+  "CenterPositionLat": 46.1295610105771
+ },
+ {
+  "ID": 730089407,
+  "Capacity": 442,
+  "Name": "Espace Saha ny Nofy Ambohimalaza",
+  "CenterPositionLon": -18.87666658540659,
+  "CenterPositionLat": 47.64381797970277
+ },
+ {
+  "ID": 746792746,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": -18.840005091586942,
+  "CenterPositionLat": 47.46167371593394
+ },
+ {
+  "ID": 748912349,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -18.860439007571138,
+  "CenterPositionLat": 47.475431683661434
+ },
+ {
+  "ID": 748912350,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": -18.860601783498364,
+  "CenterPositionLat": 47.47570975676159
+ },
+ {
+  "ID": 774961976,
+  "Capacity": 307,
+  "Name": "Place Député",
+  "CenterPositionLon": -12.314831024451525,
+  "CenterPositionLat": 49.29124376024148
+ },
+ {
+  "ID": 785919326,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": -18.879348333083957,
+  "CenterPositionLat": 47.56151888544498
+ },
+ {
+  "ID": 786008837,
+  "Capacity": 617,
+  "Name": "",
+  "CenterPositionLon": -18.942280754401015,
+  "CenterPositionLat": 48.21483412089971
+ }
+]

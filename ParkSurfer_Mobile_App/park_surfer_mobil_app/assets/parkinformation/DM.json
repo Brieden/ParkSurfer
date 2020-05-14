@@ -1,0 +1,65 @@
+[
+ {
+  "ID": 142324885,
+  "Capacity": 719,
+  "Name": "Lindo Park",
+  "CenterPositionLon": 15.304798534233681,
+  "CenterPositionLat": -61.38551449302674
+ },
+ {
+  "ID": 145400476,
+  "Capacity": 4150,
+  "Name": "Botanical Gardens",
+  "CenterPositionLon": 15.300036578924576,
+  "CenterPositionLat": -61.38262214063232
+ },
+ {
+  "ID": 174859542,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 15.305634569225905,
+  "CenterPositionLat": -61.387605461880824
+ },
+ {
+  "ID": 361451953,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 15.296314815297196,
+  "CenterPositionLat": -61.386597203043905
+ },
+ {
+  "ID": 371260043,
+  "Capacity": 592,
+  "Name": "",
+  "CenterPositionLon": 15.30549416420011,
+  "CenterPositionLat": -61.38951886531829
+ },
+ {
+  "ID": 373708293,
+  "Capacity": 141,
+  "Name": "Peeble Park",
+  "CenterPositionLon": 15.295998149735553,
+  "CenterPositionLat": -61.3867217939192
+ },
+ {
+  "ID": 373708904,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 15.3043433,
+  "CenterPositionLat": -61.38697846666667
+ },
+ {
+  "ID": 373708905,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 15.305484202046307,
+  "CenterPositionLat": -61.39001590735327
+ },
+ {
+  "ID": 389225585,
+  "Capacity": 1024,
+  "Name": "Cannor Heritage Park",
+  "CenterPositionLon": 15.637081555720057,
+  "CenterPositionLat": -61.45841342514705
+ }
+]

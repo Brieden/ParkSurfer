@@ -1,0 +1,429 @@
+[
+ {
+  "ID": 25512063,
+  "Capacity": 6581,
+  "Name": "Greenwood Park",
+  "CenterPositionLon": -17.817477820970286,
+  "CenterPositionLat": 31.05753883765121
+ },
+ {
+  "ID": 25821049,
+  "Capacity": 2872,
+  "Name": "Rowland Park",
+  "CenterPositionLon": -17.81661869430427,
+  "CenterPositionLat": 31.035151842275624
+ },
+ {
+  "ID": 25821085,
+  "Capacity": 2674,
+  "Name": "Africa Unity Square",
+  "CenterPositionLon": -17.829317808663895,
+  "CenterPositionLat": 31.052022763862688
+ },
+ {
+  "ID": 25821238,
+  "Capacity": 3742,
+  "Name": "McDonalds Park",
+  "CenterPositionLon": -17.787648151465774,
+  "CenterPositionLat": 31.029829689801286
+ },
+ {
+  "ID": 26366526,
+  "Capacity": 2110,
+  "Name": "Toremore Park",
+  "CenterPositionLon": -17.764705676520254,
+  "CenterPositionLat": 31.083684124845686
+ },
+ {
+  "ID": 79801961,
+  "Capacity": 11341,
+  "Name": "Centenary Park",
+  "CenterPositionLon": -20.156832101812793,
+  "CenterPositionLat": 28.59285296888751
+ },
+ {
+  "ID": 79802385,
+  "Capacity": 17758,
+  "Name": "Hume Park",
+  "CenterPositionLon": -20.14942177258136,
+  "CenterPositionLat": 28.593275479813993
+ },
+ {
+  "ID": 129421142,
+  "Capacity": 3799,
+  "Name": "",
+  "CenterPositionLon": -17.928279086289766,
+  "CenterPositionLat": 25.841242332195907
+ },
+ {
+  "ID": 203410131,
+  "Capacity": 12093,
+  "Name": "Msuna island",
+  "CenterPositionLon": -18.018244405218326,
+  "CenterPositionLat": 26.826474125743133
+ },
+ {
+  "ID": 203411426,
+  "Capacity": 2033,
+  "Name": "",
+  "CenterPositionLon": -18.01562698134376,
+  "CenterPositionLat": 26.830367663667626
+ },
+ {
+  "ID": 203424670,
+  "Capacity": 13261,
+  "Name": "CHOGM PARK",
+  "CenterPositionLon": -17.929681185031672,
+  "CenterPositionLat": 25.832910811797966
+ },
+ {
+  "ID": 219018595,
+  "Capacity": 1689,
+  "Name": "",
+  "CenterPositionLon": -17.925668960787863,
+  "CenterPositionLat": 25.83659596776083
+ },
+ {
+  "ID": 289315153,
+  "Capacity": 70,
+  "Name": "Soccer Field",
+  "CenterPositionLon": -17.792186995609573,
+  "CenterPositionLat": 31.036386848260534
+ },
+ {
+  "ID": 289318244,
+  "Capacity": 44,
+  "Name": "Soccer Field",
+  "CenterPositionLon": -17.792667650000002,
+  "CenterPositionLat": 31.04016735
+ },
+ {
+  "ID": 289318320,
+  "Capacity": 337,
+  "Name": "Tennis Courts",
+  "CenterPositionLon": -17.796033323778875,
+  "CenterPositionLat": 31.03929734569849
+ },
+ {
+  "ID": 297056854,
+  "Capacity": 876,
+  "Name": "Field",
+  "CenterPositionLon": -17.801518750000003,
+  "CenterPositionLat": 31.06074735
+ },
+ {
+  "ID": 323083892,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": -17.808767869088673,
+  "CenterPositionLat": 30.965027949900303
+ },
+ {
+  "ID": 323088396,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": -17.81384975310803,
+  "CenterPositionLat": 30.967920475358742
+ },
+ {
+  "ID": 327846179,
+  "Capacity": 274,
+  "Name": "",
+  "CenterPositionLon": -17.934053383934685,
+  "CenterPositionLat": 31.18427471849031
+ },
+ {
+  "ID": 353925810,
+  "Capacity": 1760,
+  "Name": "",
+  "CenterPositionLon": -17.820042200993832,
+  "CenterPositionLat": 31.058306943921377
+ },
+ {
+  "ID": 353925811,
+  "Capacity": 18357,
+  "Name": "Harare Gardens",
+  "CenterPositionLon": -17.82396638940493,
+  "CenterPositionLat": 31.046550793746356
+ },
+ {
+  "ID": 361160397,
+  "Capacity": 324,
+  "Name": "",
+  "CenterPositionLon": -17.924993598930946,
+  "CenterPositionLat": 25.823959653401218
+ },
+ {
+  "ID": 363592910,
+  "Capacity": 329,
+  "Name": "",
+  "CenterPositionLon": -17.74088915,
+  "CenterPositionLat": 31.1141054
+ },
+ {
+  "ID": 370325744,
+  "Capacity": 7820,
+  "Name": "Centenary Park",
+  "CenterPositionLon": -20.15460966754946,
+  "CenterPositionLat": 28.594171586750218
+ },
+ {
+  "ID": 376347492,
+  "Capacity": 8366,
+  "Name": "Ballantyne Park",
+  "CenterPositionLon": -17.77118792907511,
+  "CenterPositionLat": 31.10013080923266
+ },
+ {
+  "ID": 387705945,
+  "Capacity": 1393,
+  "Name": "",
+  "CenterPositionLon": -18.970925480617648,
+  "CenterPositionLat": 32.664167599866104
+ },
+ {
+  "ID": 392832529,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": -20.15558588713757,
+  "CenterPositionLat": 28.587489198359627
+ },
+ {
+  "ID": 392832530,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": -20.15486116158135,
+  "CenterPositionLat": 28.587637807272763
+ },
+ {
+  "ID": 392832531,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": -20.15511814326382,
+  "CenterPositionLat": 28.587678134704593
+ },
+ {
+  "ID": 403899222,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": -17.823248584985084,
+  "CenterPositionLat": 30.99609722681055
+ },
+ {
+  "ID": 403899666,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": -17.822956609139194,
+  "CenterPositionLat": 30.996585630010152
+ },
+ {
+  "ID": 404022568,
+  "Capacity": 70,
+  "Name": "Soccer Field",
+  "CenterPositionLon": -17.792593095609575,
+  "CenterPositionLat": 31.03633554826053
+ },
+ {
+  "ID": 405145668,
+  "Capacity": 4288,
+  "Name": "",
+  "CenterPositionLon": -17.769252350000002,
+  "CenterPositionLat": 31.00954505
+ },
+ {
+  "ID": 426927376,
+  "Capacity": 872,
+  "Name": "",
+  "CenterPositionLon": -17.707964817303015,
+  "CenterPositionLat": 31.11092615802294
+ },
+ {
+  "ID": 461163567,
+  "Capacity": 1168,
+  "Name": "",
+  "CenterPositionLon": -20.983040216588122,
+  "CenterPositionLat": 29.661633093023134
+ },
+ {
+  "ID": 461172047,
+  "Capacity": 1250,
+  "Name": "",
+  "CenterPositionLon": -20.982688758389372,
+  "CenterPositionLat": 29.662612947870073
+ },
+ {
+  "ID": 461172048,
+  "Capacity": 1198,
+  "Name": "",
+  "CenterPositionLon": -20.984600201775393,
+  "CenterPositionLat": 29.669465334445373
+ },
+ {
+  "ID": 461345599,
+  "Capacity": 958,
+  "Name": "",
+  "CenterPositionLon": -21.03278450723442,
+  "CenterPositionLat": 29.76689685205358
+ },
+ {
+  "ID": 461407214,
+  "Capacity": 1226,
+  "Name": "",
+  "CenterPositionLon": -20.98537226686452,
+  "CenterPositionLat": 29.716925860125258
+ },
+ {
+  "ID": 483252666,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -18.207432997856863,
+  "CenterPositionLat": 26.04750439967585
+ },
+ {
+  "ID": 490559192,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": -18.03747247033724,
+  "CenterPositionLat": 29.16820737814258
+ },
+ {
+  "ID": 490563727,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": -17.983576524864176,
+  "CenterPositionLat": 29.21646136194263
+ },
+ {
+  "ID": 490563728,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": -17.983955299999998,
+  "CenterPositionLat": 29.21660445
+ },
+ {
+  "ID": 495524341,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": -20.41622235,
+  "CenterPositionLat": 30.245786149999997
+ },
+ {
+  "ID": 498626254,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -17.682039871394466,
+  "CenterPositionLat": 29.48148286134905
+ },
+ {
+  "ID": 499297891,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": -17.841106157529538,
+  "CenterPositionLat": 30.509837672697632
+ },
+ {
+  "ID": 509443288,
+  "Capacity": 253,
+  "Name": "",
+  "CenterPositionLon": -20.477834444694786,
+  "CenterPositionLat": 29.906960467938436
+ },
+ {
+  "ID": 626636362,
+  "Capacity": 1365,
+  "Name": "kuwadzana 4 resting park",
+  "CenterPositionLon": -17.831770014670752,
+  "CenterPositionLat": 30.93176105520114
+ },
+ {
+  "ID": 673599984,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": -17.838100116841467,
+  "CenterPositionLat": 31.04735255649724
+ },
+ {
+  "ID": 678267085,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": -20.42464211881742,
+  "CenterPositionLat": 32.707192315099306
+ },
+ {
+  "ID": 678917892,
+  "Capacity": 139,
+  "Name": "VICTORIA FALLS MUNICIPALITY",
+  "CenterPositionLon": -17.927671489864327,
+  "CenterPositionLat": 25.838766733659856
+ },
+ {
+  "ID": 679873793,
+  "Capacity": 21145,
+  "Name": "",
+  "CenterPositionLon": -19.364003986091706,
+  "CenterPositionLat": 32.53424766927749
+ },
+ {
+  "ID": 679873794,
+  "Capacity": 4707,
+  "Name": "",
+  "CenterPositionLon": -19.371471270805248,
+  "CenterPositionLat": 32.538768896285134
+ },
+ {
+  "ID": 700854720,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -17.822724266666665,
+  "CenterPositionLat": 30.981121433333332
+ },
+ {
+  "ID": 700854721,
+  "Capacity": 1042,
+  "Name": "",
+  "CenterPositionLon": -17.826357014357047,
+  "CenterPositionLat": 30.980564289199478
+ },
+ {
+  "ID": 762462028,
+  "Capacity": 120645,
+  "Name": "Hillside Dams Conservation",
+  "CenterPositionLon": -20.20012556186606,
+  "CenterPositionLat": 28.61987975773687
+ },
+ {
+  "ID": 777492523,
+  "Capacity": 18314621,
+  "Name": "Somalisa Private Concession",
+  "CenterPositionLon": -19.01136559720132,
+  "CenterPositionLat": 27.01269344225416
+ },
+ {
+  "ID": 781776830,
+  "Capacity": 63601231,
+  "Name": "Zambezi National Park",
+  "CenterPositionLon": -17.930820457895095,
+  "CenterPositionLat": 25.677573694512624
+ },
+ {
+  "ID": 783841899,
+  "Capacity": 3584702,
+  "Name": "Victoria Falls Private Game Reserve",
+  "CenterPositionLon": -18.03968666617793,
+  "CenterPositionLat": 25.775031422048105
+ },
+ {
+  "ID": 798294456,
+  "Capacity": 1,
+  "Name": "Wamlala Baobab",
+  "CenterPositionLon": -22.190681533333333,
+  "CenterPositionLat": 29.9869071
+ },
+ {
+  "ID": 798294457,
+  "Capacity": 432,
+  "Name": "The Great Limpopo Baobab (Wamlala) Park",
+  "CenterPositionLon": -22.193150153925167,
+  "CenterPositionLat": 29.985485105684727
+ }
+]

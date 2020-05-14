@@ -1,0 +1,72 @@
+[
+ {
+  "ID": 151567641,
+  "Capacity": 472,
+  "Name": "Jardim Infantil",
+  "CenterPositionLon": -8.554338029815982,
+  "CenterPositionLat": 125.56587515042892
+ },
+ {
+  "ID": 153940903,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": -8.54964302660793,
+  "CenterPositionLat": 125.5562715335744
+ },
+ {
+  "ID": 166656282,
+  "Capacity": 826,
+  "Name": "Jardim 5 de Maio",
+  "CenterPositionLon": -8.55358304981156,
+  "CenterPositionLat": 125.57257521011127
+ },
+ {
+  "ID": 166662132,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": -8.559265547551886,
+  "CenterPositionLat": 125.57981640365472
+ },
+ {
+  "ID": 253623208,
+  "Capacity": 43,
+  "Name": "Mandarin",
+  "CenterPositionLon": -8.554228031697706,
+  "CenterPositionLat": 125.56904525774017
+ },
+ {
+  "ID": 268786067,
+  "Capacity": 873,
+  "Name": "",
+  "CenterPositionLon": -8.549973715128939,
+  "CenterPositionLat": 125.56895377553056
+ },
+ {
+  "ID": 460508298,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": -8.39170440181639,
+  "CenterPositionLat": 127.2572752963592
+ },
+ {
+  "ID": 539581473,
+  "Capacity": 5654,
+  "Name": "Jardim botanico Fransisco Xavier Amaral",
+  "CenterPositionLon": -8.61125203834457,
+  "CenterPositionLat": 125.66455036448329
+ },
+ {
+  "ID": 539756417,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": -8.510030234643546,
+  "CenterPositionLat": 126.013165753445
+ },
+ {
+  "ID": 734910766,
+  "Capacity": 471,
+  "Name": "Jardim B. J. Habibie",
+  "CenterPositionLon": -8.547731344859166,
+  "CenterPositionLat": 125.58990874604645
+ }
+]

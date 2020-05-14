@@ -1,0 +1,226 @@
+[
+ {
+  "ID": 24800627,
+  "Capacity": 731,
+  "Name": "Independence Square",
+  "CenterPositionLon": 17.296083825570978,
+  "CenterPositionLat": -62.72231909913187
+ },
+ {
+  "ID": 397152310,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 17.292332026340027,
+  "CenterPositionLat": -62.7322687235966
+ },
+ {
+  "ID": 397539300,
+  "Capacity": 4721,
+  "Name": "St. Kitts Eco-Park",
+  "CenterPositionLon": 17.376341015281533,
+  "CenterPositionLat": -62.85119374567718
+ },
+ {
+  "ID": 399995363,
+  "Capacity": 38,
+  "Name": "Memorial Square",
+  "CenterPositionLon": 17.13800903092572,
+  "CenterPositionLat": -62.62861100532078
+ },
+ {
+  "ID": 399996231,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 17.138563004792307,
+  "CenterPositionLat": -62.62893216756688
+ },
+ {
+  "ID": 400014382,
+  "Capacity": 771,
+  "Name": "",
+  "CenterPositionLon": 17.141460330696653,
+  "CenterPositionLat": -62.622129722109094
+ },
+ {
+  "ID": 544394304,
+  "Capacity": 917,
+  "Name": "New Road Family Park",
+  "CenterPositionLon": 17.308040806014542,
+  "CenterPositionLat": -62.72653059651284
+ },
+ {
+  "ID": 545067913,
+  "Capacity": 960,
+  "Name": "National Heroes Park",
+  "CenterPositionLon": 17.30993458885473,
+  "CenterPositionLat": -62.7098727373107
+ },
+ {
+  "ID": 545339539,
+  "Capacity": 2815,
+  "Name": "Frigate Bay Lawn",
+  "CenterPositionLon": 17.283364296038467,
+  "CenterPositionLat": -62.686564725404104
+ },
+ {
+  "ID": 545339540,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 17.28368629048591,
+  "CenterPositionLat": -62.68510571575437
+ },
+ {
+  "ID": 545342808,
+  "Capacity": 559,
+  "Name": "Greenlands Pasture",
+  "CenterPositionLon": 17.29730243178156,
+  "CenterPositionLat": -62.72929162017721
+ },
+ {
+  "ID": 555257586,
+  "Capacity": 31,
+  "Name": "Christy Parris Children Play field",
+  "CenterPositionLon": 17.127761839778735,
+  "CenterPositionLat": -62.62548590140344
+ },
+ {
+  "ID": 557085957,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 17.302144348221447,
+  "CenterPositionLat": -62.71781026950638
+ },
+ {
+  "ID": 559141092,
+  "Capacity": 554,
+  "Name": "Villa Grounds",
+  "CenterPositionLon": 17.13399352283427,
+  "CenterPositionLat": -62.625740067151824
+ },
+ {
+  "ID": 562770778,
+  "Capacity": 123,
+  "Name": "Peak Heaven",
+  "CenterPositionLon": 17.141674808543378,
+  "CenterPositionLat": -62.57728319290143
+ },
+ {
+  "ID": 666860038,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 17.291575971465715,
+  "CenterPositionLat": -62.73412492101412
+ },
+ {
+  "ID": 666874833,
+  "Capacity": 134,
+  "Name": "St Maynards Park",
+  "CenterPositionLon": 17.351084929962934,
+  "CenterPositionLat": -62.73262012857473
+ },
+ {
+  "ID": 667575562,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": 17.402585175524955,
+  "CenterPositionLat": -62.78470025849543
+ },
+ {
+  "ID": 667575615,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 17.406983598660936,
+  "CenterPositionLat": -62.83683455227289
+ },
+ {
+  "ID": 667973525,
+  "Capacity": 169,
+  "Name": "Crownie's House",
+  "CenterPositionLon": 17.1328783364153,
+  "CenterPositionLat": -62.572724223579435
+ },
+ {
+  "ID": 668470605,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": 17.288367532621308,
+  "CenterPositionLat": -62.704613663220044
+ },
+ {
+  "ID": 669156801,
+  "Capacity": 191,
+  "Name": "",
+  "CenterPositionLon": 17.309340372909688,
+  "CenterPositionLat": -62.73658940827464
+ },
+ {
+  "ID": 670352827,
+  "Capacity": 447,
+  "Name": "",
+  "CenterPositionLon": 17.403596920634822,
+  "CenterPositionLat": -62.839334906144934
+ },
+ {
+  "ID": 670352859,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 17.404448331327586,
+  "CenterPositionLat": -62.792116284920525
+ },
+ {
+  "ID": 670373064,
+  "Capacity": 479,
+  "Name": "",
+  "CenterPositionLon": 17.14375966689187,
+  "CenterPositionLat": -62.629418755020296
+ },
+ {
+  "ID": 677177098,
+  "Capacity": 38,
+  "Name": "Icon Park",
+  "CenterPositionLon": 17.295359342178394,
+  "CenterPositionLat": -62.73114553736785
+ },
+ {
+  "ID": 683272818,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": 17.297149552213362,
+  "CenterPositionLat": -62.76756772601076
+ },
+ {
+  "ID": 683272819,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 17.297259983139938,
+  "CenterPositionLat": -62.76836749883054
+ },
+ {
+  "ID": 683272820,
+  "Capacity": 144,
+  "Name": "",
+  "CenterPositionLon": 17.297395808740802,
+  "CenterPositionLat": -62.76932269483883
+ },
+ {
+  "ID": 683272823,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 17.29776468459651,
+  "CenterPositionLat": -62.77103115080874
+ },
+ {
+  "ID": 683373674,
+  "Capacity": 685,
+  "Name": "",
+  "CenterPositionLon": 17.302887308933595,
+  "CenterPositionLat": -62.78245298494162
+ },
+ {
+  "ID": 686505764,
+  "Capacity": 275,
+  "Name": "",
+  "CenterPositionLon": 17.32334369184843,
+  "CenterPositionLat": -62.8058275285026
+ }
+]

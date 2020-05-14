@@ -1,0 +1,331 @@
+[
+ {
+  "ID": 38662471,
+  "Capacity": 31527,
+  "Name": "forêt classé de Dabompa",
+  "CenterPositionLon": 9.658405127355417,
+  "CenterPositionLat": -13.546426194282915
+ },
+ {
+  "ID": 210983012,
+  "Capacity": 1116,
+  "Name": "Mosque",
+  "CenterPositionLon": 11.31840874915578,
+  "CenterPositionLat": -12.277300953763387
+ },
+ {
+  "ID": 270699966,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 10.052247193571157,
+  "CenterPositionLat": -10.741354923314532
+ },
+ {
+  "ID": 270699968,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 10.052463923086064,
+  "CenterPositionLat": -10.741291038262492
+ },
+ {
+  "ID": 270699969,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 10.052345155549157,
+  "CenterPositionLat": -10.741030368984527
+ },
+ {
+  "ID": 270699971,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 10.052192715778006,
+  "CenterPositionLat": -10.741098922031592
+ },
+ {
+  "ID": 270922265,
+  "Capacity": 3342,
+  "Name": "",
+  "CenterPositionLon": 9.820966081744437,
+  "CenterPositionLat": -13.488306050150864
+ },
+ {
+  "ID": 271285591,
+  "Capacity": 368,
+  "Name": "",
+  "CenterPositionLon": 10.377798145173593,
+  "CenterPositionLat": -12.080180777532041
+ },
+ {
+  "ID": 281841936,
+  "Capacity": 1527,
+  "Name": "ߗߍ߬ߡߐ߯ ߞߓߊ߬ߜߍ߫ ߕߙߊߥߟߋ߫ ߟߊ߫ ߦߙߌߝߍ",
+  "CenterPositionLon": 9.8751614278041,
+  "CenterPositionLat": -9.127861332503699
+ },
+ {
+  "ID": 282082660,
+  "Capacity": 7268,
+  "Name": "ߞߙߊ߬ߡߐ߯ ߡߊ߬ߡߊ߬ߘߌ߬ ߕߙߊߥߟߋ߫ ߟߊ߫ ߦߙߌߝߍ",
+  "CenterPositionLon": 9.875058303470752,
+  "CenterPositionLat": -9.122648683465394
+ },
+ {
+  "ID": 282123361,
+  "Capacity": 1757,
+  "Name": "ߗߍ߬ߡߐ߯ ߡߐ߲߬ߛߐ߲߬ ߕߙߊߥߟߋ߫ ߟߊ߫ ߦߙߌߝߍ",
+  "CenterPositionLon": 9.87862850682672,
+  "CenterPositionLat": -9.130671470681767
+ },
+ {
+  "ID": 310763081,
+  "Capacity": 2033,
+  "Name": "",
+  "CenterPositionLon": 9.009872889781578,
+  "CenterPositionLat": -9.315322794120409
+ },
+ {
+  "ID": 310763082,
+  "Capacity": 749,
+  "Name": "",
+  "CenterPositionLon": 9.009125019061246,
+  "CenterPositionLat": -9.316314180167856
+ },
+ {
+  "ID": 310763083,
+  "Capacity": 1014,
+  "Name": "",
+  "CenterPositionLon": 9.007975876643709,
+  "CenterPositionLat": -9.315786914009637
+ },
+ {
+  "ID": 310895398,
+  "Capacity": 327,
+  "Name": "Liesure",
+  "CenterPositionLon": 8.980296507045535,
+  "CenterPositionLat": -9.361065088751378
+ },
+ {
+  "ID": 311747392,
+  "Capacity": 1434,
+  "Name": "",
+  "CenterPositionLon": 8.99295613154006,
+  "CenterPositionLat": -9.225793423189785
+ },
+ {
+  "ID": 311896885,
+  "Capacity": 0,
+  "Name": "highbury park",
+  "CenterPositionLon": 9.2989835,
+  "CenterPositionLat": -9.51890995
+ },
+ {
+  "ID": 311896888,
+  "Capacity": 37130,
+  "Name": "st mary magdalene",
+  "CenterPositionLon": 9.29341518479319,
+  "CenterPositionLat": -9.522875907976683
+ },
+ {
+  "ID": 312413386,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": 7.7557310382618265,
+  "CenterPositionLat": -8.788394333539667
+ },
+ {
+  "ID": 316525862,
+  "Capacity": 560,
+  "Name": "",
+  "CenterPositionLon": 9.46703991729888,
+  "CenterPositionLat": -13.784774578767921
+ },
+ {
+  "ID": 317852510,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": 7.951073041540611,
+  "CenterPositionLat": -8.756966498714911
+ },
+ {
+  "ID": 326603675,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 11.313257462279639,
+  "CenterPositionLat": -12.271835570668786
+ },
+ {
+  "ID": 330557132,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 10.367568488318659,
+  "CenterPositionLat": -13.585447749869234
+ },
+ {
+  "ID": 334613641,
+  "Capacity": 3218,
+  "Name": "",
+  "CenterPositionLon": 9.948325929656047,
+  "CenterPositionLat": -13.845701172941139
+ },
+ {
+  "ID": 338845960,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 9.71599875245081,
+  "CenterPositionLat": -13.310868119111474
+ },
+ {
+  "ID": 338973397,
+  "Capacity": 1317,
+  "Name": "Place des Martyrs",
+  "CenterPositionLon": 10.047602089664228,
+  "CenterPositionLat": -12.861514196650038
+ },
+ {
+  "ID": 417770608,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": 11.330189702770717,
+  "CenterPositionLat": -12.282082030837739
+ },
+ {
+  "ID": 417770610,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 11.329671979324754,
+  "CenterPositionLat": -12.282446440766513
+ },
+ {
+  "ID": 417779526,
+  "Capacity": 1665,
+  "Name": "",
+  "CenterPositionLon": 11.307390199171737,
+  "CenterPositionLat": -12.28127147082547
+ },
+ {
+  "ID": 422165509,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 9.788538757533846,
+  "CenterPositionLat": -13.521352843981415
+ },
+ {
+  "ID": 425084342,
+  "Capacity": 8140,
+  "Name": "Forêt classée d'Entag",
+  "CenterPositionLon": 9.639474288500383,
+  "CenterPositionLat": -13.565978351966308
+ },
+ {
+  "ID": 441775161,
+  "Capacity": 126,
+  "Name": "Parc Auto",
+  "CenterPositionLon": 9.623283285021586,
+  "CenterPositionLat": -13.612287627309774
+ },
+ {
+  "ID": 475325503,
+  "Capacity": 1874,
+  "Name": "Sapins de laabha",
+  "CenterPositionLon": 11.204683274201466,
+  "CenterPositionLat": -12.534738875921205
+ },
+ {
+  "ID": 475325520,
+  "Capacity": 264,
+  "Name": "sapins Timbi centre",
+  "CenterPositionLon": 11.20001213661423,
+  "CenterPositionLat": -12.542206705490816
+ },
+ {
+  "ID": 477312362,
+  "Capacity": 5456,
+  "Name": "",
+  "CenterPositionLon": 9.080204392933465,
+  "CenterPositionLat": -13.273586366622457
+ },
+ {
+  "ID": 497210810,
+  "Capacity": 6412,
+  "Name": "Champs de plantation",
+  "CenterPositionLon": 10.649695132161085,
+  "CenterPositionLat": -8.692935941912477
+ },
+ {
+  "ID": 507578360,
+  "Capacity": 122,
+  "Name": "Soccer field",
+  "CenterPositionLon": 10.475485636335568,
+  "CenterPositionLat": -8.662285754657818
+ },
+ {
+  "ID": 507578362,
+  "Capacity": 637,
+  "Name": "Soccer field",
+  "CenterPositionLon": 10.475547391631144,
+  "CenterPositionLat": -8.663573320125833
+ },
+ {
+  "ID": 537711162,
+  "Capacity": 49,
+  "Name": "Place des martyrs",
+  "CenterPositionLon": 11.42641495,
+  "CenterPositionLat": -12.682872249999999
+ },
+ {
+  "ID": 573485075,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 9.6510138,
+  "CenterPositionLat": -13.58958615
+ },
+ {
+  "ID": 573643994,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 9.6326339327665,
+  "CenterPositionLat": -13.589531883100937
+ },
+ {
+  "ID": 573643996,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 9.632203985053485,
+  "CenterPositionLat": -13.588787326206177
+ },
+ {
+  "ID": 579754239,
+  "Capacity": 398,
+  "Name": "",
+  "CenterPositionLon": 9.54648331595621,
+  "CenterPositionLat": -13.676649104296159
+ },
+ {
+  "ID": 579754252,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 9.546069081328191,
+  "CenterPositionLat": -13.67661837462822
+ },
+ {
+  "ID": 663003993,
+  "Capacity": 17140,
+  "Name": "Forêt protégé de Timbi Madina",
+  "CenterPositionLon": 11.182010022281977,
+  "CenterPositionLat": -12.551522661947397
+ },
+ {
+  "ID": 722529718,
+  "Capacity": 415,
+  "Name": "fôret",
+  "CenterPositionLon": 8.376543170772836,
+  "CenterPositionLat": -9.283477625690491
+ },
+ {
+  "ID": 745312469,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 9.311852114861429,
+  "CenterPositionLat": -13.393919975780452
+ }
+]

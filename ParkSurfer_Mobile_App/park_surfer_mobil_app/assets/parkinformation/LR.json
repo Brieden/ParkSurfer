@@ -1,0 +1,65 @@
+[
+ {
+  "ID": 298471316,
+  "Capacity": 301,
+  "Name": "",
+  "CenterPositionLon": 6.544280147311126,
+  "CenterPositionLat": -10.891626784200785
+ },
+ {
+  "ID": 305766999,
+  "Capacity": 407,
+  "Name": "",
+  "CenterPositionLon": 6.402258072445219,
+  "CenterPositionLat": -10.811811216409415
+ },
+ {
+  "ID": 305768924,
+  "Capacity": 460,
+  "Name": "",
+  "CenterPositionLon": 6.401656428855822,
+  "CenterPositionLat": -10.811489254042758
+ },
+ {
+  "ID": 306765333,
+  "Capacity": 824,
+  "Name": "",
+  "CenterPositionLon": 6.93102861751049,
+  "CenterPositionLat": -8.478786701850899
+ },
+ {
+  "ID": 306766307,
+  "Capacity": 670,
+  "Name": "leisure=common",
+  "CenterPositionLon": 6.782077321816546,
+  "CenterPositionLat": -8.449049508994412
+ },
+ {
+  "ID": 381700284,
+  "Capacity": 178142,
+  "Name": "forese",
+  "CenterPositionLon": 5.916273606861814,
+  "CenterPositionLat": -8.62395672515075
+ },
+ {
+  "ID": 500155959,
+  "Capacity": 463,
+  "Name": "",
+  "CenterPositionLon": 7.217875840746534,
+  "CenterPositionLat": -9.006964487399317
+ },
+ {
+  "ID": 512196885,
+  "Capacity": 5572,
+  "Name": "Central Park",
+  "CenterPositionLon": 6.027780922532934,
+  "CenterPositionLat": -8.051870326108808
+ },
+ {
+  "ID": 641009992,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 6.7476007,
+  "CenterPositionLat": -10.110535650000001
+ }
+]

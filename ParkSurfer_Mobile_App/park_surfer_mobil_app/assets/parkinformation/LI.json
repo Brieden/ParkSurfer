@@ -1,0 +1,114 @@
+[
+ {
+  "ID": 243055673,
+  "Capacity": 484,
+  "Name": "Familienpark Äule",
+  "CenterPositionLon": 47.13895916059201,
+  "CenterPositionLat": 9.520810538167352
+ },
+ {
+  "ID": 243055693,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 47.13753848831383,
+  "CenterPositionLat": 9.521707785770149
+ },
+ {
+  "ID": 319011420,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 47.1636897566943,
+  "CenterPositionLat": 9.517109519481211
+ },
+ {
+  "ID": 355805428,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 47.10815133860389,
+  "CenterPositionLat": 9.525894037638347
+ },
+ {
+  "ID": 455388669,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": 47.231421182590566,
+  "CenterPositionLat": 9.54648415573824
+ },
+ {
+  "ID": 464613275,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 47.24130260556229,
+  "CenterPositionLat": 9.525200916058656
+ },
+ {
+  "ID": 467826541,
+  "Capacity": 1786,
+  "Name": "",
+  "CenterPositionLon": 47.209208519120345,
+  "CenterPositionLat": 9.50376810852083
+ },
+ {
+  "ID": 480023561,
+  "Capacity": 1532,
+  "Name": "Wasserpark Walserbünt",
+  "CenterPositionLon": 47.16703793954734,
+  "CenterPositionLat": 9.505859315362246
+ },
+ {
+  "ID": 485595160,
+  "Capacity": 1893,
+  "Name": "",
+  "CenterPositionLon": 47.14314453385738,
+  "CenterPositionLat": 9.515015867039391
+ },
+ {
+  "ID": 485926405,
+  "Capacity": 549,
+  "Name": "",
+  "CenterPositionLon": 47.13948333247612,
+  "CenterPositionLat": 9.519793627260661
+ },
+ {
+  "ID": 485926407,
+  "Capacity": 898,
+  "Name": "",
+  "CenterPositionLon": 47.141171608460844,
+  "CenterPositionLat": 9.518116077533012
+ },
+ {
+  "ID": 491594336,
+  "Capacity": 638,
+  "Name": "",
+  "CenterPositionLon": 47.110591057051664,
+  "CenterPositionLat": 9.523994762822396
+ },
+ {
+  "ID": 534214182,
+  "Capacity": 2653,
+  "Name": "",
+  "CenterPositionLon": 47.13844011533938,
+  "CenterPositionLat": 9.525266567589101
+ },
+ {
+  "ID": 534214185,
+  "Capacity": 2411,
+  "Name": "",
+  "CenterPositionLon": 47.13711416164165,
+  "CenterPositionLat": 9.525115481661047
+ },
+ {
+  "ID": 675866549,
+  "Capacity": 726,
+  "Name": "",
+  "CenterPositionLon": 47.1348244468944,
+  "CenterPositionLat": 9.520602890034603
+ },
+ {
+  "ID": 675866550,
+  "Capacity": 438,
+  "Name": "",
+  "CenterPositionLon": 47.13512161133523,
+  "CenterPositionLat": 9.520608816327913
+ }
+]

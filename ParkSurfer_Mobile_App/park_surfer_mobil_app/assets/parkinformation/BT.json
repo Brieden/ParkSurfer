@@ -1,0 +1,121 @@
+[
+ {
+  "ID": 231994484,
+  "Capacity": 19,
+  "Name": "Centenary Park",
+  "CenterPositionLon": 27.47087632669969,
+  "CenterPositionLat": 89.64248156423403
+ },
+ {
+  "ID": 246792270,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 27.491648464490325,
+  "CenterPositionLat": 89.6367295961288
+ },
+ {
+  "ID": 246807530,
+  "Capacity": 210,
+  "Name": "India House Estate",
+  "CenterPositionLon": 27.503408041762473,
+  "CenterPositionLat": 89.63906703110467
+ },
+ {
+  "ID": 403561018,
+  "Capacity": 2,
+  "Name": "Motithang Children's Park",
+  "CenterPositionLon": 27.47768105463733,
+  "CenterPositionLat": 89.62480403968588
+ },
+ {
+  "ID": 408779970,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 26.849764924285545,
+  "CenterPositionLat": 89.39529596276157
+ },
+ {
+  "ID": 438357126,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 27.477681054637333,
+  "CenterPositionLat": 89.62480403968588
+ },
+ {
+  "ID": 438360866,
+  "Capacity": 0,
+  "Name": "Tarayana Park",
+  "CenterPositionLon": 27.47915679496901,
+  "CenterPositionLat": 89.63939361126134
+ },
+ {
+  "ID": 439444963,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 27.47980053965651,
+  "CenterPositionLat": 89.63044126451567
+ },
+ {
+  "ID": 439967848,
+  "Capacity": 0,
+  "Name": "NLCS_lawn_area",
+  "CenterPositionLon": 27.480291560495147,
+  "CenterPositionLat": 89.63059016450788
+ },
+ {
+  "ID": 439978563,
+  "Capacity": 3,
+  "Name": "River Front Park",
+  "CenterPositionLon": 26.795556567139638,
+  "CenterPositionLat": 91.50528325976899
+ },
+ {
+  "ID": 439978894,
+  "Capacity": 16,
+  "Name": "Indo- Bhutan Friendship Park",
+  "CenterPositionLon": 26.793245384504395,
+  "CenterPositionLat": 91.50316743137395
+ },
+ {
+  "ID": 440701006,
+  "Capacity": 14,
+  "Name": "Archery Ground",
+  "CenterPositionLon": 26.8733027409202,
+  "CenterPositionLat": 90.4800464142242
+ },
+ {
+  "ID": 440717790,
+  "Capacity": 0,
+  "Name": "Children's Park",
+  "CenterPositionLon": 26.867433453277787,
+  "CenterPositionLat": 90.48755552461353
+ },
+ {
+  "ID": 441373091,
+  "Capacity": 0,
+  "Name": "Jigme Dorji National Pard Office",
+  "CenterPositionLon": 27.819247469097114,
+  "CenterPositionLat": 89.72886099596961
+ },
+ {
+  "ID": 493746486,
+  "Capacity": 1,
+  "Name": "Wisdom Tree",
+  "CenterPositionLon": 27.28673085,
+  "CenterPositionLat": 91.5238069
+ },
+ {
+  "ID": 527442048,
+  "Capacity": 12,
+  "Name": "Archery Ground",
+  "CenterPositionLon": 26.8609368681943,
+  "CenterPositionLat": 91.46319127567796
+ },
+ {
+  "ID": 803201063,
+  "Capacity": 8,
+  "Name": "Olakha Childrens Park",
+  "CenterPositionLon": 27.44744134037488,
+  "CenterPositionLat": 89.66008910562599
+ }
+]

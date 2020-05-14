@@ -1,0 +1,268 @@
+[
+ {
+  "ID": 25985941,
+  "Capacity": 1447,
+  "Name": "Derby Square",
+  "CenterPositionLon": 54.15651274795812,
+  "CenterPositionLat": -4.481291601054953
+ },
+ {
+  "ID": 25988347,
+  "Capacity": 842,
+  "Name": "",
+  "CenterPositionLon": 54.15619982798635,
+  "CenterPositionLat": -4.4860472986652935
+ },
+ {
+  "ID": 25988804,
+  "Capacity": 811,
+  "Name": "Hutchinson Square",
+  "CenterPositionLon": 54.16034589944461,
+  "CenterPositionLat": -4.480107454487948
+ },
+ {
+  "ID": 25989352,
+  "Capacity": 396,
+  "Name": "Hilary Park",
+  "CenterPositionLon": 54.157798898634155,
+  "CenterPositionLat": -4.485141707394142
+ },
+ {
+  "ID": 28714989,
+  "Capacity": 5691,
+  "Name": "Poulsom Park",
+  "CenterPositionLon": 54.079610067945445,
+  "CenterPositionLat": -4.648552098876172
+ },
+ {
+  "ID": 35379011,
+  "Capacity": 2390,
+  "Name": "",
+  "CenterPositionLon": 54.08431298227472,
+  "CenterPositionLat": -4.756546669179253
+ },
+ {
+  "ID": 38555300,
+  "Capacity": 39497,
+  "Name": "Noble's Park",
+  "CenterPositionLon": 54.16583538192604,
+  "CenterPositionLat": -4.477892671398328
+ },
+ {
+  "ID": 39658900,
+  "Capacity": 12375,
+  "Name": "Onchan Pleasure Park",
+  "CenterPositionLon": 54.169819529638076,
+  "CenterPositionLat": -4.456353318620294
+ },
+ {
+  "ID": 39658908,
+  "Capacity": 782,
+  "Name": "T. E. Brown Memorial Gardens",
+  "CenterPositionLon": 54.15792223487847,
+  "CenterPositionLat": -4.4795616717171285
+ },
+ {
+  "ID": 40566018,
+  "Capacity": 21498,
+  "Name": "Tynwald National Park",
+  "CenterPositionLon": 54.20527461490999,
+  "CenterPositionLat": -4.637648897333844
+ },
+ {
+  "ID": 40701738,
+  "Capacity": 37925,
+  "Name": "Mooragh Park",
+  "CenterPositionLon": 54.3295343468912,
+  "CenterPositionLat": -4.385369518171673
+ },
+ {
+  "ID": 40743382,
+  "Capacity": 6582,
+  "Name": "Cooill y Ree",
+  "CenterPositionLon": 54.20401327960852,
+  "CenterPositionLat": -4.644672645893554
+ },
+ {
+  "ID": 59287728,
+  "Capacity": 405,
+  "Name": "",
+  "CenterPositionLon": 54.156381514686515,
+  "CenterPositionLat": -4.487978965349569
+ },
+ {
+  "ID": 59700885,
+  "Capacity": 122,
+  "Name": "Castle Street Gardens",
+  "CenterPositionLon": 54.2232247550368,
+  "CenterPositionLat": -4.69686846702363
+ },
+ {
+  "ID": 59700886,
+  "Capacity": 330,
+  "Name": "",
+  "CenterPositionLon": 54.222757832241115,
+  "CenterPositionLat": -4.696331601645753
+ },
+ {
+  "ID": 60705579,
+  "Capacity": 5929,
+  "Name": "",
+  "CenterPositionLon": 54.15155015397937,
+  "CenterPositionLat": -4.507228993021511
+ },
+ {
+  "ID": 62241475,
+  "Capacity": 1810,
+  "Name": "",
+  "CenterPositionLon": 54.16777342866956,
+  "CenterPositionLat": -4.48573022839811
+ },
+ {
+  "ID": 77963982,
+  "Capacity": 1810,
+  "Name": "Port Jack Glen",
+  "CenterPositionLon": 54.16839645545007,
+  "CenterPositionLat": -4.452674365248678
+ },
+ {
+  "ID": 78029300,
+  "Capacity": 1800,
+  "Name": "",
+  "CenterPositionLon": 54.17549828259031,
+  "CenterPositionLat": -4.450032778236305
+ },
+ {
+  "ID": 78412995,
+  "Capacity": 89,
+  "Name": "The Bull Ring",
+  "CenterPositionLon": 54.080188,
+  "CenterPositionLat": -4.64777195
+ },
+ {
+  "ID": 79212563,
+  "Capacity": 1720,
+  "Name": "Jubilee Park",
+  "CenterPositionLon": 54.181673938870496,
+  "CenterPositionLat": -4.464077483631912
+ },
+ {
+  "ID": 79212613,
+  "Capacity": 4381,
+  "Name": "",
+  "CenterPositionLon": 54.17699512780645,
+  "CenterPositionLat": -4.47405588337824
+ },
+ {
+  "ID": 80249733,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 54.148536549088185,
+  "CenterPositionLat": -4.477337319560029
+ },
+ {
+  "ID": 80476600,
+  "Capacity": 17163,
+  "Name": "Millennium Oakwood",
+  "CenterPositionLon": 54.17167346508413,
+  "CenterPositionLat": -4.501993407518495
+ },
+ {
+  "ID": 92055467,
+  "Capacity": 1069,
+  "Name": "",
+  "CenterPositionLon": 54.149225131487235,
+  "CenterPositionLat": -4.519868014999593
+ },
+ {
+  "ID": 99323339,
+  "Capacity": 1877,
+  "Name": "Coronation Park",
+  "CenterPositionLon": 54.31938283534264,
+  "CenterPositionLat": -4.383862635074812
+ },
+ {
+  "ID": 103231479,
+  "Capacity": 814,
+  "Name": "West View Park",
+  "CenterPositionLon": 54.22054260925446,
+  "CenterPositionLat": -4.695357540067831
+ },
+ {
+  "ID": 109881530,
+  "Capacity": 109,
+  "Name": "",
+  "CenterPositionLon": 54.33259993751322,
+  "CenterPositionLat": -4.559073858400862
+ },
+ {
+  "ID": 146808363,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": 54.095252367728364,
+  "CenterPositionLat": -4.704284305593172
+ },
+ {
+  "ID": 146827449,
+  "Capacity": 225,
+  "Name": "",
+  "CenterPositionLon": 54.22408061864411,
+  "CenterPositionLat": -4.689772280797119
+ },
+ {
+  "ID": 167312453,
+  "Capacity": 4481,
+  "Name": "",
+  "CenterPositionLon": 54.20377711637522,
+  "CenterPositionLat": -4.641073486196842
+ },
+ {
+  "ID": 177511421,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": 54.23231954370826,
+  "CenterPositionLat": -4.405873788879433
+ },
+ {
+  "ID": 220149946,
+  "Capacity": 2095,
+  "Name": "Ballaughton Park",
+  "CenterPositionLon": 54.153065171634324,
+  "CenterPositionLat": -4.514499567258784
+ },
+ {
+  "ID": 494425590,
+  "Capacity": 574,
+  "Name": "Peel Skate Park",
+  "CenterPositionLon": 54.22542294161109,
+  "CenterPositionLat": -4.686366237367745
+ },
+ {
+  "ID": 494429046,
+  "Capacity": 1773,
+  "Name": "",
+  "CenterPositionLon": 54.22197133541174,
+  "CenterPositionLat": -4.691260285396756
+ },
+ {
+  "ID": 525953018,
+  "Capacity": 76721,
+  "Name": "Peel Hill",
+  "CenterPositionLon": 54.22021448151047,
+  "CenterPositionLat": -4.703987605928142
+ },
+ {
+  "ID": 572762367,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 54.14855178584314,
+  "CenterPositionLat": -4.480716116251351
+ },
+ {
+  "ID": 606505953,
+  "Capacity": 4923,
+  "Name": "Peel Castle",
+  "CenterPositionLon": 54.22641465650096,
+  "CenterPositionLat": -4.699007139005446
+ }
+]

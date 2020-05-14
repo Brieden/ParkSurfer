@@ -1,0 +1,86 @@
+[
+ {
+  "ID": 251002227,
+  "Capacity": 405,
+  "Name": "",
+  "CenterPositionLon": 0.4057291186134018,
+  "CenterPositionLat": 9.433188159500588
+ },
+ {
+  "ID": 251363804,
+  "Capacity": 6459,
+  "Name": "Base de Loisirs",
+  "CenterPositionLon": 0.40132903802625974,
+  "CenterPositionLat": 9.455628948890835
+ },
+ {
+  "ID": 251621537,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": -0.718304033413976,
+  "CenterPositionLat": 8.777184349692904
+ },
+ {
+  "ID": 323625642,
+  "Capacity": 1186,
+  "Name": "Le Parc",
+  "CenterPositionLon": -0.7241166246831064,
+  "CenterPositionLat": 8.781959693937097
+ },
+ {
+  "ID": 471542237,
+  "Capacity": 362,
+  "Name": "Déchetterie",
+  "CenterPositionLon": -1.0734006246385104,
+  "CenterPositionLat": 10.259513409884551
+ },
+ {
+  "ID": 481355835,
+  "Capacity": 666,
+  "Name": "EZNI",
+  "CenterPositionLon": -1.213539134652564,
+  "CenterPositionLat": 10.23022405437566
+ },
+ {
+  "ID": 481360151,
+  "Capacity": 882,
+  "Name": "MABOUNDA",
+  "CenterPositionLon": -1.1935010498481877,
+  "CenterPositionLat": 10.255721567410982
+ },
+ {
+  "ID": 501791099,
+  "Capacity": 243,
+  "Name": "Parc Municipal Émile Otando",
+  "CenterPositionLon": -0.7158015150497647,
+  "CenterPositionLat": 8.786164242048756
+ },
+ {
+  "ID": 509918500,
+  "Capacity": 876,
+  "Name": "",
+  "CenterPositionLon": -1.383259613138118,
+  "CenterPositionLat": 13.156514356206847
+ },
+ {
+  "ID": 578193047,
+  "Capacity": 9461,
+  "Name": "",
+  "CenterPositionLon": 0.41920117605345886,
+  "CenterPositionLat": 9.502066218060726
+ },
+ {
+  "ID": 708244703,
+  "Capacity": 702,
+  "Name": "",
+  "CenterPositionLon": 0.3910401796912289,
+  "CenterPositionLat": 9.444082479924091
+ },
+ {
+  "ID": 720321290,
+  "Capacity": 178,
+  "Name": "Onal 2400",
+  "CenterPositionLon": -1.1169929009779918,
+  "CenterPositionLat": 10.237036673954888
+ }
+]

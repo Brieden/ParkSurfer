@@ -1,0 +1,5245 @@
+[
+ {
+  "ID": 10417743,
+  "Capacity": 1110,
+  "Name": "Mali park",
+  "CenterPositionLon": 43.85901160871241,
+  "CenterPositionLat": 18.413860661721355
+ },
+ {
+  "ID": 10419436,
+  "Capacity": 4196,
+  "Name": "Veliki park",
+  "CenterPositionLon": 43.85985625874769,
+  "CenterPositionLat": 18.416326009004973
+ },
+ {
+  "ID": 10493045,
+  "Capacity": 1807,
+  "Name": "At mejdan",
+  "CenterPositionLon": 43.85682313611545,
+  "CenterPositionLat": 18.428357273142513
+ },
+ {
+  "ID": 23480518,
+  "Capacity": 487,
+  "Name": "Trg Prvog korpusa Armije Republike Bosne i Hercegovine",
+  "CenterPositionLon": 43.8567467559537,
+  "CenterPositionLat": 18.413650867710647
+ },
+ {
+  "ID": 23480870,
+  "Capacity": 890,
+  "Name": "Trg oslobođenja Alija Izetbegović",
+  "CenterPositionLon": 43.858362789514445,
+  "CenterPositionLat": 18.42420624339788
+ },
+ {
+  "ID": 23697320,
+  "Capacity": 9245,
+  "Name": "Spomen park Vraca",
+  "CenterPositionLon": 43.84340265781122,
+  "CenterPositionLat": 18.397979977872012
+ },
+ {
+  "ID": 23710293,
+  "Capacity": 3304,
+  "Name": "Park svjetlosti",
+  "CenterPositionLon": 43.86475378212671,
+  "CenterPositionLat": 18.411718156895862
+ },
+ {
+  "ID": 23710304,
+  "Capacity": 4038,
+  "Name": "",
+  "CenterPositionLon": 43.86250763079601,
+  "CenterPositionLat": 18.41237578238192
+ },
+ {
+  "ID": 23710481,
+  "Capacity": 335,
+  "Name": "Park Mirze i Davora",
+  "CenterPositionLon": 43.85777875008351,
+  "CenterPositionLat": 18.41502191026461
+ },
+ {
+  "ID": 23724084,
+  "Capacity": 2290,
+  "Name": "",
+  "CenterPositionLon": 43.85566962426715,
+  "CenterPositionLat": 18.396264302056352
+ },
+ {
+  "ID": 23757255,
+  "Capacity": 842,
+  "Name": "",
+  "CenterPositionLon": 43.84803435304574,
+  "CenterPositionLat": 18.3743253383247
+ },
+ {
+  "ID": 23784815,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": 43.859507889240554,
+  "CenterPositionLat": 18.42003667339947
+ },
+ {
+  "ID": 27485728,
+  "Capacity": 2567,
+  "Name": "",
+  "CenterPositionLon": 43.933318035300054,
+  "CenterPositionLat": 18.794155775722285
+ },
+ {
+  "ID": 28176143,
+  "Capacity": 3245,
+  "Name": "Centralni park",
+  "CenterPositionLon": 44.53821793322025,
+  "CenterPositionLat": 18.678594743011335
+ },
+ {
+  "ID": 28177367,
+  "Capacity": 30680,
+  "Name": "Park, Slana Banja",
+  "CenterPositionLon": 44.5381578630821,
+  "CenterPositionLat": 18.687865821324607
+ },
+ {
+  "ID": 28784475,
+  "Capacity": 18075,
+  "Name": "",
+  "CenterPositionLon": 43.8266077059061,
+  "CenterPositionLat": 18.30554330972949
+ },
+ {
+  "ID": 28784587,
+  "Capacity": 31529,
+  "Name": "Vrelo Bosne",
+  "CenterPositionLon": 43.819500160090904,
+  "CenterPositionLat": 18.271112833335305
+ },
+ {
+  "ID": 29095011,
+  "Capacity": 291,
+  "Name": "",
+  "CenterPositionLon": 43.85819107863551,
+  "CenterPositionLat": 18.43352010617894
+ },
+ {
+  "ID": 29111879,
+  "Capacity": 204,
+  "Name": "Trg Branilaca Vogošće",
+  "CenterPositionLon": 43.900439454837525,
+  "CenterPositionLat": 18.344259330388137
+ },
+ {
+  "ID": 29217529,
+  "Capacity": 536,
+  "Name": "",
+  "CenterPositionLon": 43.86067951935761,
+  "CenterPositionLat": 18.420856479429155
+ },
+ {
+  "ID": 29292844,
+  "Capacity": 606,
+  "Name": "Park Cipelići",
+  "CenterPositionLon": 44.53542257755686,
+  "CenterPositionLat": 18.680043119623374
+ },
+ {
+  "ID": 29293869,
+  "Capacity": 868,
+  "Name": "Trobegov park",
+  "CenterPositionLon": 44.540229184895225,
+  "CenterPositionLat": 18.675432492057876
+ },
+ {
+  "ID": 31113661,
+  "Capacity": 2732,
+  "Name": "",
+  "CenterPositionLon": 44.453368608690106,
+  "CenterPositionLat": 18.650590985735658
+ },
+ {
+  "ID": 31113747,
+  "Capacity": 828,
+  "Name": "",
+  "CenterPositionLon": 44.451713433073294,
+  "CenterPositionLat": 18.649980454147073
+ },
+ {
+  "ID": 31723201,
+  "Capacity": 2417,
+  "Name": "Park Muzička škola",
+  "CenterPositionLon": 44.54130838586525,
+  "CenterPositionLat": 18.67418449111447
+ },
+ {
+  "ID": 32460879,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 44.45060425955256,
+  "CenterPositionLat": 18.650592716275707
+ },
+ {
+  "ID": 33752411,
+  "Capacity": 1181,
+  "Name": "",
+  "CenterPositionLon": 44.20118766068601,
+  "CenterPositionLat": 17.903388209985916
+ },
+ {
+  "ID": 35418388,
+  "Capacity": 489,
+  "Name": "",
+  "CenterPositionLon": 43.344620290587585,
+  "CenterPositionLat": 17.811330841354426
+ },
+ {
+  "ID": 39170316,
+  "Capacity": 628,
+  "Name": "",
+  "CenterPositionLon": 44.87783441813393,
+  "CenterPositionLat": 18.80950690623627
+ },
+ {
+  "ID": 40535456,
+  "Capacity": 1763,
+  "Name": "",
+  "CenterPositionLon": 44.977019286089295,
+  "CenterPositionLat": 16.708548649539065
+ },
+ {
+  "ID": 40535465,
+  "Capacity": 4527,
+  "Name": "",
+  "CenterPositionLon": 44.98059666203704,
+  "CenterPositionLat": 16.70608333609107
+ },
+ {
+  "ID": 40699044,
+  "Capacity": 657,
+  "Name": "Gradski Park",
+  "CenterPositionLon": 44.76540432630462,
+  "CenterPositionLat": 16.667173935854898
+ },
+ {
+  "ID": 40699110,
+  "Capacity": 295,
+  "Name": "Mali park",
+  "CenterPositionLon": 44.76484638758362,
+  "CenterPositionLat": 16.663278913377695
+ },
+ {
+  "ID": 42957993,
+  "Capacity": 2496,
+  "Name": "",
+  "CenterPositionLon": 43.9564776166182,
+  "CenterPositionLat": 18.265561566022527
+ },
+ {
+  "ID": 49612377,
+  "Capacity": 1208,
+  "Name": "",
+  "CenterPositionLon": 42.92464218531566,
+  "CenterPositionLat": 17.61612850777868
+ },
+ {
+  "ID": 72676570,
+  "Capacity": 885,
+  "Name": "Gradski park",
+  "CenterPositionLon": 44.15063108164676,
+  "CenterPositionLat": 17.79129509319785
+ },
+ {
+  "ID": 77543819,
+  "Capacity": 863,
+  "Name": "",
+  "CenterPositionLon": 44.90089790596929,
+  "CenterPositionLat": 16.163842036055424
+ },
+ {
+  "ID": 77938276,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": 44.764543442888225,
+  "CenterPositionLat": 16.66447683661038
+ },
+ {
+  "ID": 79670042,
+  "Capacity": 1968,
+  "Name": "Ada",
+  "CenterPositionLon": 44.195216913098115,
+  "CenterPositionLat": 17.919964136578265
+ },
+ {
+  "ID": 80277606,
+  "Capacity": 5372,
+  "Name": "",
+  "CenterPositionLon": 45.01334712503075,
+  "CenterPositionLat": 16.908747256299357
+ },
+ {
+  "ID": 80277621,
+  "Capacity": 845,
+  "Name": "",
+  "CenterPositionLon": 45.01409737384329,
+  "CenterPositionLat": 16.906124535493216
+ },
+ {
+  "ID": 80277623,
+  "Capacity": 356,
+  "Name": "",
+  "CenterPositionLon": 45.01450779688003,
+  "CenterPositionLat": 16.90634355521239
+ },
+ {
+  "ID": 81053399,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 44.5338357049626,
+  "CenterPositionLat": 18.533512063629818
+ },
+ {
+  "ID": 81053400,
+  "Capacity": 467,
+  "Name": "",
+  "CenterPositionLon": 44.53432214462449,
+  "CenterPositionLat": 18.53272513800766
+ },
+ {
+  "ID": 82494543,
+  "Capacity": 953,
+  "Name": "",
+  "CenterPositionLon": 44.53408447208797,
+  "CenterPositionLat": 18.530522956527584
+ },
+ {
+  "ID": 85032504,
+  "Capacity": 522,
+  "Name": "",
+  "CenterPositionLon": 44.889399964849844,
+  "CenterPositionLat": 16.157797202644772
+ },
+ {
+  "ID": 85032506,
+  "Capacity": 282,
+  "Name": "",
+  "CenterPositionLon": 44.88831282451698,
+  "CenterPositionLat": 16.15595599228155
+ },
+ {
+  "ID": 85032520,
+  "Capacity": 477,
+  "Name": "",
+  "CenterPositionLon": 44.888455127628404,
+  "CenterPositionLat": 16.157096001211773
+ },
+ {
+  "ID": 85032839,
+  "Capacity": 685,
+  "Name": "",
+  "CenterPositionLon": 44.90182602612053,
+  "CenterPositionLat": 16.16526130604149
+ },
+ {
+  "ID": 85032845,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": 44.89596754365841,
+  "CenterPositionLat": 16.158041892428614
+ },
+ {
+  "ID": 85032863,
+  "Capacity": 279,
+  "Name": "",
+  "CenterPositionLon": 44.90022412441924,
+  "CenterPositionLat": 16.16268351080866
+ },
+ {
+  "ID": 85032865,
+  "Capacity": 2256,
+  "Name": "",
+  "CenterPositionLon": 44.89468378457193,
+  "CenterPositionLat": 16.158703981278144
+ },
+ {
+  "ID": 85032866,
+  "Capacity": 658,
+  "Name": "",
+  "CenterPositionLon": 44.90139320301623,
+  "CenterPositionLat": 16.163619766743707
+ },
+ {
+  "ID": 90838096,
+  "Capacity": 1169,
+  "Name": "",
+  "CenterPositionLon": 43.94351646930628,
+  "CenterPositionLat": 18.078819904737106
+ },
+ {
+  "ID": 97563544,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 44.38299679177848,
+  "CenterPositionLat": 19.102900225409122
+ },
+ {
+  "ID": 104998441,
+  "Capacity": 17176,
+  "Name": "Park Mladen Stojanović",
+  "CenterPositionLon": 44.78060967497735,
+  "CenterPositionLat": 17.201764181192516
+ },
+ {
+  "ID": 104998695,
+  "Capacity": 1778,
+  "Name": "Park Petar Kocic",
+  "CenterPositionLon": 44.770419298082494,
+  "CenterPositionLat": 17.18837813110414
+ },
+ {
+  "ID": 105432000,
+  "Capacity": 665,
+  "Name": "",
+  "CenterPositionLon": 44.978662121813045,
+  "CenterPositionLat": 16.709903234351255
+ },
+ {
+  "ID": 106510655,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 43.9337969565654,
+  "CenterPositionLat": 18.792023426362455
+ },
+ {
+  "ID": 107067451,
+  "Capacity": 210,
+  "Name": "",
+  "CenterPositionLon": 43.93680736467264,
+  "CenterPositionLat": 18.79882158491991
+ },
+ {
+  "ID": 107283999,
+  "Capacity": 7635,
+  "Name": "Градски парк Источно Сарајево",
+  "CenterPositionLon": 43.82386858430517,
+  "CenterPositionLat": 18.3665862085507
+ },
+ {
+  "ID": 107619237,
+  "Capacity": 1743,
+  "Name": "",
+  "CenterPositionLon": 45.06131536902631,
+  "CenterPositionLat": 18.469408536317307
+ },
+ {
+  "ID": 112257254,
+  "Capacity": 526,
+  "Name": "Park nacionalnih manjina",
+  "CenterPositionLon": 43.853722964608586,
+  "CenterPositionLat": 18.38900999827505
+ },
+ {
+  "ID": 112257310,
+  "Capacity": 450,
+  "Name": "",
+  "CenterPositionLon": 43.853019083455145,
+  "CenterPositionLat": 18.381057345002947
+ },
+ {
+  "ID": 112257349,
+  "Capacity": 334,
+  "Name": "",
+  "CenterPositionLon": 43.85220650413415,
+  "CenterPositionLat": 18.379135462982685
+ },
+ {
+  "ID": 112257358,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": 43.85211976587143,
+  "CenterPositionLat": 18.380424287448733
+ },
+ {
+  "ID": 112257432,
+  "Capacity": 645,
+  "Name": "",
+  "CenterPositionLon": 43.853557519904214,
+  "CenterPositionLat": 18.385619603433156
+ },
+ {
+  "ID": 114852738,
+  "Capacity": 1400,
+  "Name": "Park Kupusište",
+  "CenterPositionLon": 44.770628772683985,
+  "CenterPositionLat": 17.19774606676443
+ },
+ {
+  "ID": 118943655,
+  "Capacity": 9049,
+  "Name": "",
+  "CenterPositionLon": 43.870302645640194,
+  "CenterPositionLat": 18.38507660560765
+ },
+ {
+  "ID": 121946825,
+  "Capacity": 525,
+  "Name": "",
+  "CenterPositionLon": 43.848409934496935,
+  "CenterPositionLat": 18.38104965665225
+ },
+ {
+  "ID": 123462199,
+  "Capacity": 377,
+  "Name": "",
+  "CenterPositionLon": 44.773614590230935,
+  "CenterPositionLat": 17.19285576825007
+ },
+ {
+  "ID": 123531733,
+  "Capacity": 1064,
+  "Name": "",
+  "CenterPositionLon": 44.76499358859847,
+  "CenterPositionLat": 17.191128576393446
+ },
+ {
+  "ID": 123531750,
+  "Capacity": 3589,
+  "Name": "",
+  "CenterPositionLon": 44.766028332379264,
+  "CenterPositionLat": 17.1983003790539
+ },
+ {
+  "ID": 123531757,
+  "Capacity": 392,
+  "Name": "",
+  "CenterPositionLon": 44.76738235658863,
+  "CenterPositionLat": 17.198555026861893
+ },
+ {
+  "ID": 123532022,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": 44.76945862082159,
+  "CenterPositionLat": 17.192013790248488
+ },
+ {
+  "ID": 123532023,
+  "Capacity": 13812,
+  "Name": "",
+  "CenterPositionLon": 44.76651253658347,
+  "CenterPositionLat": 17.191019641213437
+ },
+ {
+  "ID": 123532024,
+  "Capacity": 1354,
+  "Name": "",
+  "CenterPositionLon": 44.76803696624984,
+  "CenterPositionLat": 17.192674848213752
+ },
+ {
+  "ID": 125959339,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 43.853495203026895,
+  "CenterPositionLat": 18.386715147533184
+ },
+ {
+  "ID": 125959353,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": 43.853682803976746,
+  "CenterPositionLat": 18.38726104375379
+ },
+ {
+  "ID": 125959384,
+  "Capacity": 585,
+  "Name": "",
+  "CenterPositionLon": 43.85442807003794,
+  "CenterPositionLat": 18.391733775723555
+ },
+ {
+  "ID": 125959424,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": 43.85257563952261,
+  "CenterPositionLat": 18.38268717446632
+ },
+ {
+  "ID": 125959444,
+  "Capacity": 336,
+  "Name": "",
+  "CenterPositionLon": 43.85310914362651,
+  "CenterPositionLat": 18.37786133556057
+ },
+ {
+  "ID": 125959453,
+  "Capacity": 379,
+  "Name": "",
+  "CenterPositionLon": 43.85137435603705,
+  "CenterPositionLat": 18.3768254495883
+ },
+ {
+  "ID": 130286624,
+  "Capacity": 407,
+  "Name": "",
+  "CenterPositionLon": 42.95175536181118,
+  "CenterPositionLat": 18.085014862643092
+ },
+ {
+  "ID": 130287047,
+  "Capacity": 1378,
+  "Name": "",
+  "CenterPositionLon": 42.953065926054165,
+  "CenterPositionLat": 18.084237940925497
+ },
+ {
+  "ID": 136545867,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 44.633683729295875,
+  "CenterPositionLat": 18.006723925100925
+ },
+ {
+  "ID": 137309328,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 43.8481804962545,
+  "CenterPositionLat": 18.383846478836507
+ },
+ {
+  "ID": 137309341,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 43.84884374002873,
+  "CenterPositionLat": 18.384589454301196
+ },
+ {
+  "ID": 137311008,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 43.84847868908933,
+  "CenterPositionLat": 18.382183519945915
+ },
+ {
+  "ID": 137311009,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 43.847421519080854,
+  "CenterPositionLat": 18.382973362686993
+ },
+ {
+  "ID": 137311010,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 43.84755744017075,
+  "CenterPositionLat": 18.38359611525316
+ },
+ {
+  "ID": 137311013,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 43.848058959335646,
+  "CenterPositionLat": 18.382271615229957
+ },
+ {
+  "ID": 137311020,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 43.84769033592642,
+  "CenterPositionLat": 18.382296738337384
+ },
+ {
+  "ID": 137311337,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 43.84779477261067,
+  "CenterPositionLat": 18.384979053367328
+ },
+ {
+  "ID": 137313028,
+  "Capacity": 719,
+  "Name": "",
+  "CenterPositionLon": 43.84831441694697,
+  "CenterPositionLat": 18.38562145942192
+ },
+ {
+  "ID": 137314391,
+  "Capacity": 149,
+  "Name": "",
+  "CenterPositionLon": 43.85099147816862,
+  "CenterPositionLat": 18.38487601690882
+ },
+ {
+  "ID": 137314400,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 43.84948200272877,
+  "CenterPositionLat": 18.38575671447352
+ },
+ {
+  "ID": 137314413,
+  "Capacity": 816,
+  "Name": "",
+  "CenterPositionLon": 43.849597632652205,
+  "CenterPositionLat": 18.384016306688313
+ },
+ {
+  "ID": 137316211,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 43.847228570149646,
+  "CenterPositionLat": 18.382387858924847
+ },
+ {
+  "ID": 137316213,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 43.84905332958668,
+  "CenterPositionLat": 18.380166831014588
+ },
+ {
+  "ID": 140474787,
+  "Capacity": 207,
+  "Name": "",
+  "CenterPositionLon": 43.84874426937958,
+  "CenterPositionLat": 18.38361548294151
+ },
+ {
+  "ID": 140474790,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 43.84876726704425,
+  "CenterPositionLat": 18.383179062377618
+ },
+ {
+  "ID": 141079666,
+  "Capacity": 431,
+  "Name": "",
+  "CenterPositionLon": 43.64794303294351,
+  "CenterPositionLat": 17.96194115725403
+ },
+ {
+  "ID": 141330756,
+  "Capacity": 5078,
+  "Name": "",
+  "CenterPositionLon": 44.49759114085468,
+  "CenterPositionLat": 18.806061781757315
+ },
+ {
+  "ID": 141338200,
+  "Capacity": 552,
+  "Name": "Izletište Grabovac",
+  "CenterPositionLon": 44.4980527652689,
+  "CenterPositionLat": 18.794513001005242
+ },
+ {
+  "ID": 141562477,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 44.49188429257291,
+  "CenterPositionLat": 18.80912783441677
+ },
+ {
+  "ID": 142321233,
+  "Capacity": 351,
+  "Name": "",
+  "CenterPositionLon": 43.901602833333335,
+  "CenterPositionLat": 18.342651633333332
+ },
+ {
+  "ID": 142321554,
+  "Capacity": 1210,
+  "Name": "",
+  "CenterPositionLon": 43.89937148034038,
+  "CenterPositionLat": 18.349896685683007
+ },
+ {
+  "ID": 142865680,
+  "Capacity": 804,
+  "Name": "",
+  "CenterPositionLon": 43.90259433333333,
+  "CenterPositionLat": 18.3409702
+ },
+ {
+  "ID": 143064802,
+  "Capacity": 1026,
+  "Name": "",
+  "CenterPositionLon": 43.84751228837263,
+  "CenterPositionLat": 18.372115303512313
+ },
+ {
+  "ID": 143068956,
+  "Capacity": 932,
+  "Name": "",
+  "CenterPositionLon": 43.84701398056664,
+  "CenterPositionLat": 18.371083368678583
+ },
+ {
+  "ID": 143069208,
+  "Capacity": 96,
+  "Name": "",
+  "CenterPositionLon": 43.847144563911584,
+  "CenterPositionLat": 18.372953094364092
+ },
+ {
+  "ID": 143206747,
+  "Capacity": 1650,
+  "Name": "",
+  "CenterPositionLon": 43.84731615640148,
+  "CenterPositionLat": 18.369027143972293
+ },
+ {
+  "ID": 143207055,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 43.84670595581755,
+  "CenterPositionLat": 18.36887676585659
+ },
+ {
+  "ID": 143208722,
+  "Capacity": 372,
+  "Name": "",
+  "CenterPositionLon": 43.847836614045555,
+  "CenterPositionLat": 18.37310951070564
+ },
+ {
+  "ID": 143208734,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 43.84741932872565,
+  "CenterPositionLat": 18.37308007034765
+ },
+ {
+  "ID": 144228328,
+  "Capacity": 4396,
+  "Name": "",
+  "CenterPositionLon": 43.8478029054651,
+  "CenterPositionLat": 18.362237787409896
+ },
+ {
+  "ID": 144836278,
+  "Capacity": 2361,
+  "Name": "",
+  "CenterPositionLon": 44.762572505032395,
+  "CenterPositionLat": 17.203313312252952
+ },
+ {
+  "ID": 145988141,
+  "Capacity": 273,
+  "Name": "",
+  "CenterPositionLon": 44.769994696675866,
+  "CenterPositionLat": 17.18517781819667
+ },
+ {
+  "ID": 145989044,
+  "Capacity": 343,
+  "Name": "",
+  "CenterPositionLon": 44.76946034608495,
+  "CenterPositionLat": 17.185046013746774
+ },
+ {
+  "ID": 145989308,
+  "Capacity": 309,
+  "Name": "",
+  "CenterPositionLon": 44.76913738669267,
+  "CenterPositionLat": 17.185740009725112
+ },
+ {
+  "ID": 148058038,
+  "Capacity": 77,
+  "Name": "Spomen Šehidima",
+  "CenterPositionLon": 43.86693665399305,
+  "CenterPositionLat": 18.405175916902827
+ },
+ {
+  "ID": 148059118,
+  "Capacity": 903,
+  "Name": "Plato",
+  "CenterPositionLon": 43.86954608835314,
+  "CenterPositionLat": 18.40425043615058
+ },
+ {
+  "ID": 148228702,
+  "Capacity": 5579,
+  "Name": "",
+  "CenterPositionLon": 42.709728918830976,
+  "CenterPositionLat": 18.344566684806544
+ },
+ {
+  "ID": 150619260,
+  "Capacity": 919,
+  "Name": "",
+  "CenterPositionLon": 43.84673083270639,
+  "CenterPositionLat": 18.364075698549126
+ },
+ {
+  "ID": 150619261,
+  "Capacity": 960,
+  "Name": "",
+  "CenterPositionLon": 43.847586371793895,
+  "CenterPositionLat": 18.364588773481522
+ },
+ {
+  "ID": 150918552,
+  "Capacity": 719,
+  "Name": "",
+  "CenterPositionLon": 45.01340394037615,
+  "CenterPositionLat": 16.91226218913158
+ },
+ {
+  "ID": 150918568,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": 45.01323036244054,
+  "CenterPositionLat": 16.912462313271234
+ },
+ {
+  "ID": 152832510,
+  "Capacity": 448,
+  "Name": "",
+  "CenterPositionLon": 44.5354025566341,
+  "CenterPositionLat": 18.528179068669495
+ },
+ {
+  "ID": 152832847,
+  "Capacity": 423,
+  "Name": "",
+  "CenterPositionLon": 44.536127527264135,
+  "CenterPositionLat": 18.528963557317223
+ },
+ {
+  "ID": 155872581,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 43.852249150000006,
+  "CenterPositionLat": 18.3753961
+ },
+ {
+  "ID": 155872582,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": 43.85203032690109,
+  "CenterPositionLat": 18.37640667110447
+ },
+ {
+  "ID": 155872584,
+  "Capacity": 173,
+  "Name": "",
+  "CenterPositionLon": 43.85238125,
+  "CenterPositionLat": 18.37600375
+ },
+ {
+  "ID": 155872585,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 43.851921032814815,
+  "CenterPositionLat": 18.37569939391501
+ },
+ {
+  "ID": 155872586,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": 43.85217966678793,
+  "CenterPositionLat": 18.37483659338661
+ },
+ {
+  "ID": 157206783,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": 44.878230431973364,
+  "CenterPositionLat": 18.810417818400353
+ },
+ {
+  "ID": 157534103,
+  "Capacity": 5705,
+  "Name": "",
+  "CenterPositionLon": 44.87147381054736,
+  "CenterPositionLat": 18.81139076838104
+ },
+ {
+  "ID": 157534938,
+  "Capacity": 298,
+  "Name": "",
+  "CenterPositionLon": 43.85161274268903,
+  "CenterPositionLat": 18.370387777139662
+ },
+ {
+  "ID": 160531540,
+  "Capacity": 775,
+  "Name": "Trg srpskih vladara",
+  "CenterPositionLon": 44.77235457094359,
+  "CenterPositionLat": 17.19178469728241
+ },
+ {
+  "ID": 160601738,
+  "Capacity": 1738,
+  "Name": "Trešnjik",
+  "CenterPositionLon": 44.735621526344644,
+  "CenterPositionLat": 17.17399192021659
+ },
+ {
+  "ID": 161463300,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": 44.774623261982086,
+  "CenterPositionLat": 18.514469048959217
+ },
+ {
+  "ID": 161537723,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 44.773861233249946,
+  "CenterPositionLat": 18.514830849632467
+ },
+ {
+  "ID": 161734611,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 45.00930601169619,
+  "CenterPositionLat": 16.65211989884258
+ },
+ {
+  "ID": 163150762,
+  "Capacity": 246,
+  "Name": "",
+  "CenterPositionLon": 44.53114191351978,
+  "CenterPositionLat": 18.534040549263366
+ },
+ {
+  "ID": 163150768,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 44.53076249920969,
+  "CenterPositionLat": 18.5331274803156
+ },
+ {
+  "ID": 163150771,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 44.53097060476275,
+  "CenterPositionLat": 18.533240475092477
+ },
+ {
+  "ID": 163150775,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 44.53099430160497,
+  "CenterPositionLat": 18.53378369826876
+ },
+ {
+  "ID": 163150786,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 44.530599318625235,
+  "CenterPositionLat": 18.533423540716534
+ },
+ {
+  "ID": 163150790,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 44.530594158968945,
+  "CenterPositionLat": 18.533144426126746
+ },
+ {
+  "ID": 163150793,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 44.530748870315556,
+  "CenterPositionLat": 18.533555599316664
+ },
+ {
+  "ID": 163150800,
+  "Capacity": 130,
+  "Name": "",
+  "CenterPositionLon": 44.53097620705659,
+  "CenterPositionLat": 18.533547384497616
+ },
+ {
+  "ID": 163154481,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 44.531536455157166,
+  "CenterPositionLat": 18.53408177469952
+ },
+ {
+  "ID": 165063903,
+  "Capacity": 892,
+  "Name": "",
+  "CenterPositionLon": 44.87945714689283,
+  "CenterPositionLat": 18.8043520947663
+ },
+ {
+  "ID": 165063911,
+  "Capacity": 4364,
+  "Name": "",
+  "CenterPositionLon": 44.87093171231879,
+  "CenterPositionLat": 18.808956999170867
+ },
+ {
+  "ID": 165210359,
+  "Capacity": 771,
+  "Name": "Gradski park",
+  "CenterPositionLon": 43.19589460648282,
+  "CenterPositionLat": 17.544978759221006
+ },
+ {
+  "ID": 167696016,
+  "Capacity": 1653,
+  "Name": "",
+  "CenterPositionLon": 45.14670853218115,
+  "CenterPositionLat": 17.995662223080704
+ },
+ {
+  "ID": 167696019,
+  "Capacity": 1027,
+  "Name": "",
+  "CenterPositionLon": 45.146882826196155,
+  "CenterPositionLat": 17.999757051067334
+ },
+ {
+  "ID": 167920734,
+  "Capacity": 1237,
+  "Name": "",
+  "CenterPositionLon": 44.98347912680697,
+  "CenterPositionLat": 17.904274525636698
+ },
+ {
+  "ID": 168134119,
+  "Capacity": 432,
+  "Name": "",
+  "CenterPositionLon": 43.84956099474612,
+  "CenterPositionLat": 18.37235276612456
+ },
+ {
+  "ID": 168293721,
+  "Capacity": 618,
+  "Name": "",
+  "CenterPositionLon": 43.237372588559694,
+  "CenterPositionLat": 17.485227880185693
+ },
+ {
+  "ID": 168619064,
+  "Capacity": 311,
+  "Name": "Botanički vrt \"Stari hrast\"",
+  "CenterPositionLon": 44.17694975686732,
+  "CenterPositionLat": 17.675645400643393
+ },
+ {
+  "ID": 168657130,
+  "Capacity": 4071,
+  "Name": "Gradski park",
+  "CenterPositionLon": 45.145834492717086,
+  "CenterPositionLat": 17.248836424303583
+ },
+ {
+  "ID": 168707885,
+  "Capacity": 623,
+  "Name": "",
+  "CenterPositionLon": 43.84905376702408,
+  "CenterPositionLat": 18.395202738789486
+ },
+ {
+  "ID": 168802722,
+  "Capacity": 212,
+  "Name": "",
+  "CenterPositionLon": 44.592176204383385,
+  "CenterPositionLat": 17.87897566263201
+ },
+ {
+  "ID": 168802740,
+  "Capacity": 1293,
+  "Name": "",
+  "CenterPositionLon": 44.59068362034377,
+  "CenterPositionLat": 17.88010027813699
+ },
+ {
+  "ID": 168924324,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 44.16990189983283,
+  "CenterPositionLat": 17.656235033758087
+ },
+ {
+  "ID": 168924325,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 44.1696989133633,
+  "CenterPositionLat": 17.655736688474523
+ },
+ {
+  "ID": 168924326,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 44.16979547000297,
+  "CenterPositionLat": 17.655976528661295
+ },
+ {
+  "ID": 168924385,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 44.17004811859395,
+  "CenterPositionLat": 17.656130836961832
+ },
+ {
+  "ID": 168924386,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 44.17001248894093,
+  "CenterPositionLat": 17.655751541770968
+ },
+ {
+  "ID": 168924765,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 44.16981505630215,
+  "CenterPositionLat": 17.655626201396586
+ },
+ {
+  "ID": 168976979,
+  "Capacity": 12178,
+  "Name": "Gradski park",
+  "CenterPositionLon": 43.71535120515508,
+  "CenterPositionLat": 17.234538303400715
+ },
+ {
+  "ID": 168992383,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 43.833898825703066,
+  "CenterPositionLat": 18.331525040402642
+ },
+ {
+  "ID": 169133989,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 44.17000470057428,
+  "CenterPositionLat": 17.656488458674986
+ },
+ {
+  "ID": 169133990,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 44.17010005442201,
+  "CenterPositionLat": 17.656722250871816
+ },
+ {
+  "ID": 169285480,
+  "Capacity": 805,
+  "Name": "",
+  "CenterPositionLon": 43.64500647182181,
+  "CenterPositionLat": 17.228837234099043
+ },
+ {
+  "ID": 169322922,
+  "Capacity": 961,
+  "Name": "Gradski park",
+  "CenterPositionLon": 45.01205793677405,
+  "CenterPositionLat": 18.32523561893944
+ },
+ {
+  "ID": 169414604,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 43.857144570200035,
+  "CenterPositionLat": 17.179871351125367
+ },
+ {
+  "ID": 169460812,
+  "Capacity": 2585,
+  "Name": "",
+  "CenterPositionLon": 44.77382755678105,
+  "CenterPositionLat": 17.182313639394756
+ },
+ {
+  "ID": 169477178,
+  "Capacity": 2014,
+  "Name": "",
+  "CenterPositionLon": 44.76110204242555,
+  "CenterPositionLat": 17.184302097928935
+ },
+ {
+  "ID": 170021991,
+  "Capacity": 546,
+  "Name": "",
+  "CenterPositionLon": 44.14993465,
+  "CenterPositionLat": 17.7901065
+ },
+ {
+  "ID": 170027950,
+  "Capacity": 1078,
+  "Name": "",
+  "CenterPositionLon": 44.77259326884037,
+  "CenterPositionLat": 17.743058587344365
+ },
+ {
+  "ID": 170027955,
+  "Capacity": 598,
+  "Name": "",
+  "CenterPositionLon": 44.77159204539426,
+  "CenterPositionLat": 17.743030787544843
+ },
+ {
+  "ID": 170141743,
+  "Capacity": 260,
+  "Name": "Djeciji park",
+  "CenterPositionLon": 43.99242622519314,
+  "CenterPositionLat": 18.179013172876953
+ },
+ {
+  "ID": 170141770,
+  "Capacity": 488,
+  "Name": "Spomen kosturnicu borcima NOAR-a",
+  "CenterPositionLon": 43.99115743645419,
+  "CenterPositionLat": 18.18243802204164
+ },
+ {
+  "ID": 170282042,
+  "Capacity": 1009,
+  "Name": "",
+  "CenterPositionLon": 44.86832876109521,
+  "CenterPositionLat": 17.660889328328246
+ },
+ {
+  "ID": 170282053,
+  "Capacity": 969,
+  "Name": "",
+  "CenterPositionLon": 44.87141961211864,
+  "CenterPositionLat": 17.66602693986503
+ },
+ {
+  "ID": 170520693,
+  "Capacity": 786,
+  "Name": "",
+  "CenterPositionLon": 45.14528740257919,
+  "CenterPositionLat": 18.010609778352755
+ },
+ {
+  "ID": 171416230,
+  "Capacity": 386,
+  "Name": "",
+  "CenterPositionLon": 44.76341777251725,
+  "CenterPositionLat": 17.194913628836236
+ },
+ {
+  "ID": 171441014,
+  "Capacity": 740,
+  "Name": "",
+  "CenterPositionLon": 44.774051694152405,
+  "CenterPositionLat": 17.194358362869796
+ },
+ {
+  "ID": 171773907,
+  "Capacity": 4836,
+  "Name": "",
+  "CenterPositionLon": 44.80603494451344,
+  "CenterPositionLat": 15.864610516511778
+ },
+ {
+  "ID": 171996557,
+  "Capacity": 2391,
+  "Name": "",
+  "CenterPositionLon": 43.992326586963436,
+  "CenterPositionLat": 17.27846191931227
+ },
+ {
+  "ID": 173432787,
+  "Capacity": 3309,
+  "Name": "Gradski park",
+  "CenterPositionLon": 44.20382995374926,
+  "CenterPositionLat": 17.904181689885757
+ },
+ {
+  "ID": 173432824,
+  "Capacity": 9876,
+  "Name": "Kamberovića polje",
+  "CenterPositionLon": 44.20496835015632,
+  "CenterPositionLat": 17.91077619989099
+ },
+ {
+  "ID": 173432825,
+  "Capacity": 18351,
+  "Name": "Kamberovića polje",
+  "CenterPositionLon": 44.201447719292894,
+  "CenterPositionLat": 17.9129773296645
+ },
+ {
+  "ID": 177389864,
+  "Capacity": 2657,
+  "Name": "",
+  "CenterPositionLon": 44.607910388136496,
+  "CenterPositionLat": 17.855987492246914
+ },
+ {
+  "ID": 177869204,
+  "Capacity": 2001,
+  "Name": "",
+  "CenterPositionLon": 44.61256644453248,
+  "CenterPositionLat": 17.98872823325854
+ },
+ {
+  "ID": 178939442,
+  "Capacity": 120,
+  "Name": "",
+  "CenterPositionLon": 43.901776963248444,
+  "CenterPositionLat": 18.33841459608252
+ },
+ {
+  "ID": 179078500,
+  "Capacity": 1137,
+  "Name": "",
+  "CenterPositionLon": 44.19510464889948,
+  "CenterPositionLat": 17.91270386877499
+ },
+ {
+  "ID": 179081035,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 44.19364444758801,
+  "CenterPositionLat": 17.9092591888257
+ },
+ {
+  "ID": 179081080,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 44.19408698033154,
+  "CenterPositionLat": 17.90890425211669
+ },
+ {
+  "ID": 179138958,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 44.60526345848247,
+  "CenterPositionLat": 17.979356415446148
+ },
+ {
+  "ID": 179138960,
+  "Capacity": 685,
+  "Name": "",
+  "CenterPositionLon": 44.605337615323265,
+  "CenterPositionLat": 17.97805234355274
+ },
+ {
+  "ID": 179139087,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 44.60581659954926,
+  "CenterPositionLat": 17.979743239170908
+ },
+ {
+  "ID": 179186237,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 44.188589241331435,
+  "CenterPositionLat": 17.928031984611977
+ },
+ {
+  "ID": 179188990,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 44.18784260119533,
+  "CenterPositionLat": 17.92437546989627
+ },
+ {
+  "ID": 179416738,
+  "Capacity": 631,
+  "Name": "",
+  "CenterPositionLon": 44.22565704594644,
+  "CenterPositionLat": 17.667272113767208
+ },
+ {
+  "ID": 179589760,
+  "Capacity": 516,
+  "Name": "",
+  "CenterPositionLon": 44.195936751407785,
+  "CenterPositionLat": 17.924288360251122
+ },
+ {
+  "ID": 179591683,
+  "Capacity": 988,
+  "Name": "",
+  "CenterPositionLon": 44.19689883607988,
+  "CenterPositionLat": 17.92296307454417
+ },
+ {
+  "ID": 179591841,
+  "Capacity": 2845,
+  "Name": "",
+  "CenterPositionLon": 44.19869359582443,
+  "CenterPositionLat": 17.923145431018813
+ },
+ {
+  "ID": 179591901,
+  "Capacity": 3345,
+  "Name": "",
+  "CenterPositionLon": 44.20139932141242,
+  "CenterPositionLat": 17.923697401570585
+ },
+ {
+  "ID": 179971399,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 43.84572819368092,
+  "CenterPositionLat": 18.368241899995272
+ },
+ {
+  "ID": 180878436,
+  "Capacity": 3932,
+  "Name": "",
+  "CenterPositionLon": 44.65586357728895,
+  "CenterPositionLat": 17.97084586313127
+ },
+ {
+  "ID": 180879989,
+  "Capacity": 1754,
+  "Name": "",
+  "CenterPositionLon": 44.65552992157207,
+  "CenterPositionLat": 17.982502598634742
+ },
+ {
+  "ID": 181013990,
+  "Capacity": 1281,
+  "Name": "",
+  "CenterPositionLon": 44.626287771274484,
+  "CenterPositionLat": 17.99242377003763
+ },
+ {
+  "ID": 181013991,
+  "Capacity": 3138,
+  "Name": "",
+  "CenterPositionLon": 44.62357043024442,
+  "CenterPositionLat": 17.990509494711972
+ },
+ {
+  "ID": 181013992,
+  "Capacity": 8257,
+  "Name": "",
+  "CenterPositionLon": 44.628624374683774,
+  "CenterPositionLat": 17.988321714370002
+ },
+ {
+  "ID": 181013994,
+  "Capacity": 1251,
+  "Name": "",
+  "CenterPositionLon": 44.62524179737304,
+  "CenterPositionLat": 17.99255923639302
+ },
+ {
+  "ID": 181014017,
+  "Capacity": 1930,
+  "Name": "",
+  "CenterPositionLon": 44.63224285988591,
+  "CenterPositionLat": 17.986969844435116
+ },
+ {
+  "ID": 181316698,
+  "Capacity": 1301,
+  "Name": "",
+  "CenterPositionLon": 44.627846310522095,
+  "CenterPositionLat": 17.947030543095636
+ },
+ {
+  "ID": 181634458,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 44.198387547949885,
+  "CenterPositionLat": 17.908575961849976
+ },
+ {
+  "ID": 181634499,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 44.198146547414964,
+  "CenterPositionLat": 17.909255056217088
+ },
+ {
+  "ID": 181640458,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 44.20342161323004,
+  "CenterPositionLat": 17.90773830826364
+ },
+ {
+  "ID": 181643011,
+  "Capacity": 388,
+  "Name": "",
+  "CenterPositionLon": 44.60558670581983,
+  "CenterPositionLat": 17.985985931686425
+ },
+ {
+  "ID": 181921194,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 44.18890347174134,
+  "CenterPositionLat": 17.92551097952103
+ },
+ {
+  "ID": 181921210,
+  "Capacity": 142,
+  "Name": "",
+  "CenterPositionLon": 44.188959748953906,
+  "CenterPositionLat": 17.925926504480124
+ },
+ {
+  "ID": 181921213,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 44.18862476010249,
+  "CenterPositionLat": 17.92618496717685
+ },
+ {
+  "ID": 181921249,
+  "Capacity": 275,
+  "Name": "",
+  "CenterPositionLon": 44.18851197971333,
+  "CenterPositionLat": 17.925342893371525
+ },
+ {
+  "ID": 182555861,
+  "Capacity": 272,
+  "Name": "",
+  "CenterPositionLon": 44.619159739410456,
+  "CenterPositionLat": 17.989547381081426
+ },
+ {
+  "ID": 182977632,
+  "Capacity": 659,
+  "Name": "",
+  "CenterPositionLon": 43.82181010378145,
+  "CenterPositionLat": 18.20030632416646
+ },
+ {
+  "ID": 183321001,
+  "Capacity": 1716,
+  "Name": "",
+  "CenterPositionLon": 44.643987973671166,
+  "CenterPositionLat": 17.93652863408791
+ },
+ {
+  "ID": 183321003,
+  "Capacity": 2757,
+  "Name": "",
+  "CenterPositionLon": 44.6452345551525,
+  "CenterPositionLat": 17.93539919207748
+ },
+ {
+  "ID": 183322949,
+  "Capacity": 3781,
+  "Name": "",
+  "CenterPositionLon": 44.64941981617951,
+  "CenterPositionLat": 17.92066186723101
+ },
+ {
+  "ID": 183322952,
+  "Capacity": 2540,
+  "Name": "",
+  "CenterPositionLon": 44.65612573588864,
+  "CenterPositionLat": 17.950756935449267
+ },
+ {
+  "ID": 183322953,
+  "Capacity": 2029,
+  "Name": "",
+  "CenterPositionLon": 44.64099608371225,
+  "CenterPositionLat": 17.909486634717815
+ },
+ {
+  "ID": 183441737,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 44.19700567062376,
+  "CenterPositionLat": 17.924320214325775
+ },
+ {
+  "ID": 183840972,
+  "Capacity": 270,
+  "Name": "Gradski park",
+  "CenterPositionLon": 44.61253982262723,
+  "CenterPositionLat": 17.986379080527442
+ },
+ {
+  "ID": 184196514,
+  "Capacity": 601,
+  "Name": "",
+  "CenterPositionLon": 44.81405931782687,
+  "CenterPositionLat": 15.869809766644776
+ },
+ {
+  "ID": 184196516,
+  "Capacity": 391,
+  "Name": "",
+  "CenterPositionLon": 44.81418027881078,
+  "CenterPositionLat": 15.870415860819111
+ },
+ {
+  "ID": 184429388,
+  "Capacity": 8386,
+  "Name": "Gradski Park",
+  "CenterPositionLon": 44.81247275122513,
+  "CenterPositionLat": 15.870581755292775
+ },
+ {
+  "ID": 185685736,
+  "Capacity": 762,
+  "Name": "",
+  "CenterPositionLon": 44.19410373254873,
+  "CenterPositionLat": 17.916764763488924
+ },
+ {
+  "ID": 185689283,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": 44.19368545033797,
+  "CenterPositionLat": 17.916124775562803
+ },
+ {
+  "ID": 185689474,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 44.19371005810583,
+  "CenterPositionLat": 17.917296175975086
+ },
+ {
+  "ID": 185721528,
+  "Capacity": 80870,
+  "Name": "Park Vršani",
+  "CenterPositionLon": 44.509028929713764,
+  "CenterPositionLat": 18.707068273149382
+ },
+ {
+  "ID": 185857404,
+  "Capacity": 18242,
+  "Name": "Benkovac",
+  "CenterPositionLon": 45.000815538214326,
+  "CenterPositionLat": 16.89489655123399
+ },
+ {
+  "ID": 186469991,
+  "Capacity": 591,
+  "Name": "",
+  "CenterPositionLon": 44.19532669541284,
+  "CenterPositionLat": 17.921572921978957
+ },
+ {
+  "ID": 186834962,
+  "Capacity": 4606,
+  "Name": "Partizansko Spomen Groblje",
+  "CenterPositionLon": 44.879295699739664,
+  "CenterPositionLat": 18.797158034810714
+ },
+ {
+  "ID": 190064923,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 43.85071464470147,
+  "CenterPositionLat": 18.388782464217996
+ },
+ {
+  "ID": 190115356,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 43.854748498181586,
+  "CenterPositionLat": 18.417591701226208
+ },
+ {
+  "ID": 190115374,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": 43.85568267897868,
+  "CenterPositionLat": 18.420864957672755
+ },
+ {
+  "ID": 190122837,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 43.85756306666667,
+  "CenterPositionLat": 18.4299745
+ },
+ {
+  "ID": 190122861,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 43.85602253333333,
+  "CenterPositionLat": 18.4220547
+ },
+ {
+  "ID": 190126235,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": 43.85732185,
+  "CenterPositionLat": 18.4177361
+ },
+ {
+  "ID": 190126240,
+  "Capacity": 166,
+  "Name": "",
+  "CenterPositionLon": 43.857206192996216,
+  "CenterPositionLat": 18.417457178108968
+ },
+ {
+  "ID": 190196491,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 43.85780855187799,
+  "CenterPositionLat": 18.42217642178758
+ },
+ {
+  "ID": 190427928,
+  "Capacity": 724,
+  "Name": "",
+  "CenterPositionLon": 43.84933869198922,
+  "CenterPositionLat": 18.388405781636045
+ },
+ {
+  "ID": 190427929,
+  "Capacity": 2468,
+  "Name": "",
+  "CenterPositionLon": 43.848475032644934,
+  "CenterPositionLat": 18.38763762220674
+ },
+ {
+  "ID": 190427930,
+  "Capacity": 1514,
+  "Name": "",
+  "CenterPositionLon": 43.84839291938837,
+  "CenterPositionLat": 18.389114507445633
+ },
+ {
+  "ID": 190427932,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 43.85053354608665,
+  "CenterPositionLat": 18.386101039618705
+ },
+ {
+  "ID": 190427933,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 43.84933180113705,
+  "CenterPositionLat": 18.38731561528357
+ },
+ {
+  "ID": 190427934,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 43.84996816260679,
+  "CenterPositionLat": 18.38629129429839
+ },
+ {
+  "ID": 190427935,
+  "Capacity": 306,
+  "Name": "",
+  "CenterPositionLon": 43.84963361176554,
+  "CenterPositionLat": 18.387387811940474
+ },
+ {
+  "ID": 190427936,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 43.848420106998674,
+  "CenterPositionLat": 18.386806167863416
+ },
+ {
+  "ID": 190517936,
+  "Capacity": 1000,
+  "Name": "",
+  "CenterPositionLon": 43.848659993014074,
+  "CenterPositionLat": 18.390352828787762
+ },
+ {
+  "ID": 190517937,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 43.85035486609954,
+  "CenterPositionLat": 18.388986657643336
+ },
+ {
+  "ID": 190517938,
+  "Capacity": 852,
+  "Name": "",
+  "CenterPositionLon": 43.84879478659058,
+  "CenterPositionLat": 18.39171569674103
+ },
+ {
+  "ID": 190517939,
+  "Capacity": 206,
+  "Name": "",
+  "CenterPositionLon": 43.84958760141234,
+  "CenterPositionLat": 18.39208730660923
+ },
+ {
+  "ID": 190517940,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": 43.85121989224887,
+  "CenterPositionLat": 18.391272547213276
+ },
+ {
+  "ID": 190517941,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 43.85144672557953,
+  "CenterPositionLat": 18.39106862703158
+ },
+ {
+  "ID": 190517942,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 43.850012752945545,
+  "CenterPositionLat": 18.39182170745575
+ },
+ {
+  "ID": 190517943,
+  "Capacity": 526,
+  "Name": "",
+  "CenterPositionLon": 43.84985764870926,
+  "CenterPositionLat": 18.392800116047628
+ },
+ {
+  "ID": 190517944,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 43.85064092505662,
+  "CenterPositionLat": 18.39255991311668
+ },
+ {
+  "ID": 190517945,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 43.85102609688272,
+  "CenterPositionLat": 18.39189996392471
+ },
+ {
+  "ID": 190517946,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 43.84929108918782,
+  "CenterPositionLat": 18.39183205744179
+ },
+ {
+  "ID": 190517947,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 43.85034254535397,
+  "CenterPositionLat": 18.393636156756877
+ },
+ {
+  "ID": 190517948,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 43.850331834567825,
+  "CenterPositionLat": 18.39213055169486
+ },
+ {
+  "ID": 190517949,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 43.8507704401107,
+  "CenterPositionLat": 18.393321029221482
+ },
+ {
+  "ID": 190517950,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 43.85083070515323,
+  "CenterPositionLat": 18.390256620150907
+ },
+ {
+  "ID": 190517951,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 43.85095547835024,
+  "CenterPositionLat": 18.389509055520215
+ },
+ {
+  "ID": 190517952,
+  "Capacity": 199,
+  "Name": "",
+  "CenterPositionLon": 43.85112702473998,
+  "CenterPositionLat": 18.390232262150647
+ },
+ {
+  "ID": 190517953,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 43.84904033602131,
+  "CenterPositionLat": 18.393039865538885
+ },
+ {
+  "ID": 190517954,
+  "Capacity": 149,
+  "Name": "",
+  "CenterPositionLon": 43.84909104837328,
+  "CenterPositionLat": 18.38999374508779
+ },
+ {
+  "ID": 190517956,
+  "Capacity": 869,
+  "Name": "",
+  "CenterPositionLon": 43.850496636704385,
+  "CenterPositionLat": 18.3899799617059
+ },
+ {
+  "ID": 190517957,
+  "Capacity": 210,
+  "Name": "",
+  "CenterPositionLon": 43.84994010178682,
+  "CenterPositionLat": 18.38865492123586
+ },
+ {
+  "ID": 190517958,
+  "Capacity": 453,
+  "Name": "",
+  "CenterPositionLon": 43.85039830678403,
+  "CenterPositionLat": 18.388137997894432
+ },
+ {
+  "ID": 190561049,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 43.85141557800435,
+  "CenterPositionLat": 18.393262946220606
+ },
+ {
+  "ID": 190561050,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 43.85004061235124,
+  "CenterPositionLat": 18.38747239235271
+ },
+ {
+  "ID": 190561051,
+  "Capacity": 708,
+  "Name": "",
+  "CenterPositionLon": 43.85197097431841,
+  "CenterPositionLat": 18.392045805821997
+ },
+ {
+  "ID": 190561053,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 43.850020866204964,
+  "CenterPositionLat": 18.39103294098754
+ },
+ {
+  "ID": 190561054,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 43.84940393184001,
+  "CenterPositionLat": 18.39076272405241
+ },
+ {
+  "ID": 190561055,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 43.852004650000005,
+  "CenterPositionLat": 18.3930595
+ },
+ {
+  "ID": 190561056,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 43.84953955232699,
+  "CenterPositionLat": 18.391202822050392
+ },
+ {
+  "ID": 190561057,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 43.84933341684496,
+  "CenterPositionLat": 18.391467513389394
+ },
+ {
+  "ID": 190561058,
+  "Capacity": 932,
+  "Name": "",
+  "CenterPositionLon": 43.85169216120576,
+  "CenterPositionLat": 18.390442998053185
+ },
+ {
+  "ID": 190561059,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 43.85018600322309,
+  "CenterPositionLat": 18.39109987499039
+ },
+ {
+  "ID": 190561060,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 43.84945202300001,
+  "CenterPositionLat": 18.386538156632266
+ },
+ {
+  "ID": 190587388,
+  "Capacity": 6794,
+  "Name": "Gradski park",
+  "CenterPositionLon": 44.75460380093586,
+  "CenterPositionLat": 19.219493469440604
+ },
+ {
+  "ID": 190975863,
+  "Capacity": 1202,
+  "Name": "",
+  "CenterPositionLon": 43.85298918918716,
+  "CenterPositionLat": 18.402816062821277
+ },
+ {
+  "ID": 190975864,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 43.849531550843935,
+  "CenterPositionLat": 18.39390611940135
+ },
+ {
+  "ID": 191046631,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 43.852104751665976,
+  "CenterPositionLat": 18.399699715523962
+ },
+ {
+  "ID": 191046632,
+  "Capacity": 701,
+  "Name": "",
+  "CenterPositionLon": 43.85076639537838,
+  "CenterPositionLat": 18.40132908652469
+ },
+ {
+  "ID": 191046633,
+  "Capacity": 711,
+  "Name": "",
+  "CenterPositionLon": 43.85171402874563,
+  "CenterPositionLat": 18.39639882672823
+ },
+ {
+  "ID": 191046634,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 43.84947521538077,
+  "CenterPositionLat": 18.395244100872603
+ },
+ {
+  "ID": 191046635,
+  "Capacity": 532,
+  "Name": "",
+  "CenterPositionLon": 43.85226075186031,
+  "CenterPositionLat": 18.39684436126246
+ },
+ {
+  "ID": 191046636,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 43.852621470345795,
+  "CenterPositionLat": 18.399784071991462
+ },
+ {
+  "ID": 191046637,
+  "Capacity": 1147,
+  "Name": "",
+  "CenterPositionLon": 43.851685020415374,
+  "CenterPositionLat": 18.3942376295785
+ },
+ {
+  "ID": 191046638,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 43.84969131206872,
+  "CenterPositionLat": 18.39647850782713
+ },
+ {
+  "ID": 191046639,
+  "Capacity": 718,
+  "Name": "",
+  "CenterPositionLon": 43.85209058991066,
+  "CenterPositionLat": 18.398460001318274
+ },
+ {
+  "ID": 191046640,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": 43.85188455209037,
+  "CenterPositionLat": 18.40157262116221
+ },
+ {
+  "ID": 191046642,
+  "Capacity": 664,
+  "Name": "",
+  "CenterPositionLon": 43.84950085698315,
+  "CenterPositionLat": 18.39916900191977
+ },
+ {
+  "ID": 191046644,
+  "Capacity": 349,
+  "Name": "",
+  "CenterPositionLon": 43.84952531076712,
+  "CenterPositionLat": 18.397185977749807
+ },
+ {
+  "ID": 191046645,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 43.851533320725736,
+  "CenterPositionLat": 18.401969408262467
+ },
+ {
+  "ID": 191046646,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 43.8493582,
+  "CenterPositionLat": 18.398286600000002
+ },
+ {
+  "ID": 191046647,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 43.85116016464516,
+  "CenterPositionLat": 18.394879667140017
+ },
+ {
+  "ID": 191046648,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 43.850880833333335,
+  "CenterPositionLat": 18.400584611490054
+ },
+ {
+  "ID": 191046649,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 43.84903825088213,
+  "CenterPositionLat": 18.398758164588465
+ },
+ {
+  "ID": 191046652,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 43.85059317639037,
+  "CenterPositionLat": 18.398332875398985
+ },
+ {
+  "ID": 191046653,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 43.85109086079398,
+  "CenterPositionLat": 18.400983239753003
+ },
+ {
+  "ID": 191046654,
+  "Capacity": 408,
+  "Name": "",
+  "CenterPositionLon": 43.851301953383185,
+  "CenterPositionLat": 18.39645150428446
+ },
+ {
+  "ID": 191046656,
+  "Capacity": 400,
+  "Name": "",
+  "CenterPositionLon": 43.85134517651041,
+  "CenterPositionLat": 18.400384210418178
+ },
+ {
+  "ID": 191046658,
+  "Capacity": 2209,
+  "Name": "",
+  "CenterPositionLon": 43.85291588645271,
+  "CenterPositionLat": 18.397309589982353
+ },
+ {
+  "ID": 191046660,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 43.85269505137043,
+  "CenterPositionLat": 18.40116322560124
+ },
+ {
+  "ID": 191046661,
+  "Capacity": 370,
+  "Name": "",
+  "CenterPositionLon": 43.85006375644359,
+  "CenterPositionLat": 18.396822655465293
+ },
+ {
+  "ID": 191046662,
+  "Capacity": 248,
+  "Name": "",
+  "CenterPositionLon": 43.849594587917885,
+  "CenterPositionLat": 18.394319791267453
+ },
+ {
+  "ID": 191046663,
+  "Capacity": 221,
+  "Name": "",
+  "CenterPositionLon": 43.85030423258309,
+  "CenterPositionLat": 18.397950314009123
+ },
+ {
+  "ID": 191046664,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 43.84964511314288,
+  "CenterPositionLat": 18.39514322101473
+ },
+ {
+  "ID": 191046665,
+  "Capacity": 271,
+  "Name": "",
+  "CenterPositionLon": 43.85049771580778,
+  "CenterPositionLat": 18.396971357358076
+ },
+ {
+  "ID": 191046666,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 43.85049402863661,
+  "CenterPositionLat": 18.39391111931187
+ },
+ {
+  "ID": 191046667,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 43.84977568910087,
+  "CenterPositionLat": 18.398115391504877
+ },
+ {
+  "ID": 191046668,
+  "Capacity": 409,
+  "Name": "",
+  "CenterPositionLon": 43.850866471953,
+  "CenterPositionLat": 18.399934939567704
+ },
+ {
+  "ID": 191046669,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 43.85233509445793,
+  "CenterPositionLat": 18.40017914850828
+ },
+ {
+  "ID": 191046670,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 43.851914989328165,
+  "CenterPositionLat": 18.39566805114779
+ },
+ {
+  "ID": 191046671,
+  "Capacity": 667,
+  "Name": "",
+  "CenterPositionLon": 43.85093002605274,
+  "CenterPositionLat": 18.396827304755746
+ },
+ {
+  "ID": 191046672,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 43.84858358264685,
+  "CenterPositionLat": 18.393184038111844
+ },
+ {
+  "ID": 191046673,
+  "Capacity": 206,
+  "Name": "",
+  "CenterPositionLon": 43.84982540714545,
+  "CenterPositionLat": 18.39715797772153
+ },
+ {
+  "ID": 191046674,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 43.84888005286804,
+  "CenterPositionLat": 18.394002898516455
+ },
+ {
+  "ID": 191144009,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 43.8556659,
+  "CenterPositionLat": 18.411388
+ },
+ {
+  "ID": 191144011,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 43.855957704405135,
+  "CenterPositionLat": 18.412767541769554
+ },
+ {
+  "ID": 191144012,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 43.854911755997,
+  "CenterPositionLat": 18.412397161152033
+ },
+ {
+  "ID": 191144014,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 43.854316278878024,
+  "CenterPositionLat": 18.411837340456028
+ },
+ {
+  "ID": 191191509,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 43.85591678058875,
+  "CenterPositionLat": 18.41385869877196
+ },
+ {
+  "ID": 191191516,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 43.85606937452492,
+  "CenterPositionLat": 18.4160684316071
+ },
+ {
+  "ID": 191194363,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": 43.85371763311073,
+  "CenterPositionLat": 18.41028568091702
+ },
+ {
+  "ID": 191212083,
+  "Capacity": 484,
+  "Name": "",
+  "CenterPositionLon": 43.85513073467954,
+  "CenterPositionLat": 18.404027205607882
+ },
+ {
+  "ID": 191212085,
+  "Capacity": 1135,
+  "Name": "",
+  "CenterPositionLon": 43.85430171908028,
+  "CenterPositionLat": 18.400957525500406
+ },
+ {
+  "ID": 191212087,
+  "Capacity": 1264,
+  "Name": "Park prof.dr. Nijaz Duraković",
+  "CenterPositionLon": 43.85732454699586,
+  "CenterPositionLat": 18.41038087331139
+ },
+ {
+  "ID": 191212102,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 43.85356678797296,
+  "CenterPositionLat": 18.40517343367039
+ },
+ {
+  "ID": 191212114,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 43.85361198330686,
+  "CenterPositionLat": 18.405709791938815
+ },
+ {
+  "ID": 191212127,
+  "Capacity": 273,
+  "Name": "",
+  "CenterPositionLon": 43.853995735166365,
+  "CenterPositionLat": 18.404425342622147
+ },
+ {
+  "ID": 191212133,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 43.85374206536088,
+  "CenterPositionLat": 18.406240690839006
+ },
+ {
+  "ID": 191284911,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 43.85846002972719,
+  "CenterPositionLat": 18.42871797467822
+ },
+ {
+  "ID": 191300886,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 43.85753452136789,
+  "CenterPositionLat": 18.427401957129195
+ },
+ {
+  "ID": 191317009,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 43.85573737543245,
+  "CenterPositionLat": 18.42947126427584
+ },
+ {
+  "ID": 191398718,
+  "Capacity": 1118,
+  "Name": "Park prijateljstva",
+  "CenterPositionLon": 43.832525904226415,
+  "CenterPositionLat": 18.342905456037474
+ },
+ {
+  "ID": 191412485,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 43.86069835269167,
+  "CenterPositionLat": 18.416142973288434
+ },
+ {
+  "ID": 191412487,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": 43.859800162341905,
+  "CenterPositionLat": 18.420718221817996
+ },
+ {
+  "ID": 191436415,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 43.860228633333335,
+  "CenterPositionLat": 18.421207733333336
+ },
+ {
+  "ID": 191697936,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 43.860369423735534,
+  "CenterPositionLat": 18.411973799333243
+ },
+ {
+  "ID": 192083845,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 43.83369180500448,
+  "CenterPositionLat": 18.346059451792556
+ },
+ {
+  "ID": 192100133,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 43.8555760154453,
+  "CenterPositionLat": 18.381506576326018
+ },
+ {
+  "ID": 192100137,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 43.85586921696554,
+  "CenterPositionLat": 18.38286715790171
+ },
+ {
+  "ID": 192100138,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 43.855907944208596,
+  "CenterPositionLat": 18.383085735681146
+ },
+ {
+  "ID": 192100141,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 43.85594274355353,
+  "CenterPositionLat": 18.383295723396532
+ },
+ {
+  "ID": 192100143,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 43.855979379078455,
+  "CenterPositionLat": 18.383514658371393
+ },
+ {
+  "ID": 192100146,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 43.85601653982773,
+  "CenterPositionLat": 18.38372387833767
+ },
+ {
+  "ID": 192100148,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 43.855704849977016,
+  "CenterPositionLat": 18.38184029185419
+ },
+ {
+  "ID": 192100151,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 43.85592633111937,
+  "CenterPositionLat": 18.384172304672006
+ },
+ {
+  "ID": 192100152,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 43.85574326141998,
+  "CenterPositionLat": 18.38210081477037
+ },
+ {
+  "ID": 192100154,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 43.85577885988479,
+  "CenterPositionLat": 18.382327483304405
+ },
+ {
+  "ID": 192100157,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 43.855810095252636,
+  "CenterPositionLat": 18.38252272405873
+ },
+ {
+  "ID": 192100158,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 43.855839186796956,
+  "CenterPositionLat": 18.38269268636713
+ },
+ {
+  "ID": 192100160,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 43.856066362665956,
+  "CenterPositionLat": 18.38405076480669
+ },
+ {
+  "ID": 192100165,
+  "Capacity": 464,
+  "Name": "",
+  "CenterPositionLon": 43.85592905512732,
+  "CenterPositionLat": 18.38495237313459
+ },
+ {
+  "ID": 192312045,
+  "Capacity": 3511,
+  "Name": "Gradski park",
+  "CenterPositionLon": 43.82389215876684,
+  "CenterPositionLat": 17.003181809229467
+ },
+ {
+  "ID": 192599416,
+  "Capacity": 1679,
+  "Name": "Omladinski park",
+  "CenterPositionLon": 44.05729791942476,
+  "CenterPositionLat": 17.448354018206064
+ },
+ {
+  "ID": 193024599,
+  "Capacity": 1246,
+  "Name": "",
+  "CenterPositionLon": 43.85910474784779,
+  "CenterPositionLat": 18.400319491005074
+ },
+ {
+  "ID": 193135043,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 44.974448530864706,
+  "CenterPositionLat": 16.83953776786947
+ },
+ {
+  "ID": 193187937,
+  "Capacity": 1676,
+  "Name": "",
+  "CenterPositionLon": 44.529549702048755,
+  "CenterPositionLat": 18.69359860398981
+ },
+ {
+  "ID": 193639924,
+  "Capacity": 306,
+  "Name": "",
+  "CenterPositionLon": 43.95687634485235,
+  "CenterPositionLat": 18.26242602008524
+ },
+ {
+  "ID": 193680373,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 43.859241480111216,
+  "CenterPositionLat": 18.435484083187983
+ },
+ {
+  "ID": 193680376,
+  "Capacity": 125,
+  "Name": "",
+  "CenterPositionLon": 43.85914787462987,
+  "CenterPositionLat": 18.43496493404683
+ },
+ {
+  "ID": 193955717,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 43.960441948702204,
+  "CenterPositionLat": 18.266747558625408
+ },
+ {
+  "ID": 193955725,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 43.96055520196227,
+  "CenterPositionLat": 18.266963530494408
+ },
+ {
+  "ID": 193955726,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 43.96051027300892,
+  "CenterPositionLat": 18.267195199742847
+ },
+ {
+  "ID": 193955729,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 43.96035958019072,
+  "CenterPositionLat": 18.26647823365824
+ },
+ {
+  "ID": 194086191,
+  "Capacity": 1326,
+  "Name": "",
+  "CenterPositionLon": 43.86797851917838,
+  "CenterPositionLat": 18.413422709957207
+ },
+ {
+  "ID": 194086192,
+  "Capacity": 675,
+  "Name": "",
+  "CenterPositionLon": 43.867704232929874,
+  "CenterPositionLat": 18.40822598036852
+ },
+ {
+  "ID": 194086193,
+  "Capacity": 469,
+  "Name": "",
+  "CenterPositionLon": 43.864220135136584,
+  "CenterPositionLat": 18.41029432215963
+ },
+ {
+  "ID": 194086195,
+  "Capacity": 607,
+  "Name": "",
+  "CenterPositionLon": 43.86450044144994,
+  "CenterPositionLat": 18.408977643045585
+ },
+ {
+  "ID": 194086198,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 43.867799633333334,
+  "CenterPositionLat": 18.4087729
+ },
+ {
+  "ID": 194086202,
+  "Capacity": 212,
+  "Name": "",
+  "CenterPositionLon": 43.86728446002805,
+  "CenterPositionLat": 18.412394867824094
+ },
+ {
+  "ID": 194086204,
+  "Capacity": 541,
+  "Name": "",
+  "CenterPositionLon": 43.86597315679381,
+  "CenterPositionLat": 18.4088653531763
+ },
+ {
+  "ID": 194086205,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 43.866435553370984,
+  "CenterPositionLat": 18.412161262106963
+ },
+ {
+  "ID": 194515656,
+  "Capacity": 272,
+  "Name": "",
+  "CenterPositionLon": 43.956728278588685,
+  "CenterPositionLat": 18.26328007554187
+ },
+ {
+  "ID": 195887619,
+  "Capacity": 295,
+  "Name": "",
+  "CenterPositionLon": 42.71048176526589,
+  "CenterPositionLat": 18.360568537625593
+ },
+ {
+  "ID": 196713294,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 42.71101332651604,
+  "CenterPositionLat": 18.360143334713396
+ },
+ {
+  "ID": 196713297,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 42.710924464885586,
+  "CenterPositionLat": 18.36040380393191
+ },
+ {
+  "ID": 196713299,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 42.71064928783742,
+  "CenterPositionLat": 18.360116923293887
+ },
+ {
+  "ID": 196713300,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 42.710991658295484,
+  "CenterPositionLat": 18.359854334347155
+ },
+ {
+  "ID": 196713301,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 42.710602465038285,
+  "CenterPositionLat": 18.360246053989005
+ },
+ {
+  "ID": 196779535,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 43.872198243142755,
+  "CenterPositionLat": 18.419542010290098
+ },
+ {
+  "ID": 196779537,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 43.87621921625396,
+  "CenterPositionLat": 18.41252559257033
+ },
+ {
+  "ID": 198444340,
+  "Capacity": 2148,
+  "Name": "",
+  "CenterPositionLon": 43.82466925508119,
+  "CenterPositionLat": 17.00161002620517
+ },
+ {
+  "ID": 199270167,
+  "Capacity": 164,
+  "Name": "Trg grada Leipziga",
+  "CenterPositionLon": 44.22666059553042,
+  "CenterPositionLat": 17.660740810819345
+ },
+ {
+  "ID": 203564829,
+  "Capacity": 2007,
+  "Name": "Sporta trening centar",
+  "CenterPositionLon": 43.89628520425639,
+  "CenterPositionLat": 18.38272452076357
+ },
+ {
+  "ID": 204958268,
+  "Capacity": 875,
+  "Name": "",
+  "CenterPositionLon": 43.994325849919626,
+  "CenterPositionLat": 18.175175488417214
+ },
+ {
+  "ID": 205625198,
+  "Capacity": 1264,
+  "Name": "",
+  "CenterPositionLon": 43.992206628364954,
+  "CenterPositionLat": 18.15937916380989
+ },
+ {
+  "ID": 205628637,
+  "Capacity": 762,
+  "Name": "",
+  "CenterPositionLon": 43.99345601158477,
+  "CenterPositionLat": 18.15992881864903
+ },
+ {
+  "ID": 207430184,
+  "Capacity": 1367,
+  "Name": "",
+  "CenterPositionLon": 44.784676958048486,
+  "CenterPositionLat": 17.205038024043144
+ },
+ {
+  "ID": 207968017,
+  "Capacity": 357,
+  "Name": "",
+  "CenterPositionLon": 44.7653631100608,
+  "CenterPositionLat": 16.671572741210298
+ },
+ {
+  "ID": 208270925,
+  "Capacity": 514,
+  "Name": "",
+  "CenterPositionLon": 43.81523585238593,
+  "CenterPositionLat": 16.996463490631847
+ },
+ {
+  "ID": 208421812,
+  "Capacity": 290,
+  "Name": "Parkic",
+  "CenterPositionLon": 44.72519356441013,
+  "CenterPositionLat": 19.22824032987389
+ },
+ {
+  "ID": 209270592,
+  "Capacity": 390,
+  "Name": "Park Solidarnosti",
+  "CenterPositionLon": 45.19792341940198,
+  "CenterPositionLat": 17.03112082078521
+ },
+ {
+  "ID": 209584225,
+  "Capacity": 1272,
+  "Name": "",
+  "CenterPositionLon": 44.694607534937,
+  "CenterPositionLat": 18.996527940451177
+ },
+ {
+  "ID": 210103344,
+  "Capacity": 1266,
+  "Name": "",
+  "CenterPositionLon": 44.684077227434756,
+  "CenterPositionLat": 18.96234721598203
+ },
+ {
+  "ID": 210113501,
+  "Capacity": 8813,
+  "Name": "Spomen park Vukosavci",
+  "CenterPositionLon": 44.636396868317306,
+  "CenterPositionLat": 18.876538729012637
+ },
+ {
+  "ID": 210114160,
+  "Capacity": 1229,
+  "Name": "Partizansko spomen groblje",
+  "CenterPositionLon": 44.667732160045965,
+  "CenterPositionLat": 19.10017671602106
+ },
+ {
+  "ID": 212702707,
+  "Capacity": 96,
+  "Name": "",
+  "CenterPositionLon": 44.77524051493684,
+  "CenterPositionLat": 17.195395220093072
+ },
+ {
+  "ID": 212702708,
+  "Capacity": 253,
+  "Name": "",
+  "CenterPositionLon": 44.775362208343914,
+  "CenterPositionLat": 17.19458056568779
+ },
+ {
+  "ID": 212702709,
+  "Capacity": 1438,
+  "Name": "",
+  "CenterPositionLon": 44.7748195095234,
+  "CenterPositionLat": 17.194709392616396
+ },
+ {
+  "ID": 215230637,
+  "Capacity": 1834,
+  "Name": "",
+  "CenterPositionLon": 44.19878554181657,
+  "CenterPositionLat": 17.91056095401329
+ },
+ {
+  "ID": 216932718,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 44.442527448850285,
+  "CenterPositionLat": 18.876399139027765
+ },
+ {
+  "ID": 217007208,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 44.82642904950075,
+  "CenterPositionLat": 19.305416370200096
+ },
+ {
+  "ID": 217007210,
+  "Capacity": 166,
+  "Name": "",
+  "CenterPositionLon": 44.823797953903515,
+  "CenterPositionLat": 19.301278834148988
+ },
+ {
+  "ID": 217007211,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 44.824955894654565,
+  "CenterPositionLat": 19.304752239975333
+ },
+ {
+  "ID": 217212654,
+  "Capacity": 83,
+  "Name": "Lipice",
+  "CenterPositionLon": 44.82592605748405,
+  "CenterPositionLat": 19.3055713914906
+ },
+ {
+  "ID": 217212655,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 44.82716623333333,
+  "CenterPositionLat": 19.3052681
+ },
+ {
+  "ID": 217212658,
+  "Capacity": 17,
+  "Name": "Lipice",
+  "CenterPositionLon": 44.82583056666666,
+  "CenterPositionLat": 19.305815
+ },
+ {
+  "ID": 217996239,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 43.85575517721982,
+  "CenterPositionLat": 18.392600921939607
+ },
+ {
+  "ID": 219692684,
+  "Capacity": 1553,
+  "Name": "",
+  "CenterPositionLon": 44.33992017373311,
+  "CenterPositionLat": 17.26362061132487
+ },
+ {
+  "ID": 219692701,
+  "Capacity": 2531,
+  "Name": "Gradski park",
+  "CenterPositionLon": 44.338950683402736,
+  "CenterPositionLat": 17.267793498432344
+ },
+ {
+  "ID": 221262716,
+  "Capacity": 10442,
+  "Name": "Grabik",
+  "CenterPositionLon": 44.43384389784244,
+  "CenterPositionLat": 18.922524017632448
+ },
+ {
+  "ID": 221577687,
+  "Capacity": 1015,
+  "Name": "Park Heroja",
+  "CenterPositionLon": 45.18331219644367,
+  "CenterPositionLat": 16.806752164843015
+ },
+ {
+  "ID": 222746453,
+  "Capacity": 1265,
+  "Name": "",
+  "CenterPositionLon": 44.41920581999748,
+  "CenterPositionLat": 18.689514353338815
+ },
+ {
+  "ID": 223824016,
+  "Capacity": 222,
+  "Name": "",
+  "CenterPositionLon": 43.851970145116624,
+  "CenterPositionLat": 18.385205106501257
+ },
+ {
+  "ID": 223824017,
+  "Capacity": 410,
+  "Name": "",
+  "CenterPositionLon": 43.85184871308503,
+  "CenterPositionLat": 18.38606004885107
+ },
+ {
+  "ID": 223824018,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 43.85242055933415,
+  "CenterPositionLat": 18.385691114227015
+ },
+ {
+  "ID": 223824317,
+  "Capacity": 1776,
+  "Name": "",
+  "CenterPositionLon": 43.85197657311806,
+  "CenterPositionLat": 18.3881243428839
+ },
+ {
+  "ID": 225371355,
+  "Capacity": 242,
+  "Name": "",
+  "CenterPositionLon": 44.756899534842844,
+  "CenterPositionLat": 19.215677179394646
+ },
+ {
+  "ID": 225371363,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": 44.75723755982719,
+  "CenterPositionLat": 19.21783150043982
+ },
+ {
+  "ID": 225371368,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": 44.75737091589828,
+  "CenterPositionLat": 19.21681775676657
+ },
+ {
+  "ID": 225371371,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 44.757546617174256,
+  "CenterPositionLat": 19.2177411182645
+ },
+ {
+  "ID": 226244708,
+  "Capacity": 2758,
+  "Name": "Aladža park",
+  "CenterPositionLon": 43.50608832387255,
+  "CenterPositionLat": 18.779937291832372
+ },
+ {
+  "ID": 227924209,
+  "Capacity": 79,
+  "Name": "Sudski park",
+  "CenterPositionLon": 44.76426923474628,
+  "CenterPositionLat": 16.66894633585817
+ },
+ {
+  "ID": 229722932,
+  "Capacity": 1398,
+  "Name": "",
+  "CenterPositionLon": 43.942366375156624,
+  "CenterPositionLat": 18.079052052422423
+ },
+ {
+  "ID": 230745711,
+  "Capacity": 120,
+  "Name": "",
+  "CenterPositionLon": 44.22631491911758,
+  "CenterPositionLat": 17.657652655804792
+ },
+ {
+  "ID": 230745712,
+  "Capacity": 334,
+  "Name": "",
+  "CenterPositionLon": 44.226410949081895,
+  "CenterPositionLat": 17.65815523151821
+ },
+ {
+  "ID": 230745714,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 44.226310481477945,
+  "CenterPositionLat": 17.657299022163294
+ },
+ {
+  "ID": 230959696,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": 43.85168248553086,
+  "CenterPositionLat": 18.372807748667643
+ },
+ {
+  "ID": 232344289,
+  "Capacity": 422,
+  "Name": "Gradski park",
+  "CenterPositionLon": 44.04463079189741,
+  "CenterPositionLat": 16.849439831471404
+ },
+ {
+  "ID": 232358500,
+  "Capacity": 270,
+  "Name": "",
+  "CenterPositionLon": 44.04288235480594,
+  "CenterPositionLat": 16.84920097645073
+ },
+ {
+  "ID": 232416350,
+  "Capacity": 10518,
+  "Name": "Park Busija",
+  "CenterPositionLon": 44.037619670973406,
+  "CenterPositionLat": 16.850153287182362
+ },
+ {
+  "ID": 233635958,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": 43.84884898725431,
+  "CenterPositionLat": 18.379061612002854
+ },
+ {
+  "ID": 234990024,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 44.16937487982057,
+  "CenterPositionLat": 17.656604539866414
+ },
+ {
+  "ID": 234990025,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 44.17010255,
+  "CenterPositionLat": 17.65817115
+ },
+ {
+  "ID": 234990026,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 44.16916144765299,
+  "CenterPositionLat": 17.656070632167307
+ },
+ {
+  "ID": 234990027,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 44.16959715234701,
+  "CenterPositionLat": 17.657151967832696
+ },
+ {
+  "ID": 238692317,
+  "Capacity": 296,
+  "Name": "",
+  "CenterPositionLon": 44.45463872024827,
+  "CenterPositionLat": 18.64388620041038
+ },
+ {
+  "ID": 238964228,
+  "Capacity": 240,
+  "Name": "",
+  "CenterPositionLon": 44.44978736625368,
+  "CenterPositionLat": 18.65123401300643
+ },
+ {
+  "ID": 242823577,
+  "Capacity": 700,
+  "Name": "",
+  "CenterPositionLon": 44.812242813757265,
+  "CenterPositionLat": 15.86829878538163
+ },
+ {
+  "ID": 242985865,
+  "Capacity": 290,
+  "Name": "Спомен парк Омарска",
+  "CenterPositionLon": 44.891002398282524,
+  "CenterPositionLat": 16.899692416689135
+ },
+ {
+  "ID": 243699759,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 44.04277556865779,
+  "CenterPositionLat": 16.84956866989942
+ },
+ {
+  "ID": 243699761,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 44.046566334417335,
+  "CenterPositionLat": 16.850382778279872
+ },
+ {
+  "ID": 243699774,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 44.042755279484496,
+  "CenterPositionLat": 16.85049620584473
+ },
+ {
+  "ID": 243699775,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 44.043476701050096,
+  "CenterPositionLat": 16.849462009394717
+ },
+ {
+  "ID": 244807432,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 44.77542555630457,
+  "CenterPositionLat": 17.194965842563022
+ },
+ {
+  "ID": 247467447,
+  "Capacity": 259,
+  "Name": "Kanadski Park",
+  "CenterPositionLon": 44.81415033436271,
+  "CenterPositionLat": 15.87294025295028
+ },
+ {
+  "ID": 247763965,
+  "Capacity": 1811,
+  "Name": "Bare",
+  "CenterPositionLon": 43.87629924512045,
+  "CenterPositionLat": 18.40306892399527
+ },
+ {
+  "ID": 250585811,
+  "Capacity": 11137,
+  "Name": "Spomen-park Garavice",
+  "CenterPositionLon": 44.822888289156275,
+  "CenterPositionLat": 15.840722812828728
+ },
+ {
+  "ID": 253656857,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 44.60289677239494,
+  "CenterPositionLat": 17.83701836958714
+ },
+ {
+  "ID": 253656863,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 44.60246558505512,
+  "CenterPositionLat": 17.836919954446103
+ },
+ {
+  "ID": 253668714,
+  "Capacity": 296,
+  "Name": "",
+  "CenterPositionLon": 44.602324325886066,
+  "CenterPositionLat": 17.837613103614117
+ },
+ {
+  "ID": 253668722,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 44.60278846243266,
+  "CenterPositionLat": 17.836405151344934
+ },
+ {
+  "ID": 254030097,
+  "Capacity": 327,
+  "Name": "Eko Park",
+  "CenterPositionLon": 44.55898817604626,
+  "CenterPositionLat": 18.771705667830236
+ },
+ {
+  "ID": 254266487,
+  "Capacity": 453,
+  "Name": "Park",
+  "CenterPositionLon": 44.721374150340914,
+  "CenterPositionLat": 18.816952352849327
+ },
+ {
+  "ID": 254389559,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 43.33759939409326,
+  "CenterPositionLat": 17.80811753526926
+ },
+ {
+  "ID": 254389565,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 43.33785224403893,
+  "CenterPositionLat": 17.809292629723213
+ },
+ {
+  "ID": 254396447,
+  "Capacity": 125,
+  "Name": "Gospin park",
+  "CenterPositionLon": 43.33837690221227,
+  "CenterPositionLat": 17.80934966932261
+ },
+ {
+  "ID": 254464573,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 43.34350223992893,
+  "CenterPositionLat": 17.807031157108845
+ },
+ {
+  "ID": 254464574,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 43.343366038331496,
+  "CenterPositionLat": 17.807196742748353
+ },
+ {
+  "ID": 254464575,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 43.34322951635029,
+  "CenterPositionLat": 17.806921616773803
+ },
+ {
+  "ID": 254464576,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 43.343311972502335,
+  "CenterPositionLat": 17.806639005048627
+ },
+ {
+  "ID": 256699427,
+  "Capacity": 1761,
+  "Name": "",
+  "CenterPositionLon": 43.883299571289555,
+  "CenterPositionLat": 16.770113938440563
+ },
+ {
+  "ID": 259972472,
+  "Capacity": 5,
+  "Name": "FPN",
+  "CenterPositionLon": 43.855736809478294,
+  "CenterPositionLat": 18.422390866666667
+ },
+ {
+  "ID": 262521131,
+  "Capacity": 627,
+  "Name": "Školski park",
+  "CenterPositionLon": 44.15818652318319,
+  "CenterPositionLat": 17.962095432652657
+ },
+ {
+  "ID": 266719461,
+  "Capacity": 784,
+  "Name": "",
+  "CenterPositionLon": 44.8824349690649,
+  "CenterPositionLat": 16.157694907412196
+ },
+ {
+  "ID": 266743932,
+  "Capacity": 565,
+  "Name": "",
+  "CenterPositionLon": 44.70695061701284,
+  "CenterPositionLat": 18.883019547375994
+ },
+ {
+  "ID": 267041729,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 44.88412002199785,
+  "CenterPositionLat": 16.155273905657072
+ },
+ {
+  "ID": 279260503,
+  "Capacity": 232,
+  "Name": "",
+  "CenterPositionLon": 44.71663348255005,
+  "CenterPositionLat": 18.826301515001287
+ },
+ {
+  "ID": 284803541,
+  "Capacity": 1234,
+  "Name": "",
+  "CenterPositionLon": 44.18414815,
+  "CenterPositionLat": 19.328575400000002
+ },
+ {
+  "ID": 284994315,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": 43.85480986869777,
+  "CenterPositionLat": 18.39555840481353
+ },
+ {
+  "ID": 284994319,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 43.854394956580556,
+  "CenterPositionLat": 18.395340649599586
+ },
+ {
+  "ID": 284994321,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": 43.85465947921681,
+  "CenterPositionLat": 18.394802198745683
+ },
+ {
+  "ID": 284994322,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 43.854410697187284,
+  "CenterPositionLat": 18.3941426743283
+ },
+ {
+  "ID": 284994324,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 43.85394040067915,
+  "CenterPositionLat": 18.393009655647234
+ },
+ {
+  "ID": 284994326,
+  "Capacity": 386,
+  "Name": "",
+  "CenterPositionLon": 43.85407274764307,
+  "CenterPositionLat": 18.393680237520286
+ },
+ {
+  "ID": 285000568,
+  "Capacity": 991,
+  "Name": "",
+  "CenterPositionLon": 43.86892310815187,
+  "CenterPositionLat": 18.412678062093406
+ },
+ {
+  "ID": 285000569,
+  "Capacity": 610,
+  "Name": "",
+  "CenterPositionLon": 43.86828062924633,
+  "CenterPositionLat": 18.412206512512
+ },
+ {
+  "ID": 285012986,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": 43.860692101079096,
+  "CenterPositionLat": 18.4275273326398
+ },
+ {
+  "ID": 286558937,
+  "Capacity": 0,
+  "Name": "Saksije",
+  "CenterPositionLon": 43.844300998506434,
+  "CenterPositionLat": 18.341393296315122
+ },
+ {
+  "ID": 286697067,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 43.84223559833055,
+  "CenterPositionLat": 18.350550182423465
+ },
+ {
+  "ID": 287582506,
+  "Capacity": 272,
+  "Name": "",
+  "CenterPositionLon": 45.04997447075077,
+  "CenterPositionLat": 16.379349041755592
+ },
+ {
+  "ID": 292847704,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 44.764655985022976,
+  "CenterPositionLat": 16.663972356758304
+ },
+ {
+  "ID": 294798323,
+  "Capacity": 633,
+  "Name": "",
+  "CenterPositionLon": 45.04848975819168,
+  "CenterPositionLat": 16.376312824269792
+ },
+ {
+  "ID": 296153271,
+  "Capacity": 173,
+  "Name": "",
+  "CenterPositionLon": 44.196360804792455,
+  "CenterPositionLat": 17.911698983350842
+ },
+ {
+  "ID": 296154387,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 44.196740309250046,
+  "CenterPositionLat": 17.912186485119904
+ },
+ {
+  "ID": 296154388,
+  "Capacity": 315,
+  "Name": "",
+  "CenterPositionLon": 44.19658744488158,
+  "CenterPositionLat": 17.912651918680833
+ },
+ {
+  "ID": 296154389,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 44.19705040709166,
+  "CenterPositionLat": 17.913196216061657
+ },
+ {
+  "ID": 296154390,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 44.19581374553174,
+  "CenterPositionLat": 17.91283362970491
+ },
+ {
+  "ID": 296154392,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 44.19609601614141,
+  "CenterPositionLat": 17.913313423029194
+ },
+ {
+  "ID": 296154393,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 44.1964154510207,
+  "CenterPositionLat": 17.9136296327553
+ },
+ {
+  "ID": 296567604,
+  "Capacity": 1348,
+  "Name": "Gradski park \"Gavrilo Princip\"",
+  "CenterPositionLon": 43.82060656615404,
+  "CenterPositionLat": 18.361395561336554
+ },
+ {
+  "ID": 297139987,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 43.84195811526748,
+  "CenterPositionLat": 18.344784114334548
+ },
+ {
+  "ID": 297141681,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 43.84202435650305,
+  "CenterPositionLat": 18.34555201753605
+ },
+ {
+  "ID": 297141689,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 43.84279157362959,
+  "CenterPositionLat": 18.346061389498292
+ },
+ {
+  "ID": 297278674,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 43.84132487687829,
+  "CenterPositionLat": 18.347101959971155
+ },
+ {
+  "ID": 297391594,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 43.843074911874304,
+  "CenterPositionLat": 18.343834870995728
+ },
+ {
+  "ID": 297391595,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 43.842932485416945,
+  "CenterPositionLat": 18.343458374611032
+ },
+ {
+  "ID": 297391596,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 43.84297268346956,
+  "CenterPositionLat": 18.343118932016342
+ },
+ {
+  "ID": 297983732,
+  "Capacity": 1810,
+  "Name": "Klizište",
+  "CenterPositionLon": 43.84439309092158,
+  "CenterPositionLat": 18.350094102311
+ },
+ {
+  "ID": 298175208,
+  "Capacity": 1119,
+  "Name": "Gradski park Busovača",
+  "CenterPositionLon": 44.09727608119282,
+  "CenterPositionLat": 17.88155929965259
+ },
+ {
+  "ID": 298877998,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 43.84659436093112,
+  "CenterPositionLat": 18.354256034133698
+ },
+ {
+  "ID": 298877999,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 43.84640971125568,
+  "CenterPositionLat": 18.354305251684597
+ },
+ {
+  "ID": 298878004,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 43.84693278314124,
+  "CenterPositionLat": 18.354100433249048
+ },
+ {
+  "ID": 298994755,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 43.846953767713025,
+  "CenterPositionLat": 18.35424055453305
+ },
+ {
+  "ID": 299213699,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 43.846599295329895,
+  "CenterPositionLat": 18.35521862165264
+ },
+ {
+  "ID": 300351991,
+  "Capacity": 315,
+  "Name": "",
+  "CenterPositionLon": 43.8424796469268,
+  "CenterPositionLat": 18.344986367348938
+ },
+ {
+  "ID": 300351997,
+  "Capacity": 561,
+  "Name": "",
+  "CenterPositionLon": 43.840980021386024,
+  "CenterPositionLat": 18.345421534300268
+ },
+ {
+  "ID": 303538960,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 44.365301940172515,
+  "CenterPositionLat": 19.11057745330176
+ },
+ {
+  "ID": 303538961,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 44.36526898935712,
+  "CenterPositionLat": 19.110540670084262
+ },
+ {
+  "ID": 303538962,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 44.365283935293434,
+  "CenterPositionLat": 19.11075960726191
+ },
+ {
+  "ID": 303538963,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 44.365260496770006,
+  "CenterPositionLat": 19.110845526507394
+ },
+ {
+  "ID": 313635448,
+  "Capacity": 496,
+  "Name": "Plato",
+  "CenterPositionLon": 44.72905423299491,
+  "CenterPositionLat": 18.083745748646887
+ },
+ {
+  "ID": 316632868,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 43.84291377501053,
+  "CenterPositionLat": 18.3424026368615
+ },
+ {
+  "ID": 317763569,
+  "Capacity": 2347,
+  "Name": "Stanica",
+  "CenterPositionLon": 45.14216901650954,
+  "CenterPositionLat": 17.253944667217965
+ },
+ {
+  "ID": 326552054,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 44.72033500097557,
+  "CenterPositionLat": 18.82168271434947
+ },
+ {
+  "ID": 332564939,
+  "Capacity": 644,
+  "Name": "Eko park Grčica",
+  "CenterPositionLon": 44.8568810959638,
+  "CenterPositionLat": 18.81894273874523
+ },
+ {
+  "ID": 337172566,
+  "Capacity": 305,
+  "Name": "Park Prozor",
+  "CenterPositionLon": 43.81957585502535,
+  "CenterPositionLat": 17.612602044853748
+ },
+ {
+  "ID": 343941183,
+  "Capacity": 545,
+  "Name": "",
+  "CenterPositionLon": 44.080636006700324,
+  "CenterPositionLat": 18.95170595779889
+ },
+ {
+  "ID": 344247822,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": 44.08320625584593,
+  "CenterPositionLat": 18.953199125708
+ },
+ {
+  "ID": 348764349,
+  "Capacity": 913,
+  "Name": "",
+  "CenterPositionLon": 44.815368233262234,
+  "CenterPositionLat": 16.66815721507609
+ },
+ {
+  "ID": 349642941,
+  "Capacity": 498,
+  "Name": "",
+  "CenterPositionLon": 44.807403637777604,
+  "CenterPositionLat": 16.667100530997377
+ },
+ {
+  "ID": 353048068,
+  "Capacity": 542,
+  "Name": "",
+  "CenterPositionLon": 44.76622928040773,
+  "CenterPositionLat": 15.950071415634758
+ },
+ {
+  "ID": 353443124,
+  "Capacity": 2469,
+  "Name": "",
+  "CenterPositionLon": 45.18229685615224,
+  "CenterPositionLat": 15.809762673230287
+ },
+ {
+  "ID": 353443125,
+  "Capacity": 909,
+  "Name": "",
+  "CenterPositionLon": 45.18243856287454,
+  "CenterPositionLat": 15.807980132744206
+ },
+ {
+  "ID": 353443145,
+  "Capacity": 4473,
+  "Name": "",
+  "CenterPositionLon": 44.800742596328696,
+  "CenterPositionLat": 15.907063865791411
+ },
+ {
+  "ID": 353443147,
+  "Capacity": 990,
+  "Name": "",
+  "CenterPositionLon": 44.80177012847762,
+  "CenterPositionLat": 15.906053769455289
+ },
+ {
+  "ID": 353443150,
+  "Capacity": 621,
+  "Name": "",
+  "CenterPositionLon": 44.8014824,
+  "CenterPositionLat": 15.9047184
+ },
+ {
+  "ID": 353679494,
+  "Capacity": 873,
+  "Name": "",
+  "CenterPositionLon": 44.790184785342895,
+  "CenterPositionLat": 15.85981546152223
+ },
+ {
+  "ID": 354828699,
+  "Capacity": 111,
+  "Name": "Beton",
+  "CenterPositionLon": 44.81316089869922,
+  "CenterPositionLat": 15.871549348118384
+ },
+ {
+  "ID": 356357155,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 44.81371756799547,
+  "CenterPositionLat": 15.870648987109318
+ },
+ {
+  "ID": 357514232,
+  "Capacity": 10068,
+  "Name": "Cardaklije",
+  "CenterPositionLon": 44.63842012699439,
+  "CenterPositionLat": 16.18291363643599
+ },
+ {
+  "ID": 358518277,
+  "Capacity": 173,
+  "Name": "",
+  "CenterPositionLon": 43.84760064133128,
+  "CenterPositionLat": 18.372739369923742
+ },
+ {
+  "ID": 361415162,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 44.763974120379615,
+  "CenterPositionLat": 17.202195344311544
+ },
+ {
+  "ID": 363151569,
+  "Capacity": 401,
+  "Name": "",
+  "CenterPositionLon": 44.770787002832016,
+  "CenterPositionLat": 17.204285478401616
+ },
+ {
+  "ID": 363152878,
+  "Capacity": 250,
+  "Name": "",
+  "CenterPositionLon": 44.770114245505006,
+  "CenterPositionLat": 17.203885928228104
+ },
+ {
+  "ID": 363152879,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": 44.76942141319467,
+  "CenterPositionLat": 17.20404524471857
+ },
+ {
+  "ID": 363152880,
+  "Capacity": 421,
+  "Name": "",
+  "CenterPositionLon": 44.769629916579326,
+  "CenterPositionLat": 17.206462297713887
+ },
+ {
+  "ID": 363152881,
+  "Capacity": 944,
+  "Name": "",
+  "CenterPositionLon": 44.769125009026126,
+  "CenterPositionLat": 17.207971210515023
+ },
+ {
+  "ID": 373818203,
+  "Capacity": 1675,
+  "Name": "Dragodol",
+  "CenterPositionLon": 44.54508601948949,
+  "CenterPositionLat": 18.65971460520166
+ },
+ {
+  "ID": 373820705,
+  "Capacity": 1473,
+  "Name": "",
+  "CenterPositionLon": 44.54169297094904,
+  "CenterPositionLat": 18.666988140865442
+ },
+ {
+  "ID": 374701700,
+  "Capacity": 7336,
+  "Name": "Izletište Rorovi",
+  "CenterPositionLon": 43.67745257769525,
+  "CenterPositionLat": 18.977766474020115
+ },
+ {
+  "ID": 375736334,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 44.41706318860871,
+  "CenterPositionLat": 17.084773910685506
+ },
+ {
+  "ID": 375736335,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 44.41571771482739,
+  "CenterPositionLat": 17.084111080008967
+ },
+ {
+  "ID": 376358894,
+  "Capacity": 421,
+  "Name": "Gradski Park",
+  "CenterPositionLon": 43.47174250946394,
+  "CenterPositionLat": 17.32938537768692
+ },
+ {
+  "ID": 378467090,
+  "Capacity": 136,
+  "Name": "Park Alekse Šantića",
+  "CenterPositionLon": 43.33604089258917,
+  "CenterPositionLat": 17.816445108887176
+ },
+ {
+  "ID": 378657985,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 43.828300612937724,
+  "CenterPositionLat": 17.60690890683615
+ },
+ {
+  "ID": 381202617,
+  "Capacity": 563,
+  "Name": "",
+  "CenterPositionLon": 43.471884399576865,
+  "CenterPositionLat": 17.320537303368106
+ },
+ {
+  "ID": 381202618,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 43.472323915340226,
+  "CenterPositionLat": 17.320725607473918
+ },
+ {
+  "ID": 384906193,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 43.32787556937381,
+  "CenterPositionLat": 17.821768782725325
+ },
+ {
+  "ID": 384909798,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 43.34093780665113,
+  "CenterPositionLat": 17.814029793526966
+ },
+ {
+  "ID": 385765433,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 43.342476447184865,
+  "CenterPositionLat": 17.81413501527052
+ },
+ {
+  "ID": 387587472,
+  "Capacity": 1726,
+  "Name": "",
+  "CenterPositionLon": 44.743918937845564,
+  "CenterPositionLat": 17.16276880165507
+ },
+ {
+  "ID": 387587473,
+  "Capacity": 346,
+  "Name": "",
+  "CenterPositionLon": 44.741162198419296,
+  "CenterPositionLat": 17.16564094034279
+ },
+ {
+  "ID": 388397335,
+  "Capacity": 309,
+  "Name": "",
+  "CenterPositionLon": 43.61741731790166,
+  "CenterPositionLat": 19.36562080634943
+ },
+ {
+  "ID": 388408260,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 43.854702175158344,
+  "CenterPositionLat": 18.40848121263975
+ },
+ {
+  "ID": 391276369,
+  "Capacity": 573,
+  "Name": "",
+  "CenterPositionLon": 44.539924156397504,
+  "CenterPositionLat": 18.66444252558048
+ },
+ {
+  "ID": 391276372,
+  "Capacity": 1984,
+  "Name": "",
+  "CenterPositionLon": 44.533757269500846,
+  "CenterPositionLat": 18.65584111803552
+ },
+ {
+  "ID": 392288824,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 43.3377354315481,
+  "CenterPositionLat": 17.808234311879122
+ },
+ {
+  "ID": 392639799,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 43.35079069809659,
+  "CenterPositionLat": 17.794554018412995
+ },
+ {
+  "ID": 396000431,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 44.2141981909195,
+  "CenterPositionLat": 18.048995669660993
+ },
+ {
+  "ID": 396052935,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": 44.21470826607135,
+  "CenterPositionLat": 18.04975483685645
+ },
+ {
+  "ID": 396056439,
+  "Capacity": 11205,
+  "Name": "Borovi",
+  "CenterPositionLon": 44.20348423516357,
+  "CenterPositionLat": 18.04849144577438
+ },
+ {
+  "ID": 396298675,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": 44.24106006391633,
+  "CenterPositionLat": 17.57662806805605
+ },
+ {
+  "ID": 397433086,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 44.241551936458386,
+  "CenterPositionLat": 17.57584279564482
+ },
+ {
+  "ID": 406612051,
+  "Capacity": 1075,
+  "Name": "",
+  "CenterPositionLon": 44.53934451103812,
+  "CenterPositionLat": 18.666284999243366
+ },
+ {
+  "ID": 406614305,
+  "Capacity": 298,
+  "Name": "",
+  "CenterPositionLon": 44.53662892676676,
+  "CenterPositionLat": 18.679352928035634
+ },
+ {
+  "ID": 407213804,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 44.53917895658197,
+  "CenterPositionLat": 18.65710908926808
+ },
+ {
+  "ID": 407469391,
+  "Capacity": 1237,
+  "Name": "",
+  "CenterPositionLon": 44.533211986513095,
+  "CenterPositionLat": 18.68920481167348
+ },
+ {
+  "ID": 407784442,
+  "Capacity": 867,
+  "Name": "Park Slavinovići",
+  "CenterPositionLon": 44.53057973688653,
+  "CenterPositionLat": 18.715472848849913
+ },
+ {
+  "ID": 407868683,
+  "Capacity": 1016,
+  "Name": "Park Slobode",
+  "CenterPositionLon": 44.541069303876576,
+  "CenterPositionLat": 18.676104836359936
+ },
+ {
+  "ID": 410758045,
+  "Capacity": 1654,
+  "Name": "Šumski park Slavinovići",
+  "CenterPositionLon": 44.52452547828397,
+  "CenterPositionLat": 18.71907441439755
+ },
+ {
+  "ID": 411095306,
+  "Capacity": 776,
+  "Name": "Središnji park",
+  "CenterPositionLon": 45.05745687700001,
+  "CenterPositionLat": 18.58525604731041
+ },
+ {
+  "ID": 411242165,
+  "Capacity": 335,
+  "Name": "",
+  "CenterPositionLon": 44.54106260042064,
+  "CenterPositionLat": 18.67839356503595
+ },
+ {
+  "ID": 411399276,
+  "Capacity": 334,
+  "Name": "",
+  "CenterPositionLon": 45.040765807277594,
+  "CenterPositionLat": 18.540505541600847
+ },
+ {
+  "ID": 411415187,
+  "Capacity": 39,
+  "Name": "Pokretni park",
+  "CenterPositionLon": 45.05879347648267,
+  "CenterPositionLat": 18.58929427175182
+ },
+ {
+  "ID": 412613777,
+  "Capacity": 704,
+  "Name": "",
+  "CenterPositionLon": 44.531994548688836,
+  "CenterPositionLat": 18.685069130394726
+ },
+ {
+  "ID": 412621517,
+  "Capacity": 897,
+  "Name": "",
+  "CenterPositionLon": 44.53256861696265,
+  "CenterPositionLat": 18.655707392092097
+ },
+ {
+  "ID": 414149781,
+  "Capacity": 249,
+  "Name": "",
+  "CenterPositionLon": 44.53434775002274,
+  "CenterPositionLat": 18.679565347401027
+ },
+ {
+  "ID": 414149782,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": 44.53475422761757,
+  "CenterPositionLat": 18.678663280670442
+ },
+ {
+  "ID": 424987219,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": 43.63995461756651,
+  "CenterPositionLat": 17.96918771278218
+ },
+ {
+  "ID": 429269535,
+  "Capacity": 431,
+  "Name": "Park Meram Konya",
+  "CenterPositionLon": 43.822381768281254,
+  "CenterPositionLat": 18.20319084642873
+ },
+ {
+  "ID": 435770623,
+  "Capacity": 336,
+  "Name": "Park Sjenjak",
+  "CenterPositionLon": 44.532578619649044,
+  "CenterPositionLat": 18.705385726550002
+ },
+ {
+  "ID": 437967083,
+  "Capacity": 304,
+  "Name": "",
+  "CenterPositionLon": 43.937062906621016,
+  "CenterPositionLat": 17.581828336291654
+ },
+ {
+  "ID": 438361049,
+  "Capacity": 789,
+  "Name": "Park Sjenjak",
+  "CenterPositionLon": 44.53193785423394,
+  "CenterPositionLat": 18.698659616788802
+ },
+ {
+  "ID": 438440350,
+  "Capacity": 4570,
+  "Name": "",
+  "CenterPositionLon": 44.87793730278732,
+  "CenterPositionLat": 18.42383491654897
+ },
+ {
+  "ID": 440001744,
+  "Capacity": 292,
+  "Name": "",
+  "CenterPositionLon": 43.11383982098615,
+  "CenterPositionLat": 17.705796109515276
+ },
+ {
+  "ID": 441140677,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 43.862093419984916,
+  "CenterPositionLat": 18.434246980286687
+ },
+ {
+  "ID": 442753858,
+  "Capacity": 2437,
+  "Name": "Partizansko groblje",
+  "CenterPositionLon": 43.341735192639675,
+  "CenterPositionLat": 17.79689213767612
+ },
+ {
+  "ID": 444881118,
+  "Capacity": 2543,
+  "Name": "Sunnyland",
+  "CenterPositionLon": 43.84214926212279,
+  "CenterPositionLat": 18.414437822642167
+ },
+ {
+  "ID": 450568131,
+  "Capacity": 647,
+  "Name": "Park",
+  "CenterPositionLon": 44.954750747874,
+  "CenterPositionLat": 18.302787971826938
+ },
+ {
+  "ID": 450568681,
+  "Capacity": 502,
+  "Name": "Park",
+  "CenterPositionLon": 44.95475174422677,
+  "CenterPositionLat": 18.301406930701305
+ },
+ {
+  "ID": 450584029,
+  "Capacity": 662,
+  "Name": "",
+  "CenterPositionLon": 44.95465858684259,
+  "CenterPositionLat": 18.30056245797284
+ },
+ {
+  "ID": 455349400,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 45.061711435444195,
+  "CenterPositionLat": 18.579259873415403
+ },
+ {
+  "ID": 455349401,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 45.061485664910194,
+  "CenterPositionLat": 18.579388749090327
+ },
+ {
+  "ID": 455715081,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 45.06399002941995,
+  "CenterPositionLat": 18.576835240948
+ },
+ {
+  "ID": 459681748,
+  "Capacity": 459,
+  "Name": "",
+  "CenterPositionLon": 43.34235596547345,
+  "CenterPositionLat": 18.68985983815808
+ },
+ {
+  "ID": 459681749,
+  "Capacity": 1300,
+  "Name": "",
+  "CenterPositionLon": 43.342630008996906,
+  "CenterPositionLat": 18.68929985494247
+ },
+ {
+  "ID": 459823166,
+  "Capacity": 2597,
+  "Name": "Memorijalni kompleks Šušnjar",
+  "CenterPositionLon": 44.76220821271176,
+  "CenterPositionLat": 16.683705733458826
+ },
+ {
+  "ID": 461453174,
+  "Capacity": 100,
+  "Name": "Park kod mosa",
+  "CenterPositionLon": 44.95862056089634,
+  "CenterPositionLat": 16.182092001152668
+ },
+ {
+  "ID": 461454132,
+  "Capacity": 105467,
+  "Name": "Lovište Vrletnica i Vučkovac",
+  "CenterPositionLon": 44.96674239192816,
+  "CenterPositionLat": 16.152656059221773
+ },
+ {
+  "ID": 461455604,
+  "Capacity": 203,
+  "Name": "Park pod starim gradom",
+  "CenterPositionLon": 44.88509323333333,
+  "CenterPositionLat": 16.154659233333334
+ },
+ {
+  "ID": 461455724,
+  "Capacity": 385,
+  "Name": "Stari grad Pset",
+  "CenterPositionLon": 44.88502964206247,
+  "CenterPositionLat": 16.155094069768772
+ },
+ {
+  "ID": 462171370,
+  "Capacity": 2444,
+  "Name": "Park narodnih heroja",
+  "CenterPositionLon": 42.87723995813556,
+  "CenterPositionLat": 18.430667093686793
+ },
+ {
+  "ID": 462171371,
+  "Capacity": 1146,
+  "Name": "Ravnogorski park",
+  "CenterPositionLon": 42.87665494040694,
+  "CenterPositionLat": 18.428684317576998
+ },
+ {
+  "ID": 462257999,
+  "Capacity": 428,
+  "Name": "Park 2",
+  "CenterPositionLon": 43.85377907557637,
+  "CenterPositionLat": 18.38091494630551
+ },
+ {
+  "ID": 462258000,
+  "Capacity": 373,
+  "Name": "Park 1",
+  "CenterPositionLon": 43.85343384727489,
+  "CenterPositionLat": 18.379341380229572
+ },
+ {
+  "ID": 462258001,
+  "Capacity": 368,
+  "Name": "Park 3",
+  "CenterPositionLon": 43.854046866341456,
+  "CenterPositionLat": 18.382445912042442
+ },
+ {
+  "ID": 462258002,
+  "Capacity": 562,
+  "Name": "Park 4",
+  "CenterPositionLon": 43.854177332888455,
+  "CenterPositionLat": 18.384086654274007
+ },
+ {
+  "ID": 462413203,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 43.85282952058838,
+  "CenterPositionLat": 18.381656877607675
+ },
+ {
+  "ID": 468142253,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 43.33817415929407,
+  "CenterPositionLat": 17.804812959203566
+ },
+ {
+  "ID": 468151486,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 43.33815627188931,
+  "CenterPositionLat": 17.80798373317909
+ },
+ {
+  "ID": 468156909,
+  "Capacity": 299765,
+  "Name": "Vrdi",
+  "CenterPositionLon": 43.498937030398146,
+  "CenterPositionLat": 17.74238338724386
+ },
+ {
+  "ID": 468713694,
+  "Capacity": 561,
+  "Name": "Garnizonski park",
+  "CenterPositionLon": 44.535782957707774,
+  "CenterPositionLat": 18.6957820932757
+ },
+ {
+  "ID": 468895460,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 43.66170241152941,
+  "CenterPositionLat": 17.083177621591503
+ },
+ {
+  "ID": 469216584,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 44.7601350956588,
+  "CenterPositionLat": 17.195191584716166
+ },
+ {
+  "ID": 474920856,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 44.96636343938029,
+  "CenterPositionLat": 16.45433614422537
+ },
+ {
+  "ID": 474920858,
+  "Capacity": 391,
+  "Name": "",
+  "CenterPositionLon": 44.964227195089464,
+  "CenterPositionLat": 16.45528803639647
+ },
+ {
+  "ID": 475715484,
+  "Capacity": 227,
+  "Name": "",
+  "CenterPositionLon": 44.963586823280416,
+  "CenterPositionLat": 16.45515815831713
+ },
+ {
+  "ID": 477363189,
+  "Capacity": 207,
+  "Name": "",
+  "CenterPositionLon": 43.85697891426052,
+  "CenterPositionLat": 18.412964588417967
+ },
+ {
+  "ID": 477363231,
+  "Capacity": 596,
+  "Name": "",
+  "CenterPositionLon": 43.85756619145272,
+  "CenterPositionLat": 18.414307076448488
+ },
+ {
+  "ID": 477363299,
+  "Capacity": 286,
+  "Name": "",
+  "CenterPositionLon": 43.857703095259495,
+  "CenterPositionLat": 18.41312064836411
+ },
+ {
+  "ID": 477954603,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 43.85307897370939,
+  "CenterPositionLat": 18.382160562048405
+ },
+ {
+  "ID": 481666495,
+  "Capacity": 8983,
+  "Name": "",
+  "CenterPositionLon": 44.37498787185962,
+  "CenterPositionLat": 16.382136189639795
+ },
+ {
+  "ID": 481895682,
+  "Capacity": 2091,
+  "Name": "",
+  "CenterPositionLon": 44.887685393250834,
+  "CenterPositionLat": 16.156321616630382
+ },
+ {
+  "ID": 482242264,
+  "Capacity": 4514,
+  "Name": "Park Laktaši",
+  "CenterPositionLon": 44.90443511835468,
+  "CenterPositionLat": 17.300296465422466
+ },
+ {
+  "ID": 482243422,
+  "Capacity": 1688,
+  "Name": "",
+  "CenterPositionLon": 44.904996563723145,
+  "CenterPositionLat": 17.302226617292384
+ },
+ {
+  "ID": 486390288,
+  "Capacity": 654,
+  "Name": "",
+  "CenterPositionLon": 44.241848678512,
+  "CenterPositionLat": 17.58112265781289
+ },
+ {
+  "ID": 487807668,
+  "Capacity": 599,
+  "Name": "Park Stovrela",
+  "CenterPositionLon": 44.98429458514396,
+  "CenterPositionLat": 15.942348963127264
+ },
+ {
+  "ID": 488726213,
+  "Capacity": 452,
+  "Name": "",
+  "CenterPositionLon": 43.189929304115374,
+  "CenterPositionLat": 17.67936615346136
+ },
+ {
+  "ID": 489131360,
+  "Capacity": 46768,
+  "Name": "Betanija",
+  "CenterPositionLon": 43.87766560225547,
+  "CenterPositionLat": 18.405939516030063
+ },
+ {
+  "ID": 489443920,
+  "Capacity": 308,
+  "Name": "",
+  "CenterPositionLon": 43.85768036398211,
+  "CenterPositionLat": 18.404601148253164
+ },
+ {
+  "ID": 489647726,
+  "Capacity": 624,
+  "Name": "",
+  "CenterPositionLon": 43.85795884007298,
+  "CenterPositionLat": 18.402051311031386
+ },
+ {
+  "ID": 490528727,
+  "Capacity": 309,
+  "Name": "",
+  "CenterPositionLon": 44.758498900063984,
+  "CenterPositionLat": 19.225684413578787
+ },
+ {
+  "ID": 490663028,
+  "Capacity": 1922,
+  "Name": "",
+  "CenterPositionLon": 43.8584050504928,
+  "CenterPositionLat": 18.406336699269186
+ },
+ {
+  "ID": 492957652,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 45.03927256666666,
+  "CenterPositionLat": 18.639921633333334
+ },
+ {
+  "ID": 495065852,
+  "Capacity": 270,
+  "Name": "",
+  "CenterPositionLon": 45.21909592958596,
+  "CenterPositionLat": 16.546986289236372
+ },
+ {
+  "ID": 498245840,
+  "Capacity": 4654,
+  "Name": "",
+  "CenterPositionLon": 44.23858208647847,
+  "CenterPositionLat": 17.571784447797025
+ },
+ {
+  "ID": 502635513,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 43.85452559232374,
+  "CenterPositionLat": 18.404266003973856
+ },
+ {
+  "ID": 516669566,
+  "Capacity": 853,
+  "Name": "Biblijski vrt",
+  "CenterPositionLon": 43.7710497091035,
+  "CenterPositionLat": 17.02760172166058
+ },
+ {
+  "ID": 522148535,
+  "Capacity": 264,
+  "Name": "",
+  "CenterPositionLon": 44.32948821237293,
+  "CenterPositionLat": 17.912558493896544
+ },
+ {
+  "ID": 523392732,
+  "Capacity": 177,
+  "Name": "Klaustar",
+  "CenterPositionLon": 43.81900055538011,
+  "CenterPositionLat": 17.01564401336393
+ },
+ {
+  "ID": 524921171,
+  "Capacity": 485,
+  "Name": "",
+  "CenterPositionLon": 43.1650153941891,
+  "CenterPositionLat": 18.537899177854417
+ },
+ {
+  "ID": 533263157,
+  "Capacity": 1079,
+  "Name": "Spomen-park Husino",
+  "CenterPositionLon": 44.5148480233621,
+  "CenterPositionLat": 18.61206367221997
+ },
+ {
+  "ID": 534567762,
+  "Capacity": 1196,
+  "Name": "",
+  "CenterPositionLon": 43.85720939794123,
+  "CenterPositionLat": 18.398422087423654
+ },
+ {
+  "ID": 534587268,
+  "Capacity": 256,
+  "Name": "",
+  "CenterPositionLon": 43.854302554386294,
+  "CenterPositionLat": 18.405542902369195
+ },
+ {
+  "ID": 534588294,
+  "Capacity": 272,
+  "Name": "",
+  "CenterPositionLon": 43.853826297433024,
+  "CenterPositionLat": 18.40421168055812
+ },
+ {
+  "ID": 534594637,
+  "Capacity": 2725,
+  "Name": "",
+  "CenterPositionLon": 43.85355046750069,
+  "CenterPositionLat": 18.39728102676131
+ },
+ {
+  "ID": 534822196,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 43.85836724688319,
+  "CenterPositionLat": 18.402097111284448
+ },
+ {
+  "ID": 534822197,
+  "Capacity": 310,
+  "Name": "",
+  "CenterPositionLon": 43.85823243741242,
+  "CenterPositionLat": 18.402583607299245
+ },
+ {
+  "ID": 539079455,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": 44.20391750187471,
+  "CenterPositionLat": 17.860675995255253
+ },
+ {
+  "ID": 550397503,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 44.43942062890048,
+  "CenterPositionLat": 18.659981293357102
+ },
+ {
+  "ID": 562489860,
+  "Capacity": 161,
+  "Name": "",
+  "CenterPositionLon": 44.53066741491562,
+  "CenterPositionLat": 18.536254545536124
+ },
+ {
+  "ID": 574018297,
+  "Capacity": 523,
+  "Name": "Babića bašča",
+  "CenterPositionLon": 43.85910998106124,
+  "CenterPositionLat": 18.43645129174667
+ },
+ {
+  "ID": 574018300,
+  "Capacity": 503,
+  "Name": "",
+  "CenterPositionLon": 43.85899277117253,
+  "CenterPositionLat": 18.43732643508758
+ },
+ {
+  "ID": 583658413,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 43.85388400070281,
+  "CenterPositionLat": 18.39240332011058
+ },
+ {
+  "ID": 583659166,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 43.85482581873147,
+  "CenterPositionLat": 18.388231648688453
+ },
+ {
+  "ID": 583659919,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 43.854961761168404,
+  "CenterPositionLat": 18.389122581590033
+ },
+ {
+  "ID": 587286597,
+  "Capacity": 1244,
+  "Name": "High school's park",
+  "CenterPositionLon": 44.7082639793058,
+  "CenterPositionLat": 18.309503353935085
+ },
+ {
+  "ID": 587286598,
+  "Capacity": 599,
+  "Name": "City Park",
+  "CenterPositionLon": 44.7044861075669,
+  "CenterPositionLat": 18.310800351913073
+ },
+ {
+  "ID": 589509814,
+  "Capacity": 416,
+  "Name": "Spomen park Vraca",
+  "CenterPositionLon": 43.844862371271326,
+  "CenterPositionLat": 18.402031943496304
+ },
+ {
+  "ID": 591307897,
+  "Capacity": 177,
+  "Name": "Gradski park",
+  "CenterPositionLon": 45.18484006530049,
+  "CenterPositionLat": 15.805160611094664
+ },
+ {
+  "ID": 596177604,
+  "Capacity": 299,
+  "Name": "",
+  "CenterPositionLon": 44.44139199660462,
+  "CenterPositionLat": 17.392853514209683
+ },
+ {
+  "ID": 596615103,
+  "Capacity": 315,
+  "Name": "",
+  "CenterPositionLon": 44.76605307327423,
+  "CenterPositionLat": 17.23955177785501
+ },
+ {
+  "ID": 605933421,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 44.22572676442746,
+  "CenterPositionLat": 17.664729230356922
+ },
+ {
+  "ID": 606169878,
+  "Capacity": 394,
+  "Name": "",
+  "CenterPositionLon": 44.43776618889699,
+  "CenterPositionLat": 18.659512569647195
+ },
+ {
+  "ID": 606673724,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 43.84380821583498,
+  "CenterPositionLat": 18.3357764795069
+ },
+ {
+  "ID": 606767966,
+  "Capacity": 1720,
+  "Name": "",
+  "CenterPositionLon": 44.80724150249445,
+  "CenterPositionLat": 19.262006071625603
+ },
+ {
+  "ID": 610174505,
+  "Capacity": 3427,
+  "Name": "Park narodnih heroja",
+  "CenterPositionLon": 44.731365637022876,
+  "CenterPositionLat": 18.08467698066873
+ },
+ {
+  "ID": 610176488,
+  "Capacity": 717,
+  "Name": "",
+  "CenterPositionLon": 44.73509498577,
+  "CenterPositionLat": 18.086596620375317
+ },
+ {
+  "ID": 618115419,
+  "Capacity": 692,
+  "Name": "Spomen-park kralju Tomislavu",
+  "CenterPositionLon": 43.71806453098107,
+  "CenterPositionLat": 17.2260824633916
+ },
+ {
+  "ID": 620285844,
+  "Capacity": 394,
+  "Name": "Kotlićijada Ukrina",
+  "CenterPositionLon": 44.74439010860217,
+  "CenterPositionLat": 17.56597850954843
+ },
+ {
+  "ID": 624280226,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 43.716662105727245,
+  "CenterPositionLat": 17.227265102131355
+ },
+ {
+  "ID": 625586832,
+  "Capacity": 499,
+  "Name": "",
+  "CenterPositionLon": 44.29674840781274,
+  "CenterPositionLat": 18.85310130967327
+ },
+ {
+  "ID": 630775807,
+  "Capacity": 600,
+  "Name": "",
+  "CenterPositionLon": 43.34723113420709,
+  "CenterPositionLat": 17.798695221442344
+ },
+ {
+  "ID": 632605966,
+  "Capacity": 202,
+  "Name": "Park nobelovaca",
+  "CenterPositionLon": 43.34462958524025,
+  "CenterPositionLat": 17.80422712715976
+ },
+ {
+  "ID": 632605984,
+  "Capacity": 796,
+  "Name": "Đema",
+  "CenterPositionLon": 43.3443711584413,
+  "CenterPositionLat": 17.79681479498008
+ },
+ {
+  "ID": 637736684,
+  "Capacity": 624,
+  "Name": "Marakana",
+  "CenterPositionLon": 44.76227541083934,
+  "CenterPositionLat": 17.19470677014305
+ },
+ {
+  "ID": 653536402,
+  "Capacity": 476,
+  "Name": "",
+  "CenterPositionLon": 43.590252156342885,
+  "CenterPositionLat": 17.27302057302047
+ },
+ {
+  "ID": 654315085,
+  "Capacity": 1585,
+  "Name": "Mogorjelo",
+  "CenterPositionLon": 43.09952825,
+  "CenterPositionLat": 17.699925450000002
+ },
+ {
+  "ID": 659271919,
+  "Capacity": 589,
+  "Name": "Park Jala",
+  "CenterPositionLon": 44.52918528258821,
+  "CenterPositionLat": 18.715818179538843
+ },
+ {
+  "ID": 659271920,
+  "Capacity": 631,
+  "Name": "Školski Park",
+  "CenterPositionLon": 44.52945376817897,
+  "CenterPositionLat": 18.717384795858887
+ },
+ {
+  "ID": 659271921,
+  "Capacity": 610,
+  "Name": "",
+  "CenterPositionLon": 44.52981318252458,
+  "CenterPositionLat": 18.692573994755776
+ },
+ {
+  "ID": 659271922,
+  "Capacity": 817,
+  "Name": "Arheološki park",
+  "CenterPositionLon": 44.538465763545375,
+  "CenterPositionLat": 18.681938092284863
+ },
+ {
+  "ID": 659271923,
+  "Capacity": 635,
+  "Name": "",
+  "CenterPositionLon": 44.53021387873488,
+  "CenterPositionLat": 18.6901905436251
+ },
+ {
+  "ID": 659275084,
+  "Capacity": 741,
+  "Name": "Park Gradina",
+  "CenterPositionLon": 44.53815603346289,
+  "CenterPositionLat": 18.69150195358805
+ },
+ {
+  "ID": 659721071,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 44.529060434069635,
+  "CenterPositionLat": 18.713664553114576
+ },
+ {
+  "ID": 662520317,
+  "Capacity": 805,
+  "Name": "Park",
+  "CenterPositionLon": 44.83097853269258,
+  "CenterPositionLat": 19.211748339137653
+ },
+ {
+  "ID": 667061277,
+  "Capacity": 638,
+  "Name": "Palih Boraca",
+  "CenterPositionLon": 44.76604661063601,
+  "CenterPositionLat": 17.230165230258827
+ },
+ {
+  "ID": 677904276,
+  "Capacity": 99,
+  "Name": "Mali park",
+  "CenterPositionLon": 43.79737072213771,
+  "CenterPositionLat": 18.31522590709578
+ },
+ {
+  "ID": 682158053,
+  "Capacity": 7106,
+  "Name": "",
+  "CenterPositionLon": 43.70031236336364,
+  "CenterPositionLat": 18.310144634430927
+ },
+ {
+  "ID": 683247261,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 43.50342493452948,
+  "CenterPositionLat": 18.446247864510916
+ },
+ {
+  "ID": 684552233,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 44.35029962287918,
+  "CenterPositionLat": 16.8415132468509
+ },
+ {
+  "ID": 692745607,
+  "Capacity": 15765,
+  "Name": "Park Ravne 2",
+  "CenterPositionLon": 43.99340116894213,
+  "CenterPositionLat": 18.15770501793731
+ },
+ {
+  "ID": 694264305,
+  "Capacity": 354,
+  "Name": "",
+  "CenterPositionLon": 45.063770081899975,
+  "CenterPositionLat": 18.575277643959144
+ },
+ {
+  "ID": 716996617,
+  "Capacity": 340,
+  "Name": "",
+  "CenterPositionLon": 44.53266944465277,
+  "CenterPositionLat": 16.780222109518245
+ },
+ {
+  "ID": 721129928,
+  "Capacity": 50193,
+  "Name": "Eko-centar Krajina",
+  "CenterPositionLon": 44.69607341909863,
+  "CenterPositionLat": 17.202685150047575
+ },
+ {
+  "ID": 731065720,
+  "Capacity": 53,
+  "Name": "Šiber",
+  "CenterPositionLon": 44.457883968807806,
+  "CenterPositionLat": 17.119159089008583
+ },
+ {
+  "ID": 731995466,
+  "Capacity": 11475,
+  "Name": "Begova Voda",
+  "CenterPositionLon": 44.70588997283571,
+  "CenterPositionLat": 18.680903620027284
+ },
+ {
+  "ID": 736236735,
+  "Capacity": 1578,
+  "Name": "park dobrinja",
+  "CenterPositionLon": 43.82724174736434,
+  "CenterPositionLat": 18.353182877864064
+ },
+ {
+  "ID": 737375122,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 44.196412552628644,
+  "CenterPositionLat": 17.92403077357182
+ },
+ {
+  "ID": 742485851,
+  "Capacity": 205,
+  "Name": "Park",
+  "CenterPositionLon": 44.762878169178464,
+  "CenterPositionLat": 19.22385590605626
+ },
+ {
+  "ID": 744852267,
+  "Capacity": 2838,
+  "Name": "Smrčak",
+  "CenterPositionLon": 44.43139205954198,
+  "CenterPositionLat": 17.03121905401096
+ },
+ {
+  "ID": 751401058,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": 43.737544804563406,
+  "CenterPositionLat": 18.56725712316211
+ },
+ {
+  "ID": 753538713,
+  "Capacity": 2529,
+  "Name": "",
+  "CenterPositionLon": 43.815577664264175,
+  "CenterPositionLat": 18.349101963810533
+ },
+ {
+  "ID": 754055135,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": 44.44233866963274,
+  "CenterPositionLat": 18.877168884099532
+ },
+ {
+  "ID": 754203422,
+  "Capacity": 8413,
+  "Name": "Vrelo Miljacke",
+  "CenterPositionLon": 43.787822724052916,
+  "CenterPositionLat": 18.57166390223442
+ },
+ {
+  "ID": 754845863,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 43.781690882211784,
+  "CenterPositionLat": 19.28873983410127
+ },
+ {
+  "ID": 755011366,
+  "Capacity": 630,
+  "Name": "",
+  "CenterPositionLon": 43.784303764049476,
+  "CenterPositionLat": 19.29347312856942
+ },
+ {
+  "ID": 755185507,
+  "Capacity": 1102,
+  "Name": "Olimpijski park",
+  "CenterPositionLon": 43.81422039644398,
+  "CenterPositionLat": 18.569616311739043
+ },
+ {
+  "ID": 758194184,
+  "Capacity": 487,
+  "Name": "Dječiji zabavni park",
+  "CenterPositionLon": 44.619182470261386,
+  "CenterPositionLat": 16.651035067374746
+ },
+ {
+  "ID": 759175438,
+  "Capacity": 8523,
+  "Name": "Park prijateljstva",
+  "CenterPositionLon": 43.88161382297412,
+  "CenterPositionLat": 18.437164997456478
+ },
+ {
+  "ID": 759637788,
+  "Capacity": 912,
+  "Name": "Park ruskih Velikana",
+  "CenterPositionLon": 44.16983502597519,
+  "CenterPositionLat": 19.078090552681207
+ },
+ {
+  "ID": 759710885,
+  "Capacity": 838,
+  "Name": "Park srpskih velikana",
+  "CenterPositionLon": 44.169211088729064,
+  "CenterPositionLat": 19.0769737553605
+ },
+ {
+  "ID": 759858332,
+  "Capacity": 968,
+  "Name": "",
+  "CenterPositionLon": 44.87140963865536,
+  "CenterPositionLat": 18.81378347166945
+ },
+ {
+  "ID": 760612017,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 44.9832675075585,
+  "CenterPositionLat": 17.911110012812916
+ },
+ {
+  "ID": 761869554,
+  "Capacity": 884,
+  "Name": "Memorijalna šuma \"8372\"",
+  "CenterPositionLon": 43.632807698312135,
+  "CenterPositionLat": 18.903478785101157
+ },
+ {
+  "ID": 766793228,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 44.75994947224946,
+  "CenterPositionLat": 19.22207649591154
+ },
+ {
+  "ID": 766793229,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 44.75973095948306,
+  "CenterPositionLat": 19.221481095677895
+ },
+ {
+  "ID": 776299682,
+  "Capacity": 323,
+  "Name": "Park Drina",
+  "CenterPositionLon": 43.58163635309435,
+  "CenterPositionLat": 18.792373297343893
+ },
+ {
+  "ID": 776344877,
+  "Capacity": 100,
+  "Name": "Park Kolina",
+  "CenterPositionLon": 43.582371568978026,
+  "CenterPositionLat": 18.78989130770053
+ },
+ {
+  "ID": 777720308,
+  "Capacity": 1419,
+  "Name": "",
+  "CenterPositionLon": 43.768005872373486,
+  "CenterPositionLat": 18.703437858120953
+ },
+ {
+  "ID": 778635611,
+  "Capacity": 242,
+  "Name": "",
+  "CenterPositionLon": 44.439445214138296,
+  "CenterPositionLat": 18.145615818569194
+ },
+ {
+  "ID": 779716009,
+  "Capacity": 962,
+  "Name": "Izletište Nišani",
+  "CenterPositionLon": 43.58878111141983,
+  "CenterPositionLat": 18.786482355774627
+ },
+ {
+  "ID": 787547144,
+  "Capacity": 103,
+  "Name": "Stećci",
+  "CenterPositionLon": 43.228549,
+  "CenterPositionLat": 17.6991931
+ },
+ {
+  "ID": 787547147,
+  "Capacity": 629,
+  "Name": "Park",
+  "CenterPositionLon": 43.22889257227967,
+  "CenterPositionLat": 17.700635078225506
+ },
+ {
+  "ID": 791829456,
+  "Capacity": 35,
+  "Name": "Atrij",
+  "CenterPositionLon": 43.721763421582885,
+  "CenterPositionLat": 17.225951748103626
+ },
+ {
+  "ID": 793243321,
+  "Capacity": 2164,
+  "Name": "Park Sajmište",
+  "CenterPositionLon": 43.38899404690664,
+  "CenterPositionLat": 17.592961552654092
+ },
+ {
+  "ID": 798037918,
+  "Capacity": 343,
+  "Name": "Gradsko izletište Seget",
+  "CenterPositionLon": 43.72955564377613,
+  "CenterPositionLat": 17.209564613119174
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "ID": 345419290,
+  "Capacity": 793,
+  "Name": "Pinatang Park",
+  "CenterPositionLon": 14.14684424894556,
+  "CenterPositionLat": 145.1429686444656
+ },
+ {
+  "ID": 345430767,
+  "Capacity": 413,
+  "Name": "",
+  "CenterPositionLon": 14.141295666132415,
+  "CenterPositionLat": 145.14134996162028
+ },
+ {
+  "ID": 345544203,
+  "Capacity": 109576,
+  "Name": "Wedding Cake Conservation Area",
+  "CenterPositionLon": 14.124956121948252,
+  "CenterPositionLat": 145.12685766073446
+ },
+ {
+  "ID": 461385907,
+  "Capacity": 7214,
+  "Name": "Saipan Botanical Garden",
+  "CenterPositionLon": 15.17264613140962,
+  "CenterPositionLat": 145.74910531162695
+ },
+ {
+  "ID": 461390681,
+  "Capacity": 61426,
+  "Name": "American Memorial Park",
+  "CenterPositionLon": 15.216838294198679,
+  "CenterPositionLat": 145.72303315163578
+ },
+ {
+  "ID": 469267317,
+  "Capacity": 1647,
+  "Name": "Garapan Central Park",
+  "CenterPositionLon": 15.202727116620629,
+  "CenterPositionLat": 145.72059851262412
+ },
+ {
+  "ID": 469267324,
+  "Capacity": 3305,
+  "Name": "Sugar King Park",
+  "CenterPositionLon": 15.201591310088501,
+  "CenterPositionLat": 145.7216236382941
+ },
+ {
+  "ID": 469272922,
+  "Capacity": 2014,
+  "Name": "Susupe Park",
+  "CenterPositionLon": 15.155309233886246,
+  "CenterPositionLat": 145.7007520187027
+ },
+ {
+  "ID": 637577814,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 15.207043050000003,
+  "CenterPositionLat": 145.7358115
+ },
+ {
+  "ID": 683621763,
+  "Capacity": 10844,
+  "Name": "Eloy S. Inos Peace Park",
+  "CenterPositionLon": 15.22203794243297,
+  "CenterPositionLat": 145.73181930634013
+ }
+]

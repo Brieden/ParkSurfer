@@ -1,0 +1,212 @@
+[
+ {
+  "ID": 126227132,
+  "Capacity": 12185,
+  "Name": "Jardin botanique de Curepipe",
+  "CenterPositionLon": -20.325242272955542,
+  "CenterPositionLat": 57.51323465204773
+ },
+ {
+  "ID": 274064978,
+  "Capacity": 7548,
+  "Name": "Domaine de Chazal Nature Park",
+  "CenterPositionLon": -20.471916307316633,
+  "CenterPositionLat": 57.45374437382897
+ },
+ {
+  "ID": 299639802,
+  "Capacity": 167,
+  "Name": "",
+  "CenterPositionLon": -19.74412384098032,
+  "CenterPositionLat": 63.41080141706004
+ },
+ {
+  "ID": 305143646,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": -20.17698868643498,
+  "CenterPositionLat": 57.4678507255689
+ },
+ {
+  "ID": 305556642,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": -20.174231878831957,
+  "CenterPositionLat": 57.46889278791285
+ },
+ {
+  "ID": 305561288,
+  "Capacity": 331,
+  "Name": "",
+  "CenterPositionLon": -20.167710721851492,
+  "CenterPositionLat": 57.471899022695645
+ },
+ {
+  "ID": 306312544,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": -20.173981076232113,
+  "CenterPositionLat": 57.46889737395703
+ },
+ {
+  "ID": 367132545,
+  "Capacity": 9993,
+  "Name": "forest",
+  "CenterPositionLon": -20.360015240755015,
+  "CenterPositionLat": 57.56083023604937
+ },
+ {
+  "ID": 371861015,
+  "Capacity": 1754,
+  "Name": "",
+  "CenterPositionLon": -20.236327152489853,
+  "CenterPositionLat": 57.4978190183925
+ },
+ {
+  "ID": 371863506,
+  "Capacity": 23406,
+  "Name": "Daruty Forest",
+  "CenterPositionLon": -20.0307220801359,
+  "CenterPositionLat": 57.620789271117125
+ },
+ {
+  "ID": 413656090,
+  "Capacity": 544,
+  "Name": "",
+  "CenterPositionLon": -20.27846956439088,
+  "CenterPositionLat": 57.3674648274414
+ },
+ {
+  "ID": 431802456,
+  "Capacity": 113,
+  "Name": "Place et jardin public",
+  "CenterPositionLon": -19.683201764124096,
+  "CenterPositionLat": 63.42065141135239
+ },
+ {
+  "ID": 467563781,
+  "Capacity": 782,
+  "Name": "Henrietta Football Ground",
+  "CenterPositionLon": -20.336413903401848,
+  "CenterPositionLat": 57.47920852909688
+ },
+ {
+  "ID": 495627788,
+  "Capacity": 276,
+  "Name": "Plaine Verte Green Space",
+  "CenterPositionLon": -20.162389198784147,
+  "CenterPositionLat": 57.51499070090359
+ },
+ {
+  "ID": 495709603,
+  "Capacity": 621,
+  "Name": "Sir Abdul Razack Mohamed Garden",
+  "CenterPositionLon": -20.163462624184206,
+  "CenterPositionLat": 57.51614401882018
+ },
+ {
+  "ID": 495769201,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": -20.405569317489,
+  "CenterPositionLat": 57.707847401126074
+ },
+ {
+  "ID": 495769202,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": -20.405735587275583,
+  "CenterPositionLat": 57.70718486290369
+ },
+ {
+  "ID": 495831117,
+  "Capacity": 132,
+  "Name": "Jardin de la Compagnie",
+  "CenterPositionLon": -20.164609660147555,
+  "CenterPositionLat": 57.502869981746436
+ },
+ {
+  "ID": 495831118,
+  "Capacity": 109,
+  "Name": "Jardin de la Compagnie",
+  "CenterPositionLon": -20.16418498707509,
+  "CenterPositionLat": 57.50249057180585
+ },
+ {
+  "ID": 495831119,
+  "Capacity": 329,
+  "Name": "Jardin de la Compagnie",
+  "CenterPositionLon": -20.163603402441098,
+  "CenterPositionLat": 57.501970321295765
+ },
+ {
+  "ID": 535590482,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -20.31617892317388,
+  "CenterPositionLat": 57.37199263431954
+ },
+ {
+  "ID": 535590484,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": -20.315904675819144,
+  "CenterPositionLat": 57.37139465837304
+ },
+ {
+  "ID": 552554392,
+  "Capacity": 747,
+  "Name": "Sir Seewoosagur Ramgoolam Memorial Park",
+  "CenterPositionLon": -20.30987082832036,
+  "CenterPositionLat": 57.727341398859906
+ },
+ {
+  "ID": 559715667,
+  "Capacity": 634,
+  "Name": "Cavalot Park",
+  "CenterPositionLon": -20.237042467702928,
+  "CenterPositionLat": 57.45520278640026
+ },
+ {
+  "ID": 574328014,
+  "Capacity": 271,
+  "Name": "",
+  "CenterPositionLon": -20.50932221024984,
+  "CenterPositionLat": 57.46742734422044
+ },
+ {
+  "ID": 607974385,
+  "Capacity": 200,
+  "Name": "",
+  "CenterPositionLon": -20.186534515658177,
+  "CenterPositionLat": 57.72529795326492
+ },
+ {
+  "ID": 661654925,
+  "Capacity": 5146,
+  "Name": "Sodnac Wellness Park",
+  "CenterPositionLon": -20.27573372334873,
+  "CenterPositionLat": 57.48909933689145
+ },
+ {
+  "ID": 724867365,
+  "Capacity": 426,
+  "Name": "",
+  "CenterPositionLon": -19.702261256847233,
+  "CenterPositionLat": 63.422172202269195
+ },
+ {
+  "ID": 737290699,
+  "Capacity": 1454,
+  "Name": "",
+  "CenterPositionLon": -20.173341019228058,
+  "CenterPositionLat": 57.48444271542447
+ },
+ {
+  "ID": 741886845,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -20.162301199937044,
+  "CenterPositionLat": 57.502063633331254
+ }
+]

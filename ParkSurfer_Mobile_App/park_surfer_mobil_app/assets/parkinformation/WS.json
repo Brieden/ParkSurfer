@@ -1,0 +1,170 @@
+[
+ {
+  "ID": 187123257,
+  "Capacity": 561,
+  "Name": "",
+  "CenterPositionLon": -13.83419462997406,
+  "CenterPositionLat": -171.75164857276894
+ },
+ {
+  "ID": 187128881,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": -13.83038133730606,
+  "CenterPositionLat": -171.76851221907393
+ },
+ {
+  "ID": 187287686,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": -13.830779036214286,
+  "CenterPositionLat": -171.76692826347244
+ },
+ {
+  "ID": 187309545,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": -13.830259528451762,
+  "CenterPositionLat": -171.77026582688097
+ },
+ {
+  "ID": 187311589,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -13.8304013,
+  "CenterPositionLat": -171.7688102
+ },
+ {
+  "ID": 187312731,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": -13.830253566852054,
+  "CenterPositionLat": -171.76823263387047
+ },
+ {
+  "ID": 187492586,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": -13.830646233333335,
+  "CenterPositionLat": -171.76859346666666
+ },
+ {
+  "ID": 187492588,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": -13.830569515119079,
+  "CenterPositionLat": -171.76828918030125
+ },
+ {
+  "ID": 187556652,
+  "Capacity": 6168,
+  "Name": "Home \u0026 Away",
+  "CenterPositionLon": -13.829636640945743,
+  "CenterPositionLat": -171.76654199373684
+ },
+ {
+  "ID": 187556658,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": -13.83090199030896,
+  "CenterPositionLat": -171.76645249866527
+ },
+ {
+  "ID": 187557490,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": -13.82998234612527,
+  "CenterPositionLat": -171.7684856697233
+ },
+ {
+  "ID": 187569379,
+  "Capacity": 990,
+  "Name": "",
+  "CenterPositionLon": -13.83263541495923,
+  "CenterPositionLat": -171.76232542921295
+ },
+ {
+  "ID": 187583509,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": -13.824681663865011,
+  "CenterPositionLat": -171.7734487712987
+ },
+ {
+  "ID": 187583513,
+  "Capacity": 2688,
+  "Name": "",
+  "CenterPositionLon": -13.826738157898651,
+  "CenterPositionLat": -171.77254714409202
+ },
+ {
+  "ID": 187585243,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": -13.827769335509414,
+  "CenterPositionLat": -171.77342266952778
+ },
+ {
+  "ID": 187585244,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": -13.827568305744542,
+  "CenterPositionLat": -171.7729218867529
+ },
+ {
+  "ID": 190493976,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -13.828090304148162,
+  "CenterPositionLat": -171.7723708183784
+ },
+ {
+  "ID": 191008954,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -13.825562530822477,
+  "CenterPositionLat": -171.7735948116631
+ },
+ {
+  "ID": 191009751,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": -13.815351327520295,
+  "CenterPositionLat": -171.77959440572533
+ },
+ {
+  "ID": 242722731,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": -13.833727243513211,
+  "CenterPositionLat": -171.7700770476149
+ },
+ {
+  "ID": 357422929,
+  "Capacity": 878,
+  "Name": "",
+  "CenterPositionLon": -13.848451810640535,
+  "CenterPositionLat": -171.74981772989017
+ },
+ {
+  "ID": 357668662,
+  "Capacity": 803,
+  "Name": "",
+  "CenterPositionLon": -13.850210046971425,
+  "CenterPositionLat": -171.7496506959052
+ },
+ {
+  "ID": 530177674,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": -13.830839177860469,
+  "CenterPositionLat": -171.767486363328
+ },
+ {
+  "ID": 723300902,
+  "Capacity": 325,
+  "Name": "",
+  "CenterPositionLon": -13.826092962575006,
+  "CenterPositionLat": -171.75697087305448
+ }
+]

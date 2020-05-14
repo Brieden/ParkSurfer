@@ -1,0 +1,233 @@
+[
+ {
+  "ID": 37935746,
+  "Capacity": 158,
+  "Name": "National Heroes Square",
+  "CenterPositionLon": 13.096743760117372,
+  "CenterPositionLat": -59.61392412227996
+ },
+ {
+  "ID": 93917192,
+  "Capacity": 3574,
+  "Name": "Queen's Park",
+  "CenterPositionLon": 13.098921845996502,
+  "CenterPositionLat": -59.608997417403145
+ },
+ {
+  "ID": 95786431,
+  "Capacity": 3511,
+  "Name": "Governor General's Residence",
+  "CenterPositionLon": 13.101261595493407,
+  "CenterPositionLat": -59.59901142082163
+ },
+ {
+  "ID": 108849401,
+  "Capacity": 3331,
+  "Name": "King George V Park",
+  "CenterPositionLon": 13.131811216810432,
+  "CenterPositionLat": -59.45368727724299
+ },
+ {
+  "ID": 108849404,
+  "Capacity": 4066,
+  "Name": "Three Houses Park",
+  "CenterPositionLon": 13.158572490437484,
+  "CenterPositionLat": -59.461121908713174
+ },
+ {
+  "ID": 156258948,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 13.073609632945578,
+  "CenterPositionLat": -59.59398468991006
+ },
+ {
+  "ID": 264621341,
+  "Capacity": 160,
+  "Name": "Jubilee Gardens",
+  "CenterPositionLon": 13.097806553630386,
+  "CenterPositionLat": -59.618489321488674
+ },
+ {
+  "ID": 327109212,
+  "Capacity": 329,
+  "Name": "Independence Square",
+  "CenterPositionLon": 13.095644524550629,
+  "CenterPositionLat": -59.61348338993619
+ },
+ {
+  "ID": 332488019,
+  "Capacity": 98,
+  "Name": "Fitts Village Esplanade",
+  "CenterPositionLon": 13.146218225185727,
+  "CenterPositionLat": -59.63838745123872
+ },
+ {
+  "ID": 383800742,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 13.115983242299091,
+  "CenterPositionLat": -59.47204279015708
+ },
+ {
+  "ID": 383900257,
+  "Capacity": 1395,
+  "Name": "Oldbury Woods",
+  "CenterPositionLon": 13.087915804137552,
+  "CenterPositionLat": -59.47484581647544
+ },
+ {
+  "ID": 384048986,
+  "Capacity": 277,
+  "Name": "Welches Beach Park",
+  "CenterPositionLon": 13.064306438674457,
+  "CenterPositionLat": -59.54518566776794
+ },
+ {
+  "ID": 384238694,
+  "Capacity": 307,
+  "Name": "Hastings Rocks Park",
+  "CenterPositionLon": 13.073954088881528,
+  "CenterPositionLat": -59.59607079267084
+ },
+ {
+  "ID": 385053232,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 13.150945655799362,
+  "CenterPositionLat": -59.625943401929064
+ },
+ {
+  "ID": 386069617,
+  "Capacity": 1387,
+  "Name": "Chelston Park",
+  "CenterPositionLon": 13.091456074773305,
+  "CenterPositionLat": -59.6007018833951
+ },
+ {
+  "ID": 386434356,
+  "Capacity": 665,
+  "Name": "Trevor's Way",
+  "CenterPositionLon": 13.098203916743742,
+  "CenterPositionLat": -59.62411174622791
+ },
+ {
+  "ID": 454980970,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 13.18051014214782,
+  "CenterPositionLat": -59.630798054955854
+ },
+ {
+  "ID": 455322361,
+  "Capacity": 4392,
+  "Name": "",
+  "CenterPositionLon": 13.192856802002199,
+  "CenterPositionLat": -59.63583716498911
+ },
+ {
+  "ID": 455322363,
+  "Capacity": 4282,
+  "Name": "",
+  "CenterPositionLon": 13.19596399876693,
+  "CenterPositionLat": -59.634912805860374
+ },
+ {
+  "ID": 455322365,
+  "Capacity": 5084,
+  "Name": "",
+  "CenterPositionLon": 13.19506357014376,
+  "CenterPositionLat": -59.63687656348398
+ },
+ {
+  "ID": 455322367,
+  "Capacity": 2255,
+  "Name": "",
+  "CenterPositionLon": 13.196454300753864,
+  "CenterPositionLat": -59.638098635076915
+ },
+ {
+  "ID": 469446671,
+  "Capacity": 362,
+  "Name": "St. Elizabeth Park",
+  "CenterPositionLon": 13.209881749042966,
+  "CenterPositionLat": -59.528647162154506
+ },
+ {
+  "ID": 471268643,
+  "Capacity": 8723,
+  "Name": "Garrison Savannah",
+  "CenterPositionLon": 13.080702245603051,
+  "CenterPositionLat": -59.604656325412115
+ },
+ {
+  "ID": 471281489,
+  "Capacity": 1993,
+  "Name": "Barclays Park",
+  "CenterPositionLon": 13.235617585843242,
+  "CenterPositionLat": -59.543419302114636
+ },
+ {
+  "ID": 471281494,
+  "Capacity": 447,
+  "Name": "Bathsheba Park",
+  "CenterPositionLon": 13.212182354622843,
+  "CenterPositionLat": -59.51852429050176
+ },
+ {
+  "ID": 471281496,
+  "Capacity": 6974,
+  "Name": "Farley Hill Park",
+  "CenterPositionLon": 13.264588949623192,
+  "CenterPositionLat": -59.59494820742029
+ },
+ {
+  "ID": 471339043,
+  "Capacity": 905,
+  "Name": "Errol Barrow Park",
+  "CenterPositionLon": 13.096177445399862,
+  "CenterPositionLat": -59.58444476299952
+ },
+ {
+  "ID": 489189181,
+  "Capacity": 86,
+  "Name": "The Gall Hill Play Park",
+  "CenterPositionLon": 13.068188108774313,
+  "CenterPositionLat": -59.542104012935404
+ },
+ {
+  "ID": 510015212,
+  "Capacity": 339,
+  "Name": "Church Village Green",
+  "CenterPositionLon": 13.09840047379588,
+  "CenterPositionLat": -59.611610222614985
+ },
+ {
+  "ID": 511573428,
+  "Capacity": 2286,
+  "Name": "Balls Park Events and Entertainment Centre",
+  "CenterPositionLon": 13.084110112142012,
+  "CenterPositionLat": -59.526410790322714
+ },
+ {
+  "ID": 515303571,
+  "Capacity": 2429,
+  "Name": "Prime Minister's Residence",
+  "CenterPositionLon": 13.103699377597875,
+  "CenterPositionLat": -59.58502990716297
+ },
+ {
+  "ID": 548875350,
+  "Capacity": 200,
+  "Name": "Nelson Mandela Freedom Park",
+  "CenterPositionLon": 13.133344979194572,
+  "CenterPositionLat": -59.63157447615409
+ },
+ {
+  "ID": 562253080,
+  "Capacity": 391,
+  "Name": "Bay Street Esplanade",
+  "CenterPositionLon": 13.08680094866039,
+  "CenterPositionLat": -59.609283896028735
+ }
+]

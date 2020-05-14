@@ -1,0 +1,380 @@
+[
+ {
+  "ID": 33648116,
+  "Capacity": 47,
+  "Name": "Place Camille Desmoulin",
+  "CenterPositionLon": 16.235709232799,
+  "CenterPositionLat": -61.53315941561511
+ },
+ {
+  "ID": 44322398,
+  "Capacity": 271,
+  "Name": "Place du 5 Février 1967",
+  "CenterPositionLon": 16.37759790077412,
+  "CenterPositionLat": -61.486386877180635
+ },
+ {
+  "ID": 50496053,
+  "Capacity": 802,
+  "Name": "Le Champ d'Arbaud",
+  "CenterPositionLon": 15.994649550740506,
+  "CenterPositionLat": -61.72637253750329
+ },
+ {
+  "ID": 51245891,
+  "Capacity": 1080,
+  "Name": "Couvent des Carmelites",
+  "CenterPositionLon": 15.991106094372082,
+  "CenterPositionLat": -61.716807446037116
+ },
+ {
+  "ID": 57744842,
+  "Capacity": 43,
+  "Name": "Place du Maire Mendiant",
+  "CenterPositionLon": 16.303703789371703,
+  "CenterPositionLat": -61.075392353770255
+ },
+ {
+  "ID": 182611107,
+  "Capacity": 2491,
+  "Name": "Parc archéologique de l'Autre Bord",
+  "CenterPositionLon": 16.332655563757655,
+  "CenterPositionLat": -61.32869983883072
+ },
+ {
+  "ID": 186238604,
+  "Capacity": 368,
+  "Name": "Place de la Liberté",
+  "CenterPositionLon": 16.333846165344575,
+  "CenterPositionLat": -61.349791881201604
+ },
+ {
+  "ID": 190276111,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 16.30737873570473,
+  "CenterPositionLat": -61.70070596998983
+ },
+ {
+  "ID": 252297517,
+  "Capacity": 355,
+  "Name": "Anse Tabarin",
+  "CenterPositionLon": 16.205665640105416,
+  "CenterPositionLat": -61.497339619106526
+ },
+ {
+  "ID": 272966901,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 16.00352996666667,
+  "CenterPositionLat": -61.709325166666666
+ },
+ {
+  "ID": 273051772,
+  "Capacity": 74,
+  "Name": "square",
+  "CenterPositionLon": 15.86682909060467,
+  "CenterPositionLat": -61.582683895245836
+ },
+ {
+  "ID": 291768912,
+  "Capacity": 266,
+  "Name": "Sylvathèque ONF",
+  "CenterPositionLon": 15.990362897136293,
+  "CenterPositionLat": -61.70977165148142
+ },
+ {
+  "ID": 291776954,
+  "Capacity": 493,
+  "Name": "ancienne pépinière ONF \"Providence\"",
+  "CenterPositionLon": 16.177688907609017,
+  "CenterPositionLat": -61.687683367153845
+ },
+ {
+  "ID": 291784308,
+  "Capacity": 219,
+  "Name": "Maison du bois",
+  "CenterPositionLon": 16.22358380996743,
+  "CenterPositionLat": -61.78286461133754
+ },
+ {
+  "ID": 295415522,
+  "Capacity": 1007,
+  "Name": "Parc Paul Lacavé",
+  "CenterPositionLon": 16.047267846738695,
+  "CenterPositionLat": -61.56553026713866
+ },
+ {
+  "ID": 361583727,
+  "Capacity": 670,
+  "Name": "Parc Le Pelletier",
+  "CenterPositionLon": 16.015294135950242,
+  "CenterPositionLat": -61.708525375053085
+ },
+ {
+  "ID": 395461840,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 16.246097801768045,
+  "CenterPositionLat": -61.52936680088914
+ },
+ {
+  "ID": 396291364,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 16.27140538977521,
+  "CenterPositionLat": -61.6358180788669
+ },
+ {
+  "ID": 396486625,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 16.13651979909161,
+  "CenterPositionLat": -61.57388633953706
+ },
+ {
+  "ID": 412949168,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 16.205390677513346,
+  "CenterPositionLat": -61.49680865355925
+ },
+ {
+  "ID": 481964465,
+  "Capacity": 1694,
+  "Name": "Parc aquacole en Guadeloupe",
+  "CenterPositionLon": 16.224965701466715,
+  "CenterPositionLat": -61.77715277707357
+ },
+ {
+  "ID": 486377579,
+  "Capacity": 2534,
+  "Name": "Parc de Loisirs Antoine Chérubin",
+  "CenterPositionLon": 16.331960433578576,
+  "CenterPositionLat": -61.33837599622966
+ },
+ {
+  "ID": 502418997,
+  "Capacity": 222,
+  "Name": "Parc de Sergent",
+  "CenterPositionLon": 16.324400170472085,
+  "CenterPositionLat": -61.34368792485257
+ },
+ {
+  "ID": 572493588,
+  "Capacity": 635,
+  "Name": "espace mémorial",
+  "CenterPositionLon": 16.27104693092595,
+  "CenterPositionLat": -61.50736527753128
+ },
+ {
+  "ID": 643192106,
+  "Capacity": 174,
+  "Name": "Place de l'Église",
+  "CenterPositionLon": 15.956416512413067,
+  "CenterPositionLat": -61.318543833320874
+ },
+ {
+  "ID": 644435319,
+  "Capacity": 792,
+  "Name": "",
+  "CenterPositionLon": 16.243861622943736,
+  "CenterPositionLat": -61.53643838951139
+ },
+ {
+  "ID": 644903170,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 16.303791964002258,
+  "CenterPositionLat": -61.07455322163538
+ },
+ {
+  "ID": 645132032,
+  "Capacity": 222,
+  "Name": "",
+  "CenterPositionLon": 16.47358697610435,
+  "CenterPositionLat": -61.50656777589965
+ },
+ {
+  "ID": 645132462,
+  "Capacity": 949,
+  "Name": "",
+  "CenterPositionLon": 16.47742607096068,
+  "CenterPositionLat": -61.5059454220337
+ },
+ {
+  "ID": 645353064,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": 16.215164240472618,
+  "CenterPositionLat": -61.438798611351736
+ },
+ {
+  "ID": 646619915,
+  "Capacity": 3313,
+  "Name": "",
+  "CenterPositionLon": 16.33301697954799,
+  "CenterPositionLat": -61.33311824819878
+ },
+ {
+  "ID": 646619916,
+  "Capacity": 1060,
+  "Name": "",
+  "CenterPositionLon": 16.331333445647314,
+  "CenterPositionLat": -61.323904381060935
+ },
+ {
+  "ID": 647090662,
+  "Capacity": 748,
+  "Name": "",
+  "CenterPositionLon": 16.267639754475606,
+  "CenterPositionLat": -61.63674097682461
+ },
+ {
+  "ID": 647090670,
+  "Capacity": 1262,
+  "Name": "Parc de la Verdure",
+  "CenterPositionLon": 16.26951529739194,
+  "CenterPositionLat": -61.63398487521209
+ },
+ {
+  "ID": 653143746,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 16.26134630708892,
+  "CenterPositionLat": -61.37586513298526
+ },
+ {
+  "ID": 653576839,
+  "Capacity": 388,
+  "Name": "",
+  "CenterPositionLon": 16.27706126465358,
+  "CenterPositionLat": -61.50581772522177
+ },
+ {
+  "ID": 653576842,
+  "Capacity": 225,
+  "Name": "",
+  "CenterPositionLon": 16.278678575420027,
+  "CenterPositionLat": -61.50487974662791
+ },
+ {
+  "ID": 653580923,
+  "Capacity": 383,
+  "Name": "",
+  "CenterPositionLon": 16.29271277674626,
+  "CenterPositionLat": -61.49388277501786
+ },
+ {
+  "ID": 653580924,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 16.29370452477862,
+  "CenterPositionLat": -61.49113648993997
+ },
+ {
+  "ID": 655695165,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": 16.22421526816563,
+  "CenterPositionLat": -61.78451813646709
+ },
+ {
+  "ID": 658165832,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 16.268754868526976,
+  "CenterPositionLat": -61.51082408406189
+ },
+ {
+  "ID": 658165853,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 16.26846410906816,
+  "CenterPositionLat": -61.50566699492588
+ },
+ {
+  "ID": 658188468,
+  "Capacity": 211,
+  "Name": "",
+  "CenterPositionLon": 16.256060526329716,
+  "CenterPositionLat": -61.494722847011985
+ },
+ {
+  "ID": 674062883,
+  "Capacity": 5,
+  "Name": "Point de vue sur la baie de Saint-Louis",
+  "CenterPositionLon": 15.953606778897495,
+  "CenterPositionLat": -61.30730087062016
+ },
+ {
+  "ID": 680641371,
+  "Capacity": 57,
+  "Name": "Morne Mémoire",
+  "CenterPositionLon": 16.23113380114414,
+  "CenterPositionLat": -61.53296703545585
+ },
+ {
+  "ID": 683894703,
+  "Capacity": 1096,
+  "Name": "Place de la Victoire",
+  "CenterPositionLon": 16.237113745945177,
+  "CenterPositionLat": -61.53411570890195
+ },
+ {
+  "ID": 734752081,
+  "Capacity": 26,
+  "Name": "Parc Victor Lavidange",
+  "CenterPositionLon": 16.251231445837306,
+  "CenterPositionLat": -61.27591162999489
+ },
+ {
+  "ID": 734757226,
+  "Capacity": 148,
+  "Name": "Parc de la République",
+  "CenterPositionLon": 16.250715549393888,
+  "CenterPositionLat": -61.279663787495586
+ },
+ {
+  "ID": 736960959,
+  "Capacity": 56,
+  "Name": "Parc du centre commercial",
+  "CenterPositionLon": 16.255061237780893,
+  "CenterPositionLat": -61.271437988208
+ },
+ {
+  "ID": 757496178,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 16.331398275213708,
+  "CenterPositionLat": -61.34992234896769
+ },
+ {
+  "ID": 779792526,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": 15.948813569763237,
+  "CenterPositionLat": -61.70718522074767
+ },
+ {
+  "ID": 786569118,
+  "Capacity": 370,
+  "Name": "terrain de foot de dubedou",
+  "CenterPositionLon": 16.298032016853675,
+  "CenterPositionLat": -61.2899670497261
+ },
+ {
+  "ID": 786569119,
+  "Capacity": 63,
+  "Name": "terrain de basket",
+  "CenterPositionLon": 16.29756282512918,
+  "CenterPositionLat": -61.28975719734366
+ },
+ {
+  "ID": 786569120,
+  "Capacity": 79,
+  "Name": "terrain de handball",
+  "CenterPositionLon": 16.29720092854953,
+  "CenterPositionLat": -61.28985150179443
+ }
+]

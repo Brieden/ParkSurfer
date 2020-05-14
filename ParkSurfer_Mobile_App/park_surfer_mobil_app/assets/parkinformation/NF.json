@@ -1,0 +1,51 @@
+[
+ {
+  "ID": 334832013,
+  "Capacity": 730,
+  "Name": "",
+  "CenterPositionLon": -29.003011392077013,
+  "CenterPositionLat": 167.9436139339049
+ },
+ {
+  "ID": 681850044,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": -29.032789241656396,
+  "CenterPositionLat": 167.95043546550892
+ },
+ {
+  "ID": 681850046,
+  "Capacity": 715,
+  "Name": "",
+  "CenterPositionLon": -29.032151822748602,
+  "CenterPositionLat": 167.9499200480324
+ },
+ {
+  "ID": 681850111,
+  "Capacity": 166,
+  "Name": "Bounty Square",
+  "CenterPositionLon": -29.03256877613956,
+  "CenterPositionLat": 167.95006437435796
+ },
+ {
+  "ID": 681850439,
+  "Capacity": 6,
+  "Name": "Pop's Corner",
+  "CenterPositionLon": -29.042313169035612,
+  "CenterPositionLat": 167.94265496813722
+ },
+ {
+  "ID": 681850666,
+  "Capacity": 772,
+  "Name": "Lions Park",
+  "CenterPositionLon": -29.032271966118888,
+  "CenterPositionLat": 167.95136058107374
+ },
+ {
+  "ID": 681850758,
+  "Capacity": 427,
+  "Name": "Norfolk Island Memorial Park",
+  "CenterPositionLon": -29.04308347868741,
+  "CenterPositionLat": 167.96508425737488
+ }
+]

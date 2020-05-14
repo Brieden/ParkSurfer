@@ -1,0 +1,23 @@
+[
+ {
+  "ID": 354373760,
+  "Capacity": 376,
+  "Name": "",
+  "CenterPositionLon": -8.538008927070065,
+  "CenterPositionLat": -172.51840039548821
+ },
+ {
+  "ID": 354389127,
+  "Capacity": 522,
+  "Name": "",
+  "CenterPositionLon": -9.3738648,
+  "CenterPositionLat": -171.2637289
+ },
+ {
+  "ID": 354901936,
+  "Capacity": 694,
+  "Name": "",
+  "CenterPositionLon": -9.198106346524993,
+  "CenterPositionLat": -171.85112409646075
+ }
+]

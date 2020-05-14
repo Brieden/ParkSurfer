@@ -1,0 +1,282 @@
+[
+ {
+  "ID": 23694508,
+  "Capacity": 8150,
+  "Name": "Albert Park",
+  "CenterPositionLon": -18.147181551322838,
+  "CenterPositionLat": 178.424960188089
+ },
+ {
+  "ID": 23706893,
+  "Capacity": 232,
+  "Name": "Umaria Park",
+  "CenterPositionLon": -18.14890939283197,
+  "CenterPositionLat": 178.4230292750895
+ },
+ {
+  "ID": 23706912,
+  "Capacity": 5438,
+  "Name": "Thurston Gardens",
+  "CenterPositionLon": -18.14893973016254,
+  "CenterPositionLat": 178.4245729353539
+ },
+ {
+  "ID": 23946160,
+  "Capacity": 212,
+  "Name": "Leka Park",
+  "CenterPositionLon": -18.13772449989312,
+  "CenterPositionLat": 178.4392147723289
+ },
+ {
+  "ID": 23946471,
+  "Capacity": 1530,
+  "Name": "Thurston Park",
+  "CenterPositionLon": -18.148932126499748,
+  "CenterPositionLat": 178.42647363231777
+ },
+ {
+  "ID": 24661600,
+  "Capacity": 529,
+  "Name": "",
+  "CenterPositionLon": -18.130993219188944,
+  "CenterPositionLat": 178.54019201173688
+ },
+ {
+  "ID": 30776747,
+  "Capacity": 5724,
+  "Name": "Churchill Park - Ground No: 2",
+  "CenterPositionLon": -17.606916304251254,
+  "CenterPositionLat": 177.45353492741896
+ },
+ {
+  "ID": 36958925,
+  "Capacity": 1538,
+  "Name": "Simla Park",
+  "CenterPositionLon": -17.615041091867234,
+  "CenterPositionLat": 177.45682132472476
+ },
+ {
+  "ID": 94069061,
+  "Capacity": 8693,
+  "Name": "Botanical Gardens",
+  "CenterPositionLon": -17.61350032329523,
+  "CenterPositionLat": 177.45121105687383
+ },
+ {
+  "ID": 176338372,
+  "Capacity": 2734,
+  "Name": "Labasa Botanical Gardens",
+  "CenterPositionLon": -16.42941831667949,
+  "CenterPositionLat": 179.37935899669253
+ },
+ {
+  "ID": 177850370,
+  "Capacity": 1656,
+  "Name": "",
+  "CenterPositionLon": -17.768974785224085,
+  "CenterPositionLat": -179.323874673511
+ },
+ {
+  "ID": 400527273,
+  "Capacity": 1447,
+  "Name": "",
+  "CenterPositionLon": -18.236824222958816,
+  "CenterPositionLat": -178.81025672335397
+ },
+ {
+  "ID": 438926582,
+  "Capacity": 260,
+  "Name": "Childrens Park",
+  "CenterPositionLon": -17.77525340937587,
+  "CenterPositionLat": 177.4376598813301
+ },
+ {
+  "ID": 439086172,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": -17.777370155075655,
+  "CenterPositionLat": 177.45089999451733
+ },
+ {
+  "ID": 458577928,
+  "Capacity": 322,
+  "Name": "Suva Point Park",
+  "CenterPositionLon": -18.148659059297056,
+  "CenterPositionLat": 178.4552650469581
+ },
+ {
+  "ID": 458578358,
+  "Capacity": 696,
+  "Name": "Bulsara park",
+  "CenterPositionLon": -18.147692443252186,
+  "CenterPositionLat": 178.45465005059307
+ },
+ {
+  "ID": 458578520,
+  "Capacity": 277,
+  "Name": "Statham park",
+  "CenterPositionLon": -18.144118585153716,
+  "CenterPositionLat": 178.4543001381384
+ },
+ {
+  "ID": 468548365,
+  "Capacity": 875,
+  "Name": "Tikaram Park",
+  "CenterPositionLon": -18.114167832277207,
+  "CenterPositionLat": 178.41053299251715
+ },
+ {
+  "ID": 468560284,
+  "Capacity": 2490,
+  "Name": "Qauia Sports Field",
+  "CenterPositionLon": -18.10959773009276,
+  "CenterPositionLat": 178.40710844051057
+ },
+ {
+  "ID": 469232577,
+  "Capacity": 2242,
+  "Name": "Shirley Park",
+  "CenterPositionLon": -17.603678771928482,
+  "CenterPositionLat": 177.44889664003722
+ },
+ {
+  "ID": 469232578,
+  "Capacity": 3274,
+  "Name": "Fenner Park",
+  "CenterPositionLon": -17.61415604042372,
+  "CenterPositionLat": 177.45259527200426
+ },
+ {
+  "ID": 469232579,
+  "Capacity": 907,
+  "Name": "IYC Park",
+  "CenterPositionLon": -17.61125458676708,
+  "CenterPositionLat": 177.45182384875974
+ },
+ {
+  "ID": 469404284,
+  "Capacity": 1354,
+  "Name": "Sukuna Park",
+  "CenterPositionLon": -18.13988283483471,
+  "CenterPositionLat": 178.42277785831303
+ },
+ {
+  "ID": 469404285,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": -18.163922881330336,
+  "CenterPositionLat": 178.43442230132018
+ },
+ {
+  "ID": 469404286,
+  "Capacity": 3851,
+  "Name": "My Suva Picnic Park",
+  "CenterPositionLon": -18.157531895397536,
+  "CenterPositionLat": 178.44468451250376
+ },
+ {
+  "ID": 486730418,
+  "Capacity": 3215,
+  "Name": "Komo Park",
+  "CenterPositionLon": -18.120695979303367,
+  "CenterPositionLat": 178.44247594324395
+ },
+ {
+  "ID": 486732207,
+  "Capacity": 277,
+  "Name": "Votua Road Park",
+  "CenterPositionLon": -18.121197102755232,
+  "CenterPositionLat": 178.43931771344103
+ },
+ {
+  "ID": 506407233,
+  "Capacity": 977,
+  "Name": "",
+  "CenterPositionLon": -18.12423678570545,
+  "CenterPositionLat": 178.4549230498413
+ },
+ {
+  "ID": 519997126,
+  "Capacity": 925,
+  "Name": "",
+  "CenterPositionLon": -18.13649817649984,
+  "CenterPositionLat": 178.43072558154643
+ },
+ {
+  "ID": 520144567,
+  "Capacity": 368,
+  "Name": "",
+  "CenterPositionLon": -18.099800038044535,
+  "CenterPositionLat": 178.42752142118178
+ },
+ {
+  "ID": 520144570,
+  "Capacity": 537,
+  "Name": "",
+  "CenterPositionLon": -18.13041782296437,
+  "CenterPositionLat": 178.45044140979473
+ },
+ {
+  "ID": 624816009,
+  "Capacity": 511,
+  "Name": "Tsunami Assembly Area - SAFE ZONE",
+  "CenterPositionLon": -18.151063347470224,
+  "CenterPositionLat": 178.42886171897078
+ },
+ {
+  "ID": 624905638,
+  "Capacity": 740,
+  "Name": "Yat Sen School Grounds",
+  "CenterPositionLon": -18.147345750000003,
+  "CenterPositionLat": 178.4374714
+ },
+ {
+  "ID": 672809823,
+  "Capacity": 4893,
+  "Name": "Garden of the Sleeping Giant",
+  "CenterPositionLon": -17.71143744495493,
+  "CenterPositionLat": 177.46872685679867
+ },
+ {
+  "ID": 722225588,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": -18.134048784138663,
+  "CenterPositionLat": 178.36892964582754
+ },
+ {
+  "ID": 727976485,
+  "Capacity": 638,
+  "Name": "Lawai Cattle Park",
+  "CenterPositionLon": -18.12652107008951,
+  "CenterPositionLat": 177.51933981553634
+ },
+ {
+  "ID": 727991745,
+  "Capacity": 984,
+  "Name": "Nahigatoka Sports Ground",
+  "CenterPositionLon": -18.145852218294547,
+  "CenterPositionLat": 177.50498645384488
+ },
+ {
+  "ID": 729548916,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": -18.02095223881874,
+  "CenterPositionLat": 178.52609844158408
+ },
+ {
+  "ID": 731738785,
+  "Capacity": 11611,
+  "Name": "",
+  "CenterPositionLon": -18.00957548028577,
+  "CenterPositionLat": 177.3204370193058
+ },
+ {
+  "ID": 739037394,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -17.306205937304473,
+  "CenterPositionLat": 179.36707114870487
+ }
+]

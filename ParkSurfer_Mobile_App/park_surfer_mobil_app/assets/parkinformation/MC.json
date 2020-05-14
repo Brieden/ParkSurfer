@@ -1,0 +1,79 @@
+[
+ {
+  "ID": 25723255,
+  "Capacity": 122,
+  "Name": "Square Beaumarchais",
+  "CenterPositionLon": 43.73862958149475,
+  "CenterPositionLat": 7.426110540647866
+ },
+ {
+  "ID": 157719658,
+  "Capacity": 1064,
+  "Name": "Jardin Japonais",
+  "CenterPositionLon": 43.74238705123886,
+  "CenterPositionLat": 7.430961128122819
+ },
+ {
+  "ID": 157719659,
+  "Capacity": 1594,
+  "Name": "Jardins de la Petite Afrique",
+  "CenterPositionLon": 43.74039075729008,
+  "CenterPositionLat": 7.426726094204142
+ },
+ {
+  "ID": 157719660,
+  "Capacity": 1289,
+  "Name": "Jardins du Cafe de Paris",
+  "CenterPositionLon": 43.74045698894951,
+  "CenterPositionLat": 7.428746159144687
+ },
+ {
+  "ID": 157719704,
+  "Capacity": 364,
+  "Name": "",
+  "CenterPositionLon": 43.73991792235034,
+  "CenterPositionLat": 7.4255857945095265
+ },
+ {
+  "ID": 158215188,
+  "Capacity": 6009,
+  "Name": "Parc de la Roseraie",
+  "CenterPositionLon": 43.726705495512476,
+  "CenterPositionLat": 7.418852567772722
+ },
+ {
+  "ID": 159170538,
+  "Capacity": 197,
+  "Name": "Square Théodore Gastaud",
+  "CenterPositionLon": 43.73392960252558,
+  "CenterPositionLat": 7.420417342758606
+ },
+ {
+  "ID": 221351810,
+  "Capacity": 2223,
+  "Name": "Parc Princesse Antoinette",
+  "CenterPositionLon": 43.73349276503393,
+  "CenterPositionLat": 7.414824819253133
+ },
+ {
+  "ID": 432751852,
+  "Capacity": 639,
+  "Name": "Jardin des Boulingrins",
+  "CenterPositionLon": 43.73997650562254,
+  "CenterPositionLat": 7.426440053466229
+ },
+ {
+  "ID": 447008630,
+  "Capacity": 111,
+  "Name": "",
+  "CenterPositionLon": 43.737215215417685,
+  "CenterPositionLat": 7.424163001756244
+ },
+ {
+  "ID": 626882121,
+  "Capacity": 595,
+  "Name": "",
+  "CenterPositionLon": 43.72689253934947,
+  "CenterPositionLat": 7.417096244579414
+ }
+]

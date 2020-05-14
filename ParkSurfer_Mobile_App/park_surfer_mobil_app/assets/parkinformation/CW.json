@@ -1,0 +1,156 @@
+[
+ {
+  "ID": 48770488,
+  "Capacity": 3013,
+  "Name": "Den Dunki National Park",
+  "CenterPositionLon": 12.101042715299071,
+  "CenterPositionLat": -68.8813482445194
+ },
+ {
+  "ID": 230261770,
+  "Capacity": 83,
+  "Name": "Parke Leyba",
+  "CenterPositionLon": 12.10774009034847,
+  "CenterPositionLat": -68.93127133168217
+ },
+ {
+  "ID": 238261949,
+  "Capacity": 16,
+  "Name": "Plasa Roberto H. Eustatius",
+  "CenterPositionLon": 12.107151394907843,
+  "CenterPositionLat": -68.93856424985414
+ },
+ {
+  "ID": 250829812,
+  "Capacity": 131,
+  "Name": "Wilhelminapark",
+  "CenterPositionLon": 12.104214477881833,
+  "CenterPositionLat": -68.93335954247236
+ },
+ {
+  "ID": 301593974,
+  "Capacity": 509,
+  "Name": "Pearl of the Caribbean",
+  "CenterPositionLon": 12.138401036587226,
+  "CenterPositionLat": -68.83167936118335
+ },
+ {
+  "ID": 370981865,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 12.119737760734079,
+  "CenterPositionLat": -68.95301752361627
+ },
+ {
+  "ID": 372832259,
+  "Capacity": 114,
+  "Name": "Plaza Helmin Macho Wiels",
+  "CenterPositionLon": 12.101052126038342,
+  "CenterPositionLat": -68.91507019693559
+ },
+ {
+  "ID": 375224375,
+  "Capacity": 44,
+  "Name": "Plasa Cesaro S Camelia",
+  "CenterPositionLon": 12.105017557411758,
+  "CenterPositionLat": -68.8976429057181
+ },
+ {
+  "ID": 375751093,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 12.1043341,
+  "CenterPositionLat": -68.9243095
+ },
+ {
+  "ID": 375752051,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 12.103179139474522,
+  "CenterPositionLat": -68.92372600838289
+ },
+ {
+  "ID": 375752052,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 12.102766028359579,
+  "CenterPositionLat": -68.9241095557564
+ },
+ {
+  "ID": 375752053,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 12.103501162205191,
+  "CenterPositionLat": -68.92508000441855
+ },
+ {
+  "ID": 376564933,
+  "Capacity": 67,
+  "Name": "Plasa Mgr. Julio F. Henriquez",
+  "CenterPositionLon": 12.106633139519358,
+  "CenterPositionLat": -68.84913004319773
+ },
+ {
+  "ID": 491883387,
+  "Capacity": 4,
+  "Name": "Caneye Pavilion",
+  "CenterPositionLon": 12.064343316536029,
+  "CenterPositionLat": -68.85127124328906
+ },
+ {
+  "ID": 595652917,
+  "Capacity": 31599,
+  "Name": "Roi Rincon",
+  "CenterPositionLon": 12.180413834356342,
+  "CenterPositionLat": -68.96134551207045
+ },
+ {
+  "ID": 621785722,
+  "Capacity": 119,
+  "Name": "Hoffi Kalebas",
+  "CenterPositionLon": 12.099080710927892,
+  "CenterPositionLat": -68.86395218861456
+ },
+ {
+  "ID": 681829957,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": 12.246220876838434,
+  "CenterPositionLat": -69.05892521862566
+ },
+ {
+  "ID": 685472511,
+  "Capacity": 4,
+  "Name": "speeltuin",
+  "CenterPositionLon": 12.116825195565054,
+  "CenterPositionLat": -68.94408415127832
+ },
+ {
+  "ID": 685874298,
+  "Capacity": 5,
+  "Name": "Parke Tio selsio",
+  "CenterPositionLon": 12.115814667113526,
+  "CenterPositionLat": -68.94620130042506
+ },
+ {
+  "ID": 685885713,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 12.115305880132885,
+  "CenterPositionLat": -68.94528319853917
+ },
+ {
+  "ID": 708553517,
+  "Capacity": 492,
+  "Name": "Parke Lucha pa Libertat",
+  "CenterPositionLon": 12.108252402252775,
+  "CenterPositionLat": -68.94855313178608
+ },
+ {
+  "ID": 724480971,
+  "Capacity": 675,
+  "Name": "Hofi Biesheuvel",
+  "CenterPositionLon": 12.136248494552127,
+  "CenterPositionLat": -68.90758969294886
+ }
+]

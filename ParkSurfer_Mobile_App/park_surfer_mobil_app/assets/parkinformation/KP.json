@@ -1,0 +1,1283 @@
+[
+ {
+  "ID": 23697904,
+  "Capacity": 8329,
+  "Name": "",
+  "CenterPositionLon": 39.019772487587154,
+  "CenterPositionLat": 125.7459648541924
+ },
+ {
+  "ID": 23764252,
+  "Capacity": 1182,
+  "Name": "",
+  "CenterPositionLon": 39.03388839323426,
+  "CenterPositionLat": 125.74881185947461
+ },
+ {
+  "ID": 24904377,
+  "Capacity": 4326,
+  "Name": "",
+  "CenterPositionLon": 39.0268910214625,
+  "CenterPositionLat": 125.76572139790329
+ },
+ {
+  "ID": 24904391,
+  "Capacity": 6307,
+  "Name": "",
+  "CenterPositionLon": 39.032916030454395,
+  "CenterPositionLat": 125.76842211590137
+ },
+ {
+  "ID": 26729535,
+  "Capacity": 2884,
+  "Name": "",
+  "CenterPositionLon": 39.05048907827772,
+  "CenterPositionLat": 125.7397721582909
+ },
+ {
+  "ID": 42267763,
+  "Capacity": 17601,
+  "Name": "4.15소년백화원",
+  "CenterPositionLon": 39.01737098198222,
+  "CenterPositionLat": 125.65518433362598
+ },
+ {
+  "ID": 42403173,
+  "Capacity": 264,
+  "Name": "",
+  "CenterPositionLon": 39.005872270622326,
+  "CenterPositionLat": 125.73693224088252
+ },
+ {
+  "ID": 42403178,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 39.0046756,
+  "CenterPositionLat": 125.7377997
+ },
+ {
+  "ID": 42403181,
+  "Capacity": 595,
+  "Name": "",
+  "CenterPositionLon": 39.003730097481395,
+  "CenterPositionLat": 125.73830274966056
+ },
+ {
+  "ID": 42403474,
+  "Capacity": 12723,
+  "Name": "",
+  "CenterPositionLon": 39.076181305640716,
+  "CenterPositionLat": 125.83046482940806
+ },
+ {
+  "ID": 42404240,
+  "Capacity": 4405,
+  "Name": "",
+  "CenterPositionLon": 39.071705905343066,
+  "CenterPositionLat": 125.82370155401772
+ },
+ {
+  "ID": 42416605,
+  "Capacity": 21961,
+  "Name": "3대혁명전시관",
+  "CenterPositionLon": 39.0804507151936,
+  "CenterPositionLat": 125.75611151112503
+ },
+ {
+  "ID": 42989446,
+  "Capacity": 2700,
+  "Name": "Jangsan Revolutionary Site",
+  "CenterPositionLon": 39.07506170080036,
+  "CenterPositionLat": 125.77499834912777
+ },
+ {
+  "ID": 90890951,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": 39.169571602653285,
+  "CenterPositionLat": 127.43703221498068
+ },
+ {
+  "ID": 90890963,
+  "Capacity": 354,
+  "Name": "",
+  "CenterPositionLon": 39.171149700478495,
+  "CenterPositionLat": 127.43447868452688
+ },
+ {
+  "ID": 90890969,
+  "Capacity": 518,
+  "Name": "",
+  "CenterPositionLon": 39.17069203829765,
+  "CenterPositionLat": 127.43400050674428
+ },
+ {
+  "ID": 90890970,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 39.16914,
+  "CenterPositionLat": 127.43662599999999
+ },
+ {
+  "ID": 104399756,
+  "Capacity": 24559,
+  "Name": "",
+  "CenterPositionLon": 41.78109099854073,
+  "CenterPositionLat": 129.8031516523267
+ },
+ {
+  "ID": 104767144,
+  "Capacity": 3142,
+  "Name": "",
+  "CenterPositionLon": 40.97125460010529,
+  "CenterPositionLat": 126.58895538659704
+ },
+ {
+  "ID": 111316828,
+  "Capacity": 20658,
+  "Name": "",
+  "CenterPositionLon": 40.67743853434522,
+  "CenterPositionLat": 129.2032716445216
+ },
+ {
+  "ID": 117099700,
+  "Capacity": 3112,
+  "Name": "",
+  "CenterPositionLon": 38.03799459292648,
+  "CenterPositionLat": 125.7590667358651
+ },
+ {
+  "ID": 157120568,
+  "Capacity": 13526,
+  "Name": "",
+  "CenterPositionLon": 39.069642050095986,
+  "CenterPositionLat": 125.78559075322387
+ },
+ {
+  "ID": 170648427,
+  "Capacity": 9719,
+  "Name": "함흥청년공원",
+  "CenterPositionLon": 39.919015334135395,
+  "CenterPositionLat": 127.54089197379405
+ },
+ {
+  "ID": 198666678,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 39.17091440908369,
+  "CenterPositionLat": 127.43430517500067
+ },
+ {
+  "ID": 198666679,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 39.1687145909163,
+  "CenterPositionLat": 127.43794787500067
+ },
+ {
+  "ID": 198666681,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 39.16896345000001,
+  "CenterPositionLat": 127.43753244999999
+ },
+ {
+  "ID": 198666682,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 39.1693383,
+  "CenterPositionLat": 127.43689219999999
+ },
+ {
+  "ID": 198666683,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 39.167996289196836,
+  "CenterPositionLat": 127.4391314038301
+ },
+ {
+  "ID": 198666685,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 39.17107689874802,
+  "CenterPositionLat": 127.43403740201502
+ },
+ {
+  "ID": 198666686,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 39.17074642886455,
+  "CenterPositionLat": 127.43458096481162
+ },
+ {
+  "ID": 199254141,
+  "Capacity": 4004,
+  "Name": "",
+  "CenterPositionLon": 42.79511368134195,
+  "CenterPositionLat": 130.23539053070917
+ },
+ {
+  "ID": 203365128,
+  "Capacity": 1864,
+  "Name": "",
+  "CenterPositionLon": 39.016509498392615,
+  "CenterPositionLat": 125.74568057134503
+ },
+ {
+  "ID": 203468552,
+  "Capacity": 997,
+  "Name": "",
+  "CenterPositionLon": 39.0131901270158,
+  "CenterPositionLat": 125.72892055943534
+ },
+ {
+  "ID": 207108312,
+  "Capacity": 2120,
+  "Name": "",
+  "CenterPositionLon": 40.0971084861292,
+  "CenterPositionLat": 124.38944997440493
+ },
+ {
+  "ID": 207108313,
+  "Capacity": 400,
+  "Name": "",
+  "CenterPositionLon": 40.09864973892154,
+  "CenterPositionLat": 124.39052273523255
+ },
+ {
+  "ID": 222607397,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 38.71664746869758,
+  "CenterPositionLat": 125.84905630613537
+ },
+ {
+  "ID": 222607412,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": 38.71629267015857,
+  "CenterPositionLat": 125.84871523613917
+ },
+ {
+  "ID": 222607467,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 38.71702643284115,
+  "CenterPositionLat": 125.84975662522932
+ },
+ {
+  "ID": 222607468,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 38.71693388745092,
+  "CenterPositionLat": 125.84936808242664
+ },
+ {
+  "ID": 222607472,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 38.716992679994306,
+  "CenterPositionLat": 125.84890031931437
+ },
+ {
+  "ID": 228524958,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 39.083302155798066,
+  "CenterPositionLat": 125.78243911188184
+ },
+ {
+  "ID": 228524959,
+  "Capacity": 11851,
+  "Name": "",
+  "CenterPositionLon": 39.07018574907724,
+  "CenterPositionLat": 125.78862431916535
+ },
+ {
+  "ID": 228634207,
+  "Capacity": 606,
+  "Name": "",
+  "CenterPositionLon": 38.93904305995397,
+  "CenterPositionLat": 125.58879851423627
+ },
+ {
+  "ID": 231218473,
+  "Capacity": 17396,
+  "Name": "문수봉공원 (Munsubong-kongwon)",
+  "CenterPositionLon": 39.01504805477552,
+  "CenterPositionLat": 125.80151542036032
+ },
+ {
+  "ID": 231219037,
+  "Capacity": 1283,
+  "Name": "",
+  "CenterPositionLon": 39.00602773053341,
+  "CenterPositionLat": 125.79303963554996
+ },
+ {
+  "ID": 235118863,
+  "Capacity": 2787,
+  "Name": "대동문공원",
+  "CenterPositionLon": 39.02090617715664,
+  "CenterPositionLat": 125.75631613664298
+ },
+ {
+  "ID": 242095460,
+  "Capacity": 1764,
+  "Name": "Ri Song-gye Home",
+  "CenterPositionLon": 39.87075077888678,
+  "CenterPositionLat": 127.56687506646689
+ },
+ {
+  "ID": 242821281,
+  "Capacity": 251,
+  "Name": "",
+  "CenterPositionLon": 42.35266331123253,
+  "CenterPositionLat": 130.46551559049365
+ },
+ {
+  "ID": 242821282,
+  "Capacity": 265,
+  "Name": "",
+  "CenterPositionLon": 42.35279218943904,
+  "CenterPositionLat": 130.46374446880438
+ },
+ {
+  "ID": 242821283,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 42.35295758725062,
+  "CenterPositionLat": 130.46461582315652
+ },
+ {
+  "ID": 252942642,
+  "Capacity": 10699,
+  "Name": "",
+  "CenterPositionLon": 42.24296208217441,
+  "CenterPositionLat": 130.30524183733527
+ },
+ {
+  "ID": 261936089,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": 38.99223815583385,
+  "CenterPositionLat": 125.9749675440472
+ },
+ {
+  "ID": 261936090,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": 38.99219987194168,
+  "CenterPositionLat": 125.9744526593092
+ },
+ {
+  "ID": 261936093,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 38.99279131859969,
+  "CenterPositionLat": 125.9745910885072
+ },
+ {
+  "ID": 261936094,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 38.9925935038356,
+  "CenterPositionLat": 125.97441459920087
+ },
+ {
+  "ID": 261936095,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 38.99263139784257,
+  "CenterPositionLat": 125.9749071361216
+ },
+ {
+  "ID": 261936377,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 38.99098352242009,
+  "CenterPositionLat": 125.97467314645503
+ },
+ {
+  "ID": 261936378,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 38.99101132811368,
+  "CenterPositionLat": 125.97504260352767
+ },
+ {
+  "ID": 278192861,
+  "Capacity": 13876,
+  "Name": "",
+  "CenterPositionLon": 39.61911297666002,
+  "CenterPositionLat": 125.65811071579861
+ },
+ {
+  "ID": 278643183,
+  "Capacity": 2807,
+  "Name": "",
+  "CenterPositionLon": 39.62368173074287,
+  "CenterPositionLat": 125.66437608085245
+ },
+ {
+  "ID": 290000968,
+  "Capacity": 914,
+  "Name": "",
+  "CenterPositionLon": 39.00847963790756,
+  "CenterPositionLat": 125.7512444319365
+ },
+ {
+  "ID": 300112076,
+  "Capacity": 3493,
+  "Name": "",
+  "CenterPositionLon": 39.02432453035097,
+  "CenterPositionLat": 125.78280206979129
+ },
+ {
+  "ID": 300112091,
+  "Capacity": 940,
+  "Name": "",
+  "CenterPositionLon": 39.0086775405389,
+  "CenterPositionLat": 125.76651887608662
+ },
+ {
+  "ID": 300130348,
+  "Capacity": 2053,
+  "Name": "",
+  "CenterPositionLon": 39.234938646742194,
+  "CenterPositionLat": 127.36051247982925
+ },
+ {
+  "ID": 300795966,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 39.02315369195089,
+  "CenterPositionLat": 125.79557373361592
+ },
+ {
+  "ID": 300795968,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 39.02466793623354,
+  "CenterPositionLat": 125.79566430224124
+ },
+ {
+  "ID": 300974550,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 39.171918466071844,
+  "CenterPositionLat": 127.43317239777402
+ },
+ {
+  "ID": 300974552,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 39.17153301981837,
+  "CenterPositionLat": 127.43279434994459
+ },
+ {
+  "ID": 300974562,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 39.16972285,
+  "CenterPositionLat": 127.4353529
+ },
+ {
+  "ID": 300974569,
+  "Capacity": 328,
+  "Name": "",
+  "CenterPositionLon": 39.16868921671472,
+  "CenterPositionLat": 127.43735481528422
+ },
+ {
+  "ID": 300974570,
+  "Capacity": 442,
+  "Name": "",
+  "CenterPositionLon": 39.16819819979187,
+  "CenterPositionLat": 127.43815644994889
+ },
+ {
+  "ID": 300974571,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 39.16853132799628,
+  "CenterPositionLat": 127.43824797727378
+ },
+ {
+  "ID": 300974572,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 39.16830060593651,
+  "CenterPositionLat": 127.43862968005593
+ },
+ {
+  "ID": 300974574,
+  "Capacity": 293,
+  "Name": "",
+  "CenterPositionLon": 39.168625591940554,
+  "CenterPositionLat": 127.43859340551508
+ },
+ {
+  "ID": 300974575,
+  "Capacity": 223,
+  "Name": "",
+  "CenterPositionLon": 39.168153508240685,
+  "CenterPositionLat": 127.43937303465252
+ },
+ {
+  "ID": 300974576,
+  "Capacity": 339,
+  "Name": "",
+  "CenterPositionLon": 39.16771697167108,
+  "CenterPositionLat": 127.4389409414539
+ },
+ {
+  "ID": 300974578,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 39.167738967142206,
+  "CenterPositionLat": 127.4395234881373
+ },
+ {
+  "ID": 300974579,
+  "Capacity": 223,
+  "Name": "",
+  "CenterPositionLon": 39.1677182939706,
+  "CenterPositionLat": 127.44007496080148
+ },
+ {
+  "ID": 300974580,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 39.16743728823125,
+  "CenterPositionLat": 127.43999710368134
+ },
+ {
+  "ID": 300974581,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 39.1671956,
+  "CenterPositionLat": 127.4403968
+ },
+ {
+  "ID": 300974582,
+  "Capacity": 154,
+  "Name": "",
+  "CenterPositionLon": 39.16739259720055,
+  "CenterPositionLat": 127.44061647493658
+ },
+ {
+  "ID": 300974583,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 39.16719046935147,
+  "CenterPositionLat": 127.44099425511439
+ },
+ {
+  "ID": 300974584,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 39.16698275,
+  "CenterPositionLat": 127.4407748
+ },
+ {
+  "ID": 300974586,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 39.166815459955465,
+  "CenterPositionLat": 127.44064729428263
+ },
+ {
+  "ID": 300974587,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 39.167084742433495,
+  "CenterPositionLat": 127.44004370126186
+ },
+ {
+  "ID": 300974588,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 39.16700234701721,
+  "CenterPositionLat": 127.44032132155588
+ },
+ {
+  "ID": 300974589,
+  "Capacity": 429,
+  "Name": "",
+  "CenterPositionLon": 39.16711820975405,
+  "CenterPositionLat": 127.4398227455975
+ },
+ {
+  "ID": 301152505,
+  "Capacity": 32350,
+  "Name": "",
+  "CenterPositionLon": 38.71388758219537,
+  "CenterPositionLat": 125.34140565517164
+ },
+ {
+  "ID": 312026884,
+  "Capacity": 3425,
+  "Name": "",
+  "CenterPositionLon": 39.02182454250593,
+  "CenterPositionLat": 125.74913756175884
+ },
+ {
+  "ID": 317142593,
+  "Capacity": 109,
+  "Name": "",
+  "CenterPositionLon": 39.47483504983778,
+  "CenterPositionLat": 125.45969510994716
+ },
+ {
+  "ID": 317142594,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 39.474383820542585,
+  "CenterPositionLat": 125.45977690674316
+ },
+ {
+  "ID": 317142595,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 39.474431808463784,
+  "CenterPositionLat": 125.46022719322765
+ },
+ {
+  "ID": 317142596,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 39.474879893119144,
+  "CenterPositionLat": 125.46014949180662
+ },
+ {
+  "ID": 320512815,
+  "Capacity": 590,
+  "Name": "",
+  "CenterPositionLon": 39.07419614223208,
+  "CenterPositionLat": 125.69241306986056
+ },
+ {
+  "ID": 345715411,
+  "Capacity": 2472,
+  "Name": "",
+  "CenterPositionLon": 39.0239211585018,
+  "CenterPositionLat": 125.75286334028905
+ },
+ {
+  "ID": 346051960,
+  "Capacity": 92299,
+  "Name": "만경대유희장",
+  "CenterPositionLon": 39.000487025760044,
+  "CenterPositionLat": 125.65155224257177
+ },
+ {
+  "ID": 346056643,
+  "Capacity": 18436,
+  "Name": "",
+  "CenterPositionLon": 38.992698070151995,
+  "CenterPositionLat": 125.65556418189902
+ },
+ {
+  "ID": 349747084,
+  "Capacity": 332,
+  "Name": "",
+  "CenterPositionLon": 38.902810711683614,
+  "CenterPositionLat": 125.64563468249897
+ },
+ {
+  "ID": 355480231,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 39.02963087938292,
+  "CenterPositionLat": 125.75625200893155
+ },
+ {
+  "ID": 363298108,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 39.03103161870178,
+  "CenterPositionLat": 125.79408591124866
+ },
+ {
+  "ID": 363298109,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 39.03101987451546,
+  "CenterPositionLat": 125.79282962916358
+ },
+ {
+  "ID": 366890458,
+  "Capacity": 73849,
+  "Name": "",
+  "CenterPositionLon": 39.07276988562407,
+  "CenterPositionLat": 125.80221685347108
+ },
+ {
+  "ID": 368469661,
+  "Capacity": 1502,
+  "Name": "평양천문대",
+  "CenterPositionLon": 39.061514959165095,
+  "CenterPositionLat": 125.82120388500643
+ },
+ {
+  "ID": 370009513,
+  "Capacity": 273,
+  "Name": "",
+  "CenterPositionLon": 39.03938741433514,
+  "CenterPositionLat": 125.75016951668199
+ },
+ {
+  "ID": 370009514,
+  "Capacity": 328,
+  "Name": "",
+  "CenterPositionLon": 39.03754429900422,
+  "CenterPositionLat": 125.75144612462329
+ },
+ {
+  "ID": 370529907,
+  "Capacity": 224,
+  "Name": "",
+  "CenterPositionLon": 38.98074641169209,
+  "CenterPositionLat": 125.74317327533512
+ },
+ {
+  "ID": 388719119,
+  "Capacity": 15763,
+  "Name": "",
+  "CenterPositionLon": 42.2408740175293,
+  "CenterPositionLat": 130.30305136924915
+ },
+ {
+  "ID": 389008955,
+  "Capacity": 1512,
+  "Name": "",
+  "CenterPositionLon": 41.788542141484506,
+  "CenterPositionLat": 129.79530007521478
+ },
+ {
+  "ID": 389021603,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 42.2498833,
+  "CenterPositionLat": 130.30378495
+ },
+ {
+  "ID": 401772259,
+  "Capacity": 754,
+  "Name": "",
+  "CenterPositionLon": 40.080091976368976,
+  "CenterPositionLat": 126.14503028004127
+ },
+ {
+  "ID": 410196558,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 42.4449035459398,
+  "CenterPositionLat": 129.7432848475709
+ },
+ {
+  "ID": 456596046,
+  "Capacity": 427,
+  "Name": "",
+  "CenterPositionLon": 38.609948632298234,
+  "CenterPositionLat": 126.5201721092906
+ },
+ {
+  "ID": 459044408,
+  "Capacity": 499,
+  "Name": "",
+  "CenterPositionLon": 38.3918539,
+  "CenterPositionLat": 127.0123863
+ },
+ {
+  "ID": 487061963,
+  "Capacity": 674,
+  "Name": "",
+  "CenterPositionLon": 42.27263315745891,
+  "CenterPositionLat": 130.60078989233435
+ },
+ {
+  "ID": 501780003,
+  "Capacity": 411,
+  "Name": "",
+  "CenterPositionLon": 42.246327315260544,
+  "CenterPositionLat": 130.3020157221529
+ },
+ {
+  "ID": 501780004,
+  "Capacity": 2508,
+  "Name": "",
+  "CenterPositionLon": 42.24777226187012,
+  "CenterPositionLat": 130.30149054079095
+ },
+ {
+  "ID": 514439687,
+  "Capacity": 1953,
+  "Name": "",
+  "CenterPositionLon": 39.18798298912016,
+  "CenterPositionLat": 127.47819673498144
+ },
+ {
+  "ID": 522391396,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 40.546204396069065,
+  "CenterPositionLat": 127.59368105781829
+ },
+ {
+  "ID": 525347554,
+  "Capacity": 596,
+  "Name": "",
+  "CenterPositionLon": 39.91864612003165,
+  "CenterPositionLat": 127.53315799752681
+ },
+ {
+  "ID": 525347555,
+  "Capacity": 737,
+  "Name": "",
+  "CenterPositionLon": 39.91916263373098,
+  "CenterPositionLat": 127.53362929110938
+ },
+ {
+  "ID": 525655489,
+  "Capacity": 22649,
+  "Name": "",
+  "CenterPositionLon": 39.91532723173134,
+  "CenterPositionLat": 127.52101832750873
+ },
+ {
+  "ID": 525655505,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": 39.915130283324245,
+  "CenterPositionLat": 127.52437252149485
+ },
+ {
+  "ID": 526431672,
+  "Capacity": 582,
+  "Name": "",
+  "CenterPositionLon": 40.19943524078173,
+  "CenterPositionLat": 127.54832159345854
+ },
+ {
+  "ID": 526694690,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 40.149586268366,
+  "CenterPositionLat": 127.49566790920467
+ },
+ {
+  "ID": 527076595,
+  "Capacity": 1413,
+  "Name": "",
+  "CenterPositionLon": 40.2807601441972,
+  "CenterPositionLat": 127.61260689967052
+ },
+ {
+  "ID": 529935979,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 40.22584112416927,
+  "CenterPositionLat": 127.1313424823109
+ },
+ {
+  "ID": 530345891,
+  "Capacity": 762,
+  "Name": "",
+  "CenterPositionLon": 40.04747290102618,
+  "CenterPositionLat": 128.32362031512298
+ },
+ {
+  "ID": 531411363,
+  "Capacity": 1894,
+  "Name": "",
+  "CenterPositionLon": 40.18999420620707,
+  "CenterPositionLat": 128.6340255344905
+ },
+ {
+  "ID": 531654678,
+  "Capacity": 1159,
+  "Name": "",
+  "CenterPositionLon": 39.466306812018715,
+  "CenterPositionLat": 126.17169270285403
+ },
+ {
+  "ID": 533337041,
+  "Capacity": 1015,
+  "Name": "",
+  "CenterPositionLon": 40.32248851879337,
+  "CenterPositionLat": 128.6564367831872
+ },
+ {
+  "ID": 533337042,
+  "Capacity": 274,
+  "Name": "",
+  "CenterPositionLon": 40.32170994870637,
+  "CenterPositionLat": 128.6560153002388
+ },
+ {
+  "ID": 533373930,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 40.612541667367815,
+  "CenterPositionLat": 126.46747854680133
+ },
+ {
+  "ID": 534520387,
+  "Capacity": 529,
+  "Name": "",
+  "CenterPositionLon": 41.83182447982201,
+  "CenterPositionLat": 129.73713569799938
+ },
+ {
+  "ID": 542567077,
+  "Capacity": 358,
+  "Name": "",
+  "CenterPositionLon": 42.11698223981702,
+  "CenterPositionLat": 129.69714885224752
+ },
+ {
+  "ID": 542570365,
+  "Capacity": 942,
+  "Name": "",
+  "CenterPositionLon": 42.11827536993917,
+  "CenterPositionLat": 129.69695230721516
+ },
+ {
+  "ID": 542838942,
+  "Capacity": 154,
+  "Name": "",
+  "CenterPositionLon": 39.906879340951605,
+  "CenterPositionLat": 127.77162227244438
+ },
+ {
+  "ID": 545901106,
+  "Capacity": 86,
+  "Name": "",
+  "CenterPositionLon": 42.09690882157636,
+  "CenterPositionLat": 130.09520560976216
+ },
+ {
+  "ID": 546090065,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.12981675193511,
+  "CenterPositionLat": 130.07301403312468
+ },
+ {
+  "ID": 548215364,
+  "Capacity": 862,
+  "Name": "",
+  "CenterPositionLon": 42.515181872004305,
+  "CenterPositionLat": 130.34429711138802
+ },
+ {
+  "ID": 548434603,
+  "Capacity": 594,
+  "Name": "",
+  "CenterPositionLon": 42.52268013187883,
+  "CenterPositionLat": 130.35401267239808
+ },
+ {
+  "ID": 549546759,
+  "Capacity": 414,
+  "Name": "",
+  "CenterPositionLon": 38.73369945511535,
+  "CenterPositionLat": 125.40684297130859
+ },
+ {
+  "ID": 549546760,
+  "Capacity": 282,
+  "Name": "",
+  "CenterPositionLon": 38.73369739477903,
+  "CenterPositionLat": 125.40998762510125
+ },
+ {
+  "ID": 549546794,
+  "Capacity": 905,
+  "Name": "",
+  "CenterPositionLon": 38.7296086817354,
+  "CenterPositionLat": 125.39937916263752
+ },
+ {
+  "ID": 549547992,
+  "Capacity": 264,
+  "Name": "",
+  "CenterPositionLon": 42.576200977290604,
+  "CenterPositionLat": 130.50268638072313
+ },
+ {
+  "ID": 557992124,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 39.856922705184445,
+  "CenterPositionLat": 127.57118276950844
+ },
+ {
+  "ID": 573092167,
+  "Capacity": 554,
+  "Name": "",
+  "CenterPositionLon": 40.042422961486565,
+  "CenterPositionLat": 124.43538012691944
+ },
+ {
+  "ID": 577093770,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 39.01349991603461,
+  "CenterPositionLat": 125.74463236374336
+ },
+ {
+  "ID": 577093787,
+  "Capacity": 467,
+  "Name": "",
+  "CenterPositionLon": 39.012123385706275,
+  "CenterPositionLat": 125.74183341688672
+ },
+ {
+  "ID": 577093856,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 39.013238799999996,
+  "CenterPositionLat": 125.74493
+ },
+ {
+  "ID": 577107821,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 39.02531699696967,
+  "CenterPositionLat": 125.75389892058664
+ },
+ {
+  "ID": 577108361,
+  "Capacity": 7540,
+  "Name": "",
+  "CenterPositionLon": 39.02913597418928,
+  "CenterPositionLat": 125.74518945527639
+ },
+ {
+  "ID": 578426755,
+  "Capacity": 1686,
+  "Name": "",
+  "CenterPositionLon": 39.23482457249499,
+  "CenterPositionLat": 125.86831160468935
+ },
+ {
+  "ID": 591169488,
+  "Capacity": 1098,
+  "Name": "",
+  "CenterPositionLon": 40.1042122586523,
+  "CenterPositionLat": 124.39537996381416
+ },
+ {
+  "ID": 594304308,
+  "Capacity": 3360,
+  "Name": "만수대분수공원",
+  "CenterPositionLon": 39.02354586248418,
+  "CenterPositionLat": 125.750192022444
+ },
+ {
+  "ID": 638826656,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 39.05340411570072,
+  "CenterPositionLat": 125.72696186481808
+ },
+ {
+  "ID": 638826657,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 39.052318333407655,
+  "CenterPositionLat": 125.72724354728302
+ },
+ {
+  "ID": 638843559,
+  "Capacity": 4521,
+  "Name": "",
+  "CenterPositionLon": 39.061508474695,
+  "CenterPositionLat": 125.76287960426052
+ },
+ {
+  "ID": 673036397,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 39.01988490254232,
+  "CenterPositionLat": 125.71715014912249
+ },
+ {
+  "ID": 673557087,
+  "Capacity": 262,
+  "Name": "Playground",
+  "CenterPositionLon": 39.59004524069672,
+  "CenterPositionLat": 125.60112978078936
+ },
+ {
+  "ID": 696483095,
+  "Capacity": 4342,
+  "Name": "",
+  "CenterPositionLon": 39.17609488578233,
+  "CenterPositionLat": 127.48622106423345
+ },
+ {
+  "ID": 696483096,
+  "Capacity": 8281,
+  "Name": "",
+  "CenterPositionLon": 39.160970965002456,
+  "CenterPositionLat": 127.49976434949299
+ },
+ {
+  "ID": 697054776,
+  "Capacity": 393,
+  "Name": "",
+  "CenterPositionLon": 42.11202147341658,
+  "CenterPositionLat": 129.4105111326691
+ },
+ {
+  "ID": 711919562,
+  "Capacity": 958,
+  "Name": "",
+  "CenterPositionLon": 38.982435616025796,
+  "CenterPositionLat": 125.75808807405768
+ },
+ {
+  "ID": 718188162,
+  "Capacity": 314,
+  "Name": "",
+  "CenterPositionLon": 39.009592798504016,
+  "CenterPositionLat": 125.68836346093998
+ },
+ {
+  "ID": 718188163,
+  "Capacity": 1424,
+  "Name": "",
+  "CenterPositionLon": 39.011472510577015,
+  "CenterPositionLat": 125.687125064746
+ },
+ {
+  "ID": 718188178,
+  "Capacity": 796,
+  "Name": "",
+  "CenterPositionLon": 39.011827806762604,
+  "CenterPositionLat": 125.68536624596076
+ },
+ {
+  "ID": 718188191,
+  "Capacity": 369,
+  "Name": "",
+  "CenterPositionLon": 39.01431158507842,
+  "CenterPositionLat": 125.6838536564508
+ },
+ {
+  "ID": 718188192,
+  "Capacity": 661,
+  "Name": "",
+  "CenterPositionLon": 39.01323446204864,
+  "CenterPositionLat": 125.68461298078903
+ },
+ {
+  "ID": 718188216,
+  "Capacity": 1055,
+  "Name": "",
+  "CenterPositionLon": 39.009719830667265,
+  "CenterPositionLat": 125.69280353190435
+ },
+ {
+  "ID": 718189375,
+  "Capacity": 450,
+  "Name": "",
+  "CenterPositionLon": 39.034842320740886,
+  "CenterPositionLat": 125.69712123061976
+ },
+ {
+  "ID": 718363836,
+  "Capacity": 641,
+  "Name": "",
+  "CenterPositionLon": 39.06970545812826,
+  "CenterPositionLat": 127.48745097738352
+ },
+ {
+  "ID": 718496879,
+  "Capacity": 424,
+  "Name": "",
+  "CenterPositionLon": 38.8213118,
+  "CenterPositionLat": 125.51904490000001
+ },
+ {
+  "ID": 722856977,
+  "Capacity": 1159,
+  "Name": "",
+  "CenterPositionLon": 39.01709562437814,
+  "CenterPositionLat": 125.6840378754599
+ },
+ {
+  "ID": 722882900,
+  "Capacity": 3232,
+  "Name": "",
+  "CenterPositionLon": 39.321261466883165,
+  "CenterPositionLat": 125.83957450922311
+ },
+ {
+  "ID": 725445233,
+  "Capacity": 2421,
+  "Name": "",
+  "CenterPositionLon": 39.03840681079671,
+  "CenterPositionLat": 125.77270625270542
+ },
+ {
+  "ID": 727035389,
+  "Capacity": 6099,
+  "Name": "광석천공원",
+  "CenterPositionLon": 38.03932224616553,
+  "CenterPositionLat": 125.71676052272771
+ },
+ {
+  "ID": 756394584,
+  "Capacity": 8984,
+  "Name": "",
+  "CenterPositionLon": 40.97472044452466,
+  "CenterPositionLat": 126.58689490422246
+ },
+ {
+  "ID": 762513003,
+  "Capacity": 279,
+  "Name": "",
+  "CenterPositionLon": 42.30218559582593,
+  "CenterPositionLat": 130.59637923565245
+ },
+ {
+  "ID": 785798950,
+  "Capacity": 1179,
+  "Name": "",
+  "CenterPositionLon": 38.50517771702043,
+  "CenterPositionLat": 125.7513914915634
+ },
+ {
+  "ID": 785798951,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 38.50419799179966,
+  "CenterPositionLat": 125.75554231663955
+ },
+ {
+  "ID": 790804279,
+  "Capacity": 998,
+  "Name": "",
+  "CenterPositionLon": 38.50617756171809,
+  "CenterPositionLat": 125.75501582565272
+ },
+ {
+  "ID": 796569815,
+  "Capacity": 2698,
+  "Name": "",
+  "CenterPositionLon": 39.216757077697906,
+  "CenterPositionLat": 127.36942723600373
+ },
+ {
+  "ID": 803243159,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": 40.13057690819095,
+  "CenterPositionLat": 128.46097600915408
+ }
+]

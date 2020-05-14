@@ -1,0 +1,30 @@
+[
+ {
+  "ID": 40653628,
+  "Capacity": 416,
+  "Name": "Place du Général de Gaulle",
+  "CenterPositionLon": 46.77929047516581,
+  "CenterPositionLat": -56.17256290765433
+ },
+ {
+  "ID": 220421608,
+  "Capacity": 349,
+  "Name": "Square Joffre",
+  "CenterPositionLon": 46.780383832175744,
+  "CenterPositionLat": -56.17103281139743
+ },
+ {
+  "ID": 220425927,
+  "Capacity": 284,
+  "Name": "Place Alain Savary",
+  "CenterPositionLon": 46.77644009067219,
+  "CenterPositionLat": -56.18189008306109
+ },
+ {
+  "ID": 505948733,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 46.7812987,
+  "CenterPositionLat": -56.1775697
+ }
+]

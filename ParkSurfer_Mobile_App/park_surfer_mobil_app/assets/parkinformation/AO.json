@@ -1,0 +1,1556 @@
+[
+ {
+  "ID": 61886293,
+  "Capacity": 7846,
+  "Name": "Zona Verde",
+  "CenterPositionLon": -8.827608863909331,
+  "CenterPositionLat": 13.235079480314244
+ },
+ {
+  "ID": 152222126,
+  "Capacity": 109,
+  "Name": "",
+  "CenterPositionLon": -12.770947533333333,
+  "CenterPositionLat": 15.745726633333334
+ },
+ {
+  "ID": 152222247,
+  "Capacity": 8623,
+  "Name": "",
+  "CenterPositionLon": -12.776542717949404,
+  "CenterPositionLat": 15.73962395986893
+ },
+ {
+  "ID": 152223086,
+  "Capacity": 15253,
+  "Name": "",
+  "CenterPositionLon": -12.772554874796848,
+  "CenterPositionLat": 15.740815037300537
+ },
+ {
+  "ID": 157818118,
+  "Capacity": 300,
+  "Name": "Assanjuca",
+  "CenterPositionLon": -12.779755715610046,
+  "CenterPositionLat": 15.747635660626766
+ },
+ {
+  "ID": 158230459,
+  "Capacity": 380,
+  "Name": "",
+  "CenterPositionLon": -12.784561216850705,
+  "CenterPositionLat": 15.742512501874733
+ },
+ {
+  "ID": 172871911,
+  "Capacity": 2563,
+  "Name": "Jardim da Cultura",
+  "CenterPositionLon": -12.778673856433047,
+  "CenterPositionLat": 15.738936912753921
+ },
+ {
+  "ID": 173254637,
+  "Capacity": 764,
+  "Name": "Parque dos Namorados",
+  "CenterPositionLon": -11.195899348606783,
+  "CenterPositionLat": 13.83684088438065
+ },
+ {
+  "ID": 173657030,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -12.61286525348057,
+  "CenterPositionLat": 13.197826205790857
+ },
+ {
+  "ID": 191238034,
+  "Capacity": 203,
+  "Name": "",
+  "CenterPositionLon": -12.347686066553122,
+  "CenterPositionLat": 13.545022604950253
+ },
+ {
+  "ID": 191238035,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": -12.34802290386432,
+  "CenterPositionLat": 13.544563840819745
+ },
+ {
+  "ID": 191238037,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": -12.346877057336167,
+  "CenterPositionLat": 13.544309138885911
+ },
+ {
+  "ID": 191238039,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": -12.347112238336347,
+  "CenterPositionLat": 13.543996382460726
+ },
+ {
+  "ID": 191256139,
+  "Capacity": 362,
+  "Name": "",
+  "CenterPositionLon": -12.350727999364288,
+  "CenterPositionLat": 13.546451729729807
+ },
+ {
+  "ID": 191709986,
+  "Capacity": 26172,
+  "Name": "Floresta da Ilha de Luanda",
+  "CenterPositionLon": -8.776936845080481,
+  "CenterPositionLat": 13.246805820204505
+ },
+ {
+  "ID": 201671792,
+  "Capacity": 6969,
+  "Name": "",
+  "CenterPositionLon": -14.134611846964468,
+  "CenterPositionLat": 14.916598777476205
+ },
+ {
+  "ID": 203968387,
+  "Capacity": 558,
+  "Name": "",
+  "CenterPositionLon": -8.1076265,
+  "CenterPositionLat": 16.28774955
+ },
+ {
+  "ID": 208899515,
+  "Capacity": 594,
+  "Name": "Parque Privado do Palacio",
+  "CenterPositionLon": -9.545604890038579,
+  "CenterPositionLat": 16.34589493040529
+ },
+ {
+  "ID": 224360870,
+  "Capacity": 920,
+  "Name": "Largo Africano",
+  "CenterPositionLon": -8.808829437963457,
+  "CenterPositionLat": 13.249173873316474
+ },
+ {
+  "ID": 224361728,
+  "Capacity": 692,
+  "Name": "Jardim Oasis do Miramar",
+  "CenterPositionLon": -8.809450936781362,
+  "CenterPositionLat": 13.250848602281547
+ },
+ {
+  "ID": 234872398,
+  "Capacity": 2690,
+  "Name": "",
+  "CenterPositionLon": -12.57828726839035,
+  "CenterPositionLat": 13.401180528978333
+ },
+ {
+  "ID": 235330688,
+  "Capacity": 1164,
+  "Name": "Parque Cassequel",
+  "CenterPositionLon": -12.582152007488803,
+  "CenterPositionLat": 13.399664864258744
+ },
+ {
+  "ID": 235605703,
+  "Capacity": 837,
+  "Name": "",
+  "CenterPositionLon": -12.58043058171548,
+  "CenterPositionLat": 13.402944504085081
+ },
+ {
+  "ID": 240626449,
+  "Capacity": 507,
+  "Name": "",
+  "CenterPositionLon": -8.833530764490515,
+  "CenterPositionLat": 13.25544212107385
+ },
+ {
+  "ID": 240777698,
+  "Capacity": 285,
+  "Name": "matadouro municipal",
+  "CenterPositionLon": -14.917905907823394,
+  "CenterPositionLat": 13.515954515448202
+ },
+ {
+  "ID": 240777746,
+  "Capacity": 125,
+  "Name": "",
+  "CenterPositionLon": -14.9192102165286,
+  "CenterPositionLat": 13.489606874818001
+ },
+ {
+  "ID": 240796905,
+  "Capacity": 514,
+  "Name": "",
+  "CenterPositionLon": -14.928885422264015,
+  "CenterPositionLat": 13.50715940906008
+ },
+ {
+  "ID": 240797164,
+  "Capacity": 524,
+  "Name": "",
+  "CenterPositionLon": -14.928756050653814,
+  "CenterPositionLat": 13.508358729389265
+ },
+ {
+  "ID": 241077372,
+  "Capacity": 1049,
+  "Name": "",
+  "CenterPositionLon": -14.91485977955327,
+  "CenterPositionLat": 13.500987935809173
+ },
+ {
+  "ID": 241132622,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": -14.91649446574292,
+  "CenterPositionLat": 13.496658843150811
+ },
+ {
+  "ID": 241228506,
+  "Capacity": 224,
+  "Name": "",
+  "CenterPositionLon": -15.190521655622529,
+  "CenterPositionLat": 12.15257467061673
+ },
+ {
+  "ID": 241228571,
+  "Capacity": 380,
+  "Name": "",
+  "CenterPositionLon": -15.19183644760688,
+  "CenterPositionLat": 12.150590246549205
+ },
+ {
+  "ID": 241228594,
+  "Capacity": 457,
+  "Name": "",
+  "CenterPositionLon": -15.192518967786642,
+  "CenterPositionLat": 12.149626809944717
+ },
+ {
+  "ID": 241228617,
+  "Capacity": 618,
+  "Name": "",
+  "CenterPositionLon": -15.19332261749351,
+  "CenterPositionLat": 12.148382835830478
+ },
+ {
+  "ID": 241228619,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": -15.194030647627127,
+  "CenterPositionLat": 12.147362284645112
+ },
+ {
+  "ID": 241228628,
+  "Capacity": 222,
+  "Name": "",
+  "CenterPositionLon": -15.194572581057292,
+  "CenterPositionLat": 12.146552636641555
+ },
+ {
+  "ID": 241228638,
+  "Capacity": 309,
+  "Name": "",
+  "CenterPositionLon": -15.19507785408937,
+  "CenterPositionLat": 12.145773607471702
+ },
+ {
+  "ID": 241228647,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": -15.195554420979395,
+  "CenterPositionLat": 12.144783356487324
+ },
+ {
+  "ID": 241228751,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": -15.195771740367244,
+  "CenterPositionLat": 12.14483272868785
+ },
+ {
+  "ID": 241774603,
+  "Capacity": 2674,
+  "Name": "Parque Municipal do Namibe",
+  "CenterPositionLon": -15.199077491904756,
+  "CenterPositionLat": 12.146673789046162
+ },
+ {
+  "ID": 242530084,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": -14.917834174338486,
+  "CenterPositionLat": 13.489082060452349
+ },
+ {
+  "ID": 242530343,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": -14.920747097751429,
+  "CenterPositionLat": 13.490210410221572
+ },
+ {
+  "ID": 242699922,
+  "Capacity": 6419,
+  "Name": "Passion Square Park",
+  "CenterPositionLon": -9.000919827182038,
+  "CenterPositionLat": 13.265399216729769
+ },
+ {
+  "ID": 242928241,
+  "Capacity": 191,
+  "Name": "",
+  "CenterPositionLon": -9.002088852106832,
+  "CenterPositionLat": 13.26439843862659
+ },
+ {
+  "ID": 242928270,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": -9.002096465110581,
+  "CenterPositionLat": 13.263992578352251
+ },
+ {
+  "ID": 242928288,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": -9.002167789352018,
+  "CenterPositionLat": 13.263683451096309
+ },
+ {
+  "ID": 242928311,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": -9.002526710048492,
+  "CenterPositionLat": 13.263451067771305
+ },
+ {
+  "ID": 248647792,
+  "Capacity": 6074,
+  "Name": "",
+  "CenterPositionLon": -10.732190237609608,
+  "CenterPositionLat": 13.74976629066789
+ },
+ {
+  "ID": 276923949,
+  "Capacity": 572,
+  "Name": "",
+  "CenterPositionLon": -15.191123047360998,
+  "CenterPositionLat": 12.151647354412178
+ },
+ {
+  "ID": 283805025,
+  "Capacity": 349,
+  "Name": "Jardim",
+  "CenterPositionLon": -8.913469709623701,
+  "CenterPositionLat": 13.185708668427386
+ },
+ {
+  "ID": 297501274,
+  "Capacity": 5322,
+  "Name": "LOGISPARK",
+  "CenterPositionLon": -8.869874473955514,
+  "CenterPositionLat": 13.328410984707121
+ },
+ {
+  "ID": 303906085,
+  "Capacity": 2658,
+  "Name": "",
+  "CenterPositionLon": -9.997718728923052,
+  "CenterPositionLat": 14.893746728018206
+ },
+ {
+  "ID": 310052990,
+  "Capacity": 33552,
+  "Name": "Campo protegido",
+  "CenterPositionLon": -8.867088876246363,
+  "CenterPositionLat": 13.331162675642787
+ },
+ {
+  "ID": 313529329,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": -8.824660092741917,
+  "CenterPositionLat": 13.252706395106076
+ },
+ {
+  "ID": 313529330,
+  "Capacity": 119,
+  "Name": "",
+  "CenterPositionLon": -8.827919110319502,
+  "CenterPositionLat": 13.253205048170436
+ },
+ {
+  "ID": 313529331,
+  "Capacity": 363,
+  "Name": "",
+  "CenterPositionLon": -8.827389075828226,
+  "CenterPositionLat": 13.251351347543086
+ },
+ {
+  "ID": 313529333,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": -8.823767341885647,
+  "CenterPositionLat": 13.251312697640582
+ },
+ {
+  "ID": 313529334,
+  "Capacity": 266,
+  "Name": "",
+  "CenterPositionLon": -8.8263996,
+  "CenterPositionLat": 13.24995575
+ },
+ {
+  "ID": 314233406,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": -8.827798161059203,
+  "CenterPositionLat": 13.239240759169343
+ },
+ {
+  "ID": 314233407,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": -8.83118978117726,
+  "CenterPositionLat": 13.237699170858122
+ },
+ {
+  "ID": 314375178,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": -8.86433975616141,
+  "CenterPositionLat": 13.316602040370482
+ },
+ {
+  "ID": 314375181,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": -8.86344121765086,
+  "CenterPositionLat": 13.314624896327206
+ },
+ {
+  "ID": 314375182,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": -8.864042478206954,
+  "CenterPositionLat": 13.31598032206427
+ },
+ {
+  "ID": 314375191,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": -8.863711277978691,
+  "CenterPositionLat": 13.315339548373926
+ },
+ {
+  "ID": 316383518,
+  "Capacity": 1329,
+  "Name": "",
+  "CenterPositionLon": -8.923648542959208,
+  "CenterPositionLat": 13.361838516566506
+ },
+ {
+  "ID": 355107745,
+  "Capacity": 5410,
+  "Name": "Parque 4 de Abril",
+  "CenterPositionLon": -14.926264289461018,
+  "CenterPositionLat": 13.470190209347807
+ },
+ {
+  "ID": 357879898,
+  "Capacity": 630,
+  "Name": "",
+  "CenterPositionLon": -12.390492203902307,
+  "CenterPositionLat": 16.94176516746824
+ },
+ {
+  "ID": 357893114,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": -12.380511881545209,
+  "CenterPositionLat": 16.941980865950708
+ },
+ {
+  "ID": 359249612,
+  "Capacity": 1271,
+  "Name": "Jardim Agostinho Neto (Salão do Chá)",
+  "CenterPositionLon": -10.851923736571807,
+  "CenterPositionLat": 14.369816001969777
+ },
+ {
+  "ID": 365400186,
+  "Capacity": 299,
+  "Name": "",
+  "CenterPositionLon": -11.127142584691754,
+  "CenterPositionLat": 13.932931271369434
+ },
+ {
+  "ID": 365404853,
+  "Capacity": 217,
+  "Name": "Largo do Amor",
+  "CenterPositionLon": -8.827985200576306,
+  "CenterPositionLat": 13.24879144235393
+ },
+ {
+  "ID": 366729583,
+  "Capacity": 557,
+  "Name": "Largo do Atlético",
+  "CenterPositionLon": -8.812771823854218,
+  "CenterPositionLat": 13.227106775008192
+ },
+ {
+  "ID": 376997810,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": -8.813307224858207,
+  "CenterPositionLat": 13.231163397944103
+ },
+ {
+  "ID": 376997811,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": -8.813446928022856,
+  "CenterPositionLat": 13.22978315751623
+ },
+ {
+  "ID": 379530848,
+  "Capacity": 12681,
+  "Name": "",
+  "CenterPositionLon": -14.853424468933557,
+  "CenterPositionLat": 14.128136251874857
+ },
+ {
+  "ID": 383310434,
+  "Capacity": 9100,
+  "Name": "Praça da República",
+  "CenterPositionLon": -8.823320807997167,
+  "CenterPositionLat": 13.217227300439177
+ },
+ {
+  "ID": 385003865,
+  "Capacity": 2822,
+  "Name": "",
+  "CenterPositionLon": -8.91876584857653,
+  "CenterPositionLat": 13.179873164721181
+ },
+ {
+  "ID": 386000424,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": -8.896268325102374,
+  "CenterPositionLat": 13.228076269165854
+ },
+ {
+  "ID": 419644160,
+  "Capacity": 593,
+  "Name": "",
+  "CenterPositionLon": -12.572452068880484,
+  "CenterPositionLat": 13.40438152446602
+ },
+ {
+  "ID": 420352466,
+  "Capacity": 40682,
+  "Name": "",
+  "CenterPositionLon": -8.984911898248656,
+  "CenterPositionLat": 13.253922654262409
+ },
+ {
+  "ID": 420358623,
+  "Capacity": 360629,
+  "Name": "",
+  "CenterPositionLon": -8.977315909201806,
+  "CenterPositionLat": 13.27399349491445
+ },
+ {
+  "ID": 420365298,
+  "Capacity": 32199,
+  "Name": "",
+  "CenterPositionLon": -9.001886333628901,
+  "CenterPositionLat": 13.282526621990066
+ },
+ {
+  "ID": 420365299,
+  "Capacity": 36336,
+  "Name": "",
+  "CenterPositionLon": -9.001302570558478,
+  "CenterPositionLat": 13.286839273279002
+ },
+ {
+  "ID": 420469454,
+  "Capacity": 400,
+  "Name": "Largo da Ombaka Quarteirão Olombendo",
+  "CenterPositionLon": -8.997067064083641,
+  "CenterPositionLat": 13.257553599566933
+ },
+ {
+  "ID": 420818357,
+  "Capacity": 137191,
+  "Name": "",
+  "CenterPositionLon": -8.983219495704615,
+  "CenterPositionLat": 13.26463029378595
+ },
+ {
+  "ID": 421270882,
+  "Capacity": 16414,
+  "Name": "",
+  "CenterPositionLon": -8.993007511370488,
+  "CenterPositionLat": 13.28262850058702
+ },
+ {
+  "ID": 421270973,
+  "Capacity": 26374,
+  "Name": "",
+  "CenterPositionLon": -8.993011997599234,
+  "CenterPositionLat": 13.287185547958934
+ },
+ {
+  "ID": 421271977,
+  "Capacity": 16908,
+  "Name": "",
+  "CenterPositionLon": -8.996521177574579,
+  "CenterPositionLat": 13.282639104791585
+ },
+ {
+  "ID": 421271979,
+  "Capacity": 18027,
+  "Name": "",
+  "CenterPositionLon": -8.99625104259254,
+  "CenterPositionLat": 13.286521757509284
+ },
+ {
+  "ID": 421274816,
+  "Capacity": 18252,
+  "Name": "",
+  "CenterPositionLon": -8.992858238984995,
+  "CenterPositionLat": 13.249991844411259
+ },
+ {
+  "ID": 421274817,
+  "Capacity": 7825,
+  "Name": "",
+  "CenterPositionLon": -8.992853296014435,
+  "CenterPositionLat": 13.247070629292145
+ },
+ {
+  "ID": 421274818,
+  "Capacity": 32074,
+  "Name": "",
+  "CenterPositionLon": -8.996389181922739,
+  "CenterPositionLat": 13.248600954204452
+ },
+ {
+  "ID": 421274819,
+  "Capacity": 22584,
+  "Name": "",
+  "CenterPositionLon": -9.0006501,
+  "CenterPositionLat": 13.2499801
+ },
+ {
+  "ID": 421274820,
+  "Capacity": 22318,
+  "Name": "",
+  "CenterPositionLon": -9.000658849999999,
+  "CenterPositionLat": 13.2460817
+ },
+ {
+  "ID": 421275518,
+  "Capacity": 18462,
+  "Name": "",
+  "CenterPositionLon": -9.004644741110223,
+  "CenterPositionLat": 13.246047169769755
+ },
+ {
+  "ID": 421275519,
+  "Capacity": 18676,
+  "Name": "",
+  "CenterPositionLon": -9.004636192481954,
+  "CenterPositionLat": 13.249955829830629
+ },
+ {
+  "ID": 421275801,
+  "Capacity": 122179,
+  "Name": "",
+  "CenterPositionLon": -9.010326349394221,
+  "CenterPositionLat": 13.249699619863463
+ },
+ {
+  "ID": 421275802,
+  "Capacity": 5323,
+  "Name": "",
+  "CenterPositionLon": -9.011265597266929,
+  "CenterPositionLat": 13.264900803638106
+ },
+ {
+  "ID": 421275946,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": -8.995220227258507,
+  "CenterPositionLat": 13.255224987271047
+ },
+ {
+  "ID": 423433366,
+  "Capacity": 374,
+  "Name": "",
+  "CenterPositionLon": -8.997594417661622,
+  "CenterPositionLat": 13.256565869755761
+ },
+ {
+  "ID": 423433656,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": -8.997936373967736,
+  "CenterPositionLat": 13.25622218971728
+ },
+ {
+  "ID": 424074009,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": -8.826318951082706,
+  "CenterPositionLat": 13.241719284239263
+ },
+ {
+  "ID": 424129464,
+  "Capacity": 669,
+  "Name": "",
+  "CenterPositionLon": -8.851907547758367,
+  "CenterPositionLat": 13.221221457177453
+ },
+ {
+  "ID": 425610637,
+  "Capacity": 375,
+  "Name": "Largo do Carmo",
+  "CenterPositionLon": -8.816262330070337,
+  "CenterPositionLat": 13.233354878149141
+ },
+ {
+  "ID": 426921717,
+  "Capacity": 183,
+  "Name": "",
+  "CenterPositionLon": -8.819920095039238,
+  "CenterPositionLat": 13.250201547745172
+ },
+ {
+  "ID": 428010475,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": -8.824661139762142,
+  "CenterPositionLat": 13.244803265670779
+ },
+ {
+  "ID": 433039779,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": -8.910901491338372,
+  "CenterPositionLat": 13.183182909039719
+ },
+ {
+  "ID": 433039781,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": -8.91117341867974,
+  "CenterPositionLat": 13.183407076880329
+ },
+ {
+  "ID": 434368259,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": -8.583289119411091,
+  "CenterPositionLat": 13.65725613549885
+ },
+ {
+  "ID": 434470249,
+  "Capacity": 751,
+  "Name": "",
+  "CenterPositionLon": -8.600535041946008,
+  "CenterPositionLat": 13.608307213154948
+ },
+ {
+  "ID": 434470251,
+  "Capacity": 645,
+  "Name": "",
+  "CenterPositionLon": -8.599425930615775,
+  "CenterPositionLat": 13.607111960174972
+ },
+ {
+  "ID": 434470253,
+  "Capacity": 317,
+  "Name": "",
+  "CenterPositionLon": -8.598773422662921,
+  "CenterPositionLat": 13.606393110742932
+ },
+ {
+  "ID": 434771354,
+  "Capacity": 445,
+  "Name": "",
+  "CenterPositionLon": -8.709047428292019,
+  "CenterPositionLat": 13.43818208277542
+ },
+ {
+  "ID": 442634285,
+  "Capacity": 1608,
+  "Name": "Largo do Soweto",
+  "CenterPositionLon": -14.929123361731461,
+  "CenterPositionLat": 13.493882113256191
+ },
+ {
+  "ID": 449376288,
+  "Capacity": 1159,
+  "Name": "",
+  "CenterPositionLon": -12.14564895,
+  "CenterPositionLat": 17.282763799999998
+ },
+ {
+  "ID": 449867605,
+  "Capacity": 3554,
+  "Name": "",
+  "CenterPositionLon": -8.885665511268312,
+  "CenterPositionLat": 13.486588534618212
+ },
+ {
+  "ID": 456612209,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": -14.935967526711096,
+  "CenterPositionLat": 13.467585484443877
+ },
+ {
+  "ID": 474459183,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": -12.34656422312527,
+  "CenterPositionLat": 13.544158445375551
+ },
+ {
+  "ID": 474459184,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": -12.346684442024324,
+  "CenterPositionLat": 13.543948048032009
+ },
+ {
+  "ID": 474459185,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": -12.34686161267067,
+  "CenterPositionLat": 13.543761607405177
+ },
+ {
+  "ID": 474459186,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -12.347063243229142,
+  "CenterPositionLat": 13.543479485942699
+ },
+ {
+  "ID": 474459187,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -12.346355633333333,
+  "CenterPositionLat": 13.5444454
+ },
+ {
+  "ID": 475263223,
+  "Capacity": 1405,
+  "Name": "",
+  "CenterPositionLon": -10.70696691810111,
+  "CenterPositionLat": 22.227283550304435
+ },
+ {
+  "ID": 489806671,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": -9.689501214830987,
+  "CenterPositionLat": 14.425709318624882
+ },
+ {
+  "ID": 489885136,
+  "Capacity": 209666,
+  "Name": "Botanical Gardens",
+  "CenterPositionLon": -9.331115251837852,
+  "CenterPositionLat": 14.903932883442408
+ },
+ {
+  "ID": 490069392,
+  "Capacity": 434,
+  "Name": "",
+  "CenterPositionLon": -9.999212502602571,
+  "CenterPositionLat": 14.893509777868532
+ },
+ {
+  "ID": 490665073,
+  "Capacity": 1026,
+  "Name": "",
+  "CenterPositionLon": -9.140580275468716,
+  "CenterPositionLat": 14.768018814933201
+ },
+ {
+  "ID": 491098933,
+  "Capacity": 1139,
+  "Name": "",
+  "CenterPositionLon": -11.36345175,
+  "CenterPositionLat": 15.1188256
+ },
+ {
+  "ID": 491099405,
+  "Capacity": 1294,
+  "Name": "",
+  "CenterPositionLon": -11.362670486310883,
+  "CenterPositionLat": 15.119193603425163
+ },
+ {
+  "ID": 491104380,
+  "Capacity": 1554,
+  "Name": "",
+  "CenterPositionLon": -11.3669287394909,
+  "CenterPositionLat": 15.11727196572505
+ },
+ {
+  "ID": 491104381,
+  "Capacity": 931,
+  "Name": "",
+  "CenterPositionLon": -11.36809477541248,
+  "CenterPositionLat": 15.116747567627751
+ },
+ {
+  "ID": 491619185,
+  "Capacity": 233,
+  "Name": "",
+  "CenterPositionLon": -10.641087846925478,
+  "CenterPositionLat": 14.335923217343506
+ },
+ {
+  "ID": 491771061,
+  "Capacity": 433,
+  "Name": "",
+  "CenterPositionLon": -9.11076705436951,
+  "CenterPositionLat": 13.687375779309827
+ },
+ {
+  "ID": 496341444,
+  "Capacity": 506,
+  "Name": "",
+  "CenterPositionLon": -9.520041266648883,
+  "CenterPositionLat": 13.958802499865628
+ },
+ {
+  "ID": 498506662,
+  "Capacity": 390,
+  "Name": "",
+  "CenterPositionLon": -9.688254341210033,
+  "CenterPositionLat": 14.422045692526856
+ },
+ {
+  "ID": 530687938,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": -8.802371588588839,
+  "CenterPositionLat": 13.222140225522763
+ },
+ {
+  "ID": 533728969,
+  "Capacity": 455,
+  "Name": "",
+  "CenterPositionLon": -8.819041056694399,
+  "CenterPositionLat": 13.24680917249114
+ },
+ {
+  "ID": 539987829,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": -11.406728897273386,
+  "CenterPositionLat": 14.301004485984992
+ },
+ {
+  "ID": 539987830,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": -11.405424970676295,
+  "CenterPositionLat": 14.301938700426465
+ },
+ {
+  "ID": 539987831,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": -11.40767477420929,
+  "CenterPositionLat": 14.300323023324221
+ },
+ {
+  "ID": 539987832,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": -11.408486100000003,
+  "CenterPositionLat": 14.299740349999999
+ },
+ {
+  "ID": 539987833,
+  "Capacity": 1027,
+  "Name": "",
+  "CenterPositionLon": -11.407453001126658,
+  "CenterPositionLat": 14.299989451927543
+ },
+ {
+  "ID": 539987834,
+  "Capacity": 674,
+  "Name": "",
+  "CenterPositionLon": -11.40656431214571,
+  "CenterPositionLat": 14.300714649159524
+ },
+ {
+  "ID": 539987836,
+  "Capacity": 146,
+  "Name": "",
+  "CenterPositionLon": -11.407486284285405,
+  "CenterPositionLat": 14.299382678468316
+ },
+ {
+  "ID": 539987837,
+  "Capacity": 578,
+  "Name": "",
+  "CenterPositionLon": -11.408189220514688,
+  "CenterPositionLat": 14.299383689776052
+ },
+ {
+  "ID": 540229902,
+  "Capacity": 3627,
+  "Name": "",
+  "CenterPositionLon": -9.04222000454938,
+  "CenterPositionLat": 13.51019109526853
+ },
+ {
+  "ID": 540229903,
+  "Capacity": 604,
+  "Name": "",
+  "CenterPositionLon": -9.046917618959464,
+  "CenterPositionLat": 13.503857768270443
+ },
+ {
+  "ID": 540229904,
+  "Capacity": 298,
+  "Name": "",
+  "CenterPositionLon": -9.04720158001068,
+  "CenterPositionLat": 13.504100010341626
+ },
+ {
+  "ID": 540229905,
+  "Capacity": 333,
+  "Name": "",
+  "CenterPositionLon": -9.046649674428021,
+  "CenterPositionLat": 13.503672778714032
+ },
+ {
+  "ID": 540229906,
+  "Capacity": 4555,
+  "Name": "",
+  "CenterPositionLon": -9.04563955,
+  "CenterPositionLat": 13.50317055
+ },
+ {
+  "ID": 540263685,
+  "Capacity": 269,
+  "Name": "",
+  "CenterPositionLon": -9.043369838138426,
+  "CenterPositionLat": 13.501794973559758
+ },
+ {
+  "ID": 540263686,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": -9.042598894176756,
+  "CenterPositionLat": 13.502906631414886
+ },
+ {
+  "ID": 540263687,
+  "Capacity": 266,
+  "Name": "",
+  "CenterPositionLon": -9.043970493162572,
+  "CenterPositionLat": 13.502289208645568
+ },
+ {
+  "ID": 540263688,
+  "Capacity": 227,
+  "Name": "",
+  "CenterPositionLon": -9.043222420871693,
+  "CenterPositionLat": 13.503307350156032
+ },
+ {
+  "ID": 540263689,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": -9.043673673330062,
+  "CenterPositionLat": 13.502589258818203
+ },
+ {
+  "ID": 540263690,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": -9.043138908533752,
+  "CenterPositionLat": 13.50219266168282
+ },
+ {
+  "ID": 540263691,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": -9.042870760982222,
+  "CenterPositionLat": 13.502540704060461
+ },
+ {
+  "ID": 540263692,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": -9.043402863800257,
+  "CenterPositionLat": 13.50295403884119
+ },
+ {
+  "ID": 555316874,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": -11.659065033333333,
+  "CenterPositionLat": 20.448943366666665
+ },
+ {
+  "ID": 572187486,
+  "Capacity": 849,
+  "Name": "Parque Nova Vida",
+  "CenterPositionLon": -8.909281746629553,
+  "CenterPositionLat": 13.229160113305987
+ },
+ {
+  "ID": 573089697,
+  "Capacity": 628,
+  "Name": "",
+  "CenterPositionLon": -12.35555193708475,
+  "CenterPositionLat": 14.773304048361616
+ },
+ {
+  "ID": 595662675,
+  "Capacity": 317,
+  "Name": "",
+  "CenterPositionLon": -8.81632311301824,
+  "CenterPositionLat": 13.2206322187958
+ },
+ {
+  "ID": 647251913,
+  "Capacity": 13,
+  "Name": "casa do fiscais",
+  "CenterPositionLon": -16.30221300429377,
+  "CenterPositionLat": 12.41756253002945
+ },
+ {
+  "ID": 647252025,
+  "Capacity": 11,
+  "Name": "escritorio",
+  "CenterPositionLon": -16.3021410398118,
+  "CenterPositionLat": 12.417219339139683
+ },
+ {
+  "ID": 647253911,
+  "Capacity": 9,
+  "Name": "casa do fiscal",
+  "CenterPositionLon": -16.786882804061097,
+  "CenterPositionLat": 12.357950184735083
+ },
+ {
+  "ID": 647255456,
+  "Capacity": 19,
+  "Name": "posto control",
+  "CenterPositionLon": -16.786443711023143,
+  "CenterPositionLat": 12.358154673369668
+ },
+ {
+  "ID": 647256312,
+  "Capacity": 6254,
+  "Name": "parque do iona espinheira",
+  "CenterPositionLon": -16.78662849341384,
+  "CenterPositionLat": 12.357645807319221
+ },
+ {
+  "ID": 649076485,
+  "Capacity": 490425,
+  "Name": "mooguera",
+  "CenterPositionLon": -14.518299832894268,
+  "CenterPositionLat": 13.405328589941139
+ },
+ {
+  "ID": 650538016,
+  "Capacity": 7739,
+  "Name": "cantinho do chiriquata",
+  "CenterPositionLon": -14.875289169973147,
+  "CenterPositionLat": 13.452574924310674
+ },
+ {
+  "ID": 655807859,
+  "Capacity": 287,
+  "Name": "",
+  "CenterPositionLon": -8.814267187322864,
+  "CenterPositionLat": 13.246218734043879
+ },
+ {
+  "ID": 655984639,
+  "Capacity": 432,
+  "Name": "",
+  "CenterPositionLon": -8.817226051190096,
+  "CenterPositionLat": 13.247255566060096
+ },
+ {
+  "ID": 667593425,
+  "Capacity": 928,
+  "Name": "",
+  "CenterPositionLon": -9.021189385866332,
+  "CenterPositionLat": 13.401156381672847
+ },
+ {
+  "ID": 672837874,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": -14.915776340300415,
+  "CenterPositionLat": 13.498511809012022
+ },
+ {
+  "ID": 672842494,
+  "Capacity": 504,
+  "Name": "Estufa Nsa Sra do Monte",
+  "CenterPositionLon": -14.93930358173473,
+  "CenterPositionLat": 13.466044771292975
+ },
+ {
+  "ID": 678152768,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": -12.38651275,
+  "CenterPositionLat": 16.93455775
+ },
+ {
+  "ID": 678152780,
+  "Capacity": 417,
+  "Name": "",
+  "CenterPositionLon": -12.385024428189334,
+  "CenterPositionLat": 16.940054366611346
+ },
+ {
+  "ID": 678174449,
+  "Capacity": 13979,
+  "Name": "",
+  "CenterPositionLon": -15.159634889781817,
+  "CenterPositionLat": 19.16385590953329
+ },
+ {
+  "ID": 685182445,
+  "Capacity": 103,
+  "Name": "pata da zebra",
+  "CenterPositionLon": -15.017217973191753,
+  "CenterPositionLat": 12.604340920383175
+ },
+ {
+  "ID": 695513208,
+  "Capacity": 6414,
+  "Name": "",
+  "CenterPositionLon": -9.31277834104223,
+  "CenterPositionLat": 13.16893648966564
+ },
+ {
+  "ID": 695837408,
+  "Capacity": 3455,
+  "Name": "Parque da Paz",
+  "CenterPositionLon": -8.993402291054226,
+  "CenterPositionLat": 13.265434468078803
+ },
+ {
+  "ID": 695837409,
+  "Capacity": 4644,
+  "Name": "Parque da Amizade",
+  "CenterPositionLon": -8.996469804488132,
+  "CenterPositionLat": 13.265415274502766
+ },
+ {
+  "ID": 695837583,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": -8.992776024885377,
+  "CenterPositionLat": 13.264267589244032
+ },
+ {
+  "ID": 695838531,
+  "Capacity": 196,
+  "Name": "Parque da Maianga",
+  "CenterPositionLon": -8.825771685622197,
+  "CenterPositionLat": 13.228765717136454
+ },
+ {
+  "ID": 695838939,
+  "Capacity": 715,
+  "Name": "Parque Zé Dú",
+  "CenterPositionLon": -8.827600831049498,
+  "CenterPositionLat": 13.221502866164048
+ },
+ {
+  "ID": 695850942,
+  "Capacity": 11161,
+  "Name": "Jardim dos Noivos",
+  "CenterPositionLon": -8.999553399466288,
+  "CenterPositionLat": 13.254044455239463
+ },
+ {
+  "ID": 704284894,
+  "Capacity": 1360,
+  "Name": "",
+  "CenterPositionLon": -11.365132071162142,
+  "CenterPositionLat": 15.118071409060576
+ },
+ {
+  "ID": 705408733,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": -13.737828037664466,
+  "CenterPositionLat": 15.061642102364146
+ },
+ {
+  "ID": 705448439,
+  "Capacity": 146,
+  "Name": "",
+  "CenterPositionLon": -14.737558561036458,
+  "CenterPositionLat": 14.971086204117944
+ },
+ {
+  "ID": 735162326,
+  "Capacity": 356,
+  "Name": "",
+  "CenterPositionLon": -15.1976882,
+  "CenterPositionLat": 12.14149145
+ },
+ {
+  "ID": 735174650,
+  "Capacity": 353,
+  "Name": "Praça da Estação",
+  "CenterPositionLon": -15.19133636592986,
+  "CenterPositionLat": 12.150478565176398
+ },
+ {
+  "ID": 735174663,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": -15.19306837965812,
+  "CenterPositionLat": 12.151980391532154
+ },
+ {
+  "ID": 736522753,
+  "Capacity": 1475,
+  "Name": "",
+  "CenterPositionLon": -13.018762577211232,
+  "CenterPositionLat": 14.633293553190061
+ },
+ {
+  "ID": 736644207,
+  "Capacity": 655,
+  "Name": "",
+  "CenterPositionLon": -13.039918900514081,
+  "CenterPositionLat": 14.246173974549235
+ },
+ {
+  "ID": 761369444,
+  "Capacity": 3072,
+  "Name": "Parque Público Nascente",
+  "CenterPositionLon": -15.228998285036834,
+  "CenterPositionLat": 12.15585446683991
+ },
+ {
+  "ID": 761371636,
+  "Capacity": 4084,
+  "Name": "Parque Público Central",
+  "CenterPositionLon": -15.227771121229184,
+  "CenterPositionLat": 12.153874821097467
+ },
+ {
+  "ID": 761507727,
+  "Capacity": 3077,
+  "Name": "Parque Público Poente",
+  "CenterPositionLon": -15.22621346589484,
+  "CenterPositionLat": 12.152151973379315
+ },
+ {
+  "ID": 761507728,
+  "Capacity": 1082,
+  "Name": "Parque Público da Rotunda Norte",
+  "CenterPositionLon": -15.22501237623036,
+  "CenterPositionLat": 12.15608527011114
+ },
+ {
+  "ID": 767121560,
+  "Capacity": 416,
+  "Name": "Jardim Central da Arimba",
+  "CenterPositionLon": -14.94814472017749,
+  "CenterPositionLat": 13.595185664562338
+ },
+ {
+  "ID": 772412729,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": -13.738846276661121,
+  "CenterPositionLat": 15.061967925438873
+ },
+ {
+  "ID": 772412730,
+  "Capacity": 550,
+  "Name": "",
+  "CenterPositionLon": -13.740266863891462,
+  "CenterPositionLat": 15.062434853352258
+ },
+ {
+  "ID": 772412734,
+  "Capacity": 251,
+  "Name": "",
+  "CenterPositionLon": -13.736835772684985,
+  "CenterPositionLat": 15.061326424295482
+ },
+ {
+  "ID": 772412735,
+  "Capacity": 299,
+  "Name": "",
+  "CenterPositionLon": -13.735817669060173,
+  "CenterPositionLat": 15.061002673342966
+ },
+ {
+  "ID": 772412736,
+  "Capacity": 299,
+  "Name": "",
+  "CenterPositionLon": -13.734717930727207,
+  "CenterPositionLat": 15.060645920657649
+ },
+ {
+  "ID": 775065404,
+  "Capacity": 1714,
+  "Name": "",
+  "CenterPositionLon": -9.658324864611897,
+  "CenterPositionLat": 20.396238853400064
+ },
+ {
+  "ID": 778668275,
+  "Capacity": 25,
+  "Name": "plaza verde",
+  "CenterPositionLon": -9.663025955138535,
+  "CenterPositionLat": 20.429814793397785
+ },
+ {
+  "ID": 778676404,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": -9.681757388371556,
+  "CenterPositionLat": 20.38409128026817
+ },
+ {
+  "ID": 778683882,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": -9.66299969940271,
+  "CenterPositionLat": 20.429524881045733
+ },
+ {
+  "ID": 778684049,
+  "Capacity": 30,
+  "Name": "plaza verde",
+  "CenterPositionLon": -9.659256105638692,
+  "CenterPositionLat": 20.35667473959154
+ },
+ {
+  "ID": 778684086,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": -9.6554966983163,
+  "CenterPositionLat": 20.38819278307988
+ },
+ {
+  "ID": 778684097,
+  "Capacity": 1544,
+  "Name": "",
+  "CenterPositionLon": -9.654567260041079,
+  "CenterPositionLat": 20.39743007003533
+ },
+ {
+  "ID": 778684107,
+  "Capacity": 818,
+  "Name": "",
+  "CenterPositionLon": -9.662447964443977,
+  "CenterPositionLat": 20.392287424012284
+ },
+ {
+  "ID": 778684402,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": -9.6546106,
+  "CenterPositionLat": 20.3908019
+ },
+ {
+  "ID": 778684404,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": -9.654316290029207,
+  "CenterPositionLat": 20.390336040797926
+ },
+ {
+  "ID": 778684418,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": -9.655605642646716,
+  "CenterPositionLat": 20.39020966645337
+ },
+ {
+  "ID": 778689586,
+  "Capacity": 6,
+  "Name": "Parque",
+  "CenterPositionLon": -9.657248859564724,
+  "CenterPositionLat": 20.382189738356868
+ },
+ {
+  "ID": 781446738,
+  "Capacity": 765,
+  "Name": "Jardim do Mercado Municipal",
+  "CenterPositionLon": -12.58157098873721,
+  "CenterPositionLat": 13.40693652796865
+ },
+ {
+  "ID": 781670452,
+  "Capacity": 229,
+  "Name": "Parque Eça de Queirós",
+  "CenterPositionLon": -12.586972278447758,
+  "CenterPositionLat": 13.407348344141187
+ },
+ {
+  "ID": 782189808,
+  "Capacity": 778,
+  "Name": "Parque Alda Lara",
+  "CenterPositionLon": -12.586934245004084,
+  "CenterPositionLat": 13.405111523404132
+ },
+ {
+  "ID": 789110607,
+  "Capacity": 1590,
+  "Name": "",
+  "CenterPositionLon": -7.759566737254693,
+  "CenterPositionLat": 15.257562525768982
+ },
+ {
+  "ID": 791997788,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": -9.66225375,
+  "CenterPositionLat": 20.4704984
+ },
+ {
+  "ID": 791997789,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": -9.6622885,
+  "CenterPositionLat": 20.47101535
+ },
+ {
+  "ID": 791997801,
+  "Capacity": 501,
+  "Name": "",
+  "CenterPositionLon": -9.661673350258049,
+  "CenterPositionLat": 20.469993664278366
+ }
+]

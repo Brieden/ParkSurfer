@@ -1,0 +1,37 @@
+[
+ {
+  "ID": 361887020,
+  "Capacity": 67,
+  "Name": "Square de la Rétrocession",
+  "CenterPositionLon": 17.895491649628212,
+  "CenterPositionLat": -62.84888831945274
+ },
+ {
+  "ID": 399501396,
+  "Capacity": 332,
+  "Name": "",
+  "CenterPositionLon": 17.89835843558482,
+  "CenterPositionLat": -62.85261254641891
+ },
+ {
+  "ID": 399502578,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 17.8979002,
+  "CenterPositionLat": -62.852637566666665
+ },
+ {
+  "ID": 530980181,
+  "Capacity": 1744,
+  "Name": "",
+  "CenterPositionLon": 17.9022010182936,
+  "CenterPositionLat": -62.84109064068765
+ },
+ {
+  "ID": 695527952,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 17.89841354178417,
+  "CenterPositionLat": -62.853731317740646
+ }
+]

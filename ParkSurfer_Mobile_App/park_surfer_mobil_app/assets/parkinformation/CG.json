@@ -1,0 +1,177 @@
+[
+ {
+  "ID": 364766139,
+  "Capacity": 694,
+  "Name": "",
+  "CenterPositionLon": -4.281456288523031,
+  "CenterPositionLat": 15.260987392626669
+ },
+ {
+  "ID": 364766140,
+  "Capacity": 3521,
+  "Name": "Esplanade Marien Ngouabi",
+  "CenterPositionLon": -4.279318220643465,
+  "CenterPositionLat": 15.27269419982851
+ },
+ {
+  "ID": 364766141,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": -4.27979750587946,
+  "CenterPositionLat": 15.271443803427195
+ },
+ {
+  "ID": 364766142,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": -4.2790314867173995,
+  "CenterPositionLat": 15.274310341720641
+ },
+ {
+  "ID": 364766143,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": -4.278419743188807,
+  "CenterPositionLat": 15.277601110449936
+ },
+ {
+  "ID": 364766144,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": -4.26970446060232,
+  "CenterPositionLat": 15.264009138181494
+ },
+ {
+  "ID": 364766145,
+  "Capacity": 786,
+  "Name": "",
+  "CenterPositionLon": -4.263435774873595,
+  "CenterPositionLat": 15.261198584073037
+ },
+ {
+  "ID": 364766147,
+  "Capacity": 1214,
+  "Name": "",
+  "CenterPositionLon": -4.271675796408818,
+  "CenterPositionLat": 15.255305354690787
+ },
+ {
+  "ID": 364766148,
+  "Capacity": 1488,
+  "Name": "",
+  "CenterPositionLon": -4.282184419338617,
+  "CenterPositionLat": 15.255829070555718
+ },
+ {
+  "ID": 364766149,
+  "Capacity": 414,
+  "Name": "Place Rotary",
+  "CenterPositionLon": -4.2842476137501775,
+  "CenterPositionLat": 15.25403349021691
+ },
+ {
+  "ID": 364766150,
+  "Capacity": 4301,
+  "Name": "",
+  "CenterPositionLon": -4.285443592714617,
+  "CenterPositionLat": 15.254033388356078
+ },
+ {
+  "ID": 364766151,
+  "Capacity": 1389,
+  "Name": "",
+  "CenterPositionLon": -4.2856456817487905,
+  "CenterPositionLat": 15.252979016342119
+ },
+ {
+  "ID": 364766152,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": -4.286637369625568,
+  "CenterPositionLat": 15.257261245002422
+ },
+ {
+  "ID": 368806392,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": -4.275706194572293,
+  "CenterPositionLat": 15.258256067070466
+ },
+ {
+  "ID": 368806393,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": -4.277693278164095,
+  "CenterPositionLat": 15.25976477905997
+ },
+ {
+  "ID": 368806397,
+  "Capacity": 432,
+  "Name": "",
+  "CenterPositionLon": -4.2801031913137555,
+  "CenterPositionLat": 15.271043799313931
+ },
+ {
+  "ID": 368806405,
+  "Capacity": 438,
+  "Name": "",
+  "CenterPositionLon": -4.278338358106884,
+  "CenterPositionLat": 15.268622158007126
+ },
+ {
+  "ID": 370977116,
+  "Capacity": 649,
+  "Name": "",
+  "CenterPositionLon": -4.267623003603232,
+  "CenterPositionLat": 15.284618642729104
+ },
+ {
+  "ID": 389420360,
+  "Capacity": 455,
+  "Name": "",
+  "CenterPositionLon": -1.1631405530895795,
+  "CenterPositionLat": 15.971406305525708
+ },
+ {
+  "ID": 526203412,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": -4.476841049031357,
+  "CenterPositionLat": 11.716581514334019
+ },
+ {
+  "ID": 526203414,
+  "Capacity": 232,
+  "Name": "",
+  "CenterPositionLon": -4.477033221955294,
+  "CenterPositionLat": 11.71631425167338
+ },
+ {
+  "ID": 729950671,
+  "Capacity": 716,
+  "Name": "",
+  "CenterPositionLon": -0.8740252349323093,
+  "CenterPositionLat": 14.816764171350233
+ },
+ {
+  "ID": 772734684,
+  "Capacity": 2965,
+  "Name": "Parc automoblie UTA",
+  "CenterPositionLon": -4.733675974882587,
+  "CenterPositionLat": 11.918596760981318
+ },
+ {
+  "ID": 781432880,
+  "Capacity": 226,
+  "Name": "Jardin public",
+  "CenterPositionLon": -4.1849940155323795,
+  "CenterPositionLat": 13.284007035403235
+ },
+ {
+  "ID": 781432881,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -4.184994329736217,
+  "CenterPositionLat": 13.284000591674374
+ }
+]

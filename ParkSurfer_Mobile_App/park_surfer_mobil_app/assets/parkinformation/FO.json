@@ -1,0 +1,142 @@
+[
+ {
+  "ID": 59031485,
+  "Capacity": 3264,
+  "Name": "Viðarlundin",
+  "CenterPositionLon": 62.15604244180535,
+  "CenterPositionLat": -7.1696448129755
+ },
+ {
+  "ID": 61961443,
+  "Capacity": 903,
+  "Name": "",
+  "CenterPositionLon": 62.007583409786086,
+  "CenterPositionLat": -6.778572506265266
+ },
+ {
+  "ID": 468517080,
+  "Capacity": 2620,
+  "Name": "",
+  "CenterPositionLon": 62.006250681528634,
+  "CenterPositionLat": -6.785796609382176
+ },
+ {
+  "ID": 469218906,
+  "Capacity": 148,
+  "Name": "",
+  "CenterPositionLon": 62.14990827282878,
+  "CenterPositionLat": -7.151517591436261
+ },
+ {
+  "ID": 501834759,
+  "Capacity": 21025,
+  "Name": "",
+  "CenterPositionLon": 62.01618887898695,
+  "CenterPositionLat": -6.780203181640724
+ },
+ {
+  "ID": 502782441,
+  "Capacity": 5103,
+  "Name": "",
+  "CenterPositionLon": 61.56338048498197,
+  "CenterPositionLat": -6.864656929085746
+ },
+ {
+  "ID": 559494755,
+  "Capacity": 13028,
+  "Name": "Viðarlundin úti í grøv",
+  "CenterPositionLon": 62.225347944488405,
+  "CenterPositionLat": -6.562174857030477
+ },
+ {
+  "ID": 560103025,
+  "Capacity": 911,
+  "Name": "",
+  "CenterPositionLon": 62.22613475013352,
+  "CenterPositionLat": -6.584499005741755
+ },
+ {
+  "ID": 585771083,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": 62.00979513773175,
+  "CenterPositionLat": -6.772031827729139
+ },
+ {
+  "ID": 691239102,
+  "Capacity": 338,
+  "Name": "",
+  "CenterPositionLon": 61.95300292917936,
+  "CenterPositionLat": -6.795287221402234
+ },
+ {
+  "ID": 696463896,
+  "Capacity": 3530,
+  "Name": "",
+  "CenterPositionLon": 62.35910544719466,
+  "CenterPositionLat": -6.536014642353202
+ },
+ {
+  "ID": 696949248,
+  "Capacity": 2761,
+  "Name": "",
+  "CenterPositionLon": 62.04771709783159,
+  "CenterPositionLat": -7.193940551896464
+ },
+ {
+  "ID": 717915669,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 62.299149338621824,
+  "CenterPositionLat": -7.092937406067289
+ },
+ {
+  "ID": 718504078,
+  "Capacity": 381,
+  "Name": "",
+  "CenterPositionLon": 62.30375155522976,
+  "CenterPositionLat": -7.090842743155978
+ },
+ {
+  "ID": 724456413,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": 62.324004606893446,
+  "CenterPositionLat": -6.943688876984599
+ },
+ {
+  "ID": 740827272,
+  "Capacity": 609,
+  "Name": "",
+  "CenterPositionLon": 62.14215695086235,
+  "CenterPositionLat": -6.727646472314267
+ },
+ {
+  "ID": 740827359,
+  "Capacity": 327,
+  "Name": "",
+  "CenterPositionLon": 62.141928859881254,
+  "CenterPositionLat": -6.714984584110546
+ },
+ {
+  "ID": 751411101,
+  "Capacity": 249,
+  "Name": "",
+  "CenterPositionLon": 62.11488342369697,
+  "CenterPositionLat": -6.722524289248936
+ },
+ {
+  "ID": 762997315,
+  "Capacity": 263,
+  "Name": "",
+  "CenterPositionLon": 62.21042328338717,
+  "CenterPositionLat": -6.699198167287056
+ },
+ {
+  "ID": 762997316,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 62.209336191435355,
+  "CenterPositionLat": -6.701323577137188
+ }
+]

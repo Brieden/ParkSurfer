@@ -1,0 +1,51 @@
+[
+ {
+  "ID": 307818398,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 12.068703374928761,
+  "CenterPositionLat": -15.31646667881001
+ },
+ {
+  "ID": 307824561,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 12.067057959024448,
+  "CenterPositionLat": -15.318257767967925
+ },
+ {
+  "ID": 376490396,
+  "Capacity": 2612,
+  "Name": "",
+  "CenterPositionLon": 11.576812251546082,
+  "CenterPositionLat": -15.475151807021874
+ },
+ {
+  "ID": 377429453,
+  "Capacity": 801,
+  "Name": "",
+  "CenterPositionLon": 11.894343535468618,
+  "CenterPositionLat": -15.851386879976458
+ },
+ {
+  "ID": 377885344,
+  "Capacity": 535,
+  "Name": "",
+  "CenterPositionLon": 12.479774714891908,
+  "CenterPositionLat": -15.221042461734067
+ },
+ {
+  "ID": 378113311,
+  "Capacity": 374,
+  "Name": "",
+  "CenterPositionLon": 11.794507481547695,
+  "CenterPositionLat": -15.934957418573987
+ },
+ {
+  "ID": 572352190,
+  "Capacity": 3726,
+  "Name": "Parque Europa - Lagoa de M´batonha",
+  "CenterPositionLon": 11.856913415998545,
+  "CenterPositionLat": -15.583838857318158
+ }
+]

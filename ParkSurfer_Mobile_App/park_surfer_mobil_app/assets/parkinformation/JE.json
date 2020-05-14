@@ -1,0 +1,933 @@
+[
+ {
+  "ID": 114460739,
+  "Capacity": 6301,
+  "Name": "Howard Davis Park",
+  "CenterPositionLon": 49.180039879493556,
+  "CenterPositionLat": -2.097153482377781
+ },
+ {
+  "ID": 118487431,
+  "Capacity": 706,
+  "Name": "The Parade",
+  "CenterPositionLon": 49.18723300674152,
+  "CenterPositionLat": -2.1102432155237767
+ },
+ {
+  "ID": 118487432,
+  "Capacity": 2603,
+  "Name": "Parade Gardens",
+  "CenterPositionLon": 49.188370363159834,
+  "CenterPositionLat": -2.1110030478338238
+ },
+ {
+  "ID": 119608695,
+  "Capacity": 1284,
+  "Name": "Victoria Park (Triangle Pk)",
+  "CenterPositionLon": 49.18816340575822,
+  "CenterPositionLat": -2.1161096989301966
+ },
+ {
+  "ID": 119608696,
+  "Capacity": 4740,
+  "Name": "People's Park",
+  "CenterPositionLon": 49.189241555047566,
+  "CenterPositionLat": -2.115639769227353
+ },
+ {
+  "ID": 164987617,
+  "Capacity": 2481,
+  "Name": "Millennium Town Park",
+  "CenterPositionLon": 49.187631366154335,
+  "CenterPositionLat": -2.100820746323717
+ },
+ {
+  "ID": 166428993,
+  "Capacity": 2879,
+  "Name": "Gorey Village Green",
+  "CenterPositionLon": 49.195240023048925,
+  "CenterPositionLat": -2.0333259669371917
+ },
+ {
+  "ID": 166429106,
+  "Capacity": 3850,
+  "Name": "Gorey Common",
+  "CenterPositionLon": 49.19548864848311,
+  "CenterPositionLat": -2.031350818979736
+ },
+ {
+  "ID": 166486204,
+  "Capacity": 1529,
+  "Name": "Les Jardins de la Mer",
+  "CenterPositionLon": 49.1860511330184,
+  "CenterPositionLat": -2.1155259604628838
+ },
+ {
+  "ID": 166526689,
+  "Capacity": 2916,
+  "Name": "Lower Park",
+  "CenterPositionLon": 49.18982979913442,
+  "CenterPositionLat": -2.119986917544729
+ },
+ {
+  "ID": 167347839,
+  "Capacity": 2535,
+  "Name": "Castle Green",
+  "CenterPositionLon": 49.20030462628475,
+  "CenterPositionLat": -2.0198956358347657
+ },
+ {
+  "ID": 168130649,
+  "Capacity": 6275,
+  "Name": "West Park",
+  "CenterPositionLon": 49.190394093187166,
+  "CenterPositionLat": -2.1192873673812027
+ },
+ {
+  "ID": 168966987,
+  "Capacity": 4034,
+  "Name": "St.Martin's Village Green",
+  "CenterPositionLon": 49.21853188141854,
+  "CenterPositionLat": -2.0545990863699872
+ },
+ {
+  "ID": 169086608,
+  "Capacity": 657,
+  "Name": "",
+  "CenterPositionLon": 49.19897547698213,
+  "CenterPositionLat": -2.0245214718332396
+ },
+ {
+  "ID": 169087995,
+  "Capacity": 252,
+  "Name": "Devon Gardens",
+  "CenterPositionLon": 49.1994685543297,
+  "CenterPositionLat": -2.023751150347607
+ },
+ {
+  "ID": 169215399,
+  "Capacity": 3498,
+  "Name": "Churchill Memorial Park",
+  "CenterPositionLon": 49.18671146703588,
+  "CenterPositionLat": -2.199057376777524
+ },
+ {
+  "ID": 169216216,
+  "Capacity": 229124,
+  "Name": "Les Blanches Banques (dunes)",
+  "CenterPositionLon": 49.19727479574593,
+  "CenterPositionLat": -2.215769958384257
+ },
+ {
+  "ID": 169336147,
+  "Capacity": 0,
+  "Name": "Coronation Park",
+  "CenterPositionLon": 49.1975897,
+  "CenterPositionLat": -2.1392066
+ },
+ {
+  "ID": 169454630,
+  "Capacity": 1200,
+  "Name": "Les Pres d'Auvergne",
+  "CenterPositionLon": 49.23500583740044,
+  "CenterPositionLat": -2.2283332449824558
+ },
+ {
+  "ID": 171203517,
+  "Capacity": 7106,
+  "Name": "St.Andrew's",
+  "CenterPositionLon": 49.196947589809625,
+  "CenterPositionLat": -2.13081302628631
+ },
+ {
+  "ID": 171992960,
+  "Capacity": 102,
+  "Name": "Seven Oaks",
+  "CenterPositionLon": 49.18907023198183,
+  "CenterPositionLat": -2.18025014529364
+ },
+ {
+  "ID": 173582136,
+  "Capacity": 1855,
+  "Name": "",
+  "CenterPositionLon": 49.213126722446425,
+  "CenterPositionLat": -2.133755922395881
+ },
+ {
+  "ID": 173614215,
+  "Capacity": 1380,
+  "Name": "",
+  "CenterPositionLon": 49.191493379038995,
+  "CenterPositionLat": -2.1012005559583233
+ },
+ {
+  "ID": 173623301,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 49.17580221759645,
+  "CenterPositionLat": -2.1085804371340977
+ },
+ {
+  "ID": 173758959,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 49.21586654850608,
+  "CenterPositionLat": -2.0299489612766037
+ },
+ {
+  "ID": 173910848,
+  "Capacity": 13245,
+  "Name": "",
+  "CenterPositionLon": 49.19328624017097,
+  "CenterPositionLat": -2.19339723019618
+ },
+ {
+  "ID": 173911567,
+  "Capacity": 785,
+  "Name": "",
+  "CenterPositionLon": 49.1886061664541,
+  "CenterPositionLat": -2.1992268290188166
+ },
+ {
+  "ID": 173915925,
+  "Capacity": 100,
+  "Name": "Croix de Bataille",
+  "CenterPositionLon": 49.181542333461145,
+  "CenterPositionLat": -2.058093227579592
+ },
+ {
+  "ID": 173917982,
+  "Capacity": 602,
+  "Name": "",
+  "CenterPositionLon": 49.200513671513306,
+  "CenterPositionLat": -2.041620711279234
+ },
+ {
+  "ID": 173927389,
+  "Capacity": 2493,
+  "Name": "",
+  "CenterPositionLon": 49.18217715006046,
+  "CenterPositionLat": -2.177821625179074
+ },
+ {
+  "ID": 175054884,
+  "Capacity": 4562,
+  "Name": "NT(J)",
+  "CenterPositionLon": 49.202449398232766,
+  "CenterPositionLat": -2.020352921832402
+ },
+ {
+  "ID": 177516177,
+  "Capacity": 253,
+  "Name": "",
+  "CenterPositionLon": 49.20307051644935,
+  "CenterPositionLat": -2.026758272671984
+ },
+ {
+  "ID": 177521522,
+  "Capacity": 2746,
+  "Name": "",
+  "CenterPositionLon": 49.16900103258117,
+  "CenterPositionLat": -2.0638371299091065
+ },
+ {
+  "ID": 178177454,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": 49.22846886939982,
+  "CenterPositionLat": -2.07750769077152
+ },
+ {
+  "ID": 178314841,
+  "Capacity": 2035,
+  "Name": "La Collette",
+  "CenterPositionLon": 49.17551219492649,
+  "CenterPositionLat": -2.1074177774559857
+ },
+ {
+  "ID": 178605801,
+  "Capacity": 10164,
+  "Name": "Goose Green Marsh",
+  "CenterPositionLon": 49.19844375760382,
+  "CenterPositionLat": -2.157059188183768
+ },
+ {
+  "ID": 178607945,
+  "Capacity": 8352,
+  "Name": "",
+  "CenterPositionLon": 49.23183501731866,
+  "CenterPositionLat": -2.2351009399868933
+ },
+ {
+  "ID": 179269481,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 49.209280838833905,
+  "CenterPositionLat": -2.061226641735475
+ },
+ {
+  "ID": 179276781,
+  "Capacity": 63,
+  "Name": "Croix de Bois",
+  "CenterPositionLon": 49.19824459383107,
+  "CenterPositionLat": -2.0814803054723607
+ },
+ {
+  "ID": 179278567,
+  "Capacity": 596,
+  "Name": "Patier Park",
+  "CenterPositionLon": 49.19465955108404,
+  "CenterPositionLat": -2.088218426932115
+ },
+ {
+  "ID": 179411189,
+  "Capacity": 6612,
+  "Name": "Le Grouin",
+  "CenterPositionLon": 49.18249898759533,
+  "CenterPositionLat": -2.1890225679144484
+ },
+ {
+  "ID": 179412073,
+  "Capacity": 24133,
+  "Name": "Ouaisne Common",
+  "CenterPositionLon": 49.17979001954507,
+  "CenterPositionLat": -2.1841595111042507
+ },
+ {
+  "ID": 179412074,
+  "Capacity": 54049,
+  "Name": "Portelet Common",
+  "CenterPositionLon": 49.17257006274408,
+  "CenterPositionLat": -2.1848024970123494
+ },
+ {
+  "ID": 179422171,
+  "Capacity": 83850,
+  "Name": "Noirmont Common",
+  "CenterPositionLon": 49.17082330285213,
+  "CenterPositionLat": -2.169474410933554
+ },
+ {
+  "ID": 179428335,
+  "Capacity": 15853,
+  "Name": "",
+  "CenterPositionLon": 49.178277496244895,
+  "CenterPositionLat": -2.213254513188784
+ },
+ {
+  "ID": 179463195,
+  "Capacity": 726,
+  "Name": "",
+  "CenterPositionLon": 49.19662127656906,
+  "CenterPositionLat": -2.1396456799010193
+ },
+ {
+  "ID": 179463196,
+  "Capacity": 224,
+  "Name": "",
+  "CenterPositionLon": 49.196826434632506,
+  "CenterPositionLat": -2.1441589294112253
+ },
+ {
+  "ID": 179463197,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 49.19526748160819,
+  "CenterPositionLat": -2.1327923116891827
+ },
+ {
+  "ID": 179463198,
+  "Capacity": 312,
+  "Name": "",
+  "CenterPositionLon": 49.19629414007815,
+  "CenterPositionLat": -2.136932055206522
+ },
+ {
+  "ID": 179586957,
+  "Capacity": 1146,
+  "Name": "Le Jardin des Buttes",
+  "CenterPositionLon": 49.19448592034349,
+  "CenterPositionLat": -2.091803977207461
+ },
+ {
+  "ID": 179591339,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 49.18831674894246,
+  "CenterPositionLat": -2.09029783715189
+ },
+ {
+  "ID": 179612594,
+  "Capacity": 426,
+  "Name": "",
+  "CenterPositionLon": 49.196800888654614,
+  "CenterPositionLat": -2.030902925084607
+ },
+ {
+  "ID": 179748688,
+  "Capacity": 71949,
+  "Name": "La Lande de L'Ouest",
+  "CenterPositionLon": 49.17859438377357,
+  "CenterPositionLat": -2.231344208007579
+ },
+ {
+  "ID": 179757940,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 49.19440778342861,
+  "CenterPositionLat": -2.1299235632597515
+ },
+ {
+  "ID": 179757944,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 49.19344045461333,
+  "CenterPositionLat": -2.1277009109907694
+ },
+ {
+  "ID": 179772465,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 49.17202297446967,
+  "CenterPositionLat": -2.055296855113307
+ },
+ {
+  "ID": 179794701,
+  "Capacity": 17489,
+  "Name": "",
+  "CenterPositionLon": 49.19409256718682,
+  "CenterPositionLat": -2.2264087330389954
+ },
+ {
+  "ID": 179795185,
+  "Capacity": 11025,
+  "Name": "",
+  "CenterPositionLon": 49.20149415175794,
+  "CenterPositionLat": -2.2232723616990797
+ },
+ {
+  "ID": 179939532,
+  "Capacity": 3760,
+  "Name": "",
+  "CenterPositionLon": 49.17172912701118,
+  "CenterPositionLat": -2.1743563081147625
+ },
+ {
+  "ID": 179940297,
+  "Capacity": 6804,
+  "Name": "",
+  "CenterPositionLon": 49.180240174303805,
+  "CenterPositionLat": -2.2078498761249366
+ },
+ {
+  "ID": 179940604,
+  "Capacity": 4257,
+  "Name": "",
+  "CenterPositionLon": 49.20564660932789,
+  "CenterPositionLat": -2.222818894518296
+ },
+ {
+  "ID": 179940606,
+  "Capacity": 5613,
+  "Name": "",
+  "CenterPositionLon": 49.212800073013256,
+  "CenterPositionLat": -2.2247913054458386
+ },
+ {
+  "ID": 179941464,
+  "Capacity": 15460,
+  "Name": "",
+  "CenterPositionLon": 49.227609646530055,
+  "CenterPositionLat": -2.2322321420833804
+ },
+ {
+  "ID": 179942401,
+  "Capacity": 19380,
+  "Name": "",
+  "CenterPositionLon": 49.219166932410175,
+  "CenterPositionLat": -2.2270356737947394
+ },
+ {
+  "ID": 179943990,
+  "Capacity": 2240,
+  "Name": "",
+  "CenterPositionLon": 49.241347409991725,
+  "CenterPositionLat": -2.2490666840843216
+ },
+ {
+  "ID": 179943992,
+  "Capacity": 1296,
+  "Name": "",
+  "CenterPositionLon": 49.241309174617015,
+  "CenterPositionLat": -2.2498868335296796
+ },
+ {
+  "ID": 179975528,
+  "Capacity": 892,
+  "Name": "",
+  "CenterPositionLon": 49.176820386823536,
+  "CenterPositionLat": -2.1087410951011316
+ },
+ {
+  "ID": 179975529,
+  "Capacity": 571,
+  "Name": "",
+  "CenterPositionLon": 49.17777738748391,
+  "CenterPositionLat": -2.108856545554537
+ },
+ {
+  "ID": 179975532,
+  "Capacity": 1975,
+  "Name": "",
+  "CenterPositionLon": 49.176445536764696,
+  "CenterPositionLat": -2.107701867338899
+ },
+ {
+  "ID": 179976024,
+  "Capacity": 267,
+  "Name": "",
+  "CenterPositionLon": 49.177655378102806,
+  "CenterPositionLat": -2.1080136504583096
+ },
+ {
+  "ID": 180571798,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 49.254063633368595,
+  "CenterPositionLat": -2.1417724047649402
+ },
+ {
+  "ID": 180571801,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 49.25871595936441,
+  "CenterPositionLat": -2.149421808382097
+ },
+ {
+  "ID": 180571803,
+  "Capacity": 2715,
+  "Name": "",
+  "CenterPositionLon": 49.25203294975978,
+  "CenterPositionLat": -2.138456051280429
+ },
+ {
+  "ID": 180571804,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": 49.25777981437765,
+  "CenterPositionLat": -2.148978434651353
+ },
+ {
+  "ID": 180573925,
+  "Capacity": 12296,
+  "Name": "La Vallette - NT(J)",
+  "CenterPositionLon": 49.249212027537176,
+  "CenterPositionLat": -2.1202919671611555
+ },
+ {
+  "ID": 184874857,
+  "Capacity": 5528,
+  "Name": "",
+  "CenterPositionLon": 49.20088445819863,
+  "CenterPositionLat": -2.0266946787047653
+ },
+ {
+  "ID": 184921717,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 49.228085574493306,
+  "CenterPositionLat": -2.0243662208239375
+ },
+ {
+  "ID": 189232942,
+  "Capacity": 281,
+  "Name": "",
+  "CenterPositionLon": 49.23306390622075,
+  "CenterPositionLat": -2.198669436631375
+ },
+ {
+  "ID": 189232943,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 49.23367546264808,
+  "CenterPositionLat": -2.198401502167846
+ },
+ {
+  "ID": 189379877,
+  "Capacity": 542,
+  "Name": "Village Green",
+  "CenterPositionLon": 49.23300099163559,
+  "CenterPositionLat": -2.202166364550038
+ },
+ {
+  "ID": 190587050,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 49.212154429935374,
+  "CenterPositionLat": -2.186769693351804
+ },
+ {
+  "ID": 190588142,
+  "Capacity": 571,
+  "Name": "",
+  "CenterPositionLon": 49.212895771387764,
+  "CenterPositionLat": -2.1888315092434594
+ },
+ {
+  "ID": 190588146,
+  "Capacity": 434,
+  "Name": "",
+  "CenterPositionLon": 49.21197092030921,
+  "CenterPositionLat": -2.1903357864579287
+ },
+ {
+  "ID": 190591059,
+  "Capacity": 814,
+  "Name": "",
+  "CenterPositionLon": 49.21178472225217,
+  "CenterPositionLat": -2.184335630441197
+ },
+ {
+  "ID": 190731955,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 49.21869230975419,
+  "CenterPositionLat": -2.1402287727233915
+ },
+ {
+  "ID": 190750292,
+  "Capacity": 637,
+  "Name": "",
+  "CenterPositionLon": 49.197555283317456,
+  "CenterPositionLat": -2.1996169620105794
+ },
+ {
+  "ID": 191806166,
+  "Capacity": 160,
+  "Name": "",
+  "CenterPositionLon": 49.18840853812694,
+  "CenterPositionLat": -2.1693955106316616
+ },
+ {
+  "ID": 194779954,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": 49.24690755977701,
+  "CenterPositionLat": -2.111076756443005
+ },
+ {
+  "ID": 198263239,
+  "Capacity": 1456,
+  "Name": "Waterfront Gardens",
+  "CenterPositionLon": 49.18250364000986,
+  "CenterPositionLat": -2.1140464500921157
+ },
+ {
+  "ID": 198279977,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 49.17814499577386,
+  "CenterPositionLat": -2.1090457132040195
+ },
+ {
+  "ID": 201083413,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 49.16666936522201,
+  "CenterPositionLat": -2.082206006758633
+ },
+ {
+  "ID": 204639713,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 49.23247694184026,
+  "CenterPositionLat": -2.0892271554036452
+ },
+ {
+  "ID": 205185862,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": 49.19843938774402,
+  "CenterPositionLat": -2.0305838838734154
+ },
+ {
+  "ID": 205321953,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": 49.16910477627951,
+  "CenterPositionLat": -2.0842616606532527
+ },
+ {
+  "ID": 205456847,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": 49.18064525959952,
+  "CenterPositionLat": -2.103735039932294
+ },
+ {
+  "ID": 205619009,
+  "Capacity": 902,
+  "Name": "",
+  "CenterPositionLon": 49.18996312339834,
+  "CenterPositionLat": -2.1169688808481033
+ },
+ {
+  "ID": 206636900,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 49.18348640314968,
+  "CenterPositionLat": -2.1034902192972265
+ },
+ {
+  "ID": 207319387,
+  "Capacity": 1234,
+  "Name": "",
+  "CenterPositionLon": 49.19696693474316,
+  "CenterPositionLat": -2.1479851522995506
+ },
+ {
+  "ID": 210195807,
+  "Capacity": 3438,
+  "Name": "",
+  "CenterPositionLon": 49.20916982117342,
+  "CenterPositionLat": -2.0237187977999005
+ },
+ {
+  "ID": 210242052,
+  "Capacity": 142,
+  "Name": "",
+  "CenterPositionLon": 49.20654122151954,
+  "CenterPositionLat": -2.101884141316388
+ },
+ {
+  "ID": 210982567,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 49.19796112285458,
+  "CenterPositionLat": -2.1133309418510726
+ },
+ {
+  "ID": 211435413,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 49.16710483739002,
+  "CenterPositionLat": -2.0614454945359633
+ },
+ {
+  "ID": 211436453,
+  "Capacity": 601,
+  "Name": "Le Hocq common",
+  "CenterPositionLon": 49.16704414585491,
+  "CenterPositionLat": -2.062147474717202
+ },
+ {
+  "ID": 211443881,
+  "Capacity": 207,
+  "Name": "",
+  "CenterPositionLon": 49.17070021251537,
+  "CenterPositionLat": -2.0510681713838927
+ },
+ {
+  "ID": 211443883,
+  "Capacity": 255,
+  "Name": "",
+  "CenterPositionLon": 49.17126990832299,
+  "CenterPositionLat": -2.0512844487261113
+ },
+ {
+  "ID": 212350376,
+  "Capacity": 125,
+  "Name": "Jeffrey's Leap",
+  "CenterPositionLon": 49.20368556696537,
+  "CenterPositionLat": -2.019627039780673
+ },
+ {
+  "ID": 212394487,
+  "Capacity": 119,
+  "Name": "",
+  "CenterPositionLon": 49.204077836348354,
+  "CenterPositionLat": -2.085528592587439
+ },
+ {
+  "ID": 213496601,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 49.192681381857064,
+  "CenterPositionLat": -2.101889490252439
+ },
+ {
+  "ID": 215077616,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 49.17672963138196,
+  "CenterPositionLat": -2.1032420183905938
+ },
+ {
+  "ID": 215561582,
+  "Capacity": 61159,
+  "Name": "",
+  "CenterPositionLon": 49.22434727296886,
+  "CenterPositionLat": -2.225979145547801
+ },
+ {
+  "ID": 216423980,
+  "Capacity": 9926,
+  "Name": "Les Creux",
+  "CenterPositionLon": 49.18631546883513,
+  "CenterPositionLat": -2.214456714926977
+ },
+ {
+  "ID": 216439695,
+  "Capacity": 426,
+  "Name": "",
+  "CenterPositionLon": 49.18003927785522,
+  "CenterPositionLat": -2.217863420269804
+ },
+ {
+  "ID": 216439698,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 49.18010134226917,
+  "CenterPositionLat": -2.2187117638330385
+ },
+ {
+  "ID": 217460830,
+  "Capacity": 1317,
+  "Name": "Railway Walk",
+  "CenterPositionLon": 49.19391731549635,
+  "CenterPositionLat": -2.201047182415757
+ },
+ {
+  "ID": 217462913,
+  "Capacity": 1013,
+  "Name": "Don Bridge Railway Walk",
+  "CenterPositionLon": 49.19393177453652,
+  "CenterPositionLat": -2.1978576728527806
+ },
+ {
+  "ID": 308854203,
+  "Capacity": 3857,
+  "Name": "",
+  "CenterPositionLon": 49.19341678175392,
+  "CenterPositionLat": -2.0366381346107736
+ },
+ {
+  "ID": 315531117,
+  "Capacity": 432,
+  "Name": "",
+  "CenterPositionLon": 49.18548823426892,
+  "CenterPositionLat": -2.1982122618149673
+ },
+ {
+  "ID": 332665995,
+  "Capacity": 1952,
+  "Name": "",
+  "CenterPositionLon": 49.24562823558669,
+  "CenterPositionLat": -2.1215101307066786
+ },
+ {
+  "ID": 333053355,
+  "Capacity": 518,
+  "Name": "",
+  "CenterPositionLon": 49.198401689150884,
+  "CenterPositionLat": -2.1994178650623795
+ },
+ {
+  "ID": 334488415,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": 49.181653182773154,
+  "CenterPositionLat": -2.238230203542698
+ },
+ {
+  "ID": 334829831,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 49.19915639501833,
+  "CenterPositionLat": -2.0199081035752493
+ },
+ {
+  "ID": 340474314,
+  "Capacity": 2652,
+  "Name": "Adelina Wood - Community Woodland",
+  "CenterPositionLon": 49.20838253114065,
+  "CenterPositionLat": -2.1112862423235175
+ },
+ {
+  "ID": 356952799,
+  "Capacity": 342,
+  "Name": "Le Don Le Quesne - NT(J)",
+  "CenterPositionLon": 49.16851623325364,
+  "CenterPositionLat": -2.0580338565662526
+ },
+ {
+  "ID": 367297130,
+  "Capacity": 899,
+  "Name": "Grosnez Castle",
+  "CenterPositionLon": 49.257485375816586,
+  "CenterPositionLat": -2.2466654210037844
+ },
+ {
+  "ID": 368469183,
+  "Capacity": 350,
+  "Name": "",
+  "CenterPositionLon": 49.237146621645785,
+  "CenterPositionLat": -2.234196771866652
+ },
+ {
+  "ID": 406015185,
+  "Capacity": 507,
+  "Name": "",
+  "CenterPositionLon": 49.1954713405074,
+  "CenterPositionLat": -2.035519161531707
+ },
+ {
+  "ID": 406015300,
+  "Capacity": 284,
+  "Name": "",
+  "CenterPositionLon": 49.1966087695112,
+  "CenterPositionLat": -2.0344407038670687
+ },
+ {
+  "ID": 496496072,
+  "Capacity": 3815,
+  "Name": "Le Parc de la Petite Falaise",
+  "CenterPositionLon": 49.23693390839011,
+  "CenterPositionLat": -2.087347924637289
+ },
+ {
+  "ID": 601123068,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 49.24600779408035,
+  "CenterPositionLat": -2.139447273894726
+ },
+ {
+  "ID": 699506539,
+  "Capacity": 68,
+  "Name": "Clos du Val Common",
+  "CenterPositionLon": 49.20025778758772,
+  "CenterPositionLat": -2.1495152979478838
+ },
+ {
+  "ID": 699506540,
+  "Capacity": 72,
+  "Name": "Clos du Val Common",
+  "CenterPositionLon": 49.19999228873131,
+  "CenterPositionLat": -2.149185704840001
+ },
+ {
+  "ID": 703080515,
+  "Capacity": 7415,
+  "Name": "Coronation Park",
+  "CenterPositionLon": 49.19770472154025,
+  "CenterPositionLat": -2.140733864279564
+ },
+ {
+  "ID": 712662288,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 49.1945369,
+  "CenterPositionLat": -2.0806217500000006
+ }
+]

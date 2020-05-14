@@ -1,0 +1,5161 @@
+[
+ {
+  "ID": 25698739,
+  "Capacity": 554,
+  "Name": "",
+  "CenterPositionLon": 41.70769635,
+  "CenterPositionLat": 44.8517225
+ },
+ {
+  "ID": 26398013,
+  "Capacity": 2140,
+  "Name": "",
+  "CenterPositionLon": 41.686382160136404,
+  "CenterPositionLat": 44.86164297895636
+ },
+ {
+  "ID": 26399220,
+  "Capacity": 2801,
+  "Name": "საქართველოს დემოკრატიული რესპუბლიკის ბაღი",
+  "CenterPositionLon": 41.69505425762168,
+  "CenterPositionLat": 44.798264835437514
+ },
+ {
+  "ID": 26399274,
+  "Capacity": 338,
+  "Name": "პუშკინის პარკი",
+  "CenterPositionLon": 41.69430083790162,
+  "CenterPositionLat": 44.80166957087881
+ },
+ {
+  "ID": 26445020,
+  "Capacity": 7835,
+  "Name": "კიკვიძის პარკი",
+  "CenterPositionLon": 41.74842697853686,
+  "CenterPositionLat": 44.7898710913071
+ },
+ {
+  "ID": 28065006,
+  "Capacity": 43965,
+  "Name": "ვაკის პარკი",
+  "CenterPositionLon": 41.70879890542066,
+  "CenterPositionLat": 44.74862074792463
+ },
+ {
+  "ID": 28519578,
+  "Capacity": 901,
+  "Name": "გრიგოლ ორბელიანის სკვერი",
+  "CenterPositionLon": 41.69735564939633,
+  "CenterPositionLat": 44.80283144862182
+ },
+ {
+  "ID": 33547035,
+  "Capacity": 1425,
+  "Name": "",
+  "CenterPositionLon": 42.60907804448744,
+  "CenterPositionLat": 42.06818031146335
+ },
+ {
+  "ID": 33704334,
+  "Capacity": 15818,
+  "Name": "მთაწმინდის პარკი",
+  "CenterPositionLon": 41.69444248221682,
+  "CenterPositionLat": 44.78333178486422
+ },
+ {
+  "ID": 34073732,
+  "Capacity": 1715,
+  "Name": "",
+  "CenterPositionLon": 41.723556111312384,
+  "CenterPositionLat": 44.72621969481574
+ },
+ {
+  "ID": 34747066,
+  "Capacity": 17695,
+  "Name": "მზიურის პარკი",
+  "CenterPositionLon": 41.712061407864724,
+  "CenterPositionLat": 44.77116059633108
+ },
+ {
+  "ID": 34903334,
+  "Capacity": 895,
+  "Name": "",
+  "CenterPositionLon": 41.730597378931435,
+  "CenterPositionLat": 44.73641918639744
+ },
+ {
+  "ID": 34906897,
+  "Capacity": 805,
+  "Name": "გელოვანის ბაღი",
+  "CenterPositionLon": 41.72511415,
+  "CenterPositionLat": 44.7387057
+ },
+ {
+  "ID": 35067185,
+  "Capacity": 240,
+  "Name": "",
+  "CenterPositionLon": 41.70752222756151,
+  "CenterPositionLat": 44.79110050169581
+ },
+ {
+  "ID": 35153437,
+  "Capacity": 306,
+  "Name": "შალვა ნუცუბიძის სახელობის პარკი",
+  "CenterPositionLon": 41.727588162467434,
+  "CenterPositionLat": 44.73160417862391
+ },
+ {
+  "ID": 35268764,
+  "Capacity": 456,
+  "Name": "",
+  "CenterPositionLon": 41.7170998377156,
+  "CenterPositionLat": 44.78391890611224
+ },
+ {
+  "ID": 38314047,
+  "Capacity": 96,
+  "Name": "",
+  "CenterPositionLon": 41.73129453241225,
+  "CenterPositionLat": 44.73520380591819
+ },
+ {
+  "ID": 41375487,
+  "Capacity": 725,
+  "Name": "ნოე ჟორდანიას სანაპირო",
+  "CenterPositionLon": 41.70015826297891,
+  "CenterPositionLat": 44.80833638432881
+ },
+ {
+  "ID": 56400645,
+  "Capacity": 2329,
+  "Name": "",
+  "CenterPositionLon": 41.7643934,
+  "CenterPositionLat": 44.77493905
+ },
+ {
+  "ID": 56659466,
+  "Capacity": 1738,
+  "Name": "",
+  "CenterPositionLon": 41.72769475100381,
+  "CenterPositionLat": 44.78258935725656
+ },
+ {
+  "ID": 56677922,
+  "Capacity": 2904,
+  "Name": "9 აპრილის სახელობის ბაღი",
+  "CenterPositionLon": 41.698433917428126,
+  "CenterPositionLat": 44.79953570916844
+ },
+ {
+  "ID": 56678626,
+  "Capacity": 2832,
+  "Name": "9 მარტის ბაღი",
+  "CenterPositionLon": 41.701388589182756,
+  "CenterPositionLat": 44.80228783936366
+ },
+ {
+  "ID": 56680721,
+  "Capacity": 3325,
+  "Name": "გიორგი ლეონიძის ბაღი",
+  "CenterPositionLon": 41.69917142453268,
+  "CenterPositionLat": 44.801267706435574
+ },
+ {
+  "ID": 56681227,
+  "Capacity": 239,
+  "Name": "ბესიკის მოედანი",
+  "CenterPositionLon": 41.69629058977131,
+  "CenterPositionLat": 44.793730728083275
+ },
+ {
+  "ID": 57036652,
+  "Capacity": 1544,
+  "Name": "ჯანსუღ კახიძის ბაღი",
+  "CenterPositionLon": 41.71485972343067,
+  "CenterPositionLat": 44.79531333794154
+ },
+ {
+  "ID": 58071509,
+  "Capacity": 7216,
+  "Name": "ვერის პარკი",
+  "CenterPositionLon": 41.70860022084662,
+  "CenterPositionLat": 44.7880812818823
+ },
+ {
+  "ID": 58106811,
+  "Capacity": 521,
+  "Name": "",
+  "CenterPositionLon": 41.70919757567551,
+  "CenterPositionLat": 44.899565284343645
+ },
+ {
+  "ID": 58379404,
+  "Capacity": 65269,
+  "Name": "თეატრონის პარკი",
+  "CenterPositionLon": 41.84911364963253,
+  "CenterPositionLat": 44.725648653652854
+ },
+ {
+  "ID": 58415799,
+  "Capacity": 410,
+  "Name": "",
+  "CenterPositionLon": 41.80013089873195,
+  "CenterPositionLat": 44.82275136911389
+ },
+ {
+  "ID": 58756527,
+  "Capacity": 1082,
+  "Name": "Bratislava Park",
+  "CenterPositionLon": 41.75455541916391,
+  "CenterPositionLat": 44.77777675570042
+ },
+ {
+  "ID": 58777714,
+  "Capacity": 5722,
+  "Name": "",
+  "CenterPositionLon": 41.80553135243474,
+  "CenterPositionLat": 44.77015559769907
+ },
+ {
+  "ID": 61117554,
+  "Capacity": 1901,
+  "Name": "",
+  "CenterPositionLon": 41.66907931911558,
+  "CenterPositionLat": 44.91464861316051
+ },
+ {
+  "ID": 61540730,
+  "Capacity": 1454,
+  "Name": "",
+  "CenterPositionLon": 41.75932161000973,
+  "CenterPositionLat": 44.788941570059926
+ },
+ {
+  "ID": 61717335,
+  "Capacity": 1236,
+  "Name": "",
+  "CenterPositionLon": 41.72298369345938,
+  "CenterPositionLat": 44.72039415383857
+ },
+ {
+  "ID": 61717805,
+  "Capacity": 467,
+  "Name": "",
+  "CenterPositionLon": 41.721099699999996,
+  "CenterPositionLat": 44.7176763
+ },
+ {
+  "ID": 61939110,
+  "Capacity": 1751,
+  "Name": "",
+  "CenterPositionLon": 41.727210868227225,
+  "CenterPositionLat": 44.75747025780543
+ },
+ {
+  "ID": 61957808,
+  "Capacity": 50773,
+  "Name": "სახელმწიფო ეთნოგრაფიული მუზეუმი",
+  "CenterPositionLon": 41.70147431196977,
+  "CenterPositionLat": 44.743265752034674
+ },
+ {
+  "ID": 62354104,
+  "Capacity": 1425,
+  "Name": "",
+  "CenterPositionLon": 41.669241559164426,
+  "CenterPositionLat": 44.87702793427371
+ },
+ {
+  "ID": 62668395,
+  "Capacity": 599,
+  "Name": "President Heydar Aliyev Park",
+  "CenterPositionLon": 41.68879347305183,
+  "CenterPositionLat": 44.811351224312155
+ },
+ {
+  "ID": 62668559,
+  "Capacity": 2692,
+  "Name": "",
+  "CenterPositionLon": 41.685901676264955,
+  "CenterPositionLat": 44.820018391519525
+ },
+ {
+  "ID": 62678340,
+  "Capacity": 237,
+  "Name": "",
+  "CenterPositionLon": 41.68098772968042,
+  "CenterPositionLat": 44.838286388853525
+ },
+ {
+  "ID": 64963769,
+  "Capacity": 1657,
+  "Name": "",
+  "CenterPositionLon": 41.800834217078005,
+  "CenterPositionLat": 44.83000823634088
+ },
+ {
+  "ID": 65159655,
+  "Capacity": 345,
+  "Name": "26 მაისის მოედანი",
+  "CenterPositionLon": 41.71794335705736,
+  "CenterPositionLat": 44.779202101418
+ },
+ {
+  "ID": 65251741,
+  "Capacity": 250,
+  "Name": "მრგვალი ბაღი",
+  "CenterPositionLon": 41.70729003358762,
+  "CenterPositionLat": 44.77494886777156
+ },
+ {
+  "ID": 65283584,
+  "Capacity": 944,
+  "Name": "",
+  "CenterPositionLon": 41.700524418472085,
+  "CenterPositionLat": 44.78893428496111
+ },
+ {
+  "ID": 65352759,
+  "Capacity": 56462,
+  "Name": "ეროვნული ბოტანიკური ბაღი",
+  "CenterPositionLon": 41.68534812349275,
+  "CenterPositionLat": 44.80244532321913
+ },
+ {
+  "ID": 65612738,
+  "Capacity": 517,
+  "Name": "",
+  "CenterPositionLon": 41.69736942140124,
+  "CenterPositionLat": 44.80999258602043
+ },
+ {
+  "ID": 75249411,
+  "Capacity": 1334,
+  "Name": "",
+  "CenterPositionLon": 41.72322556073979,
+  "CenterPositionLat": 44.79206888441301
+ },
+ {
+  "ID": 75319305,
+  "Capacity": 889,
+  "Name": "ბუკიას ბაღი",
+  "CenterPositionLon": 41.72088008603441,
+  "CenterPositionLat": 44.774072801537464
+ },
+ {
+  "ID": 75377263,
+  "Capacity": 2107,
+  "Name": "",
+  "CenterPositionLon": 41.78949050538373,
+  "CenterPositionLat": 44.76381807068205
+ },
+ {
+  "ID": 77611592,
+  "Capacity": 1584,
+  "Name": "",
+  "CenterPositionLon": 41.75898191616418,
+  "CenterPositionLat": 44.774289528460805
+ },
+ {
+  "ID": 77738648,
+  "Capacity": 2530,
+  "Name": "",
+  "CenterPositionLon": 41.69471409899826,
+  "CenterPositionLat": 44.8842593310708
+ },
+ {
+  "ID": 77885310,
+  "Capacity": 676,
+  "Name": "",
+  "CenterPositionLon": 41.643681864818696,
+  "CenterPositionLat": 44.89896427684134
+ },
+ {
+  "ID": 78312356,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 41.67782912786632,
+  "CenterPositionLat": 44.879276799557864
+ },
+ {
+  "ID": 78325616,
+  "Capacity": 2180,
+  "Name": "",
+  "CenterPositionLon": 41.69931882156402,
+  "CenterPositionLat": 44.87175871767783
+ },
+ {
+  "ID": 78342789,
+  "Capacity": 1860,
+  "Name": "ვარდების ბაღი",
+  "CenterPositionLon": 41.70828226643037,
+  "CenterPositionLat": 44.79997181893559
+ },
+ {
+  "ID": 78446338,
+  "Capacity": 2313,
+  "Name": "Городской парк",
+  "CenterPositionLon": 43.00230203282444,
+  "CenterPositionLat": 41.02401994780302
+ },
+ {
+  "ID": 78514711,
+  "Capacity": 315,
+  "Name": "ვილნიუსის სკვერი",
+  "CenterPositionLon": 41.69521693514719,
+  "CenterPositionLat": 44.7924264598517
+ },
+ {
+  "ID": 79142955,
+  "Capacity": 8820,
+  "Name": "Сухумский ботанический сад",
+  "CenterPositionLon": 43.00614219543525,
+  "CenterPositionLat": 41.02319674400716
+ },
+ {
+  "ID": 79142956,
+  "Capacity": 4580,
+  "Name": "Парк площади Свободы",
+  "CenterPositionLon": 43.00280028677943,
+  "CenterPositionLat": 41.01945460083821
+ },
+ {
+  "ID": 79697001,
+  "Capacity": 631,
+  "Name": "",
+  "CenterPositionLon": 41.7336228640731,
+  "CenterPositionLat": 44.751601132905485
+ },
+ {
+  "ID": 79738548,
+  "Capacity": 90,
+  "Name": "ყვარლის მოედანი (Kvareli Sq)",
+  "CenterPositionLon": 41.694927645092854,
+  "CenterPositionLat": 44.84472283992253
+ },
+ {
+  "ID": 79816102,
+  "Capacity": 844,
+  "Name": "",
+  "CenterPositionLon": 41.780548200366944,
+  "CenterPositionLat": 44.777880496084414
+ },
+ {
+  "ID": 79882929,
+  "Capacity": 911,
+  "Name": "",
+  "CenterPositionLon": 41.7777519876811,
+  "CenterPositionLat": 44.80496630341407
+ },
+ {
+  "ID": 79944209,
+  "Capacity": 634,
+  "Name": "",
+  "CenterPositionLon": 41.73250814528794,
+  "CenterPositionLat": 44.82004825646731
+ },
+ {
+  "ID": 79959781,
+  "Capacity": 859,
+  "Name": "გოთუას სახელობის პარკი",
+  "CenterPositionLon": 41.73321616054174,
+  "CenterPositionLat": 44.77285679889741
+ },
+ {
+  "ID": 80318335,
+  "Capacity": 4613,
+  "Name": "",
+  "CenterPositionLon": 41.89455696642383,
+  "CenterPositionLat": 44.70193076777277
+ },
+ {
+  "ID": 80320317,
+  "Capacity": 1746,
+  "Name": "",
+  "CenterPositionLon": 41.88091943798864,
+  "CenterPositionLat": 44.722519229346794
+ },
+ {
+  "ID": 80324036,
+  "Capacity": 2676,
+  "Name": "",
+  "CenterPositionLon": 41.84711290503651,
+  "CenterPositionLat": 44.71934771373421
+ },
+ {
+  "ID": 80544867,
+  "Capacity": 389,
+  "Name": "ქალაქ ნანტის სკვერი",
+  "CenterPositionLon": 41.723408109082065,
+  "CenterPositionLat": 44.741914802166896
+ },
+ {
+  "ID": 80574331,
+  "Capacity": 563,
+  "Name": "",
+  "CenterPositionLon": 41.72285317211599,
+  "CenterPositionLat": 44.72376402614717
+ },
+ {
+  "ID": 80575328,
+  "Capacity": 4241,
+  "Name": "თბილისი გარდენს",
+  "CenterPositionLon": 41.7268091058033,
+  "CenterPositionLat": 44.74819088222917
+ },
+ {
+  "ID": 81123718,
+  "Capacity": 1524,
+  "Name": "",
+  "CenterPositionLon": 43.095705272755296,
+  "CenterPositionLat": 40.617326824054935
+ },
+ {
+  "ID": 81144689,
+  "Capacity": 3389,
+  "Name": "Центральный парк",
+  "CenterPositionLon": 43.099635961934545,
+  "CenterPositionLat": 40.635282019126706
+ },
+ {
+  "ID": 81178595,
+  "Capacity": 1394,
+  "Name": "",
+  "CenterPositionLon": 43.00418354820631,
+  "CenterPositionLat": 41.01785405264067
+ },
+ {
+  "ID": 81203444,
+  "Capacity": 2396,
+  "Name": "Парк им. Баграта Шинкуба",
+  "CenterPositionLon": 43.000150516034196,
+  "CenterPositionLat": 41.02638066579454
+ },
+ {
+  "ID": 81246681,
+  "Capacity": 8154,
+  "Name": "Сквер им. И. А. Когония",
+  "CenterPositionLon": 42.99612096778581,
+  "CenterPositionLat": 41.010379527373004
+ },
+ {
+  "ID": 82093941,
+  "Capacity": 2050,
+  "Name": "Эвкалипты",
+  "CenterPositionLon": 42.987911831520734,
+  "CenterPositionLat": 40.98544308927429
+ },
+ {
+  "ID": 82167012,
+  "Capacity": 2535,
+  "Name": "Парк им. Ю. Н. Воронова",
+  "CenterPositionLon": 43.00044355170455,
+  "CenterPositionLat": 41.01451903723795
+ },
+ {
+  "ID": 82172981,
+  "Capacity": 2263,
+  "Name": "Парк Славы",
+  "CenterPositionLon": 43.000371365827526,
+  "CenterPositionLat": 41.021218737039234
+ },
+ {
+  "ID": 82177722,
+  "Capacity": 1543,
+  "Name": "",
+  "CenterPositionLon": 43.00336700745878,
+  "CenterPositionLat": 41.02356005937924
+ },
+ {
+  "ID": 82190739,
+  "Capacity": 4079,
+  "Name": "Парк Надежды Курченко",
+  "CenterPositionLon": 43.00767613815092,
+  "CenterPositionLat": 41.012652316548056
+ },
+ {
+  "ID": 82202426,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 43.003824724792366,
+  "CenterPositionLat": 41.01549096852128
+ },
+ {
+  "ID": 82257615,
+  "Capacity": 795,
+  "Name": "",
+  "CenterPositionLon": 42.94844341931028,
+  "CenterPositionLat": 41.08841719507169
+ },
+ {
+  "ID": 82435394,
+  "Capacity": 1664,
+  "Name": "Центральный парк",
+  "CenterPositionLon": 42.62643236872301,
+  "CenterPositionLat": 41.73752697019257
+ },
+ {
+  "ID": 82436815,
+  "Capacity": 1130,
+  "Name": "Парк им. Ильи Векуа",
+  "CenterPositionLon": 42.62776634689144,
+  "CenterPositionLat": 41.73617194434341
+ },
+ {
+  "ID": 82494142,
+  "Capacity": 503,
+  "Name": "",
+  "CenterPositionLon": 41.649085,
+  "CenterPositionLat": 41.63510285
+ },
+ {
+  "ID": 83193877,
+  "Capacity": 281,
+  "Name": "",
+  "CenterPositionLon": 43.10348956627545,
+  "CenterPositionLat": 40.64450667485689
+ },
+ {
+  "ID": 83822874,
+  "Capacity": 631,
+  "Name": "",
+  "CenterPositionLon": 42.708467447944045,
+  "CenterPositionLat": 41.465670511241946
+ },
+ {
+  "ID": 83823135,
+  "Capacity": 1655,
+  "Name": "",
+  "CenterPositionLon": 42.70706889913654,
+  "CenterPositionLat": 41.4646452174343
+ },
+ {
+  "ID": 83826433,
+  "Capacity": 291,
+  "Name": "",
+  "CenterPositionLon": 42.70325196987143,
+  "CenterPositionLat": 41.46741815347699
+ },
+ {
+  "ID": 83903006,
+  "Capacity": 11641,
+  "Name": "",
+  "CenterPositionLon": 42.74615843497988,
+  "CenterPositionLat": 41.446198838047735
+ },
+ {
+  "ID": 84734556,
+  "Capacity": 262,
+  "Name": "ერევანის სკვერი",
+  "CenterPositionLon": 41.69250941740677,
+  "CenterPositionLat": 44.814326524202585
+ },
+ {
+  "ID": 85486198,
+  "Capacity": 938,
+  "Name": "",
+  "CenterPositionLon": 42.716902577108605,
+  "CenterPositionLat": 41.74288549170363
+ },
+ {
+  "ID": 88377968,
+  "Capacity": 14385,
+  "Name": "",
+  "CenterPositionLon": 43.37987739114697,
+  "CenterPositionLat": 40.05265152862919
+ },
+ {
+  "ID": 95091757,
+  "Capacity": 730,
+  "Name": "",
+  "CenterPositionLon": 41.72210675523428,
+  "CenterPositionLat": 45.03760888543837
+ },
+ {
+  "ID": 95615245,
+  "Capacity": 292,
+  "Name": "",
+  "CenterPositionLon": 41.729779844470684,
+  "CenterPositionLat": 44.735427847483386
+ },
+ {
+  "ID": 95640406,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 41.73195020098961,
+  "CenterPositionLat": 44.733444585876725
+ },
+ {
+  "ID": 95640411,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 41.72269413289875,
+  "CenterPositionLat": 44.70272095062001
+ },
+ {
+  "ID": 96042369,
+  "Capacity": 2313,
+  "Name": "",
+  "CenterPositionLon": 41.65156178741173,
+  "CenterPositionLat": 41.63223201467706
+ },
+ {
+  "ID": 96052538,
+  "Capacity": 754,
+  "Name": "",
+  "CenterPositionLon": 41.646282740905406,
+  "CenterPositionLat": 41.63929040290285
+ },
+ {
+  "ID": 97056238,
+  "Capacity": 942,
+  "Name": "პარკი",
+  "CenterPositionLon": 41.407918050771485,
+  "CenterPositionLat": 43.483960437306884
+ },
+ {
+  "ID": 97057569,
+  "Capacity": 288,
+  "Name": "",
+  "CenterPositionLon": 41.40273120437055,
+  "CenterPositionLat": 43.488982937149984
+ },
+ {
+  "ID": 99195492,
+  "Capacity": 27918,
+  "Name": "",
+  "CenterPositionLon": 41.75664710676533,
+  "CenterPositionLat": 42.82721614540303
+ },
+ {
+  "ID": 99259535,
+  "Capacity": 2594,
+  "Name": "",
+  "CenterPositionLon": 42.32721945192969,
+  "CenterPositionLat": 42.42218163205913
+ },
+ {
+  "ID": 99688767,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 43.0527205,
+  "CenterPositionLat": 42.4929755
+ },
+ {
+  "ID": 99688791,
+  "Capacity": 399,
+  "Name": "",
+  "CenterPositionLon": 43.043768230131896,
+  "CenterPositionLat": 42.72462248075913
+ },
+ {
+  "ID": 99695619,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 41.63977343093199,
+  "CenterPositionLat": 42.98835786783679
+ },
+ {
+  "ID": 99695655,
+  "Capacity": 612,
+  "Name": "",
+  "CenterPositionLon": 41.639191350000004,
+  "CenterPositionLat": 42.98881695
+ },
+ {
+  "ID": 100127999,
+  "Capacity": 142,
+  "Name": "",
+  "CenterPositionLon": 42.22443440856917,
+  "CenterPositionLat": 43.97413304600945
+ },
+ {
+  "ID": 100233807,
+  "Capacity": 455,
+  "Name": "",
+  "CenterPositionLon": 42.22600173663377,
+  "CenterPositionLat": 43.97105707958695
+ },
+ {
+  "ID": 100266138,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 42.28935560102968,
+  "CenterPositionLat": 43.28541476956068
+ },
+ {
+  "ID": 100280348,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 42.10661346184711,
+  "CenterPositionLat": 43.039128188450555
+ },
+ {
+  "ID": 100280354,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 42.10712512545623,
+  "CenterPositionLat": 43.01250944464491
+ },
+ {
+  "ID": 100520528,
+  "Capacity": 500,
+  "Name": "",
+  "CenterPositionLon": 42.219113801160276,
+  "CenterPositionLat": 43.96517644472907
+ },
+ {
+  "ID": 100652608,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 42.22113961198552,
+  "CenterPositionLat": 43.95992248003473
+ },
+ {
+  "ID": 100720339,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 42.35688507376319,
+  "CenterPositionLat": 42.999275235463685
+ },
+ {
+  "ID": 100720349,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": 42.35249180568592,
+  "CenterPositionLat": 42.996402206623245
+ },
+ {
+  "ID": 100720357,
+  "Capacity": 437,
+  "Name": "",
+  "CenterPositionLon": 42.34831387703536,
+  "CenterPositionLat": 42.99814274723911
+ },
+ {
+  "ID": 100720359,
+  "Capacity": 142,
+  "Name": "",
+  "CenterPositionLon": 42.339232971578234,
+  "CenterPositionLat": 42.984953052747485
+ },
+ {
+  "ID": 100720362,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 42.35347195,
+  "CenterPositionLat": 42.997586049999995
+ },
+ {
+  "ID": 100747925,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": 42.230936222474355,
+  "CenterPositionLat": 42.69171227063055
+ },
+ {
+  "ID": 100748143,
+  "Capacity": 9602,
+  "Name": "ახალგაზრდობის პარკი",
+  "CenterPositionLon": 42.24964000871002,
+  "CenterPositionLat": 42.681415957931165
+ },
+ {
+  "ID": 100750055,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 42.32450476666667,
+  "CenterPositionLat": 42.60186246666667
+ },
+ {
+  "ID": 100750067,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 42.261859257869745,
+  "CenterPositionLat": 42.67674623504707
+ },
+ {
+  "ID": 100750073,
+  "Capacity": 500,
+  "Name": "",
+  "CenterPositionLon": 42.32480255500053,
+  "CenterPositionLat": 42.59905012045031
+ },
+ {
+  "ID": 100750077,
+  "Capacity": 607,
+  "Name": "",
+  "CenterPositionLon": 42.32439226017427,
+  "CenterPositionLat": 42.59956434888005
+ },
+ {
+  "ID": 100750079,
+  "Capacity": 685,
+  "Name": "კიკვიძის პარკი",
+  "CenterPositionLon": 42.264201070943,
+  "CenterPositionLat": 42.67698068565438
+ },
+ {
+  "ID": 100750089,
+  "Capacity": 559,
+  "Name": "",
+  "CenterPositionLon": 42.322577685903234,
+  "CenterPositionLat": 42.59742821951074
+ },
+ {
+  "ID": 100750129,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 42.32486283333333,
+  "CenterPositionLat": 42.6021362
+ },
+ {
+  "ID": 100750185,
+  "Capacity": 2018,
+  "Name": "",
+  "CenterPositionLon": 42.3232950087145,
+  "CenterPositionLat": 42.60010974055464
+ },
+ {
+  "ID": 100750214,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 42.3246653751496,
+  "CenterPositionLat": 42.601485537705756
+ },
+ {
+  "ID": 100750220,
+  "Capacity": 1719,
+  "Name": "",
+  "CenterPositionLon": 42.323422085945,
+  "CenterPositionLat": 42.59889123601383
+ },
+ {
+  "ID": 100750259,
+  "Capacity": 886,
+  "Name": "",
+  "CenterPositionLon": 42.32416403294462,
+  "CenterPositionLat": 42.59766609219683
+ },
+ {
+  "ID": 100750269,
+  "Capacity": 363,
+  "Name": "",
+  "CenterPositionLon": 42.323057398516454,
+  "CenterPositionLat": 42.597033358894876
+ },
+ {
+  "ID": 100750280,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 42.32347089970285,
+  "CenterPositionLat": 42.59725608608665
+ },
+ {
+  "ID": 100750302,
+  "Capacity": 2081,
+  "Name": "",
+  "CenterPositionLon": 42.32525088465046,
+  "CenterPositionLat": 42.60331788789781
+ },
+ {
+  "ID": 100750353,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 42.32529132994832,
+  "CenterPositionLat": 42.60209842263812
+ },
+ {
+  "ID": 100750378,
+  "Capacity": 14098,
+  "Name": "",
+  "CenterPositionLon": 42.31621266600396,
+  "CenterPositionLat": 42.597256218358275
+ },
+ {
+  "ID": 100750402,
+  "Capacity": 2278,
+  "Name": "",
+  "CenterPositionLon": 42.32211327275565,
+  "CenterPositionLat": 42.60083381575505
+ },
+ {
+  "ID": 100750417,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 42.26171570976198,
+  "CenterPositionLat": 42.68732448967331
+ },
+ {
+  "ID": 100750428,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 42.32378267020957,
+  "CenterPositionLat": 42.601409420201016
+ },
+ {
+  "ID": 100750442,
+  "Capacity": 3988,
+  "Name": "",
+  "CenterPositionLon": 42.31739628134982,
+  "CenterPositionLat": 42.59934854949663
+ },
+ {
+  "ID": 100750454,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": 42.324294182797075,
+  "CenterPositionLat": 42.60153315075274
+ },
+ {
+  "ID": 100750490,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 42.32533626922212,
+  "CenterPositionLat": 42.601617210131934
+ },
+ {
+  "ID": 100750500,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 42.32523883333333,
+  "CenterPositionLat": 42.60177026666667
+ },
+ {
+  "ID": 100750532,
+  "Capacity": 2133,
+  "Name": "",
+  "CenterPositionLon": 42.318637857934434,
+  "CenterPositionLat": 42.59664945722602
+ },
+ {
+  "ID": 100750544,
+  "Capacity": 1186,
+  "Name": "",
+  "CenterPositionLon": 42.324782390847595,
+  "CenterPositionLat": 42.60078062950806
+ },
+ {
+  "ID": 100750548,
+  "Capacity": 302,
+  "Name": "",
+  "CenterPositionLon": 42.26168855615375,
+  "CenterPositionLat": 42.6891949968451
+ },
+ {
+  "ID": 100750559,
+  "Capacity": 5044,
+  "Name": "",
+  "CenterPositionLon": 42.31659636457652,
+  "CenterPositionLat": 42.594941329775345
+ },
+ {
+  "ID": 100750582,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 42.325310333333334,
+  "CenterPositionLat": 42.60250043333333
+ },
+ {
+  "ID": 100750585,
+  "Capacity": 10255,
+  "Name": "",
+  "CenterPositionLon": 42.31991665403912,
+  "CenterPositionLat": 42.59955824194813
+ },
+ {
+  "ID": 100750596,
+  "Capacity": 246,
+  "Name": "",
+  "CenterPositionLon": 42.26187519798391,
+  "CenterPositionLat": 42.67509788342408
+ },
+ {
+  "ID": 100750607,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 42.32503701750331,
+  "CenterPositionLat": 42.60218067555914
+ },
+ {
+  "ID": 100750619,
+  "Capacity": 4800,
+  "Name": "",
+  "CenterPositionLon": 42.320719145536984,
+  "CenterPositionLat": 42.59731164973146
+ },
+ {
+  "ID": 100750624,
+  "Capacity": 463,
+  "Name": "",
+  "CenterPositionLon": 42.32407647408445,
+  "CenterPositionLat": 42.60098570213471
+ },
+ {
+  "ID": 100750645,
+  "Capacity": 406,
+  "Name": "",
+  "CenterPositionLon": 42.324081666666665,
+  "CenterPositionLat": 42.5988906
+ },
+ {
+  "ID": 100750682,
+  "Capacity": 7580,
+  "Name": "",
+  "CenterPositionLon": 42.324099319859826,
+  "CenterPositionLat": 42.60325784192674
+ },
+ {
+  "ID": 100750691,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 42.323261126349976,
+  "CenterPositionLat": 42.59723130796389
+ },
+ {
+  "ID": 100750740,
+  "Capacity": 574,
+  "Name": "",
+  "CenterPositionLon": 42.2617529093043,
+  "CenterPositionLat": 42.684472854938896
+ },
+ {
+  "ID": 100750775,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 42.32363357163968,
+  "CenterPositionLat": 42.59787093021207
+ },
+ {
+  "ID": 100750782,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 42.324741107495775,
+  "CenterPositionLat": 42.60194030235981
+ },
+ {
+  "ID": 100750804,
+  "Capacity": 547,
+  "Name": "",
+  "CenterPositionLon": 42.26182915945014,
+  "CenterPositionLat": 42.6796864107035
+ },
+ {
+  "ID": 100750812,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 42.32303836568903,
+  "CenterPositionLat": 42.59740631966197
+ },
+ {
+  "ID": 100750819,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 42.32509528175049,
+  "CenterPositionLat": 42.60180104182146
+ },
+ {
+  "ID": 100750829,
+  "Capacity": 644,
+  "Name": "",
+  "CenterPositionLon": 42.32269585590283,
+  "CenterPositionLat": 42.598239939627625
+ },
+ {
+  "ID": 100750845,
+  "Capacity": 144,
+  "Name": "",
+  "CenterPositionLon": 42.32491449933697,
+  "CenterPositionLat": 42.60160336162451
+ },
+ {
+  "ID": 100750865,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 42.323737495151995,
+  "CenterPositionLat": 42.597822067196404
+ },
+ {
+  "ID": 100750886,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 42.32336856862062,
+  "CenterPositionLat": 42.59813705933943
+ },
+ {
+  "ID": 100750901,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 42.264908865434414,
+  "CenterPositionLat": 42.710890469124394
+ },
+ {
+  "ID": 100750907,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 42.32368212064143,
+  "CenterPositionLat": 42.597326832982986
+ },
+ {
+  "ID": 100750923,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.32355342684017,
+  "CenterPositionLat": 42.59734635671991
+ },
+ {
+  "ID": 100750947,
+  "Capacity": 1316,
+  "Name": "დიდების ბაღი",
+  "CenterPositionLon": 42.2623715349717,
+  "CenterPositionLat": 42.6923928826868
+ },
+ {
+  "ID": 100750953,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": 42.32431183333334,
+  "CenterPositionLat": 42.5984618
+ },
+ {
+  "ID": 100750975,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.323569841446584,
+  "CenterPositionLat": 42.59800758085035
+ },
+ {
+  "ID": 100750983,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 42.3230961315625,
+  "CenterPositionLat": 42.59806325690213
+ },
+ {
+  "ID": 100821136,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": 42.2344953678741,
+  "CenterPositionLat": 43.97299145664419
+ },
+ {
+  "ID": 100821137,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 42.234390620342914,
+  "CenterPositionLat": 43.97245555978246
+ },
+ {
+  "ID": 100822230,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 42.2331411,
+  "CenterPositionLat": 43.9724911
+ },
+ {
+  "ID": 100822270,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 42.23301051189521,
+  "CenterPositionLat": 43.97176687418002
+ },
+ {
+  "ID": 100822486,
+  "Capacity": 282,
+  "Name": "",
+  "CenterPositionLon": 42.233758982154406,
+  "CenterPositionLat": 43.974244179159996
+ },
+ {
+  "ID": 101150664,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 42.22533932857165,
+  "CenterPositionLat": 43.96996880157909
+ },
+ {
+  "ID": 101150757,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": 42.22553665,
+  "CenterPositionLat": 43.9708586
+ },
+ {
+  "ID": 101175037,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 42.22493691928393,
+  "CenterPositionLat": 43.973446643384605
+ },
+ {
+  "ID": 101175157,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 42.22541625158912,
+  "CenterPositionLat": 43.973291220203066
+ },
+ {
+  "ID": 101181940,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 42.226807666666666,
+  "CenterPositionLat": 43.96986349976173
+ },
+ {
+  "ID": 101322341,
+  "Capacity": 1514,
+  "Name": "უფასო ინტერნეტიტ სკვერი",
+  "CenterPositionLon": 42.087193358867815,
+  "CenterPositionLat": 42.034920987239474
+ },
+ {
+  "ID": 101352482,
+  "Capacity": 206,
+  "Name": "",
+  "CenterPositionLon": 41.826064682008365,
+  "CenterPositionLat": 46.27226473890115
+ },
+ {
+  "ID": 101352492,
+  "Capacity": 1047,
+  "Name": "კიროვის პარკი",
+  "CenterPositionLon": 41.95555521049112,
+  "CenterPositionLat": 45.815733674183434
+ },
+ {
+  "ID": 101484142,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 42.22766412584488,
+  "CenterPositionLat": 43.96982666025343
+ },
+ {
+  "ID": 102209711,
+  "Capacity": 431,
+  "Name": "",
+  "CenterPositionLon": 41.43990387480063,
+  "CenterPositionLat": 44.73959248841834
+ },
+ {
+  "ID": 102209736,
+  "Capacity": 3838,
+  "Name": "პარკი",
+  "CenterPositionLon": 41.59763070373255,
+  "CenterPositionLat": 44.093004300462795
+ },
+ {
+  "ID": 102209820,
+  "Capacity": 833,
+  "Name": "II WW Memorial Park",
+  "CenterPositionLon": 41.44275497935405,
+  "CenterPositionLat": 44.89554874378173
+ },
+ {
+  "ID": 102209823,
+  "Capacity": 2869,
+  "Name": "კულტუსრისა და დასვენების პარკი",
+  "CenterPositionLon": 41.447644432534304,
+  "CenterPositionLat": 44.532289000493265
+ },
+ {
+  "ID": 102242469,
+  "Capacity": 668,
+  "Name": "",
+  "CenterPositionLon": 42.650124500214275,
+  "CenterPositionLat": 42.770362207045515
+ },
+ {
+  "ID": 102242516,
+  "Capacity": 331,
+  "Name": "",
+  "CenterPositionLon": 42.790134118699235,
+  "CenterPositionLat": 42.72263313067246
+ },
+ {
+  "ID": 102242548,
+  "Capacity": 685,
+  "Name": "პარკი",
+  "CenterPositionLon": 42.51963774437493,
+  "CenterPositionLat": 43.15295651072924
+ },
+ {
+  "ID": 102315762,
+  "Capacity": 384,
+  "Name": "",
+  "CenterPositionLon": 42.228369848197886,
+  "CenterPositionLat": 43.96227564721809
+ },
+ {
+  "ID": 102421504,
+  "Capacity": 272,
+  "Name": "ბებოს ბაღი",
+  "CenterPositionLon": 41.74616978696658,
+  "CenterPositionLat": 45.8000221339288
+ },
+ {
+  "ID": 102421671,
+  "Capacity": 5430,
+  "Name": "",
+  "CenterPositionLon": 41.645630776902046,
+  "CenterPositionLat": 45.929368397692464
+ },
+ {
+  "ID": 102421739,
+  "Capacity": 132,
+  "Name": "მრგვალი ბაღი",
+  "CenterPositionLon": 41.46101302310552,
+  "CenterPositionLat": 46.11860519255431
+ },
+ {
+  "ID": 102421749,
+  "Capacity": 288,
+  "Name": "",
+  "CenterPositionLon": 41.5446774037067,
+  "CenterPositionLat": 45.98495180552329
+ },
+ {
+  "ID": 102421784,
+  "Capacity": 282,
+  "Name": "Kadori Park",
+  "CenterPositionLon": 41.92120942120049,
+  "CenterPositionLat": 45.468811540422145
+ },
+ {
+  "ID": 102421799,
+  "Capacity": 357,
+  "Name": "",
+  "CenterPositionLon": 41.3221536790767,
+  "CenterPositionLat": 46.66776445718894
+ },
+ {
+  "ID": 102421815,
+  "Capacity": 10827,
+  "Name": "",
+  "CenterPositionLon": 41.739572404694634,
+  "CenterPositionLat": 45.794759560428574
+ },
+ {
+  "ID": 102553735,
+  "Capacity": 846,
+  "Name": "",
+  "CenterPositionLon": 42.21422081368419,
+  "CenterPositionLat": 43.97384589802901
+ },
+ {
+  "ID": 102553740,
+  "Capacity": 181,
+  "Name": "",
+  "CenterPositionLon": 42.21491171173615,
+  "CenterPositionLat": 43.97309031051393
+ },
+ {
+  "ID": 102559358,
+  "Capacity": 204,
+  "Name": "",
+  "CenterPositionLon": 42.213331653168616,
+  "CenterPositionLat": 43.97348048174143
+ },
+ {
+  "ID": 102563058,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 42.21240245224538,
+  "CenterPositionLat": 43.969355542341866
+ },
+ {
+  "ID": 102563064,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 42.2126354877638,
+  "CenterPositionLat": 43.970487743169784
+ },
+ {
+  "ID": 102563070,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 42.21250222769596,
+  "CenterPositionLat": 43.96988319686836
+ },
+ {
+  "ID": 102563552,
+  "Capacity": 96,
+  "Name": "",
+  "CenterPositionLon": 42.21300653648611,
+  "CenterPositionLat": 43.97224060935109
+ },
+ {
+  "ID": 102563553,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 42.21275819699005,
+  "CenterPositionLat": 43.97109413289609
+ },
+ {
+  "ID": 102563556,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 42.21287598682854,
+  "CenterPositionLat": 43.97168470880758
+ },
+ {
+  "ID": 102564543,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 42.21280582914038,
+  "CenterPositionLat": 43.970216602865946
+ },
+ {
+  "ID": 102564545,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 42.213088103798476,
+  "CenterPositionLat": 43.97145508437355
+ },
+ {
+  "ID": 102564546,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 42.2125598006256,
+  "CenterPositionLat": 43.9690986411086
+ },
+ {
+  "ID": 102564547,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 42.21294856286264,
+  "CenterPositionLat": 43.97085955212288
+ },
+ {
+  "ID": 102564551,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.21321670450621,
+  "CenterPositionLat": 43.97203648772445
+ },
+ {
+  "ID": 102564553,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 42.21267570658032,
+  "CenterPositionLat": 43.96966106805014
+ },
+ {
+  "ID": 102564554,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 42.213343759726165,
+  "CenterPositionLat": 43.972551514788
+ },
+ {
+  "ID": 102565225,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 42.213571099999996,
+  "CenterPositionLat": 43.9721998
+ },
+ {
+  "ID": 102654868,
+  "Capacity": 12537,
+  "Name": "Borjomi Central Park",
+  "CenterPositionLon": 41.83295850027173,
+  "CenterPositionLat": 43.39290236655137
+ },
+ {
+  "ID": 102664593,
+  "Capacity": 696,
+  "Name": "",
+  "CenterPositionLon": 42.268777068111156,
+  "CenterPositionLat": 42.06201775759292
+ },
+ {
+  "ID": 102664672,
+  "Capacity": 8818,
+  "Name": "",
+  "CenterPositionLon": 42.51168955150524,
+  "CenterPositionLat": 41.87387371404336
+ },
+ {
+  "ID": 102664707,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 42.50730617958996,
+  "CenterPositionLat": 41.87635898608103
+ },
+ {
+  "ID": 102814965,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": 42.22410171944096,
+  "CenterPositionLat": 43.976370926159035
+ },
+ {
+  "ID": 102815768,
+  "Capacity": 7014,
+  "Name": "Централон культурæ æмæ улæфыны парк",
+  "CenterPositionLon": 42.22625913896378,
+  "CenterPositionLat": 43.97823953574621
+ },
+ {
+  "ID": 103508439,
+  "Capacity": 490,
+  "Name": "",
+  "CenterPositionLon": 42.214608872935536,
+  "CenterPositionLat": 43.96470289560154
+ },
+ {
+  "ID": 103938874,
+  "Capacity": 423,
+  "Name": "",
+  "CenterPositionLon": 41.99759798265951,
+  "CenterPositionLat": 43.599811111097665
+ },
+ {
+  "ID": 103938877,
+  "Capacity": 2135,
+  "Name": "",
+  "CenterPositionLon": 41.99549009209021,
+  "CenterPositionLat": 43.59577944955717
+ },
+ {
+  "ID": 103938894,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 42.0186065504253,
+  "CenterPositionLat": 43.562466183310114
+ },
+ {
+  "ID": 103942945,
+  "Capacity": 216,
+  "Name": "ბარათაშვილის სკვერი",
+  "CenterPositionLon": 41.983210201223194,
+  "CenterPositionLat": 44.107854365655925
+ },
+ {
+  "ID": 103942947,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 41.98358484678061,
+  "CenterPositionLat": 44.10883815081257
+ },
+ {
+  "ID": 103942952,
+  "Capacity": 89,
+  "Name": "შიოს სკვერი",
+  "CenterPositionLon": 41.98406786844748,
+  "CenterPositionLat": 44.11281103042064
+ },
+ {
+  "ID": 103942963,
+  "Capacity": 936,
+  "Name": "",
+  "CenterPositionLon": 41.98713265568915,
+  "CenterPositionLat": 44.10569143861931
+ },
+ {
+  "ID": 103942966,
+  "Capacity": 2948,
+  "Name": "სტალინის პარკი",
+  "CenterPositionLon": 41.986319960318646,
+  "CenterPositionLat": 44.11329818662489
+ },
+ {
+  "ID": 103942988,
+  "Capacity": 967,
+  "Name": "თეატრის ბაღი",
+  "CenterPositionLon": 41.98260479307208,
+  "CenterPositionLat": 44.10909793015189
+ },
+ {
+  "ID": 103969089,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 42.220022479017516,
+  "CenterPositionLat": 43.96108229954266
+ },
+ {
+  "ID": 104113824,
+  "Capacity": 300,
+  "Name": "",
+  "CenterPositionLon": 42.227969175746715,
+  "CenterPositionLat": 43.96073690320452
+ },
+ {
+  "ID": 104113832,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 42.22768547961202,
+  "CenterPositionLat": 43.96259048242316
+ },
+ {
+  "ID": 104113838,
+  "Capacity": 214,
+  "Name": "",
+  "CenterPositionLon": 42.22908681887658,
+  "CenterPositionLat": 43.96156580629173
+ },
+ {
+  "ID": 104122415,
+  "Capacity": 11866,
+  "Name": "თბილისის ზოოპარკი",
+  "CenterPositionLon": 41.71317478758567,
+  "CenterPositionLat": 44.77667055339175
+ },
+ {
+  "ID": 104647543,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": 42.23648247156471,
+  "CenterPositionLat": 43.96720420195151
+ },
+ {
+  "ID": 104655713,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": 42.23993361011865,
+  "CenterPositionLat": 43.959933490451405
+ },
+ {
+  "ID": 104656535,
+  "Capacity": 125,
+  "Name": "",
+  "CenterPositionLon": 42.239929630882926,
+  "CenterPositionLat": 43.96080579052132
+ },
+ {
+  "ID": 104661961,
+  "Capacity": 435,
+  "Name": "",
+  "CenterPositionLon": 42.240270995738065,
+  "CenterPositionLat": 43.96241699154781
+ },
+ {
+  "ID": 104664722,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 42.213242947440015,
+  "CenterPositionLat": 43.97072540937594
+ },
+ {
+  "ID": 104664723,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 42.21303212552838,
+  "CenterPositionLat": 43.96984464523324
+ },
+ {
+  "ID": 104664724,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.21338895590191,
+  "CenterPositionLat": 43.971366993059014
+ },
+ {
+  "ID": 105137901,
+  "Capacity": 736,
+  "Name": "",
+  "CenterPositionLon": 42.22959718891443,
+  "CenterPositionLat": 43.9767903634912
+ },
+ {
+  "ID": 106276392,
+  "Capacity": 295,
+  "Name": "",
+  "CenterPositionLon": 42.21595255684923,
+  "CenterPositionLat": 43.96183365292735
+ },
+ {
+  "ID": 106276417,
+  "Capacity": 145,
+  "Name": "",
+  "CenterPositionLon": 42.21594421599628,
+  "CenterPositionLat": 43.96086447725622
+ },
+ {
+  "ID": 106447626,
+  "Capacity": 1259,
+  "Name": "",
+  "CenterPositionLon": 43.00457558005874,
+  "CenterPositionLat": 41.020056074146254
+ },
+ {
+  "ID": 106738731,
+  "Capacity": 3506,
+  "Name": "",
+  "CenterPositionLon": 42.99915502719705,
+  "CenterPositionLat": 41.027098808809406
+ },
+ {
+  "ID": 106746666,
+  "Capacity": 772,
+  "Name": "Хуыбылты Валерийы номыл парк",
+  "CenterPositionLon": 42.22952864508652,
+  "CenterPositionLat": 43.97801221395806
+ },
+ {
+  "ID": 106861889,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 42.22571098137683,
+  "CenterPositionLat": 43.977054890684414
+ },
+ {
+  "ID": 107163165,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 42.21788075268215,
+  "CenterPositionLat": 43.985974768767264
+ },
+ {
+  "ID": 107575671,
+  "Capacity": 602,
+  "Name": "",
+  "CenterPositionLon": 42.999423890293805,
+  "CenterPositionLat": 41.01458713273597
+ },
+ {
+  "ID": 107679075,
+  "Capacity": 285,
+  "Name": "",
+  "CenterPositionLon": 42.229031569179426,
+  "CenterPositionLat": 43.978737935808326
+ },
+ {
+  "ID": 109986842,
+  "Capacity": 1485,
+  "Name": "",
+  "CenterPositionLon": 42.22435448087298,
+  "CenterPositionLat": 43.94480309462678
+ },
+ {
+  "ID": 110056175,
+  "Capacity": 3868,
+  "Name": "",
+  "CenterPositionLon": 41.26479049753401,
+  "CenterPositionLat": 43.592421387465485
+ },
+ {
+  "ID": 110224827,
+  "Capacity": 1090,
+  "Name": "",
+  "CenterPositionLon": 42.22593463705477,
+  "CenterPositionLat": 43.9276013013389
+ },
+ {
+  "ID": 110388172,
+  "Capacity": 761,
+  "Name": "",
+  "CenterPositionLon": 42.22523162291291,
+  "CenterPositionLat": 43.97649422123395
+ },
+ {
+  "ID": 111669486,
+  "Capacity": 240,
+  "Name": "",
+  "CenterPositionLon": 42.2392135933731,
+  "CenterPositionLat": 43.93589077444339
+ },
+ {
+  "ID": 111669493,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 42.23862768271161,
+  "CenterPositionLat": 43.936301616937904
+ },
+ {
+  "ID": 111669495,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 42.23908453585832,
+  "CenterPositionLat": 43.93647873744518
+ },
+ {
+  "ID": 113570421,
+  "Capacity": 1109,
+  "Name": "",
+  "CenterPositionLon": 41.33657892909709,
+  "CenterPositionLat": 43.52005716181631
+ },
+ {
+  "ID": 113570423,
+  "Capacity": 402,
+  "Name": "",
+  "CenterPositionLon": 41.33861172019735,
+  "CenterPositionLat": 43.518940135620085
+ },
+ {
+  "ID": 113570424,
+  "Capacity": 1039,
+  "Name": "",
+  "CenterPositionLon": 41.34014586072858,
+  "CenterPositionLat": 43.52139557148733
+ },
+ {
+  "ID": 113570425,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": 41.33977856378389,
+  "CenterPositionLat": 43.51966757796076
+ },
+ {
+  "ID": 113706764,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 42.21435775529302,
+  "CenterPositionLat": 43.975659950212936
+ },
+ {
+  "ID": 114665331,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": 42.212208480023364,
+  "CenterPositionLat": 43.97926815894958
+ },
+ {
+  "ID": 121716855,
+  "Capacity": 1974,
+  "Name": "Ногдзауты парк",
+  "CenterPositionLon": 42.225430803023805,
+  "CenterPositionLat": 43.968545763851026
+ },
+ {
+  "ID": 123073104,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": 42.22599179593706,
+  "CenterPositionLat": 43.969948455259576
+ },
+ {
+  "ID": 126373536,
+  "Capacity": 852,
+  "Name": "",
+  "CenterPositionLon": 41.7767564022367,
+  "CenterPositionLat": 44.80625873491685
+ },
+ {
+  "ID": 127708017,
+  "Capacity": 454,
+  "Name": "ავლაბარის მოედანი",
+  "CenterPositionLon": 41.69185824467573,
+  "CenterPositionLat": 44.81594803267594
+ },
+ {
+  "ID": 129725766,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": 41.61559111559486,
+  "CenterPositionLat": 41.60432951824268
+ },
+ {
+  "ID": 129725777,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 41.66168398954265,
+  "CenterPositionLat": 41.68102058464586
+ },
+ {
+  "ID": 129725783,
+  "Capacity": 5694,
+  "Name": "",
+  "CenterPositionLon": 41.575134886721344,
+  "CenterPositionLat": 41.66169906744173
+ },
+ {
+  "ID": 129725792,
+  "Capacity": 281,
+  "Name": "",
+  "CenterPositionLon": 41.57832135867266,
+  "CenterPositionLat": 41.659559813756
+ },
+ {
+  "ID": 129726823,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 41.82080965088663,
+  "CenterPositionLat": 41.782365652650995
+ },
+ {
+  "ID": 129728161,
+  "Capacity": 8425,
+  "Name": "",
+  "CenterPositionLon": 41.826884350485905,
+  "CenterPositionLat": 41.774302621298446
+ },
+ {
+  "ID": 129728162,
+  "Capacity": 1322,
+  "Name": "",
+  "CenterPositionLon": 41.8104881332697,
+  "CenterPositionLat": 41.772689161249275
+ },
+ {
+  "ID": 129728510,
+  "Capacity": 222,
+  "Name": "თავისუფლების მოედანი",
+  "CenterPositionLon": 41.82055731051385,
+  "CenterPositionLat": 41.77542697324462
+ },
+ {
+  "ID": 129728515,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": 41.817944159635275,
+  "CenterPositionLat": 41.77354500995061
+ },
+ {
+  "ID": 131011634,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 41.718967026004236,
+  "CenterPositionLat": 44.76172870274088
+ },
+ {
+  "ID": 132076228,
+  "Capacity": 2597,
+  "Name": "ცენტრალური ბაღი “ბულვარი“",
+  "CenterPositionLon": 42.27127128199591,
+  "CenterPositionLat": 42.7038374839195
+ },
+ {
+  "ID": 132690396,
+  "Capacity": 366,
+  "Name": "",
+  "CenterPositionLon": 41.6523783383336,
+  "CenterPositionLat": 41.63721790378739
+ },
+ {
+  "ID": 133242931,
+  "Capacity": 2105,
+  "Name": "",
+  "CenterPositionLon": 41.77066785711865,
+  "CenterPositionLat": 45.018577187163736
+ },
+ {
+  "ID": 133967289,
+  "Capacity": 392,
+  "Name": "",
+  "CenterPositionLon": 41.72553862927573,
+  "CenterPositionLat": 44.75513702636503
+ },
+ {
+  "ID": 135617613,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 41.718023568734786,
+  "CenterPositionLat": 44.791512018852735
+ },
+ {
+  "ID": 135734217,
+  "Capacity": 140,
+  "Name": "ალექსანდრე გრიბოედოვის მოედანი",
+  "CenterPositionLon": 41.704191010863305,
+  "CenterPositionLat": 44.79896112232915
+ },
+ {
+  "ID": 136225691,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 41.724249827809366,
+  "CenterPositionLat": 44.742293822487774
+ },
+ {
+  "ID": 138683592,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 41.70887842541036,
+  "CenterPositionLat": 44.779376424489854
+ },
+ {
+  "ID": 142588810,
+  "Capacity": 22868,
+  "Name": "დიღმის ტყე-პარკის",
+  "CenterPositionLon": 41.76821943189898,
+  "CenterPositionLat": 44.77234114733783
+ },
+ {
+  "ID": 147000073,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": 41.70051845,
+  "CenterPositionLat": 44.84974135
+ },
+ {
+  "ID": 147000138,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": 41.7004337,
+  "CenterPositionLat": 44.8488979
+ },
+ {
+  "ID": 147001013,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 41.7016894,
+  "CenterPositionLat": 44.84888935
+ },
+ {
+  "ID": 151704476,
+  "Capacity": 477,
+  "Name": "",
+  "CenterPositionLon": 41.726844128164046,
+  "CenterPositionLat": 44.75432075092212
+ },
+ {
+  "ID": 157405930,
+  "Capacity": 2366,
+  "Name": "",
+  "CenterPositionLon": 41.5417982247135,
+  "CenterPositionLat": 45.010753727578
+ },
+ {
+  "ID": 157405970,
+  "Capacity": 9645,
+  "Name": "",
+  "CenterPositionLon": 41.54576105942416,
+  "CenterPositionLat": 45.01571082851128
+ },
+ {
+  "ID": 157406013,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 41.53953069729923,
+  "CenterPositionLat": 45.02141288134915
+ },
+ {
+  "ID": 158179655,
+  "Capacity": 4939,
+  "Name": "",
+  "CenterPositionLon": 41.810625503055654,
+  "CenterPositionLat": 44.8416840672207
+ },
+ {
+  "ID": 160222229,
+  "Capacity": 601,
+  "Name": "ციყვები",
+  "CenterPositionLon": 41.707568116576226,
+  "CenterPositionLat": 44.74409997390415
+ },
+ {
+  "ID": 161062365,
+  "Capacity": 557,
+  "Name": "გეგეშიძის ბაღი",
+  "CenterPositionLon": 41.707983441914976,
+  "CenterPositionLat": 44.76955027688141
+ },
+ {
+  "ID": 163783264,
+  "Capacity": 6549,
+  "Name": "",
+  "CenterPositionLon": 43.08483445570325,
+  "CenterPositionLat": 40.815525986075116
+ },
+ {
+  "ID": 166436126,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 41.69834637624224,
+  "CenterPositionLat": 44.80971944591787
+ },
+ {
+  "ID": 167354714,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": 41.563886388706855,
+  "CenterPositionLat": 44.95459840804214
+ },
+ {
+  "ID": 168274115,
+  "Capacity": 400,
+  "Name": "",
+  "CenterPositionLon": 41.96090159003063,
+  "CenterPositionLat": 44.61031311501505
+ },
+ {
+  "ID": 170073103,
+  "Capacity": 18365,
+  "Name": "",
+  "CenterPositionLon": 42.402229149805564,
+  "CenterPositionLat": 41.554209924279675
+ },
+ {
+  "ID": 172889182,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 41.68780610537659,
+  "CenterPositionLat": 44.82363258423773
+ },
+ {
+  "ID": 172908444,
+  "Capacity": 158,
+  "Name": "ლადო გუდიაშვილის მოედანი",
+  "CenterPositionLon": 41.69102394139253,
+  "CenterPositionLat": 44.80365230532817
+ },
+ {
+  "ID": 174040406,
+  "Capacity": 5109,
+  "Name": "ლეონიძის სკვერი",
+  "CenterPositionLon": 41.570182097232326,
+  "CenterPositionLat": 44.97906578719532
+ },
+ {
+  "ID": 174041175,
+  "Capacity": 1098,
+  "Name": "გამარჯვებნის ხვეივნი",
+  "CenterPositionLon": 41.548640904586875,
+  "CenterPositionLat": 44.99135913317775
+ },
+ {
+  "ID": 174041177,
+  "Capacity": 446,
+  "Name": "",
+  "CenterPositionLon": 41.550664561430395,
+  "CenterPositionLat": 44.990939111659436
+ },
+ {
+  "ID": 174079906,
+  "Capacity": 4847,
+  "Name": "ახალგაზრდობის ბაღი",
+  "CenterPositionLon": 41.55487980931726,
+  "CenterPositionLat": 44.98053370332599
+ },
+ {
+  "ID": 174079908,
+  "Capacity": 4377,
+  "Name": "ახალგაზრდობის ბაღი",
+  "CenterPositionLon": 41.55690947402357,
+  "CenterPositionLat": 44.986119176412174
+ },
+ {
+  "ID": 174079915,
+  "Capacity": 2179,
+  "Name": "",
+  "CenterPositionLon": 41.56829916916095,
+  "CenterPositionLat": 44.98316712775381
+ },
+ {
+  "ID": 174304310,
+  "Capacity": 2828,
+  "Name": "დედაენის ბაღი",
+  "CenterPositionLon": 41.70066726347147,
+  "CenterPositionLat": 44.80441619260007
+ },
+ {
+  "ID": 174892080,
+  "Capacity": 1612,
+  "Name": "გლდანის 7მკრ პარკი (Park in Gldani 7th. District) ",
+  "CenterPositionLon": 41.80503511528055,
+  "CenterPositionLat": 44.834537052755174
+ },
+ {
+  "ID": 175067631,
+  "Capacity": 2357,
+  "Name": "",
+  "CenterPositionLon": 41.92669255719643,
+  "CenterPositionLat": 41.99879730557074
+ },
+ {
+  "ID": 175191697,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": 41.570075205406766,
+  "CenterPositionLat": 44.96580084710444
+ },
+ {
+  "ID": 175197642,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 41.56784015,
+  "CenterPositionLat": 44.9670132
+ },
+ {
+  "ID": 175367060,
+  "Capacity": 27412,
+  "Name": "Musicians Park",
+  "CenterPositionLon": 41.94243446443736,
+  "CenterPositionLat": 41.77385943899876
+ },
+ {
+  "ID": 175376271,
+  "Capacity": 490,
+  "Name": "",
+  "CenterPositionLon": 41.561081217587876,
+  "CenterPositionLat": 44.97842223653695
+ },
+ {
+  "ID": 175379727,
+  "Capacity": 2349,
+  "Name": "ახალგაზრდობის ბაღი",
+  "CenterPositionLon": 41.55365964439119,
+  "CenterPositionLat": 44.97685954688311
+ },
+ {
+  "ID": 175849003,
+  "Capacity": 800,
+  "Name": "გიორგი მარტიაშვილის სახელობის სკვერი",
+  "CenterPositionLon": 41.69498386348432,
+  "CenterPositionLat": 44.858238648578826
+ },
+ {
+  "ID": 175849105,
+  "Capacity": 1136,
+  "Name": "",
+  "CenterPositionLon": 41.697076098945246,
+  "CenterPositionLat": 44.857084561335014
+ },
+ {
+  "ID": 175859190,
+  "Capacity": 2227,
+  "Name": "",
+  "CenterPositionLon": 41.55277363010435,
+  "CenterPositionLat": 44.981782081130625
+ },
+ {
+  "ID": 176005260,
+  "Capacity": 494,
+  "Name": "",
+  "CenterPositionLon": 41.55014710539546,
+  "CenterPositionLat": 44.98775773041079
+ },
+ {
+  "ID": 176009092,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 41.55089287930403,
+  "CenterPositionLat": 44.992854915497226
+ },
+ {
+  "ID": 176134244,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 41.568538213848406,
+  "CenterPositionLat": 44.976541606663716
+ },
+ {
+  "ID": 176134986,
+  "Capacity": 490,
+  "Name": "",
+  "CenterPositionLon": 41.56852392173859,
+  "CenterPositionLat": 44.978615741428996
+ },
+ {
+  "ID": 176165342,
+  "Capacity": 149,
+  "Name": "",
+  "CenterPositionLon": 41.57357619585878,
+  "CenterPositionLat": 44.980920676438515
+ },
+ {
+  "ID": 176166666,
+  "Capacity": 204,
+  "Name": "",
+  "CenterPositionLon": 41.57379872277232,
+  "CenterPositionLat": 44.98274200140581
+ },
+ {
+  "ID": 176617641,
+  "Capacity": 698,
+  "Name": "",
+  "CenterPositionLon": 41.56968614008644,
+  "CenterPositionLat": 44.99046967381342
+ },
+ {
+  "ID": 176679084,
+  "Capacity": 1604,
+  "Name": "",
+  "CenterPositionLon": 41.55439677499728,
+  "CenterPositionLat": 44.98480240149534
+ },
+ {
+  "ID": 183975676,
+  "Capacity": 818,
+  "Name": "",
+  "CenterPositionLon": 41.54026542979618,
+  "CenterPositionLat": 45.01926742062223
+ },
+ {
+  "ID": 183975680,
+  "Capacity": 490,
+  "Name": "",
+  "CenterPositionLon": 41.541891218223775,
+  "CenterPositionLat": 45.014803298992035
+ },
+ {
+  "ID": 183988025,
+  "Capacity": 1062,
+  "Name": "",
+  "CenterPositionLon": 41.53630566584167,
+  "CenterPositionLat": 45.01044236186018
+ },
+ {
+  "ID": 184157344,
+  "Capacity": 722,
+  "Name": "",
+  "CenterPositionLon": 41.55399407060411,
+  "CenterPositionLat": 45.020298901818784
+ },
+ {
+  "ID": 184340081,
+  "Capacity": 1869,
+  "Name": "Rose Revolution amusement Park",
+  "CenterPositionLon": 41.80095069427095,
+  "CenterPositionLat": 44.824445874738664
+ },
+ {
+  "ID": 184731369,
+  "Capacity": 2566,
+  "Name": "",
+  "CenterPositionLon": 41.54516434595636,
+  "CenterPositionLat": 45.02526726294948
+ },
+ {
+  "ID": 186725033,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": 41.724782184373055,
+  "CenterPositionLat": 44.766890086648885
+ },
+ {
+  "ID": 188447907,
+  "Capacity": 378,
+  "Name": "",
+  "CenterPositionLon": 41.70576568429778,
+  "CenterPositionLat": 44.79116386139818
+ },
+ {
+  "ID": 188596299,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 41.70794208531338,
+  "CenterPositionLat": 44.78245468898955
+ },
+ {
+  "ID": 188863384,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 41.719066850000004,
+  "CenterPositionLat": 44.7938603
+ },
+ {
+  "ID": 189538360,
+  "Capacity": 222,
+  "Name": "",
+  "CenterPositionLon": 41.71027267425206,
+  "CenterPositionLat": 44.80545875583105
+ },
+ {
+  "ID": 189638439,
+  "Capacity": 264,
+  "Name": "",
+  "CenterPositionLon": 41.73297453321344,
+  "CenterPositionLat": 44.796756494812335
+ },
+ {
+  "ID": 190864714,
+  "Capacity": 468,
+  "Name": "ლონდონის სკვერი",
+  "CenterPositionLon": 41.7057422482411,
+  "CenterPositionLat": 44.80509059226877
+ },
+ {
+  "ID": 193893103,
+  "Capacity": 561,
+  "Name": "მაიორ შალვა დოლიძის სახელობის სკვერი",
+  "CenterPositionLon": 41.676520740848986,
+  "CenterPositionLat": 44.853061651863406
+ },
+ {
+  "ID": 196992823,
+  "Capacity": 160,
+  "Name": "",
+  "CenterPositionLon": 41.70494568678178,
+  "CenterPositionLat": 44.791456182778
+ },
+ {
+  "ID": 198122738,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": 41.69061255088631,
+  "CenterPositionLat": 44.807421124811704
+ },
+ {
+  "ID": 198125061,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 41.688739435166774,
+  "CenterPositionLat": 44.81248141240511
+ },
+ {
+  "ID": 198132952,
+  "Capacity": 2975,
+  "Name": "",
+  "CenterPositionLon": 41.6862598092713,
+  "CenterPositionLat": 44.82048439125581
+ },
+ {
+  "ID": 199680776,
+  "Capacity": 1108,
+  "Name": "",
+  "CenterPositionLon": 42.702863082307864,
+  "CenterPositionLat": 41.46686725507004
+ },
+ {
+  "ID": 202177503,
+  "Capacity": 1272,
+  "Name": "Комсомольский парк",
+  "CenterPositionLon": 43.32546785166639,
+  "CenterPositionLat": 40.22246757840135
+ },
+ {
+  "ID": 202300080,
+  "Capacity": 580,
+  "Name": "",
+  "CenterPositionLon": 43.3247033194037,
+  "CenterPositionLat": 40.22343507406254
+ },
+ {
+  "ID": 202428576,
+  "Capacity": 340,
+  "Name": "",
+  "CenterPositionLon": 43.276071400643296,
+  "CenterPositionLat": 40.26611087280564
+ },
+ {
+  "ID": 202511002,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 43.29088045459752,
+  "CenterPositionLat": 40.26020718214465
+ },
+ {
+  "ID": 202523627,
+  "Capacity": 549,
+  "Name": "",
+  "CenterPositionLon": 43.27798528153276,
+  "CenterPositionLat": 40.26570337484992
+ },
+ {
+  "ID": 202523630,
+  "Capacity": 638,
+  "Name": "",
+  "CenterPositionLon": 43.27713391529279,
+  "CenterPositionLat": 40.26615286951383
+ },
+ {
+  "ID": 202639596,
+  "Capacity": 207,
+  "Name": "26 მაისის მოედანი",
+  "CenterPositionLon": 41.71842004312695,
+  "CenterPositionLat": 44.77908983307776
+ },
+ {
+  "ID": 202944417,
+  "Capacity": 15913,
+  "Name": "Комплекс «Самшитовая роща»",
+  "CenterPositionLon": 43.178901445889835,
+  "CenterPositionLat": 40.2961447282585
+ },
+ {
+  "ID": 202976725,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 41.8443887273962,
+  "CenterPositionLat": 44.72024558847364
+ },
+ {
+  "ID": 202980835,
+  "Capacity": 2075,
+  "Name": "",
+  "CenterPositionLon": 43.16082101759871,
+  "CenterPositionLat": 40.33931245010601
+ },
+ {
+  "ID": 202984755,
+  "Capacity": 2098,
+  "Name": "",
+  "CenterPositionLon": 43.15983951064397,
+  "CenterPositionLat": 40.33901369728626
+ },
+ {
+  "ID": 203446530,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 41.695388825337595,
+  "CenterPositionLat": 44.807162242514835
+ },
+ {
+  "ID": 203533370,
+  "Capacity": 3837,
+  "Name": "Парк «Гуда и Ута»",
+  "CenterPositionLon": 43.09885474678414,
+  "CenterPositionLat": 40.6298365007919
+ },
+ {
+  "ID": 203556193,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 41.72119308768169,
+  "CenterPositionLat": 44.775833805543705
+ },
+ {
+  "ID": 203944631,
+  "Capacity": 725,
+  "Name": "",
+  "CenterPositionLon": 43.13600784744102,
+  "CenterPositionLat": 40.6176544447921
+ },
+ {
+  "ID": 204510466,
+  "Capacity": 8539,
+  "Name": "კულტურა და დასვენების პარკი",
+  "CenterPositionLon": 42.27089400169039,
+  "CenterPositionLat": 42.69646467154737
+ },
+ {
+  "ID": 205467245,
+  "Capacity": 1199,
+  "Name": "",
+  "CenterPositionLon": 42.26963579945817,
+  "CenterPositionLat": 42.700999414701634
+ },
+ {
+  "ID": 205793622,
+  "Capacity": 537,
+  "Name": "",
+  "CenterPositionLon": 41.732995175908975,
+  "CenterPositionLat": 44.96444985932145
+ },
+ {
+  "ID": 206243571,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 41.704073979678746,
+  "CenterPositionLat": 44.789753173633855
+ },
+ {
+  "ID": 211239509,
+  "Capacity": 2214,
+  "Name": "",
+  "CenterPositionLon": 41.70674532375196,
+  "CenterPositionLat": 44.87578579194037
+ },
+ {
+  "ID": 215056156,
+  "Capacity": 685,
+  "Name": "ილიკო სუხიშვილის მოედანი",
+  "CenterPositionLon": 41.70243283849284,
+  "CenterPositionLat": 44.87336882098169
+ },
+ {
+  "ID": 217952572,
+  "Capacity": 26620,
+  "Name": "",
+  "CenterPositionLon": 41.89724912414078,
+  "CenterPositionLat": 45.56807270969307
+ },
+ {
+  "ID": 220313411,
+  "Capacity": 1086,
+  "Name": "",
+  "CenterPositionLon": 41.97133431497236,
+  "CenterPositionLat": 42.212276683672265
+ },
+ {
+  "ID": 220320303,
+  "Capacity": 628,
+  "Name": "ნოდარ დუმბაძის სახელობის პარკი",
+  "CenterPositionLon": 42.02027291301245,
+  "CenterPositionLat": 42.24135819922463
+ },
+ {
+  "ID": 220320307,
+  "Capacity": 684,
+  "Name": "",
+  "CenterPositionLon": 42.01698265501423,
+  "CenterPositionLat": 42.23955996668473
+ },
+ {
+  "ID": 221323964,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 42.26179507598302,
+  "CenterPositionLat": 42.68212503221879
+ },
+ {
+  "ID": 221442823,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 41.67200234080782,
+  "CenterPositionLat": 44.81282208402042
+ },
+ {
+  "ID": 221478909,
+  "Capacity": 2924,
+  "Name": "",
+  "CenterPositionLon": 42.278918884426524,
+  "CenterPositionLat": 42.022982834160985
+ },
+ {
+  "ID": 222113434,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 41.66744606884737,
+  "CenterPositionLat": 44.890194652791074
+ },
+ {
+  "ID": 222113824,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 41.6668944802114,
+  "CenterPositionLat": 44.89213425842283
+ },
+ {
+  "ID": 222607120,
+  "Capacity": 18,
+  "Name": "ძმები ლუფაშვილების ბაღი",
+  "CenterPositionLon": 41.72688616205908,
+  "CenterPositionLat": 44.73472408869529
+ },
+ {
+  "ID": 222611548,
+  "Capacity": 1585,
+  "Name": "",
+  "CenterPositionLon": 41.7904086912122,
+  "CenterPositionLat": 44.7603709002461
+ },
+ {
+  "ID": 222611580,
+  "Capacity": 670,
+  "Name": "",
+  "CenterPositionLon": 41.79055136985603,
+  "CenterPositionLat": 44.75743127747007
+ },
+ {
+  "ID": 222889229,
+  "Capacity": 1966,
+  "Name": "",
+  "CenterPositionLon": 42.50600745785485,
+  "CenterPositionLat": 41.87067286877581
+ },
+ {
+  "ID": 225109802,
+  "Capacity": 324,
+  "Name": "",
+  "CenterPositionLon": 41.681961272124376,
+  "CenterPositionLat": 44.82417046417068
+ },
+ {
+  "ID": 225409034,
+  "Capacity": 496,
+  "Name": "",
+  "CenterPositionLon": 41.72207543746831,
+  "CenterPositionLat": 44.74579900892454
+ },
+ {
+  "ID": 225409036,
+  "Capacity": 207,
+  "Name": "",
+  "CenterPositionLon": 41.72021121907734,
+  "CenterPositionLat": 44.745933507104084
+ },
+ {
+  "ID": 225409039,
+  "Capacity": 945,
+  "Name": "",
+  "CenterPositionLon": 41.71724810375173,
+  "CenterPositionLat": 44.74561976082609
+ },
+ {
+  "ID": 225409040,
+  "Capacity": 775,
+  "Name": "",
+  "CenterPositionLon": 41.71402926300256,
+  "CenterPositionLat": 44.746379897422855
+ },
+ {
+  "ID": 228739616,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 42.08452759075541,
+  "CenterPositionLat": 42.51363292385249
+ },
+ {
+  "ID": 228896181,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 41.73030147215808,
+  "CenterPositionLat": 44.732588084480824
+ },
+ {
+  "ID": 228896182,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 41.72954625602742,
+  "CenterPositionLat": 44.73133528429538
+ },
+ {
+  "ID": 229417824,
+  "Capacity": 2063,
+  "Name": "",
+  "CenterPositionLon": 41.780519167338916,
+  "CenterPositionLat": 44.81553354783582
+ },
+ {
+  "ID": 229524482,
+  "Capacity": 2819,
+  "Name": "",
+  "CenterPositionLon": 41.78247274145182,
+  "CenterPositionLat": 44.81087569368689
+ },
+ {
+  "ID": 230949739,
+  "Capacity": 354,
+  "Name": "",
+  "CenterPositionLon": 42.33961756364403,
+  "CenterPositionLat": 43.40522917244888
+ },
+ {
+  "ID": 232958919,
+  "Capacity": 909,
+  "Name": "",
+  "CenterPositionLon": 41.767118014835226,
+  "CenterPositionLat": 44.75232553077869
+ },
+ {
+  "ID": 232958920,
+  "Capacity": 284,
+  "Name": "",
+  "CenterPositionLon": 41.76624815611378,
+  "CenterPositionLat": 44.75336641833235
+ },
+ {
+  "ID": 233674789,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 41.640507215857625,
+  "CenterPositionLat": 42.79101995383996
+ },
+ {
+  "ID": 234472515,
+  "Capacity": 1598,
+  "Name": "9 აპრილის პარკი",
+  "CenterPositionLon": 42.09667223398739,
+  "CenterPositionLat": 42.50557523866123
+ },
+ {
+  "ID": 234551371,
+  "Capacity": 1555,
+  "Name": "",
+  "CenterPositionLon": 41.923441890101046,
+  "CenterPositionLat": 42.00350757640248
+ },
+ {
+  "ID": 235109756,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 42.0432949678372,
+  "CenterPositionLat": 41.81328566606737
+ },
+ {
+  "ID": 237655309,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 41.714872276619765,
+  "CenterPositionLat": 44.75872845363621
+ },
+ {
+  "ID": 239554756,
+  "Capacity": 519,
+  "Name": "",
+  "CenterPositionLon": 41.72412305,
+  "CenterPositionLat": 44.71714105
+ },
+ {
+  "ID": 239559992,
+  "Capacity": 647,
+  "Name": "",
+  "CenterPositionLon": 42.04971904137259,
+  "CenterPositionLat": 45.35944563185617
+ },
+ {
+  "ID": 241212460,
+  "Capacity": 199,
+  "Name": "",
+  "CenterPositionLon": 41.69118952475208,
+  "CenterPositionLat": 44.81114936759136
+ },
+ {
+  "ID": 242224843,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": 41.70145566537321,
+  "CenterPositionLat": 44.797893066718956
+ },
+ {
+  "ID": 244660541,
+  "Capacity": 1165,
+  "Name": "",
+  "CenterPositionLon": 42.20526024064804,
+  "CenterPositionLat": 42.20351523946647
+ },
+ {
+  "ID": 244935651,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 42.1625624,
+  "CenterPositionLat": 42.345672199999996
+ },
+ {
+  "ID": 246756470,
+  "Capacity": 639,
+  "Name": "",
+  "CenterPositionLon": 41.706788201382295,
+  "CenterPositionLat": 44.79511007100298
+ },
+ {
+  "ID": 246769139,
+  "Capacity": 258,
+  "Name": "",
+  "CenterPositionLon": 41.71147079572448,
+  "CenterPositionLat": 44.803298811294965
+ },
+ {
+  "ID": 247573224,
+  "Capacity": 3312,
+  "Name": "",
+  "CenterPositionLon": 41.72200478176477,
+  "CenterPositionLat": 41.730622564668806
+ },
+ {
+  "ID": 247573227,
+  "Capacity": 3592,
+  "Name": "",
+  "CenterPositionLon": 41.724946045533976,
+  "CenterPositionLat": 41.73201374505217
+ },
+ {
+  "ID": 247661414,
+  "Capacity": 694,
+  "Name": "Mexican section",
+  "CenterPositionLon": 41.70277684789475,
+  "CenterPositionLat": 41.719591270624946
+ },
+ {
+  "ID": 247663845,
+  "Capacity": 144,
+  "Name": "Japanese garden",
+  "CenterPositionLon": 41.701795512230774,
+  "CenterPositionLat": 41.72167589959138
+ },
+ {
+  "ID": 250736803,
+  "Capacity": 232,
+  "Name": "",
+  "CenterPositionLon": 41.67500195645406,
+  "CenterPositionLat": 42.706095153065014
+ },
+ {
+  "ID": 256111918,
+  "Capacity": 1043,
+  "Name": "",
+  "CenterPositionLon": 42.72213396769812,
+  "CenterPositionLat": 41.45485818700863
+ },
+ {
+  "ID": 256118661,
+  "Capacity": 358,
+  "Name": "",
+  "CenterPositionLon": 43.14116875,
+  "CenterPositionLat": 40.5261731
+ },
+ {
+  "ID": 256119333,
+  "Capacity": 4649,
+  "Name": "",
+  "CenterPositionLon": 43.00677300578209,
+  "CenterPositionLat": 40.94287512750714
+ },
+ {
+  "ID": 256123668,
+  "Capacity": 400,
+  "Name": "",
+  "CenterPositionLon": 43.00009581004566,
+  "CenterPositionLat": 41.029208917477646
+ },
+ {
+  "ID": 258608903,
+  "Capacity": 2764,
+  "Name": "",
+  "CenterPositionLon": 41.84081502351237,
+  "CenterPositionLat": 43.38516285831932
+ },
+ {
+  "ID": 259315526,
+  "Capacity": 3739,
+  "Name": "Парк Пансионата",
+  "CenterPositionLon": 43.32594415879276,
+  "CenterPositionLat": 40.21981232014509
+ },
+ {
+  "ID": 260318274,
+  "Capacity": 1816,
+  "Name": "ბულვარი",
+  "CenterPositionLon": 42.085136262647644,
+  "CenterPositionLat": 44.69776328347316
+ },
+ {
+  "ID": 260576681,
+  "Capacity": 247,
+  "Name": "",
+  "CenterPositionLon": 42.08485290934706,
+  "CenterPositionLat": 44.69671422371604
+ },
+ {
+  "ID": 261840476,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 41.72863350000178,
+  "CenterPositionLat": 44.72971213745103
+ },
+ {
+  "ID": 261840666,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 41.72845392617566,
+  "CenterPositionLat": 44.7293349929734
+ },
+ {
+  "ID": 262655052,
+  "Capacity": 240,
+  "Name": "",
+  "CenterPositionLon": 41.696972275669005,
+  "CenterPositionLat": 44.85554569794298
+ },
+ {
+  "ID": 262676915,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 41.679547533399116,
+  "CenterPositionLat": 44.827036259696534
+ },
+ {
+  "ID": 263651326,
+  "Capacity": 1133,
+  "Name": "",
+  "CenterPositionLon": 42.26624167254812,
+  "CenterPositionLat": 42.64202270126611
+ },
+ {
+  "ID": 263652276,
+  "Capacity": 1184,
+  "Name": "",
+  "CenterPositionLon": 42.26966353562739,
+  "CenterPositionLat": 42.64267364827102
+ },
+ {
+  "ID": 265033572,
+  "Capacity": 109,
+  "Name": "",
+  "CenterPositionLon": 42.22509352457552,
+  "CenterPositionLat": 43.97082566143621
+ },
+ {
+  "ID": 266812507,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 41.845107569920394,
+  "CenterPositionLat": 44.7204365818051
+ },
+ {
+  "ID": 273409581,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": 41.71728573377466,
+  "CenterPositionLat": 44.791883674676185
+ },
+ {
+  "ID": 273536832,
+  "Capacity": 449,
+  "Name": "",
+  "CenterPositionLon": 41.71106990299909,
+  "CenterPositionLat": 44.78819503994941
+ },
+ {
+  "ID": 279500976,
+  "Capacity": 120,
+  "Name": "",
+  "CenterPositionLon": 41.99267918960474,
+  "CenterPositionLat": 43.73756195691438
+ },
+ {
+  "ID": 281813127,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 41.72908186700332,
+  "CenterPositionLat": 44.72755698932919
+ },
+ {
+  "ID": 282468930,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 41.71383086026932,
+  "CenterPositionLat": 44.79150243009744
+ },
+ {
+  "ID": 284176632,
+  "Capacity": 605,
+  "Name": "",
+  "CenterPositionLon": 41.70290428832623,
+  "CenterPositionLat": 44.88623139775737
+ },
+ {
+  "ID": 284783984,
+  "Capacity": 625,
+  "Name": "",
+  "CenterPositionLon": 42.27170362626426,
+  "CenterPositionLat": 42.70650180189044
+ },
+ {
+  "ID": 284791613,
+  "Capacity": 4470,
+  "Name": "",
+  "CenterPositionLon": 41.953281632301476,
+  "CenterPositionLat": 45.7962439418522
+ },
+ {
+  "ID": 289026869,
+  "Capacity": 503,
+  "Name": "",
+  "CenterPositionLon": 41.69587295754278,
+  "CenterPositionLat": 44.86907769071729
+ },
+ {
+  "ID": 293187383,
+  "Capacity": 4279,
+  "Name": "Военный санаторий «Гагра»",
+  "CenterPositionLon": 43.29620646189577,
+  "CenterPositionLat": 40.26259246824276
+ },
+ {
+  "ID": 293187394,
+  "Capacity": 751,
+  "Name": "",
+  "CenterPositionLon": 43.29697369646106,
+  "CenterPositionLat": 40.257862150022284
+ },
+ {
+  "ID": 293188683,
+  "Capacity": 12575,
+  "Name": "Дача губернатора Краснодарского края",
+  "CenterPositionLon": 43.303090215106636,
+  "CenterPositionLat": 40.26127797298218
+ },
+ {
+  "ID": 295969751,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 41.674389363489716,
+  "CenterPositionLat": 44.95886421402778
+ },
+ {
+  "ID": 295970117,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 41.67399144616957,
+  "CenterPositionLat": 44.960039134622086
+ },
+ {
+  "ID": 295970255,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 41.673728551818755,
+  "CenterPositionLat": 44.96063498192011
+ },
+ {
+  "ID": 296800744,
+  "Capacity": 82,
+  "Name": "",
+  "CenterPositionLon": 42.04913952231471,
+  "CenterPositionLat": 42.06580461363357
+ },
+ {
+  "ID": 297152565,
+  "Capacity": 26906,
+  "Name": "",
+  "CenterPositionLon": 42.00784705781285,
+  "CenterPositionLat": 42.20570415794385
+ },
+ {
+  "ID": 297309268,
+  "Capacity": 957,
+  "Name": "",
+  "CenterPositionLon": 42.65677006075545,
+  "CenterPositionLat": 44.64018372746139
+ },
+ {
+  "ID": 298979921,
+  "Capacity": 1205,
+  "Name": "",
+  "CenterPositionLon": 42.73021531310901,
+  "CenterPositionLat": 41.44918312023551
+ },
+ {
+  "ID": 299174933,
+  "Capacity": 5689,
+  "Name": "",
+  "CenterPositionLon": 42.79251746147816,
+  "CenterPositionLat": 41.26956970381016
+ },
+ {
+  "ID": 300924607,
+  "Capacity": 1232,
+  "Name": "",
+  "CenterPositionLon": 43.17109866220668,
+  "CenterPositionLat": 40.361400724747575
+ },
+ {
+  "ID": 300924627,
+  "Capacity": 536,
+  "Name": "",
+  "CenterPositionLon": 43.17587119169031,
+  "CenterPositionLat": 40.37406447210104
+ },
+ {
+  "ID": 301263959,
+  "Capacity": 2830,
+  "Name": "",
+  "CenterPositionLon": 43.27774503402478,
+  "CenterPositionLat": 40.272652307646275
+ },
+ {
+  "ID": 301448874,
+  "Capacity": 676,
+  "Name": "",
+  "CenterPositionLon": 43.381719201676745,
+  "CenterPositionLat": 40.08525622781597
+ },
+ {
+  "ID": 305528593,
+  "Capacity": 1029,
+  "Name": "",
+  "CenterPositionLon": 43.19961607626903,
+  "CenterPositionLat": 40.28820813458307
+ },
+ {
+  "ID": 308110258,
+  "Capacity": 5589,
+  "Name": "",
+  "CenterPositionLon": 43.0829030754443,
+  "CenterPositionLat": 40.826629059452806
+ },
+ {
+  "ID": 309055807,
+  "Capacity": 241,
+  "Name": "",
+  "CenterPositionLon": 41.725466917706804,
+  "CenterPositionLat": 44.725391464129075
+ },
+ {
+  "ID": 321027837,
+  "Capacity": 356,
+  "Name": "",
+  "CenterPositionLon": 41.26643100431542,
+  "CenterPositionLat": 43.586872382456114
+ },
+ {
+  "ID": 322627114,
+  "Capacity": 14005,
+  "Name": "Пансионат Солнечный",
+  "CenterPositionLon": 43.364475082743496,
+  "CenterPositionLat": 40.119277992327675
+ },
+ {
+  "ID": 322627118,
+  "Capacity": 1381,
+  "Name": "Пансионат \"Холодная речка\"",
+  "CenterPositionLon": 43.35988661959865,
+  "CenterPositionLat": 40.120437056357105
+ },
+ {
+  "ID": 323486655,
+  "Capacity": 299,
+  "Name": "",
+  "CenterPositionLon": 42.195815233109386,
+  "CenterPositionLat": 43.77282611309076
+ },
+ {
+  "ID": 324316351,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 42.211511621554685,
+  "CenterPositionLat": 44.03857197447043
+ },
+ {
+  "ID": 325520982,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 43.38484072470093,
+  "CenterPositionLat": 40.043636659746845
+ },
+ {
+  "ID": 325520988,
+  "Capacity": 6799,
+  "Name": "",
+  "CenterPositionLon": 43.38764212875569,
+  "CenterPositionLat": 40.02012463006038
+ },
+ {
+  "ID": 325520993,
+  "Capacity": 14043,
+  "Name": "",
+  "CenterPositionLon": 43.385630512319075,
+  "CenterPositionLat": 40.02969768643268
+ },
+ {
+  "ID": 332927298,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": 41.40894218248287,
+  "CenterPositionLat": 43.48488726078565
+ },
+ {
+  "ID": 336660476,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 41.73312490895101,
+  "CenterPositionLat": 44.71923085565011
+ },
+ {
+  "ID": 338835804,
+  "Capacity": 6607,
+  "Name": "",
+  "CenterPositionLon": 42.14106356996246,
+  "CenterPositionLat": 41.67454795429523
+ },
+ {
+  "ID": 341602735,
+  "Capacity": 4986,
+  "Name": "Пансионат «Осетия»",
+  "CenterPositionLon": 43.09298627914822,
+  "CenterPositionLat": 40.601743286257495
+ },
+ {
+  "ID": 355485326,
+  "Capacity": 2126,
+  "Name": "Парк культуры",
+  "CenterPositionLon": 42.1231219454242,
+  "CenterPositionLat": 44.48398662953109
+ },
+ {
+  "ID": 363703984,
+  "Capacity": 166572,
+  "Name": "ხუდადოვის პარკი",
+  "CenterPositionLon": 41.72374687813557,
+  "CenterPositionLat": 44.822186586091746
+ },
+ {
+  "ID": 365765980,
+  "Capacity": 3040,
+  "Name": "",
+  "CenterPositionLon": 42.998504038286356,
+  "CenterPositionLat": 41.038137159057044
+ },
+ {
+  "ID": 365852051,
+  "Capacity": 291,
+  "Name": "",
+  "CenterPositionLon": 42.94963776675737,
+  "CenterPositionLat": 41.08864929728281
+ },
+ {
+  "ID": 366785924,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 41.7268367781716,
+  "CenterPositionLat": 44.79950885321851
+ },
+ {
+  "ID": 366787921,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 41.72861079002856,
+  "CenterPositionLat": 44.80342587880417
+ },
+ {
+  "ID": 367319061,
+  "Capacity": 367,
+  "Name": "",
+  "CenterPositionLon": 42.104159307636806,
+  "CenterPositionLat": 43.03509413146313
+ },
+ {
+  "ID": 367584704,
+  "Capacity": 505,
+  "Name": "",
+  "CenterPositionLon": 41.72197629807921,
+  "CenterPositionLat": 44.74523986004298
+ },
+ {
+  "ID": 367602837,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 41.674626749999995,
+  "CenterPositionLat": 44.8566705
+ },
+ {
+  "ID": 367602978,
+  "Capacity": 154,
+  "Name": "",
+  "CenterPositionLon": 41.675128650000005,
+  "CenterPositionLat": 44.857107549999995
+ },
+ {
+  "ID": 369103373,
+  "Capacity": 268,
+  "Name": "საქართველოს ერთიანობისთვის დაცემულთა სკვერი",
+  "CenterPositionLon": 41.73417772931627,
+  "CenterPositionLat": 44.73017670250454
+ },
+ {
+  "ID": 369232780,
+  "Capacity": 296,
+  "Name": "",
+  "CenterPositionLon": 41.696155208958494,
+  "CenterPositionLat": 44.79697570726982
+ },
+ {
+  "ID": 370766953,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 43.29581605,
+  "CenterPositionLat": 40.258589400000005
+ },
+ {
+  "ID": 370766954,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 43.29610861981303,
+  "CenterPositionLat": 40.2584867955294
+ },
+ {
+  "ID": 374481926,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 41.620174197610766,
+  "CenterPositionLat": 45.92173416306401
+ },
+ {
+  "ID": 375541146,
+  "Capacity": 1464,
+  "Name": "",
+  "CenterPositionLon": 42.17983267021576,
+  "CenterPositionLat": 42.976925300444506
+ },
+ {
+  "ID": 386278889,
+  "Capacity": 2547,
+  "Name": "",
+  "CenterPositionLon": 43.27207411070996,
+  "CenterPositionLat": 40.26728695196428
+ },
+ {
+  "ID": 386595277,
+  "Capacity": 30973,
+  "Name": "",
+  "CenterPositionLon": 42.93083912624623,
+  "CenterPositionLat": 41.089729461562065
+ },
+ {
+  "ID": 386596204,
+  "Capacity": 27532,
+  "Name": "",
+  "CenterPositionLon": 42.92381801321355,
+  "CenterPositionLat": 41.124930138086995
+ },
+ {
+  "ID": 388190491,
+  "Capacity": 1109,
+  "Name": "ნაძვები",
+  "CenterPositionLon": 41.60073554762103,
+  "CenterPositionLat": 45.96532860920406
+ },
+ {
+  "ID": 398848785,
+  "Capacity": 1826,
+  "Name": "",
+  "CenterPositionLon": 41.74759987794153,
+  "CenterPositionLat": 43.52758482576166
+ },
+ {
+  "ID": 398848786,
+  "Capacity": 53609,
+  "Name": "",
+  "CenterPositionLon": 41.74451708660962,
+  "CenterPositionLat": 43.52209438875322
+ },
+ {
+  "ID": 401026513,
+  "Capacity": 1763,
+  "Name": "",
+  "CenterPositionLon": 41.69557113140925,
+  "CenterPositionLat": 44.384628971101506
+ },
+ {
+  "ID": 410464073,
+  "Capacity": 3037,
+  "Name": "თეთრიწყაროს ცენტრალური პარკი",
+  "CenterPositionLon": 41.545263713931526,
+  "CenterPositionLat": 44.465849245054535
+ },
+ {
+  "ID": 413066409,
+  "Capacity": 414,
+  "Name": "",
+  "CenterPositionLon": 41.546493849263555,
+  "CenterPositionLat": 45.00417653558986
+ },
+ {
+  "ID": 421003233,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 42.11690978988553,
+  "CenterPositionLat": 43.02814542569874
+ },
+ {
+  "ID": 424217357,
+  "Capacity": 657,
+  "Name": "პაპას ბაღი",
+  "CenterPositionLon": 41.744630801540964,
+  "CenterPositionLat": 45.79534177564089
+ },
+ {
+  "ID": 424222478,
+  "Capacity": 3277,
+  "Name": "საბრძოლო დიდების მემორიალი (ობელისკი)",
+  "CenterPositionLon": 41.74407514385722,
+  "CenterPositionLat": 45.78801158719132
+ },
+ {
+  "ID": 425107191,
+  "Capacity": 289,
+  "Name": "",
+  "CenterPositionLon": 41.692630321446494,
+  "CenterPositionLat": 44.819488825688595
+ },
+ {
+  "ID": 434843166,
+  "Capacity": 762,
+  "Name": "Ureki Park",
+  "CenterPositionLon": 41.997451223583,
+  "CenterPositionLat": 41.760559020219674
+ },
+ {
+  "ID": 441810346,
+  "Capacity": 706,
+  "Name": "",
+  "CenterPositionLon": 41.648596649169775,
+  "CenterPositionLat": 41.63392426590352
+ },
+ {
+  "ID": 442004660,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 42.11689196963423,
+  "CenterPositionLat": 43.028739966719264
+ },
+ {
+  "ID": 442180813,
+  "Capacity": 1197,
+  "Name": "",
+  "CenterPositionLon": 42.16187560085778,
+  "CenterPositionLat": 42.345347841464296
+ },
+ {
+  "ID": 442196188,
+  "Capacity": 237,
+  "Name": "",
+  "CenterPositionLon": 41.64771683743923,
+  "CenterPositionLat": 44.99947310804254
+ },
+ {
+  "ID": 442279848,
+  "Capacity": 347,
+  "Name": "",
+  "CenterPositionLon": 41.64800144581255,
+  "CenterPositionLat": 44.98713488041547
+ },
+ {
+  "ID": 442463939,
+  "Capacity": 902,
+  "Name": "",
+  "CenterPositionLon": 42.16034899660346,
+  "CenterPositionLat": 42.33868430983299
+ },
+ {
+  "ID": 442587703,
+  "Capacity": 147,
+  "Name": "შოთა რუსთაველის სკვერი",
+  "CenterPositionLon": 42.16461762955291,
+  "CenterPositionLat": 42.352427102415646
+ },
+ {
+  "ID": 442770427,
+  "Capacity": 13920,
+  "Name": "Приморский парк",
+  "CenterPositionLon": 43.323358493213576,
+  "CenterPositionLat": 40.23076125238858
+ },
+ {
+  "ID": 445789367,
+  "Capacity": 193,
+  "Name": "",
+  "CenterPositionLon": 42.16221972097319,
+  "CenterPositionLat": 42.34465337811937
+ },
+ {
+  "ID": 450908025,
+  "Capacity": 175,
+  "Name": "",
+  "CenterPositionLon": 41.732435148684154,
+  "CenterPositionLat": 44.723466707337565
+ },
+ {
+  "ID": 451419094,
+  "Capacity": 5659,
+  "Name": "",
+  "CenterPositionLon": 42.398911128069265,
+  "CenterPositionLat": 41.61120907075824
+ },
+ {
+  "ID": 451710353,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 41.72740926016883,
+  "CenterPositionLat": 44.72239496253098
+ },
+ {
+  "ID": 451710354,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 41.72788018767175,
+  "CenterPositionLat": 44.72054060067789
+ },
+ {
+  "ID": 451713009,
+  "Capacity": 357,
+  "Name": "დმანისის პარკი (Municipal Park)",
+  "CenterPositionLon": 41.33151484490877,
+  "CenterPositionLat": 44.20260198907718
+ },
+ {
+  "ID": 453085236,
+  "Capacity": 948,
+  "Name": "",
+  "CenterPositionLon": 41.72006820537247,
+  "CenterPositionLat": 44.70974884430281
+ },
+ {
+  "ID": 456726791,
+  "Capacity": 1332,
+  "Name": "შინდისის გმირების სახელობის პარკი",
+  "CenterPositionLon": 41.63323799114049,
+  "CenterPositionLat": 41.63433391877401
+ },
+ {
+  "ID": 456795960,
+  "Capacity": 45,
+  "Name": "მოსაშვილების პარკი",
+  "CenterPositionLon": 41.7267764,
+  "CenterPositionLat": 44.73339705
+ },
+ {
+  "ID": 456927645,
+  "Capacity": 6871,
+  "Name": "",
+  "CenterPositionLon": 42.10382035871064,
+  "CenterPositionLat": 41.70201099854821
+ },
+ {
+  "ID": 457652038,
+  "Capacity": 1042,
+  "Name": "",
+  "CenterPositionLon": 42.00024025682977,
+  "CenterPositionLat": 41.75911045281545
+ },
+ {
+  "ID": 460266662,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": 41.725970526684335,
+  "CenterPositionLat": 44.733577223992015
+ },
+ {
+  "ID": 461804763,
+  "Capacity": 255,
+  "Name": "",
+  "CenterPositionLon": 41.63231546632394,
+  "CenterPositionLat": 41.628368421293686
+ },
+ {
+  "ID": 474799586,
+  "Capacity": 2851,
+  "Name": "",
+  "CenterPositionLon": 42.3904255430329,
+  "CenterPositionLat": 41.56295456760266
+ },
+ {
+  "ID": 480141133,
+  "Capacity": 2843,
+  "Name": "",
+  "CenterPositionLon": 42.37039042291427,
+  "CenterPositionLat": 41.59304868317136
+ },
+ {
+  "ID": 481610462,
+  "Capacity": 645,
+  "Name": "",
+  "CenterPositionLon": 41.80780895303013,
+  "CenterPositionLat": 41.77785612160678
+ },
+ {
+  "ID": 481615270,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": 41.749284605571084,
+  "CenterPositionLat": 44.777489139394454
+ },
+ {
+  "ID": 482733770,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 41.808226251855345,
+  "CenterPositionLat": 44.83582477510468
+ },
+ {
+  "ID": 486755919,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 41.683702403921075,
+  "CenterPositionLat": 44.8398819990168
+ },
+ {
+  "ID": 488822645,
+  "Capacity": 366,
+  "Name": "",
+  "CenterPositionLon": 41.686695241809254,
+  "CenterPositionLat": 44.84016036131565
+ },
+ {
+  "ID": 489057430,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 42.74574464324515,
+  "CenterPositionLat": 42.03764653950228
+ },
+ {
+  "ID": 490697928,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": 41.981184943817375,
+  "CenterPositionLat": 44.11052554538813
+ },
+ {
+  "ID": 493317246,
+  "Capacity": 13685,
+  "Name": "",
+  "CenterPositionLon": 41.73343168181989,
+  "CenterPositionLat": 45.786690725857646
+ },
+ {
+  "ID": 493944152,
+  "Capacity": 920,
+  "Name": "",
+  "CenterPositionLon": 43.37224201521883,
+  "CenterPositionLat": 40.09548632632461
+ },
+ {
+  "ID": 494637478,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 42.164074965858894,
+  "CenterPositionLat": 42.34700487407131
+ },
+ {
+  "ID": 494637479,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 42.164492145175906,
+  "CenterPositionLat": 42.34709360583709
+ },
+ {
+  "ID": 494730210,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 42.164433077241675,
+  "CenterPositionLat": 42.343543821282914
+ },
+ {
+  "ID": 494730358,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 42.164351334466225,
+  "CenterPositionLat": 42.34397184657357
+ },
+ {
+  "ID": 494730359,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 42.16444790288625,
+  "CenterPositionLat": 42.34429523567731
+ },
+ {
+  "ID": 494757746,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 42.1617396005131,
+  "CenterPositionLat": 42.33007881567071
+ },
+ {
+  "ID": 494757749,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 42.16111024353541,
+  "CenterPositionLat": 42.32971657240996
+ },
+ {
+  "ID": 494757751,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 42.160600885544234,
+  "CenterPositionLat": 42.329799642783335
+ },
+ {
+  "ID": 494757753,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 42.16050930029648,
+  "CenterPositionLat": 42.32992615706909
+ },
+ {
+  "ID": 494757756,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 42.16106170676024,
+  "CenterPositionLat": 42.329886456418876
+ },
+ {
+  "ID": 494757784,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 42.16110106412563,
+  "CenterPositionLat": 42.331294018696454
+ },
+ {
+  "ID": 494758265,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 42.16109066097953,
+  "CenterPositionLat": 42.3295822721881
+ },
+ {
+  "ID": 494842016,
+  "Capacity": 395,
+  "Name": "",
+  "CenterPositionLon": 42.15941023158432,
+  "CenterPositionLat": 42.312693675073966
+ },
+ {
+  "ID": 494846634,
+  "Capacity": 6359,
+  "Name": "დენდროლოგიური პარკი",
+  "CenterPositionLon": 42.16923791093828,
+  "CenterPositionLat": 42.296775562162345
+ },
+ {
+  "ID": 495442249,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 42.165814015706204,
+  "CenterPositionLat": 42.3503033708802
+ },
+ {
+  "ID": 495442250,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 42.16530675902083,
+  "CenterPositionLat": 42.3502612436968
+ },
+ {
+  "ID": 495517949,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 42.16228380309301,
+  "CenterPositionLat": 42.343135095292304
+ },
+ {
+  "ID": 495517950,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 42.16260557779785,
+  "CenterPositionLat": 42.34302264613008
+ },
+ {
+  "ID": 495517951,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 42.1629606554336,
+  "CenterPositionLat": 42.342934568095586
+ },
+ {
+  "ID": 495517952,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 42.16331433153854,
+  "CenterPositionLat": 42.34285648108518
+ },
+ {
+  "ID": 495517953,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.1636429,
+  "CenterPositionLat": 42.3427809
+ },
+ {
+  "ID": 495519793,
+  "Capacity": 742,
+  "Name": "",
+  "CenterPositionLon": 42.16739576408603,
+  "CenterPositionLat": 42.34615015057754
+ },
+ {
+  "ID": 495525522,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 42.16264016427654,
+  "CenterPositionLat": 42.31257183480867
+ },
+ {
+  "ID": 496875429,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 42.166896302353706,
+  "CenterPositionLat": 42.33876760985546
+ },
+ {
+  "ID": 496875430,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 42.166897583180656,
+  "CenterPositionLat": 42.338570733195596
+ },
+ {
+  "ID": 496878861,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 42.162838181319884,
+  "CenterPositionLat": 42.3460290906048
+ },
+ {
+  "ID": 496878862,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 42.163253815840115,
+  "CenterPositionLat": 42.34656643604823
+ },
+ {
+  "ID": 496878863,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 42.16301847835042,
+  "CenterPositionLat": 42.34655278772931
+ },
+ {
+  "ID": 496878864,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 42.16350386558714,
+  "CenterPositionLat": 42.346802370379415
+ },
+ {
+  "ID": 501242544,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 42.16289701853329,
+  "CenterPositionLat": 42.339998547472156
+ },
+ {
+  "ID": 501242546,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 42.162616451045196,
+  "CenterPositionLat": 42.339968524293305
+ },
+ {
+  "ID": 501243848,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 42.16250180934653,
+  "CenterPositionLat": 42.34242308642652
+ },
+ {
+  "ID": 501245111,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 42.16206291580176,
+  "CenterPositionLat": 42.34352447810124
+ },
+ {
+  "ID": 501245112,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 42.162097092235626,
+  "CenterPositionLat": 42.343646535209984
+ },
+ {
+  "ID": 501245113,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 42.161874005469755,
+  "CenterPositionLat": 42.343608347350575
+ },
+ {
+  "ID": 501245114,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 42.16189518548989,
+  "CenterPositionLat": 42.343737447862246
+ },
+ {
+  "ID": 501245552,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 42.161671592548686,
+  "CenterPositionLat": 42.342333492837675
+ },
+ {
+  "ID": 503043283,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 42.16459188327751,
+  "CenterPositionLat": 42.3477877412452
+ },
+ {
+  "ID": 507174765,
+  "Capacity": 1064,
+  "Name": "",
+  "CenterPositionLon": 41.7195061943186,
+  "CenterPositionLat": 44.744651535301024
+ },
+ {
+  "ID": 507174766,
+  "Capacity": 1412,
+  "Name": "",
+  "CenterPositionLon": 41.71779894972982,
+  "CenterPositionLat": 44.744724697676034
+ },
+ {
+  "ID": 509589849,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 41.77371391576919,
+  "CenterPositionLat": 44.76814049347524
+ },
+ {
+  "ID": 509598293,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 41.676566644259395,
+  "CenterPositionLat": 44.82704301389632
+ },
+ {
+  "ID": 509598294,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 41.67634905863858,
+  "CenterPositionLat": 44.82744620943093
+ },
+ {
+  "ID": 509598295,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 41.67631142575461,
+  "CenterPositionLat": 44.82762606412698
+ },
+ {
+  "ID": 509598296,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 41.676235935543865,
+  "CenterPositionLat": 44.827826545556604
+ },
+ {
+  "ID": 509598297,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 41.67637820500376,
+  "CenterPositionLat": 44.82807400821075
+ },
+ {
+  "ID": 521678459,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 41.7242948280329,
+  "CenterPositionLat": 44.777717019607074
+ },
+ {
+  "ID": 527189432,
+  "Capacity": 8864,
+  "Name": "",
+  "CenterPositionLon": 41.94019182241522,
+  "CenterPositionLat": 44.585003449366845
+ },
+ {
+  "ID": 542223064,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 41.67077907051928,
+  "CenterPositionLat": 44.873138328712045
+ },
+ {
+  "ID": 549425895,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 41.691438549999994,
+  "CenterPositionLat": 44.80797325
+ },
+ {
+  "ID": 549786123,
+  "Capacity": 2763,
+  "Name": "",
+  "CenterPositionLon": 41.733177838386034,
+  "CenterPositionLat": 45.70890263571326
+ },
+ {
+  "ID": 556253929,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 42.15995671678867,
+  "CenterPositionLat": 42.33406278733338
+ },
+ {
+  "ID": 556546096,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 41.70789235284637,
+  "CenterPositionLat": 44.78378778933524
+ },
+ {
+  "ID": 559675405,
+  "Capacity": 3299,
+  "Name": "",
+  "CenterPositionLon": 41.931227880782345,
+  "CenterPositionLat": 45.82264300918893
+ },
+ {
+  "ID": 559729647,
+  "Capacity": 413,
+  "Name": "ბოგირის პარკი",
+  "CenterPositionLon": 41.96014301862015,
+  "CenterPositionLat": 45.81855526692198
+ },
+ {
+  "ID": 562153631,
+  "Capacity": 564,
+  "Name": "",
+  "CenterPositionLon": 41.9360465081563,
+  "CenterPositionLat": 45.82998941511953
+ },
+ {
+  "ID": 565022085,
+  "Capacity": 612,
+  "Name": "",
+  "CenterPositionLon": 42.01024576326737,
+  "CenterPositionLat": 45.73048325640495
+ },
+ {
+  "ID": 569862416,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 41.69363440247911,
+  "CenterPositionLat": 44.85790578536783
+ },
+ {
+  "ID": 569862420,
+  "Capacity": 373,
+  "Name": "გიორგი მარტიაშვილის სახელობის სკვერი",
+  "CenterPositionLon": 41.694107947683065,
+  "CenterPositionLat": 44.85888826603319
+ },
+ {
+  "ID": 575065925,
+  "Capacity": 441,
+  "Name": "",
+  "CenterPositionLon": 41.79688862166543,
+  "CenterPositionLat": 44.82699839269786
+ },
+ {
+  "ID": 575099901,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 41.67497598624351,
+  "CenterPositionLat": 44.852579613801346
+ },
+ {
+  "ID": 575099903,
+  "Capacity": 235,
+  "Name": "",
+  "CenterPositionLon": 41.675609367951424,
+  "CenterPositionLat": 44.84965846487465
+ },
+ {
+  "ID": 577229882,
+  "Capacity": 996,
+  "Name": "",
+  "CenterPositionLon": 41.69420397685364,
+  "CenterPositionLat": 44.702943355158176
+ },
+ {
+  "ID": 582036553,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 42.14301643469103,
+  "CenterPositionLat": 41.674784578812
+ },
+ {
+  "ID": 583555044,
+  "Capacity": 1689,
+  "Name": "",
+  "CenterPositionLon": 41.78219242533916,
+  "CenterPositionLat": 44.80231062634478
+ },
+ {
+  "ID": 583555045,
+  "Capacity": 983,
+  "Name": "",
+  "CenterPositionLon": 41.78189340676143,
+  "CenterPositionLat": 44.804966462921705
+ },
+ {
+  "ID": 583555047,
+  "Capacity": 557,
+  "Name": "",
+  "CenterPositionLon": 41.78125762095014,
+  "CenterPositionLat": 44.79969707193967
+ },
+ {
+  "ID": 583557703,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": 41.740320082885134,
+  "CenterPositionLat": 44.77900869578223
+ },
+ {
+  "ID": 583557704,
+  "Capacity": 609,
+  "Name": "",
+  "CenterPositionLon": 41.74077787159771,
+  "CenterPositionLat": 44.77940971902827
+ },
+ {
+  "ID": 583562543,
+  "Capacity": 475,
+  "Name": "",
+  "CenterPositionLon": 41.66850821644336,
+  "CenterPositionLat": 44.87629717900473
+ },
+ {
+  "ID": 583564099,
+  "Capacity": 638,
+  "Name": "",
+  "CenterPositionLon": 41.67205097613945,
+  "CenterPositionLat": 44.91577558986394
+ },
+ {
+  "ID": 583564100,
+  "Capacity": 621,
+  "Name": "",
+  "CenterPositionLon": 41.667294054343344,
+  "CenterPositionLat": 44.91856629907396
+ },
+ {
+  "ID": 583564101,
+  "Capacity": 801,
+  "Name": "",
+  "CenterPositionLon": 41.66735405823075,
+  "CenterPositionLat": 44.92164803458996
+ },
+ {
+  "ID": 583564102,
+  "Capacity": 582,
+  "Name": "",
+  "CenterPositionLon": 41.666904319322484,
+  "CenterPositionLat": 44.921218229003806
+ },
+ {
+  "ID": 583564398,
+  "Capacity": 800,
+  "Name": "",
+  "CenterPositionLon": 41.66193602157128,
+  "CenterPositionLat": 44.918829323020184
+ },
+ {
+  "ID": 583570312,
+  "Capacity": 674,
+  "Name": "",
+  "CenterPositionLon": 41.67774388973265,
+  "CenterPositionLat": 44.83350112312283
+ },
+ {
+  "ID": 583574054,
+  "Capacity": 7473,
+  "Name": "",
+  "CenterPositionLon": 41.718687239896134,
+  "CenterPositionLat": 44.74789417890235
+ },
+ {
+  "ID": 583574055,
+  "Capacity": 3140,
+  "Name": "",
+  "CenterPositionLon": 41.71851662049089,
+  "CenterPositionLat": 44.75370486566108
+ },
+ {
+  "ID": 583575409,
+  "Capacity": 364,
+  "Name": "",
+  "CenterPositionLon": 41.76047745244396,
+  "CenterPositionLat": 44.77133926536633
+ },
+ {
+  "ID": 583575851,
+  "Capacity": 805,
+  "Name": "",
+  "CenterPositionLon": 41.70307728258589,
+  "CenterPositionLat": 44.880687063602444
+ },
+ {
+  "ID": 583577329,
+  "Capacity": 1525,
+  "Name": "",
+  "CenterPositionLon": 41.7206279361551,
+  "CenterPositionLat": 44.74511943633252
+ },
+ {
+  "ID": 583581639,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 41.709244695969176,
+  "CenterPositionLat": 44.84928813333333
+ },
+ {
+  "ID": 583581644,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 41.669929849999995,
+  "CenterPositionLat": 44.88697315
+ },
+ {
+  "ID": 583586717,
+  "Capacity": 352,
+  "Name": "",
+  "CenterPositionLon": 41.72681025827759,
+  "CenterPositionLat": 44.77285968239618
+ },
+ {
+  "ID": 583588827,
+  "Capacity": 355,
+  "Name": "",
+  "CenterPositionLon": 41.776615549999995,
+  "CenterPositionLat": 44.7759819
+ },
+ {
+  "ID": 583588829,
+  "Capacity": 653,
+  "Name": "",
+  "CenterPositionLon": 41.775816680395984,
+  "CenterPositionLat": 44.77327308405103
+ },
+ {
+  "ID": 583615282,
+  "Capacity": 687,
+  "Name": "",
+  "CenterPositionLon": 41.741443977442415,
+  "CenterPositionLat": 44.77807376138687
+ },
+ {
+  "ID": 583711108,
+  "Capacity": 200,
+  "Name": "",
+  "CenterPositionLon": 41.68171817058614,
+  "CenterPositionLat": 44.983649893794365
+ },
+ {
+  "ID": 583724658,
+  "Capacity": 1281,
+  "Name": "wedding palace gardens",
+  "CenterPositionLon": 41.68572089345564,
+  "CenterPositionLat": 44.827907318159546
+ },
+ {
+  "ID": 583726698,
+  "Capacity": 856,
+  "Name": "",
+  "CenterPositionLon": 41.723197854849495,
+  "CenterPositionLat": 44.727355489244836
+ },
+ {
+  "ID": 583726700,
+  "Capacity": 573,
+  "Name": "",
+  "CenterPositionLon": 41.722375935693634,
+  "CenterPositionLat": 44.729460415958634
+ },
+ {
+  "ID": 583729529,
+  "Capacity": 696,
+  "Name": "",
+  "CenterPositionLon": 41.73270241349888,
+  "CenterPositionLat": 44.8188618933629
+ },
+ {
+  "ID": 583729530,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 41.7330913,
+  "CenterPositionLat": 44.821234350000005
+ },
+ {
+  "ID": 583729534,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 41.735200645020846,
+  "CenterPositionLat": 44.82154050025436
+ },
+ {
+  "ID": 583729535,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 41.7339748,
+  "CenterPositionLat": 44.8213498
+ },
+ {
+  "ID": 583729536,
+  "Capacity": 254,
+  "Name": "",
+  "CenterPositionLon": 41.73476578410312,
+  "CenterPositionLat": 44.82542738541757
+ },
+ {
+  "ID": 583729537,
+  "Capacity": 200,
+  "Name": "",
+  "CenterPositionLon": 41.73318462142834,
+  "CenterPositionLat": 44.825152610698744
+ },
+ {
+  "ID": 583733054,
+  "Capacity": 291,
+  "Name": "",
+  "CenterPositionLon": 41.68619583289219,
+  "CenterPositionLat": 44.88015947763347
+ },
+ {
+  "ID": 583733056,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 41.68785206616334,
+  "CenterPositionLat": 44.887298437839036
+ },
+ {
+  "ID": 583738492,
+  "Capacity": 979,
+  "Name": "",
+  "CenterPositionLon": 41.72793889432514,
+  "CenterPositionLat": 44.79837403266037
+ },
+ {
+  "ID": 584132034,
+  "Capacity": 393,
+  "Name": "",
+  "CenterPositionLon": 41.678340568123126,
+  "CenterPositionLat": 44.82566244686551
+ },
+ {
+  "ID": 584150685,
+  "Capacity": 332,
+  "Name": "",
+  "CenterPositionLon": 41.703030240508824,
+  "CenterPositionLat": 44.87805817928418
+ },
+ {
+  "ID": 584150687,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 41.703257101619805,
+  "CenterPositionLat": 44.875274800145455
+ },
+ {
+  "ID": 586359506,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 41.70127005,
+  "CenterPositionLat": 44.79577095
+ },
+ {
+  "ID": 586702838,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 42.162372782025614,
+  "CenterPositionLat": 42.34575437581425
+ },
+ {
+  "ID": 586702839,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 42.16264305364769,
+  "CenterPositionLat": 42.34602120474255
+ },
+ {
+  "ID": 586702840,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 42.162727341689596,
+  "CenterPositionLat": 42.34637916103398
+ },
+ {
+  "ID": 586702841,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 42.16245087093594,
+  "CenterPositionLat": 42.34609898931212
+ },
+ {
+  "ID": 586702842,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 42.16252634189458,
+  "CenterPositionLat": 42.34642872312943
+ },
+ {
+  "ID": 586702855,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 42.16241421302553,
+  "CenterPositionLat": 42.34495755176324
+ },
+ {
+  "ID": 586702857,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 42.16258668586466,
+  "CenterPositionLat": 42.34623565495721
+ },
+ {
+  "ID": 587033655,
+  "Capacity": 13047,
+  "Name": "",
+  "CenterPositionLon": 41.70040605489658,
+  "CenterPositionLat": 44.754178573976155
+ },
+ {
+  "ID": 587857634,
+  "Capacity": 166,
+  "Name": "",
+  "CenterPositionLon": 41.82267504145305,
+  "CenterPositionLat": 44.78123024936398
+ },
+ {
+  "ID": 587861325,
+  "Capacity": 797,
+  "Name": "",
+  "CenterPositionLon": 41.80680310382859,
+  "CenterPositionLat": 44.830228196830525
+ },
+ {
+  "ID": 587861328,
+  "Capacity": 731,
+  "Name": "",
+  "CenterPositionLon": 41.80656666489154,
+  "CenterPositionLat": 44.828285898971615
+ },
+ {
+  "ID": 587862709,
+  "Capacity": 2332,
+  "Name": "",
+  "CenterPositionLon": 41.803565568589306,
+  "CenterPositionLat": 44.825052724051304
+ },
+ {
+  "ID": 587865615,
+  "Capacity": 529,
+  "Name": "",
+  "CenterPositionLon": 41.787158054096466,
+  "CenterPositionLat": 44.821376803316255
+ },
+ {
+  "ID": 588195382,
+  "Capacity": 1265,
+  "Name": "ზ. ჭავჭავაძის ქუჩა",
+  "CenterPositionLon": 42.26053059109162,
+  "CenterPositionLat": 42.64940932600334
+ },
+ {
+  "ID": 588730740,
+  "Capacity": 90040,
+  "Name": "",
+  "CenterPositionLon": 41.74407074465526,
+  "CenterPositionLat": 44.73432546379487
+ },
+ {
+  "ID": 592454062,
+  "Capacity": 683,
+  "Name": "",
+  "CenterPositionLon": 41.79138396663534,
+  "CenterPositionLat": 44.761694152146454
+ },
+ {
+  "ID": 598769161,
+  "Capacity": 941,
+  "Name": "",
+  "CenterPositionLon": 41.93566507628176,
+  "CenterPositionLat": 45.83289484779042
+ },
+ {
+  "ID": 604747134,
+  "Capacity": 1564,
+  "Name": "ხარაზოვის პარკი",
+  "CenterPositionLon": 42.26584570254814,
+  "CenterPositionLat": 42.715811115990206
+ },
+ {
+  "ID": 617208882,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 41.97168515,
+  "CenterPositionLat": 42.2112147
+ },
+ {
+  "ID": 624403082,
+  "Capacity": 351,
+  "Name": "",
+  "CenterPositionLon": 41.974715473771106,
+  "CenterPositionLat": 44.115364639247815
+ },
+ {
+  "ID": 624594172,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 41.72585590167058,
+  "CenterPositionLat": 44.71983483546166
+ },
+ {
+  "ID": 626351792,
+  "Capacity": 1495,
+  "Name": "",
+  "CenterPositionLon": 41.72131520538234,
+  "CenterPositionLat": 44.753803357676716
+ },
+ {
+  "ID": 627324144,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 41.640400838292656,
+  "CenterPositionLat": 41.61218717970249
+ },
+ {
+  "ID": 627324145,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 41.64029445034227,
+  "CenterPositionLat": 41.6117612264283
+ },
+ {
+  "ID": 627815356,
+  "Capacity": 47,
+  "Name": "გიგის სკვერი",
+  "CenterPositionLon": 41.98168984286436,
+  "CenterPositionLat": 44.1157004713386
+ },
+ {
+  "ID": 628992526,
+  "Capacity": 857,
+  "Name": "",
+  "CenterPositionLon": 41.99478995266151,
+  "CenterPositionLat": 44.1227622616741
+ },
+ {
+  "ID": 628993734,
+  "Capacity": 486,
+  "Name": "",
+  "CenterPositionLon": 41.997016000454536,
+  "CenterPositionLat": 44.12319390683861
+ },
+ {
+  "ID": 630576086,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 41.697824966538136,
+  "CenterPositionLat": 44.81278033702476
+ },
+ {
+  "ID": 631353741,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 41.70056544695508,
+  "CenterPositionLat": 44.78805197863279
+ },
+ {
+  "ID": 632501474,
+  "Capacity": 1212,
+  "Name": "",
+  "CenterPositionLon": 41.71429501521172,
+  "CenterPositionLat": 44.760998634574264
+ },
+ {
+  "ID": 632805072,
+  "Capacity": 1318,
+  "Name": "",
+  "CenterPositionLon": 43.28020809853368,
+  "CenterPositionLat": 40.26433477448643
+ },
+ {
+  "ID": 637765537,
+  "Capacity": 948,
+  "Name": "",
+  "CenterPositionLon": 41.71040956073048,
+  "CenterPositionLat": 44.779487129400515
+ },
+ {
+  "ID": 645951298,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 41.56438163889379,
+  "CenterPositionLat": 44.95258539795254
+ },
+ {
+  "ID": 645951299,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 41.56447826025153,
+  "CenterPositionLat": 44.952129903732825
+ },
+ {
+  "ID": 645951300,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 41.56451601989515,
+  "CenterPositionLat": 44.95230536025093
+ },
+ {
+  "ID": 646871671,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 42.846766200000005,
+  "CenterPositionLat": 41.1096059
+ },
+ {
+  "ID": 646939964,
+  "Capacity": 3942,
+  "Name": "Дом отдыха \"Литературная газета\"",
+  "CenterPositionLon": 42.91272875650532,
+  "CenterPositionLat": 41.09177613358193
+ },
+ {
+  "ID": 649603225,
+  "Capacity": 4821,
+  "Name": "",
+  "CenterPositionLon": 42.99929507165822,
+  "CenterPositionLat": 41.03485805308007
+ },
+ {
+  "ID": 653753522,
+  "Capacity": 709,
+  "Name": "Джусойты Нафийы сквер",
+  "CenterPositionLon": 42.24805015,
+  "CenterPositionLat": 43.9594707
+ },
+ {
+  "ID": 655150115,
+  "Capacity": 231,
+  "Name": "",
+  "CenterPositionLon": 41.61957368344856,
+  "CenterPositionLat": 45.92278263121436
+ },
+ {
+  "ID": 655937968,
+  "Capacity": 364,
+  "Name": "",
+  "CenterPositionLon": 41.949141122525134,
+  "CenterPositionLat": 45.82785343808127
+ },
+ {
+  "ID": 657402267,
+  "Capacity": 3302,
+  "Name": "",
+  "CenterPositionLon": 43.229243762047204,
+  "CenterPositionLat": 40.368962244164685
+ },
+ {
+  "ID": 657870843,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 41.99101297778904,
+  "CenterPositionLat": 44.11329307317676
+ },
+ {
+  "ID": 659653099,
+  "Capacity": 1070,
+  "Name": "ევროპის მოედანი",
+  "CenterPositionLon": 41.65114159460938,
+  "CenterPositionLat": 41.63639485236832
+ },
+ {
+  "ID": 660241627,
+  "Capacity": 4498,
+  "Name": "",
+  "CenterPositionLon": 41.83998075532784,
+  "CenterPositionLat": 41.77741151818082
+ },
+ {
+  "ID": 660241652,
+  "Capacity": 3130,
+  "Name": "",
+  "CenterPositionLon": 41.8903031401455,
+  "CenterPositionLat": 41.772801076750696
+ },
+ {
+  "ID": 660247116,
+  "Capacity": 3432,
+  "Name": "",
+  "CenterPositionLon": 41.82494274415647,
+  "CenterPositionLat": 41.77787735123249
+ },
+ {
+  "ID": 665145314,
+  "Capacity": 640,
+  "Name": "",
+  "CenterPositionLon": 43.08660113225898,
+  "CenterPositionLat": 40.813564997153414
+ },
+ {
+  "ID": 690819215,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 41.706569779312126,
+  "CenterPositionLat": 44.78631818049893
+ },
+ {
+  "ID": 691488706,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 41.69810839037617,
+  "CenterPositionLat": 44.81551607079427
+ },
+ {
+  "ID": 691488715,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 41.69812087211998,
+  "CenterPositionLat": 44.81486492486667
+ },
+ {
+  "ID": 691488717,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 41.69784631342653,
+  "CenterPositionLat": 44.81494668501674
+ },
+ {
+  "ID": 691488718,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 41.697902380476144,
+  "CenterPositionLat": 44.81443205356668
+ },
+ {
+  "ID": 691488720,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 41.69730838394671,
+  "CenterPositionLat": 44.814941314169715
+ },
+ {
+  "ID": 691488721,
+  "Capacity": 146,
+  "Name": "",
+  "CenterPositionLon": 41.697215987319574,
+  "CenterPositionLat": 44.81449647593865
+ },
+ {
+  "ID": 691488722,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 41.69705775032213,
+  "CenterPositionLat": 44.8149955121805
+ },
+ {
+  "ID": 691488723,
+  "Capacity": 210,
+  "Name": "",
+  "CenterPositionLon": 41.69692468203863,
+  "CenterPositionLat": 44.81561010652761
+ },
+ {
+  "ID": 691488726,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 41.696793474850026,
+  "CenterPositionLat": 44.816811579408366
+ },
+ {
+  "ID": 691488728,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 41.69647967674151,
+  "CenterPositionLat": 44.816772354615566
+ },
+ {
+  "ID": 691488729,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 41.696604829188665,
+  "CenterPositionLat": 44.8164024115167
+ },
+ {
+  "ID": 692613062,
+  "Capacity": 726,
+  "Name": "",
+  "CenterPositionLon": 41.706388906998775,
+  "CenterPositionLat": 44.74356899057751
+ },
+ {
+  "ID": 693500391,
+  "Capacity": 3265,
+  "Name": "Nadikvari",
+  "CenterPositionLon": 41.91385822403083,
+  "CenterPositionLat": 45.47906408584658
+ },
+ {
+  "ID": 693512902,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 41.91937295287361,
+  "CenterPositionLat": 45.46907839302163
+ },
+ {
+  "ID": 694827499,
+  "Capacity": 213,
+  "Name": "Ciskari",
+  "CenterPositionLon": 41.699918236610195,
+  "CenterPositionLat": 44.7501322341094
+ },
+ {
+  "ID": 694827500,
+  "Capacity": 194,
+  "Name": "Ciskari",
+  "CenterPositionLon": 41.69992165681496,
+  "CenterPositionLat": 44.750448865864726
+ },
+ {
+  "ID": 695866951,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 41.69160111506452,
+  "CenterPositionLat": 45.00216576535547
+ },
+ {
+  "ID": 699002510,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": 41.81608270137487,
+  "CenterPositionLat": 41.77362810718255
+ },
+ {
+  "ID": 704554693,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": 42.607522611884576,
+  "CenterPositionLat": 44.585267953539685
+ },
+ {
+  "ID": 705950318,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 41.67416481513939,
+  "CenterPositionLat": 44.82039670807664
+ },
+ {
+  "ID": 706191305,
+  "Capacity": 379,
+  "Name": "",
+  "CenterPositionLon": 41.643242804540556,
+  "CenterPositionLat": 42.97859010221987
+ },
+ {
+  "ID": 719938897,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": 41.7221679286709,
+  "CenterPositionLat": 41.72814415586026
+ },
+ {
+  "ID": 720126483,
+  "Capacity": 821,
+  "Name": "",
+  "CenterPositionLon": 41.766450454753894,
+  "CenterPositionLat": 45.77249229605122
+ },
+ {
+  "ID": 723339631,
+  "Capacity": 448,
+  "Name": "",
+  "CenterPositionLon": 41.738422268120516,
+  "CenterPositionLat": 44.75675868510081
+ },
+ {
+  "ID": 724072708,
+  "Capacity": 160,
+  "Name": "",
+  "CenterPositionLon": 41.618901547445816,
+  "CenterPositionLat": 45.9218615832389
+ },
+ {
+  "ID": 726602710,
+  "Capacity": 1071,
+  "Name": "",
+  "CenterPositionLon": 41.75486954119133,
+  "CenterPositionLat": 44.67990441350317
+ },
+ {
+  "ID": 728983831,
+  "Capacity": 79,
+  "Name": "Obelisk",
+  "CenterPositionLon": 42.35135473262091,
+  "CenterPositionLat": 44.68935445414313
+ },
+ {
+  "ID": 730851407,
+  "Capacity": 1265,
+  "Name": "Парк Славы",
+  "CenterPositionLon": 43.2808394725397,
+  "CenterPositionLat": 40.26675660984886
+ },
+ {
+  "ID": 732240322,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 41.67558200608185,
+  "CenterPositionLat": 44.824603406525895
+ },
+ {
+  "ID": 732240534,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": 41.67609325597442,
+  "CenterPositionLat": 44.82438134481268
+ },
+ {
+  "ID": 732243913,
+  "Capacity": 594,
+  "Name": "",
+  "CenterPositionLon": 41.67547348082065,
+  "CenterPositionLat": 44.82291966425049
+ },
+ {
+  "ID": 732938561,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": 42.0296836,
+  "CenterPositionLat": 45.222105766666665
+ },
+ {
+  "ID": 744962832,
+  "Capacity": 544,
+  "Name": "",
+  "CenterPositionLon": 41.47186736031207,
+  "CenterPositionLat": 44.81606953987491
+ },
+ {
+  "ID": 746608026,
+  "Capacity": 923,
+  "Name": "Культурæ æмæ улæфыны парк",
+  "CenterPositionLon": 42.19543812258837,
+  "CenterPositionLat": 43.77396262963233
+ },
+ {
+  "ID": 746611418,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 42.192150485489265,
+  "CenterPositionLat": 43.77295308565081
+ },
+ {
+  "ID": 753315818,
+  "Capacity": 691,
+  "Name": "",
+  "CenterPositionLon": 43.01875225596898,
+  "CenterPositionLat": 40.94706497873169
+ },
+ {
+  "ID": 769933444,
+  "Capacity": 5301,
+  "Name": "",
+  "CenterPositionLon": 43.084500576787235,
+  "CenterPositionLat": 40.82341431671401
+ },
+ {
+  "ID": 772660943,
+  "Capacity": 454,
+  "Name": "",
+  "CenterPositionLon": 41.75456662977362,
+  "CenterPositionLat": 44.76993813393594
+ },
+ {
+  "ID": 775868700,
+  "Capacity": 704,
+  "Name": "",
+  "CenterPositionLon": 42.086903302753974,
+  "CenterPositionLat": 42.03777159024729
+ },
+ {
+  "ID": 778227088,
+  "Capacity": 962,
+  "Name": "ნანტის ბაღი",
+  "CenterPositionLon": 41.74957226505917,
+  "CenterPositionLat": 44.76435724115257
+ },
+ {
+  "ID": 779581337,
+  "Capacity": 4641,
+  "Name": "",
+  "CenterPositionLon": 43.1417533485232,
+  "CenterPositionLat": 40.5223366140108
+ },
+ {
+  "ID": 787399102,
+  "Capacity": 15827,
+  "Name": "",
+  "CenterPositionLon": 41.71800970713814,
+  "CenterPositionLat": 44.87308018503197
+ },
+ {
+  "ID": 789028340,
+  "Capacity": 2012,
+  "Name": "",
+  "CenterPositionLon": 41.763767186320266,
+  "CenterPositionLat": 45.766491056714315
+ },
+ {
+  "ID": 799023478,
+  "Capacity": 479,
+  "Name": "",
+  "CenterPositionLon": 42.291799098442624,
+  "CenterPositionLat": 43.27140089360182
+ },
+ {
+  "ID": 799147156,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": 42.29104623545929,
+  "CenterPositionLat": 43.288823045481216
+ }
+]

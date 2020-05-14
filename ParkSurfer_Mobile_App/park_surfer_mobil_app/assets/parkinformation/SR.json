@@ -1,0 +1,275 @@
+[
+ {
+  "ID": 60463964,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 5.847372584149525,
+  "CenterPositionLat": -55.158302196160406
+ },
+ {
+  "ID": 155987982,
+  "Capacity": 848,
+  "Name": "Onafhankelijkheidsplein",
+  "CenterPositionLon": 5.826225579152941,
+  "CenterPositionLat": -55.15150308333069
+ },
+ {
+  "ID": 155987984,
+  "Capacity": 2756,
+  "Name": "",
+  "CenterPositionLon": 5.828133582528735,
+  "CenterPositionLat": -55.150095584823426
+ },
+ {
+  "ID": 347990488,
+  "Capacity": 539,
+  "Name": "Prof Mr. Dr. C,D. Ooft park",
+  "CenterPositionLon": 5.827831827119793,
+  "CenterPositionLat": -55.18426469682972
+ },
+ {
+  "ID": 351863600,
+  "Capacity": 1873,
+  "Name": "",
+  "CenterPositionLon": 5.826950947265165,
+  "CenterPositionLat": -55.15080928626705
+ },
+ {
+  "ID": 358296889,
+  "Capacity": 887,
+  "Name": "",
+  "CenterPositionLon": 5.824964287765912,
+  "CenterPositionLat": -55.15284635987857
+ },
+ {
+  "ID": 360054289,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 5.826859949646027,
+  "CenterPositionLat": -55.15236966431318
+ },
+ {
+  "ID": 360565060,
+  "Capacity": 374,
+  "Name": "",
+  "CenterPositionLon": 5.8246402434189335,
+  "CenterPositionLat": -55.1547415841728
+ },
+ {
+  "ID": 360568119,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 5.8274827360434625,
+  "CenterPositionLat": -55.15508240077618
+ },
+ {
+  "ID": 360597627,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 5.828399210475072,
+  "CenterPositionLat": -55.15412317822774
+ },
+ {
+  "ID": 360597629,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 5.828584938866967,
+  "CenterPositionLat": -55.15439056994739
+ },
+ {
+  "ID": 360597630,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 5.828300229176311,
+  "CenterPositionLat": -55.153833655122085
+ },
+ {
+  "ID": 361420915,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 5.82467254073958,
+  "CenterPositionLat": -55.15623449177017
+ },
+ {
+  "ID": 362002656,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 5.8260324,
+  "CenterPositionLat": -55.1621243
+ },
+ {
+  "ID": 370957191,
+  "Capacity": 263,
+  "Name": "Brassaplein",
+  "CenterPositionLon": 5.946166513728478,
+  "CenterPositionLat": -56.99168263056234
+ },
+ {
+  "ID": 370957192,
+  "Capacity": 549,
+  "Name": "Volksplein",
+  "CenterPositionLon": 5.946389651203257,
+  "CenterPositionLat": -56.992981125266205
+ },
+ {
+  "ID": 444063650,
+  "Capacity": 580,
+  "Name": "Vriendschapspark",
+  "CenterPositionLon": 5.814739713928876,
+  "CenterPositionLat": -55.18166254778341
+ },
+ {
+  "ID": 583507442,
+  "Capacity": 583,
+  "Name": "Fort Zeelandia complex",
+  "CenterPositionLon": 5.825673903341995,
+  "CenterPositionLat": -55.14990170589246
+ },
+ {
+  "ID": 583510431,
+  "Capacity": 192,
+  "Name": "Leonsberg park",
+  "CenterPositionLon": 5.869945189295627,
+  "CenterPositionLat": -55.099622894781874
+ },
+ {
+  "ID": 587553807,
+  "Capacity": 243,
+  "Name": "",
+  "CenterPositionLon": 5.812251200236171,
+  "CenterPositionLat": -55.21690777036196
+ },
+ {
+  "ID": 591923299,
+  "Capacity": 317,
+  "Name": "",
+  "CenterPositionLon": 5.831449497011662,
+  "CenterPositionLat": -55.185507484379855
+ },
+ {
+  "ID": 618607351,
+  "Capacity": 128,
+  "Name": "Vlaggenplein",
+  "CenterPositionLon": 5.825604044506254,
+  "CenterPositionLat": -55.15148202162838
+ },
+ {
+  "ID": 640072165,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 5.842661569028873,
+  "CenterPositionLat": -55.159341161614435
+ },
+ {
+  "ID": 645360282,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 5.612586523666661,
+  "CenterPositionLat": -55.15320084163727
+ },
+ {
+  "ID": 645360285,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 5.612440353394251,
+  "CenterPositionLat": -55.152968692778295
+ },
+ {
+  "ID": 651524100,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 5.630856807776225,
+  "CenterPositionLat": -55.08516678632
+ },
+ {
+  "ID": 704218523,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 5.810629974745297,
+  "CenterPositionLat": -55.19105549210516
+ },
+ {
+  "ID": 704218525,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 5.810693855306324,
+  "CenterPositionLat": -55.19174234293452
+ },
+ {
+  "ID": 704352039,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 5.815724483695597,
+  "CenterPositionLat": -55.18564735343534
+ },
+ {
+  "ID": 704827926,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 5.8102505323747575,
+  "CenterPositionLat": -55.19157910919236
+ },
+ {
+  "ID": 704827928,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 5.8102391,
+  "CenterPositionLat": -55.1914544
+ },
+ {
+  "ID": 764840775,
+  "Capacity": 442,
+  "Name": "",
+  "CenterPositionLon": 5.814567708533812,
+  "CenterPositionLat": -55.21657317901541
+ },
+ {
+  "ID": 764840807,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 5.8151331463444995,
+  "CenterPositionLat": -55.215916723809755
+ },
+ {
+  "ID": 764840808,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 5.8149984857386725,
+  "CenterPositionLat": -55.21546910510637
+ },
+ {
+  "ID": 764840809,
+  "Capacity": 349,
+  "Name": "",
+  "CenterPositionLon": 5.814193704141934,
+  "CenterPositionLat": -55.21594589890296
+ },
+ {
+  "ID": 764840813,
+  "Capacity": 173,
+  "Name": "",
+  "CenterPositionLon": 5.813816302193106,
+  "CenterPositionLat": -55.21549453090884
+ },
+ {
+  "ID": 764840814,
+  "Capacity": 682,
+  "Name": "",
+  "CenterPositionLon": 5.813751845351418,
+  "CenterPositionLat": -55.21493455773361
+ },
+ {
+  "ID": 765232345,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 5.813612681252888,
+  "CenterPositionLat": -55.216478460662515
+ },
+ {
+  "ID": 765232369,
+  "Capacity": 130,
+  "Name": "",
+  "CenterPositionLon": 5.8128202583214215,
+  "CenterPositionLat": -55.21594937622896
+ }
+]

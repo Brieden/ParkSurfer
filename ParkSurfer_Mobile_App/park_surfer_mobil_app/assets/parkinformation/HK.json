@@ -1,0 +1,6813 @@
+[
+ {
+  "ID": 4182605,
+  "Capacity": 10611,
+  "Name": "維多利亞公園 Victoria Park",
+  "CenterPositionLon": 22.282528409658944,
+  "CenterPositionLat": 114.18873686164385
+ },
+ {
+  "ID": 4977404,
+  "Capacity": 7554,
+  "Name": "九龍公園 Kowloon Park",
+  "CenterPositionLon": 22.30044256483193,
+  "CenterPositionLat": 114.17035987775893
+ },
+ {
+  "ID": 25156740,
+  "Capacity": 193,
+  "Name": "灣仔峽公園 Wan Chai Gap Park",
+  "CenterPositionLon": 22.267018629425372,
+  "CenterPositionLat": 114.16939238136675
+ },
+ {
+  "ID": 25609090,
+  "Capacity": 10457,
+  "Name": "荔枝角公園 Lai Chi Kok Park",
+  "CenterPositionLon": 22.335725778993,
+  "CenterPositionLat": 114.13817653935217
+ },
+ {
+  "ID": 25637587,
+  "Capacity": 8235,
+  "Name": "天水圍公園 Tin Shui Wai Park",
+  "CenterPositionLon": 22.456359078840585,
+  "CenterPositionLat": 114.00227680434608
+ },
+ {
+  "ID": 26201750,
+  "Capacity": 818,
+  "Name": "佐治五世紀念公園 King George V Memorial Park",
+  "CenterPositionLon": 22.285591989961475,
+  "CenterPositionLat": 114.14436736508917
+ },
+ {
+  "ID": 26201751,
+  "Capacity": 1002,
+  "Name": "卑路乍灣公園 Belcher Bay Park",
+  "CenterPositionLon": 22.28488336195841,
+  "CenterPositionLat": 114.1302759206996
+ },
+ {
+  "ID": 26305680,
+  "Capacity": 3227,
+  "Name": "中山紀念公園 Sun Yat Sen Memorial Park",
+  "CenterPositionLon": 22.28976925986936,
+  "CenterPositionLat": 114.14521061839174
+ },
+ {
+  "ID": 26379420,
+  "Capacity": 2087,
+  "Name": "櫻桃街公園 Cherry Street Park",
+  "CenterPositionLon": 22.315521725753324,
+  "CenterPositionLat": 114.16569247613934
+ },
+ {
+  "ID": 26379851,
+  "Capacity": 2926,
+  "Name": "南昌公園 Nam Cheong Park",
+  "CenterPositionLon": 22.323830081788305,
+  "CenterPositionLat": 114.15748258488681
+ },
+ {
+  "ID": 26379926,
+  "Capacity": 2439,
+  "Name": "通州街公園 Tung Chau Street Park",
+  "CenterPositionLon": 22.326004399222942,
+  "CenterPositionLat": 114.15913324015006
+ },
+ {
+  "ID": 28109494,
+  "Capacity": 2281,
+  "Name": "寶康公園 Po Hong Park",
+  "CenterPositionLon": 22.318663423606747,
+  "CenterPositionLat": 114.25769273389851
+ },
+ {
+  "ID": 28109656,
+  "Capacity": 2610,
+  "Name": "寶翠公園 Po Tsui Park",
+  "CenterPositionLon": 22.3248853008899,
+  "CenterPositionLat": 114.25294976322274
+ },
+ {
+  "ID": 28125713,
+  "Capacity": 314,
+  "Name": "培成花園 Pui Shing Garden",
+  "CenterPositionLon": 22.31683547594288,
+  "CenterPositionLat": 114.26781347128166
+ },
+ {
+  "ID": 28125762,
+  "Capacity": 1800,
+  "Name": "常寧遊樂場 Sheung Ning Playground",
+  "CenterPositionLon": 22.31631142490823,
+  "CenterPositionLat": 114.2620267283996
+ },
+ {
+  "ID": 28808393,
+  "Capacity": 5533,
+  "Name": "柴灣公園 Chai Wan Park",
+  "CenterPositionLon": 22.26702639282569,
+  "CenterPositionLat": 114.23841345949748
+ },
+ {
+  "ID": 28868734,
+  "Capacity": 3369,
+  "Name": "鰂魚涌公園 Quarry Bay Park",
+  "CenterPositionLon": 22.28799346832323,
+  "CenterPositionLat": 114.2173411792584
+ },
+ {
+  "ID": 28868773,
+  "Capacity": 1509,
+  "Name": "鰂魚涌公園二期 Quarry Bay Park Phase 2",
+  "CenterPositionLon": 22.290329504138505,
+  "CenterPositionLat": 114.21117827832092
+ },
+ {
+  "ID": 28869697,
+  "Capacity": 87,
+  "Name": "Piazza Verda 拾圃",
+  "CenterPositionLon": 22.2869496,
+  "CenterPositionLat": 114.2183912
+ },
+ {
+  "ID": 28869733,
+  "Capacity": 406,
+  "Name": "太古公園 Taikoo Park",
+  "CenterPositionLon": 22.28630043799938,
+  "CenterPositionLat": 114.21406432672357
+ },
+ {
+  "ID": 29371604,
+  "Capacity": 140,
+  "Name": "西樓角花園 Sai Lau Kok Garden",
+  "CenterPositionLon": 22.373099723769066,
+  "CenterPositionLat": 114.11787888826322
+ },
+ {
+  "ID": 29550236,
+  "Capacity": 911,
+  "Name": "賽馬會德華公園 Jockey Club Tak Wah Park",
+  "CenterPositionLon": 22.370299103114426,
+  "CenterPositionLat": 114.11843620766082
+ },
+ {
+  "ID": 31858217,
+  "Capacity": 16739,
+  "Name": "迪欣湖活動中心 Inspiration Lake Recreation Centre",
+  "CenterPositionLon": 22.32253237596816,
+  "CenterPositionLat": 114.03760464105373
+ },
+ {
+  "ID": 31976553,
+  "Capacity": 2757,
+  "Name": "北區公園 North District Park",
+  "CenterPositionLon": 22.49863481064894,
+  "CenterPositionLat": 114.13392777778132
+ },
+ {
+  "ID": 32559006,
+  "Capacity": 4204,
+  "Name": "沙田公園 Sha Tin Park",
+  "CenterPositionLon": 22.37945846551245,
+  "CenterPositionLat": 114.18939202451348
+ },
+ {
+  "ID": 32559647,
+  "Capacity": 1348,
+  "Name": "源禾遊樂場 Yuen Wo Playground",
+  "CenterPositionLon": 22.38566288937567,
+  "CenterPositionLat": 114.19547349185713
+ },
+ {
+  "ID": 33412011,
+  "Capacity": 2855,
+  "Name": "",
+  "CenterPositionLon": 22.41531434659089,
+  "CenterPositionLat": 114.20935414010857
+ },
+ {
+  "ID": 33613654,
+  "Capacity": 352,
+  "Name": "尖沙咀東海濱平台花園 Tsim Sha Tsui East Waterfront Podium Garden",
+  "CenterPositionLon": 22.296400579426077,
+  "CenterPositionLat": 114.17584633378905
+ },
+ {
+  "ID": 35894141,
+  "Capacity": 1291,
+  "Name": "歌和老街公園 Cornwall Street Park",
+  "CenterPositionLon": 22.338938554895766,
+  "CenterPositionLat": 114.17358846935211
+ },
+ {
+  "ID": 35935770,
+  "Capacity": 4214,
+  "Name": "石硤尾公園 Shek Kip Mei Park",
+  "CenterPositionLon": 22.33675051137479,
+  "CenterPositionLat": 114.17007441356824
+ },
+ {
+  "ID": 37452571,
+  "Capacity": 8330,
+  "Name": "九龍仔公園 Kowloon Tsai Park",
+  "CenterPositionLon": 22.332185513219834,
+  "CenterPositionLat": 114.18407069779335
+ },
+ {
+  "ID": 37669736,
+  "Capacity": 4655,
+  "Name": "摩士三號公園 Morse Park No. 3",
+  "CenterPositionLon": 22.338802646414553,
+  "CenterPositionLat": 114.19076097397698
+ },
+ {
+  "ID": 40490991,
+  "Capacity": 419,
+  "Name": "",
+  "CenterPositionLon": 22.28098143011229,
+  "CenterPositionLat": 114.17143826251034
+ },
+ {
+  "ID": 40840656,
+  "Capacity": 4437,
+  "Name": "荃灣公園 Tsuen Wan Park",
+  "CenterPositionLon": 22.367013265739832,
+  "CenterPositionLat": 114.11211353325616
+ },
+ {
+  "ID": 40959234,
+  "Capacity": 993,
+  "Name": "鴨脷洲公園 Ap Lei Chau Park",
+  "CenterPositionLon": 22.245016042715317,
+  "CenterPositionLat": 114.15785925602523
+ },
+ {
+  "ID": 40959321,
+  "Capacity": 393,
+  "Name": "鴨脷洲海濱長廊 Ap Lei Chau Waterfront Promenade",
+  "CenterPositionLon": 22.24516780318812,
+  "CenterPositionLat": 114.15614412581165
+ },
+ {
+  "ID": 42255430,
+  "Capacity": 4142,
+  "Name": "香港公園 Hong Kong Park",
+  "CenterPositionLon": 22.27720632970282,
+  "CenterPositionLat": 114.1614839554279
+ },
+ {
+  "ID": 42392343,
+  "Capacity": 1662,
+  "Name": "中央公園 Central Park",
+  "CenterPositionLon": 22.30493337656431,
+  "CenterPositionLat": 114.01314740648267
+ },
+ {
+  "ID": 42477667,
+  "Capacity": 1432,
+  "Name": "楊小坑錦簇花園 Yeung Siu Hang Garden",
+  "CenterPositionLon": 22.394630182961915,
+  "CenterPositionLat": 113.9666314861573
+ },
+ {
+  "ID": 44417568,
+  "Capacity": 81,
+  "Name": "梅窩碼頭迴旋處休憩花園 Mui Wo Ferry Concourse Rest Garden",
+  "CenterPositionLon": 22.265121889913612,
+  "CenterPositionLat": 114.0010164945106
+ },
+ {
+  "ID": 44492906,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 22.249608233333333,
+  "CenterPositionLat": 114.17270233333333
+ },
+ {
+  "ID": 51801673,
+  "Capacity": 1055,
+  "Name": "香港仔海濱公園 Aberdeen Promenade",
+  "CenterPositionLon": 22.247214480970904,
+  "CenterPositionLat": 114.15452358603689
+ },
+ {
+  "ID": 54667465,
+  "Capacity": 286,
+  "Name": "歌和老街兒童遊樂場 Cornwall Street Children's Playground",
+  "CenterPositionLon": 22.339589956254883,
+  "CenterPositionLat": 114.1782565457464
+ },
+ {
+  "ID": 54667466,
+  "Capacity": 191,
+  "Name": "龍翔道遊樂場 Lung Cheung Road Playground",
+  "CenterPositionLon": 22.344271593095595,
+  "CenterPositionLat": 114.17781008798735
+ },
+ {
+  "ID": 55444337,
+  "Capacity": 6003,
+  "Name": "屯門公園 Tuen Mun Park",
+  "CenterPositionLon": 22.391405605483342,
+  "CenterPositionLat": 113.97354449195812
+ },
+ {
+  "ID": 55685329,
+  "Capacity": 768,
+  "Name": "南堤綠徑 Kellett Bay Waterfront",
+  "CenterPositionLon": 22.248927355607513,
+  "CenterPositionLat": 114.13859814289651
+ },
+ {
+  "ID": 58475071,
+  "Capacity": 2965,
+  "Name": "藍田公園 Lam Tin Park",
+  "CenterPositionLon": 22.31081052653892,
+  "CenterPositionLat": 114.24048522275389
+ },
+ {
+  "ID": 58691689,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 22.302528930174226,
+  "CenterPositionLat": 114.01134894462919
+ },
+ {
+  "ID": 58691730,
+  "Capacity": 724,
+  "Name": "",
+  "CenterPositionLon": 22.307356832037087,
+  "CenterPositionLat": 114.01115231587107
+ },
+ {
+  "ID": 58760740,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 22.28727668598311,
+  "CenterPositionLat": 114.00421256705962
+ },
+ {
+  "ID": 58949398,
+  "Capacity": 1159,
+  "Name": "古窯公園 Ancient Kiln Park",
+  "CenterPositionLon": 22.296188512663466,
+  "CenterPositionLat": 113.93519010504758
+ },
+ {
+  "ID": 69717322,
+  "Capacity": 4213,
+  "Name": "馬灣公園 Ma Wan Park",
+  "CenterPositionLon": 22.34888057465095,
+  "CenterPositionLat": 114.0587256327252
+ },
+ {
+  "ID": 84759521,
+  "Capacity": 384,
+  "Name": "中西區海濱長廊－上環段 Central and Western District Promenade - Sheung Wan Section",
+  "CenterPositionLon": 22.289106365538522,
+  "CenterPositionLat": 114.14975905821515
+ },
+ {
+  "ID": 85320851,
+  "Capacity": 1436,
+  "Name": "高山道公園 Ko Shan Road Park",
+  "CenterPositionLon": 22.314058357726033,
+  "CenterPositionLat": 114.18577110033894
+ },
+ {
+  "ID": 86248163,
+  "Capacity": 368,
+  "Name": "王屋花園 Wong Uk Garden",
+  "CenterPositionLon": 22.382904150152523,
+  "CenterPositionLat": 114.19718494398245
+ },
+ {
+  "ID": 86329008,
+  "Capacity": 7145,
+  "Name": "圓洲角公園 Yuen Chau Kok Park",
+  "CenterPositionLon": 22.38311660070572,
+  "CenterPositionLat": 114.19955938144786
+ },
+ {
+  "ID": 86463847,
+  "Capacity": 1305,
+  "Name": "愛秩序灣公園 Aldrich Bay Park",
+  "CenterPositionLon": 22.282635735845854,
+  "CenterPositionLat": 114.22455750620045
+ },
+ {
+  "ID": 86811692,
+  "Capacity": 718,
+  "Name": "愛秩序灣海濱花園 Aldrich Bay Promenade",
+  "CenterPositionLon": 22.282899721583583,
+  "CenterPositionLat": 114.2283593469177
+ },
+ {
+  "ID": 95206019,
+  "Capacity": 126,
+  "Name": "糖水道花園 Tong Shui Road Garden",
+  "CenterPositionLon": 22.292759071255535,
+  "CenterPositionLat": 114.19813434728874
+ },
+ {
+  "ID": 96843409,
+  "Capacity": 3232,
+  "Name": "赤柱馬坑公園 Stanley Ma Hang Park",
+  "CenterPositionLon": 22.21787126998038,
+  "CenterPositionLat": 114.207924671141
+ },
+ {
+  "ID": 97700147,
+  "Capacity": 66,
+  "Name": "燒烤區 Barbeque area",
+  "CenterPositionLon": 22.228649006090247,
+  "CenterPositionLat": 114.24985206030449
+ },
+ {
+  "ID": 97788544,
+  "Capacity": 3865,
+  "Name": "香港海防博物館 Museum Of Coastal Defence",
+  "CenterPositionLon": 22.28271777494948,
+  "CenterPositionLat": 114.23518058704576
+ },
+ {
+  "ID": 98082721,
+  "Capacity": 994,
+  "Name": "文東路公園 Man Tung Road Park",
+  "CenterPositionLon": 22.291883792273016,
+  "CenterPositionLat": 113.94112685632635
+ },
+ {
+  "ID": 98082722,
+  "Capacity": 1160,
+  "Name": "",
+  "CenterPositionLon": 22.293213457135238,
+  "CenterPositionLat": 113.94558682207749
+ },
+ {
+  "ID": 98205395,
+  "Capacity": 21,
+  "Name": "浪韻樂園 Tidal Melody Paradise",
+  "CenterPositionLon": 22.26461265,
+  "CenterPositionLat": 114.25308695
+ },
+ {
+  "ID": 98205470,
+  "Capacity": 27,
+  "Name": "樹影樂園 Leafy Shade Paradise",
+  "CenterPositionLon": 22.26407115073339,
+  "CenterPositionLat": 114.25347772080286
+ },
+ {
+  "ID": 98205477,
+  "Capacity": 688,
+  "Name": "小西灣海濱花園 Siu Sai Wan Promenade",
+  "CenterPositionLon": 22.267000844564162,
+  "CenterPositionLat": 114.25090502822688
+ },
+ {
+  "ID": 99728333,
+  "Capacity": 304,
+  "Name": "樂富配水庫休憩花園 Lok Fu Service Reservoir Garden",
+  "CenterPositionLon": 22.335574773201788,
+  "CenterPositionLat": 114.18468653191466
+ },
+ {
+  "ID": 99728336,
+  "Capacity": 4229,
+  "Name": "樂富公園 Lok Fu Park",
+  "CenterPositionLon": 22.335881973352034,
+  "CenterPositionLat": 114.18520570295713
+ },
+ {
+  "ID": 100134959,
+  "Capacity": 28928,
+  "Name": "香港濕地公園 Hong Kong Wetland Park",
+  "CenterPositionLon": 22.46896559712179,
+  "CenterPositionLat": 114.00816273422673
+ },
+ {
+  "ID": 100652814,
+  "Capacity": 245,
+  "Name": "英皇道遊樂場 King's Road Playground",
+  "CenterPositionLon": 22.29221638829818,
+  "CenterPositionLat": 114.20351837782353
+ },
+ {
+  "ID": 100788611,
+  "Capacity": 808,
+  "Name": "西灣河遊樂場 Sai Wan Ho Playground",
+  "CenterPositionLon": 22.286020493536085,
+  "CenterPositionLat": 114.22290301142944
+ },
+ {
+  "ID": 101558251,
+  "Capacity": 513,
+  "Name": "樂群街公園 Lok Kwan Street Park",
+  "CenterPositionLon": 22.323657972232866,
+  "CenterPositionLat": 114.16043447168366
+ },
+ {
+  "ID": 101733530,
+  "Capacity": 1038,
+  "Name": "海心公園 Hoi Sham Park",
+  "CenterPositionLon": 22.314984764552882,
+  "CenterPositionLat": 114.19168443609422
+ },
+ {
+  "ID": 101966602,
+  "Capacity": 921,
+  "Name": "",
+  "CenterPositionLon": 22.29192026992243,
+  "CenterPositionLat": 113.93832630646385
+ },
+ {
+  "ID": 103372425,
+  "Capacity": 17,
+  "Name": "福榮街休憩花園 Fuk Wing Street Rest Garden",
+  "CenterPositionLon": 22.329361,
+  "CenterPositionLat": 114.16628543333333
+ },
+ {
+  "ID": 105307514,
+  "Capacity": 1384,
+  "Name": "和黃公園 Hutchison Park",
+  "CenterPositionLon": 22.307636970461534,
+  "CenterPositionLat": 114.19093479661863
+ },
+ {
+  "ID": 106034181,
+  "Capacity": 191,
+  "Name": "宋王臺花園 Sung Wong Toi Garden",
+  "CenterPositionLon": 22.32488611038887,
+  "CenterPositionLat": 114.18932722207033
+ },
+ {
+  "ID": 108037381,
+  "Capacity": 1104,
+  "Name": "慈雲山邨中央遊樂場 Tsz Wan Shan Estate Central Playground",
+  "CenterPositionLon": 22.34944569210383,
+  "CenterPositionLat": 114.20103958572322
+ },
+ {
+  "ID": 109681487,
+  "Capacity": 588,
+  "Name": "鳳德公園 Fung Tak Park",
+  "CenterPositionLon": 22.342585052437904,
+  "CenterPositionLat": 114.19793767175696
+ },
+ {
+  "ID": 109743704,
+  "Capacity": 388,
+  "Name": "斧山公園 Hammer Hill Park",
+  "CenterPositionLon": 22.339675982635615,
+  "CenterPositionLat": 114.20617089566166
+ },
+ {
+  "ID": 110142552,
+  "Capacity": 1774,
+  "Name": "九龍灣公園 Kowloon Bay Park",
+  "CenterPositionLon": 22.326886750318966,
+  "CenterPositionLat": 114.20707958673029
+ },
+ {
+  "ID": 111048518,
+  "Capacity": 206,
+  "Name": "偉智街遊樂場 Wai Chi Street Playground",
+  "CenterPositionLon": 22.33437955306758,
+  "CenterPositionLat": 114.16609746345935
+ },
+ {
+  "ID": 111577520,
+  "Capacity": 11438,
+  "Name": "大埔海濱公園 Tai Po Waterfront Park",
+  "CenterPositionLon": 22.451659962036178,
+  "CenterPositionLat": 114.18220484925529
+ },
+ {
+  "ID": 112116129,
+  "Capacity": 340,
+  "Name": "龍園 Dragon Park",
+  "CenterPositionLon": 22.46001384649802,
+  "CenterPositionLat": 114.00582596660163
+ },
+ {
+  "ID": 112648301,
+  "Capacity": 695,
+  "Name": "大埔舊墟遊樂場 Tai Po Old Market Playground",
+  "CenterPositionLon": 22.451947983450616,
+  "CenterPositionLat": 114.16604589159019
+ },
+ {
+  "ID": 112701952,
+  "Capacity": 678,
+  "Name": "彩禧路公園 Choi Hei Road Park",
+  "CenterPositionLon": 22.32784610248819,
+  "CenterPositionLat": 114.21637988219642
+ },
+ {
+  "ID": 112908100,
+  "Capacity": 192,
+  "Name": "北角配水庫遊樂場 North Point Service Reservoir Playground",
+  "CenterPositionLon": 22.287844964904288,
+  "CenterPositionLat": 114.20088493724577
+ },
+ {
+  "ID": 113279489,
+  "Capacity": 504,
+  "Name": "雲景道配水庫遊樂場 Cloud View Road Service Reservoir Playground",
+  "CenterPositionLon": 22.285052095845575,
+  "CenterPositionLat": 114.19521621755386
+ },
+ {
+  "ID": 114396258,
+  "Capacity": 15,
+  "Name": "坑尾村公園 Hang Mei Tsuen Park",
+  "CenterPositionLon": 22.443912993614365,
+  "CenterPositionLat": 114.00799503766962
+ },
+ {
+  "ID": 115849027,
+  "Capacity": 435,
+  "Name": "天柏路公園 Tin Pak Road Park",
+  "CenterPositionLon": 22.45740037309415,
+  "CenterPositionLat": 114.00786310558743
+ },
+ {
+  "ID": 115849028,
+  "Capacity": 485,
+  "Name": "天柏路公園 Tin Pak Road Park",
+  "CenterPositionLon": 22.457030396213817,
+  "CenterPositionLat": 114.0069064432814
+ },
+ {
+  "ID": 115849173,
+  "Capacity": 668,
+  "Name": "龍園 Dragon Park",
+  "CenterPositionLon": 22.461218518840617,
+  "CenterPositionLat": 114.00742314870003
+ },
+ {
+  "ID": 117538373,
+  "Capacity": 413,
+  "Name": "彩榮路公園 Choi Wing Road Park",
+  "CenterPositionLon": 22.32713755918276,
+  "CenterPositionLat": 114.21928267655984
+ },
+ {
+  "ID": 120731626,
+  "Capacity": 1233,
+  "Name": "順利邨公園 Shun Lee Tsuen Park",
+  "CenterPositionLon": 22.32990737154824,
+  "CenterPositionLat": 114.22509344798519
+ },
+ {
+  "ID": 121158737,
+  "Capacity": 1023,
+  "Name": "康寧道公園 Hong Ning Road Park",
+  "CenterPositionLon": 22.32033625351048,
+  "CenterPositionLat": 114.22583551763793
+ },
+ {
+  "ID": 121445590,
+  "Capacity": 131,
+  "Name": "華信街休憩處 Wa Shun Street Sitting-out Area",
+  "CenterPositionLon": 22.30260597893999,
+  "CenterPositionLat": 114.18927186210952
+ },
+ {
+  "ID": 122139266,
+  "Capacity": 1727,
+  "Name": "麗港公園 Laguna Park",
+  "CenterPositionLon": 22.307086805205667,
+  "CenterPositionLat": 114.22638753141675
+ },
+ {
+  "ID": 122139281,
+  "Capacity": 50,
+  "Name": "茜發道休憩公園 Sin Fat Road Rest Garden",
+  "CenterPositionLon": 22.307351502477548,
+  "CenterPositionLat": 114.23122910522116
+ },
+ {
+  "ID": 122737951,
+  "Capacity": 77,
+  "Name": "油塘中心休憩花園 Yau Tong Centre Rest Garden",
+  "CenterPositionLon": 22.2947566,
+  "CenterPositionLat": 114.23875315000001
+ },
+ {
+  "ID": 124356779,
+  "Capacity": 813,
+  "Name": "小西灣海濱花園 Siu Sai Wan Promenade",
+  "CenterPositionLon": 22.265007004738017,
+  "CenterPositionLat": 114.25211600853142
+ },
+ {
+  "ID": 125447650,
+  "Capacity": 3293,
+  "Name": "佐敦谷公園 Jordan Valley Park",
+  "CenterPositionLon": 22.329622124433044,
+  "CenterPositionLat": 114.22099779002626
+ },
+ {
+  "ID": 126016999,
+  "Capacity": 848,
+  "Name": "石蔭梨木道公園 Shek Yam Lei Muk Road Park",
+  "CenterPositionLon": 22.371528103268766,
+  "CenterPositionLat": 114.13738782566398
+ },
+ {
+  "ID": 126469800,
+  "Capacity": 800,
+  "Name": "零碳天地 Zero Carbon Building",
+  "CenterPositionLon": 22.320956479451237,
+  "CenterPositionLat": 114.208355795492
+ },
+ {
+  "ID": 127125311,
+  "Capacity": 334,
+  "Name": "翠嶺里遊樂場 Chui Ling Lane Playground",
+  "CenterPositionLon": 22.3042026155428,
+  "CenterPositionLat": 114.25057674221362
+ },
+ {
+  "ID": 127382876,
+  "Capacity": 113,
+  "Name": "坑口花園 Hang Hau Garden",
+  "CenterPositionLon": 22.314663651896765,
+  "CenterPositionLat": 114.26886756656147
+ },
+ {
+  "ID": 129831696,
+  "Capacity": 690,
+  "Name": "日出公園 The Park",
+  "CenterPositionLon": 22.29397450291648,
+  "CenterPositionLat": 114.27124155481394
+ },
+ {
+  "ID": 132780770,
+  "Capacity": 404,
+  "Name": "箕璉坊配水庫休憩處 Green Lane Service Reservoir Sitting-out Area",
+  "CenterPositionLon": 22.263787829042617,
+  "CenterPositionLat": 114.18669492834627
+ },
+ {
+  "ID": 132923893,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": 22.456597146665988,
+  "CenterPositionLat": 114.17443830448279
+ },
+ {
+  "ID": 133349300,
+  "Capacity": 1834,
+  "Name": "摩士四號公園 Morse Park No. 4",
+  "CenterPositionLon": 22.336082503501796,
+  "CenterPositionLat": 114.19067532999456
+ },
+ {
+  "ID": 135248210,
+  "Capacity": 1088,
+  "Name": "坑口文曲里公園 Hang Hau Man Kuk Lane Park",
+  "CenterPositionLon": 22.313238103537664,
+  "CenterPositionLat": 114.26536863749031
+ },
+ {
+  "ID": 135787867,
+  "Capacity": 2617,
+  "Name": "白石角海濱長廊 Pak Shek Kok Promenade",
+  "CenterPositionLon": 22.428553447166994,
+  "CenterPositionLat": 114.20998936478689
+ },
+ {
+  "ID": 135995554,
+  "Capacity": 510,
+  "Name": "牛皮沙街遊樂場 Ngau Pei Sha Street Playground",
+  "CenterPositionLon": 22.382407675806856,
+  "CenterPositionLat": 114.20638673101655
+ },
+ {
+  "ID": 135995643,
+  "Capacity": 655,
+  "Name": "小瀝源路遊樂場 Siu Lek Yuen Road Playground",
+  "CenterPositionLon": 22.384656133855632,
+  "CenterPositionLat": 114.2085136688147
+ },
+ {
+  "ID": 135995882,
+  "Capacity": 207,
+  "Name": "",
+  "CenterPositionLon": 22.381051556936008,
+  "CenterPositionLat": 114.20437196226578
+ },
+ {
+  "ID": 136298053,
+  "Capacity": 838,
+  "Name": "崗背街休憩花園 Kong Pui Street Rest Garden",
+  "CenterPositionLon": 22.38101261813055,
+  "CenterPositionLat": 114.19718863031748
+ },
+ {
+  "ID": 136461563,
+  "Capacity": 332,
+  "Name": "崗背街休憩花園 Kong Pui Street Rest Garden",
+  "CenterPositionLon": 22.379305095492178,
+  "CenterPositionLat": 114.19907738024871
+ },
+ {
+  "ID": 136461577,
+  "Capacity": 487,
+  "Name": "城門河第一海濱公園 Shing Mun River Promenade Garden No.1",
+  "CenterPositionLon": 22.377057074153896,
+  "CenterPositionLat": 114.19003453823208
+ },
+ {
+  "ID": 137027630,
+  "Capacity": 294,
+  "Name": "城門河第三海濱公園 Shing Mun River Promenade Garden III",
+  "CenterPositionLon": 22.38893807629915,
+  "CenterPositionLat": 114.19888629811325
+ },
+ {
+  "ID": 137331477,
+  "Capacity": 276,
+  "Name": "翠田街足球場 Chui Tin Street Soccer Pitch",
+  "CenterPositionLon": 22.373047574448904,
+  "CenterPositionLat": 114.18225556244793
+ },
+ {
+  "ID": 138461154,
+  "Capacity": 1575,
+  "Name": "車公廟路遊樂場 Che Kung Miu Road Playground",
+  "CenterPositionLon": 22.368872549261223,
+  "CenterPositionLat": 114.17612306549697
+ },
+ {
+  "ID": 138461184,
+  "Capacity": 437,
+  "Name": "紅梅谷路遊樂場 Hung Mui Kuk Road Playground",
+  "CenterPositionLon": 22.370009832502664,
+  "CenterPositionLat": 114.17944413816993
+ },
+ {
+  "ID": 138602057,
+  "Capacity": 918,
+  "Name": "添馬公園 Tamar Park",
+  "CenterPositionLon": 22.28120670573641,
+  "CenterPositionLat": 114.16569974010407
+ },
+ {
+  "ID": 143178733,
+  "Capacity": 657,
+  "Name": "屏柏里公園 Ping Pak Lane Park",
+  "CenterPositionLon": 22.440327426947086,
+  "CenterPositionLat": 114.00611679982893
+ },
+ {
+  "ID": 143199671,
+  "Capacity": 386,
+  "Name": "唐人新村遊樂場 Tong Yan San Tsuen Playground",
+  "CenterPositionLon": 22.441488460293428,
+  "CenterPositionLat": 114.01051217659044
+ },
+ {
+  "ID": 146471004,
+  "Capacity": 153,
+  "Name": "翠樂街花園 Chui Lok Street Garden",
+  "CenterPositionLon": 22.453123420007202,
+  "CenterPositionLat": 114.16383789052001
+ },
+ {
+  "ID": 146471009,
+  "Capacity": 260,
+  "Name": "頌雅路兒童遊樂場 Chung Nga Road Children's Playground",
+  "CenterPositionLon": 22.457395135767502,
+  "CenterPositionLat": 114.16962328374339
+ },
+ {
+  "ID": 146471059,
+  "Capacity": 566,
+  "Name": "廣福公園 Kwong Fuk Park",
+  "CenterPositionLon": 22.445494766496157,
+  "CenterPositionLat": 114.17454286095574
+ },
+ {
+  "ID": 146471234,
+  "Capacity": 91,
+  "Name": "大明里廣場 Tai Ming Lane Square",
+  "CenterPositionLon": 22.447424774308463,
+  "CenterPositionLat": 114.16723079138153
+ },
+ {
+  "ID": 146471238,
+  "Capacity": 782,
+  "Name": "大埔中央廣場 Tai Po Central Town Square",
+  "CenterPositionLon": 22.453926677464544,
+  "CenterPositionLat": 114.16925670805439
+ },
+ {
+  "ID": 146471421,
+  "Capacity": 199,
+  "Name": "汀太路兒童遊樂場 Ting Tai Road Children's Playground",
+  "CenterPositionLon": 22.454793995140776,
+  "CenterPositionLat": 114.1655813626793
+ },
+ {
+  "ID": 146471503,
+  "Capacity": 1191,
+  "Name": "元洲仔公園 Yuen Chau Tsai Park",
+  "CenterPositionLon": 22.447376774916027,
+  "CenterPositionLat": 114.1774835771928
+ },
+ {
+  "ID": 146500662,
+  "Capacity": 38,
+  "Name": "中心圍兒童遊樂場 Chung Shum Wai Children's Playground",
+  "CenterPositionLon": 22.46860454503881,
+  "CenterPositionLat": 114.15064936699362
+ },
+ {
+  "ID": 146667699,
+  "Capacity": 1011,
+  "Name": "和興遊樂場 Wo Hing Playground",
+  "CenterPositionLon": 22.48433102673302,
+  "CenterPositionLat": 114.14335315503266
+ },
+ {
+  "ID": 146909996,
+  "Capacity": 10,
+  "Name": "小坑村休憩處 Siu Hang Tsuen Sitting-out Area",
+  "CenterPositionLon": 22.509217257491176,
+  "CenterPositionLat": 114.14717781615096
+ },
+ {
+  "ID": 147224415,
+  "Capacity": 124,
+  "Name": "林村許願廣場 Lam Tsuen Wishing Square",
+  "CenterPositionLon": 22.456646809580327,
+  "CenterPositionLat": 114.14262080378691
+ },
+ {
+  "ID": 147224454,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 22.45870183218251,
+  "CenterPositionLat": 114.1447367013055
+ },
+ {
+  "ID": 147463966,
+  "Capacity": 251,
+  "Name": "上水單車匯合中心 Sheung Shui Bicycle Assembly Center",
+  "CenterPositionLon": 22.503828981945414,
+  "CenterPositionLat": 114.12616128841738
+ },
+ {
+  "ID": 148018708,
+  "Capacity": 167,
+  "Name": "青華球場 Tsing Wah Soccer Pitch",
+  "CenterPositionLon": 22.386485051888684,
+  "CenterPositionLat": 113.97966646020706
+ },
+ {
+  "ID": 148190099,
+  "Capacity": 4119,
+  "Name": "蝴蝶灣公園 Butterfly Beach Park",
+  "CenterPositionLon": 22.37369369753841,
+  "CenterPositionLat": 113.9576992528468
+ },
+ {
+  "ID": 148228827,
+  "Capacity": 341,
+  "Name": "卜公花園 Blake Garden",
+  "CenterPositionLon": 22.284280088649684,
+  "CenterPositionLat": 114.14818245508172
+ },
+ {
+  "ID": 148228845,
+  "Capacity": 250,
+  "Name": "荷李活道公園 Hollywood Road Park",
+  "CenterPositionLon": 22.28600338501724,
+  "CenterPositionLat": 114.14771476762886
+ },
+ {
+  "ID": 149524425,
+  "Capacity": 761,
+  "Name": "九龍佐治五世紀念公園 King George V Memorial Park, Kowloon",
+  "CenterPositionLon": 22.305065674622764,
+  "CenterPositionLat": 114.16806137023299
+ },
+ {
+  "ID": 149908046,
+  "Capacity": 87,
+  "Name": "積富街休憩花園 Chik Fu Street Rest Garden",
+  "CenterPositionLon": 22.37468190215614,
+  "CenterPositionLat": 114.1787988837241
+ },
+ {
+  "ID": 150102534,
+  "Capacity": 199,
+  "Name": "石門遊樂場 Shek Mun Playground",
+  "CenterPositionLon": 22.391839129584483,
+  "CenterPositionLat": 114.20738016284636
+ },
+ {
+  "ID": 150154762,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 22.20526624734579,
+  "CenterPositionLat": 114.02513222774725
+ },
+ {
+  "ID": 150295525,
+  "Capacity": 16,
+  "Name": "Playground",
+  "CenterPositionLon": 22.257672418491126,
+  "CenterPositionLat": 114.13784453074582
+ },
+ {
+  "ID": 150295527,
+  "Capacity": 160,
+  "Name": "",
+  "CenterPositionLon": 22.257779057354703,
+  "CenterPositionLat": 114.13708706250222
+ },
+ {
+  "ID": 150664389,
+  "Capacity": 2257,
+  "Name": "馬鞍山遊樂場 Ma On Shan Recreation Ground",
+  "CenterPositionLon": 22.419167817673728,
+  "CenterPositionLat": 114.22798540313042
+ },
+ {
+  "ID": 150798483,
+  "Capacity": 213,
+  "Name": "迦密村街花園 Carmel Village Street Garden",
+  "CenterPositionLon": 22.314998678300423,
+  "CenterPositionLat": 114.17899876667862
+ },
+ {
+  "ID": 150811540,
+  "Capacity": 93,
+  "Name": "培正道遊樂場 Pui Ching Road Playground",
+  "CenterPositionLon": 22.318323397125766,
+  "CenterPositionLat": 114.1764765662276
+ },
+ {
+  "ID": 151396648,
+  "Capacity": 429,
+  "Name": "大環山公園 Tai Wan Shan Park",
+  "CenterPositionLon": 22.30602117574229,
+  "CenterPositionLat": 114.19280235691303
+ },
+ {
+  "ID": 151705833,
+  "Capacity": 976,
+  "Name": "長沙灣遊樂場 Cheung Sha Wan Playground",
+  "CenterPositionLon": 22.334963819601338,
+  "CenterPositionLat": 114.15537445206711
+ },
+ {
+  "ID": 151705893,
+  "Capacity": 1597,
+  "Name": "深水埗公園 Sham Shui Po Park",
+  "CenterPositionLon": 22.330556418115673,
+  "CenterPositionLat": 114.15646661393197
+ },
+ {
+  "ID": 151705894,
+  "Capacity": 494,
+  "Name": "深水埗公園第二期 Sham Shui Po Park Stage 2",
+  "CenterPositionLon": 22.332468117051814,
+  "CenterPositionLat": 114.15765994845894
+ },
+ {
+  "ID": 156408423,
+  "Capacity": 4839,
+  "Name": "蒲崗村道公園 Po Kong Village Road Park",
+  "CenterPositionLon": 22.344215473191614,
+  "CenterPositionLat": 114.20436838844063
+ },
+ {
+  "ID": 157652788,
+  "Capacity": 69,
+  "Name": "龍翔道觀景台 Lung Cheung Road Lookout",
+  "CenterPositionLon": 22.342784424519273,
+  "CenterPositionLat": 114.17139018472626
+ },
+ {
+  "ID": 157811032,
+  "Capacity": 4296,
+  "Name": "元朗公園 Yuen Long Park",
+  "CenterPositionLon": 22.441858306467246,
+  "CenterPositionLat": 114.01889748722125
+ },
+ {
+  "ID": 158182424,
+  "Capacity": 2153,
+  "Name": "彩虹道遊樂場 Choi Hung Road Playground",
+  "CenterPositionLon": 22.33793390063654,
+  "CenterPositionLat": 114.19689309707773
+ },
+ {
+  "ID": 158306944,
+  "Capacity": 26,
+  "Name": "上環文化廣場 Sheung Wan Cultural Square",
+  "CenterPositionLon": 22.286507356999394,
+  "CenterPositionLat": 114.15015309154799
+ },
+ {
+  "ID": 158307216,
+  "Capacity": 567,
+  "Name": "",
+  "CenterPositionLon": 22.358391444335716,
+  "CenterPositionLat": 114.08099380272117
+ },
+ {
+  "ID": 161558791,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 22.434097405881367,
+  "CenterPositionLat": 113.9969171660679
+ },
+ {
+  "ID": 163970357,
+  "Capacity": 5373,
+  "Name": "彭福公園 Penfold Park",
+  "CenterPositionLon": 22.39955939897189,
+  "CenterPositionLat": 114.20679905348649
+ },
+ {
+  "ID": 164940042,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 22.335921264120532,
+  "CenterPositionLat": 114.1638146857509
+ },
+ {
+  "ID": 166243956,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 22.46720459166085,
+  "CenterPositionLat": 113.9832973702889
+ },
+ {
+  "ID": 166243970,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 22.448540119305566,
+  "CenterPositionLat": 113.96113679787315
+ },
+ {
+  "ID": 166251672,
+  "Capacity": 2077,
+  "Name": "天秀路公園 Tin Sau Road Park",
+  "CenterPositionLon": 22.46603430992696,
+  "CenterPositionLat": 114.00176001415774
+ },
+ {
+  "ID": 166596281,
+  "Capacity": 55,
+  "Name": "成和道休憩花園 Sing Woo Road Rest Garden",
+  "CenterPositionLon": 22.270130859622498,
+  "CenterPositionLat": 114.18483749026203
+ },
+ {
+  "ID": 167070550,
+  "Capacity": 281,
+  "Name": "樂湖花園 Locwood Garden",
+  "CenterPositionLon": 22.4524248016819,
+  "CenterPositionLat": 114.00110700002915
+ },
+ {
+  "ID": 167070799,
+  "Capacity": 290,
+  "Name": "",
+  "CenterPositionLon": 22.447003244445302,
+  "CenterPositionLat": 114.00034760943089
+ },
+ {
+  "ID": 167492676,
+  "Capacity": 107,
+  "Name": "丹桂村路花園 Tan Kwai Tsuen Road Garden",
+  "CenterPositionLon": 22.432448919729598,
+  "CenterPositionLat": 113.99775379113765
+ },
+ {
+  "ID": 168838472,
+  "Capacity": 1179,
+  "Name": "粉嶺遊樂場 Fanling Recreation Ground",
+  "CenterPositionLon": 22.493945881241025,
+  "CenterPositionLat": 114.13756544033824
+ },
+ {
+  "ID": 168838506,
+  "Capacity": 475,
+  "Name": "沙頭角遊樂場 Sha Tau Kok Recreation Ground",
+  "CenterPositionLon": 22.544711986672986,
+  "CenterPositionLat": 114.22149159250749
+ },
+ {
+  "ID": 169271433,
+  "Capacity": 1182,
+  "Name": "鞍祿街公園 On Luk Street Park",
+  "CenterPositionLon": 22.42253054416547,
+  "CenterPositionLat": 114.23050629811436
+ },
+ {
+  "ID": 169523893,
+  "Capacity": 214,
+  "Name": "亞公角街花園 Ah Kung Kok Street Garden",
+  "CenterPositionLon": 22.40511436937229,
+  "CenterPositionLat": 114.22198182989074
+ },
+ {
+  "ID": 169627032,
+  "Capacity": 74,
+  "Name": "銅鑼灣山路花園 Tung Lo Wan Hill Road Garden",
+  "CenterPositionLon": 22.381701671960364,
+  "CenterPositionLat": 114.18034591387848
+ },
+ {
+  "ID": 171077870,
+  "Capacity": 997,
+  "Name": "百慕達公園 Bermuda Park",
+  "CenterPositionLon": 22.29344140524729,
+  "CenterPositionLat": 113.9479646030856
+ },
+ {
+  "ID": 171082231,
+  "Capacity": 2018,
+  "Name": "東涌北公園 Tung Chung North Park",
+  "CenterPositionLon": 22.29130957341028,
+  "CenterPositionLat": 113.9499271076127
+ },
+ {
+  "ID": 171082234,
+  "Capacity": 308,
+  "Name": "東涌北公園 Tung Chung North Park",
+  "CenterPositionLon": 22.290348050212472,
+  "CenterPositionLat": 113.9466800613878
+ },
+ {
+  "ID": 173395461,
+  "Capacity": 494,
+  "Name": "汀九休憩處 Ting Kau Sitting Out Area",
+  "CenterPositionLon": 22.367306797804037,
+  "CenterPositionLat": 114.07814842836946
+ },
+ {
+  "ID": 176190260,
+  "Capacity": 1253,
+  "Name": "小瀝源路遊樂場 Siu Lek Yuen Road Playground",
+  "CenterPositionLon": 22.387854026206643,
+  "CenterPositionLat": 114.20502911302096
+ },
+ {
+  "ID": 183842650,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 22.295085398461328,
+  "CenterPositionLat": 114.23990504382112
+ },
+ {
+  "ID": 184157157,
+  "Capacity": 597,
+  "Name": "九龍灣公園 Kowloon Bay Park",
+  "CenterPositionLon": 22.328116844524672,
+  "CenterPositionLat": 114.20617057228559
+ },
+ {
+  "ID": 184277018,
+  "Capacity": 508,
+  "Name": "尖沙咀海濱花園 Tsim Sha Tsui Promenade",
+  "CenterPositionLon": 22.297303837790682,
+  "CenterPositionLat": 114.17843306191548
+ },
+ {
+  "ID": 184279495,
+  "Capacity": 1042,
+  "Name": "青衣海濱公園 Tsing Yi Promenade",
+  "CenterPositionLon": 22.363239127378847,
+  "CenterPositionLat": 114.10432309849737
+ },
+ {
+  "ID": 184279496,
+  "Capacity": 2027,
+  "Name": "青衣海濱公園 Tsing Yi Promenade",
+  "CenterPositionLon": 22.356655574422415,
+  "CenterPositionLat": 114.10890352556979
+ },
+ {
+  "ID": 184279497,
+  "Capacity": 430,
+  "Name": "青衣海濱公園 Tsing Yi Promenade",
+  "CenterPositionLon": 22.36196886697489,
+  "CenterPositionLat": 114.10766606616532
+ },
+ {
+  "ID": 184291966,
+  "Capacity": 1511,
+  "Name": "樂富遊樂場 Lok Fu Recreation Ground",
+  "CenterPositionLon": 22.33670495653201,
+  "CenterPositionLat": 114.1884337250749
+ },
+ {
+  "ID": 184428265,
+  "Capacity": 194,
+  "Name": "康達徑花園 Hong Tat Path Garden",
+  "CenterPositionLon": 22.301195937801186,
+  "CenterPositionLat": 114.17935722677512
+ },
+ {
+  "ID": 184430876,
+  "Capacity": 298,
+  "Name": "尖沙咀海濱花園 Tsim Sha Tsui Promenade",
+  "CenterPositionLon": 22.299444173725476,
+  "CenterPositionLat": 114.18574125758423
+ },
+ {
+  "ID": 184475424,
+  "Capacity": 309,
+  "Name": "紅磡海濱花園 Hung Hom Promenade",
+  "CenterPositionLon": 22.30046450530438,
+  "CenterPositionLat": 114.18818632343061
+ },
+ {
+  "ID": 184729694,
+  "Capacity": 2505,
+  "Name": "荃灣海濱公園 Tsuen Wan Riviera Park",
+  "CenterPositionLon": 22.36284166435453,
+  "CenterPositionLat": 114.11239570215886
+ },
+ {
+  "ID": 184798457,
+  "Capacity": 53,
+  "Name": "寶雲道花園 Bowen Road Garden",
+  "CenterPositionLon": 22.27259919136549,
+  "CenterPositionLat": 114.1658797808641
+ },
+ {
+  "ID": 184798477,
+  "Capacity": 504,
+  "Name": "灣仔公園 Wan Chai Park",
+  "CenterPositionLon": 22.275557005881357,
+  "CenterPositionLat": 114.17606769845673
+ },
+ {
+  "ID": 185084371,
+  "Capacity": 531,
+  "Name": "奧海公園 Olympian Park",
+  "CenterPositionLon": 22.315129445780016,
+  "CenterPositionLat": 114.16288281630428
+ },
+ {
+  "ID": 185087341,
+  "Capacity": 371,
+  "Name": "柯士甸山遊樂場 Mount Austin Playground",
+  "CenterPositionLon": 22.27272392682093,
+  "CenterPositionLat": 114.14752758392699
+ },
+ {
+  "ID": 185090462,
+  "Capacity": 75,
+  "Name": "南昌街休憩花園 Nam Cheong Street Rest Garden",
+  "CenterPositionLon": 22.341231310406496,
+  "CenterPositionLat": 114.16458047477036
+ },
+ {
+  "ID": 185093243,
+  "Capacity": 273,
+  "Name": "馬頭圍道遊樂場 Ma Tau Wai Road Playground",
+  "CenterPositionLon": 22.321929815980898,
+  "CenterPositionLat": 114.18690902832184
+ },
+ {
+  "ID": 185519454,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": 22.474575175774937,
+  "CenterPositionLat": 114.2242582661572
+ },
+ {
+  "ID": 187241858,
+  "Capacity": 103,
+  "Name": "鐘聲徑遊樂場 Chung Sing Path Playground",
+  "CenterPositionLon": 22.4434821,
+  "CenterPositionLat": 114.02623275
+ },
+ {
+  "ID": 187241864,
+  "Capacity": 115,
+  "Name": "鳳翔路花園 Fung Cheung Road Garden",
+  "CenterPositionLon": 22.444408752799298,
+  "CenterPositionLat": 114.0328259530087
+ },
+ {
+  "ID": 187241865,
+  "Capacity": 104,
+  "Name": "鳳群街花園 Fung Kwan Street Garden",
+  "CenterPositionLon": 22.44243882630552,
+  "CenterPositionLat": 114.03421029239583
+ },
+ {
+  "ID": 187241867,
+  "Capacity": 80,
+  "Name": "鳳攸北街休憩處 Fung Yau Street North Sitting-out Area",
+  "CenterPositionLon": 22.4437195,
+  "CenterPositionLat": 114.0342782
+ },
+ {
+  "ID": 187241871,
+  "Capacity": 96,
+  "Name": "建德街遊樂場 Kin Tak Street Playground",
+  "CenterPositionLon": 22.4414492,
+  "CenterPositionLat": 114.03113284999999
+ },
+ {
+  "ID": 187241881,
+  "Capacity": 68,
+  "Name": "炮仗坊遊樂場 Pau Cheung Square Playground",
+  "CenterPositionLon": 22.445423641359472,
+  "CenterPositionLat": 114.02961928917452
+ },
+ {
+  "ID": 187241883,
+  "Capacity": 239,
+  "Name": "西菁街網球場 Sai Ching Street Tennis Courts",
+  "CenterPositionLon": 22.441666306513024,
+  "CenterPositionLat": 114.02724244648373
+ },
+ {
+  "ID": 187241891,
+  "Capacity": 264,
+  "Name": "元朗賽馬會廣場 Yuen Long Jockey Club Town Square",
+  "CenterPositionLon": 22.443288801173534,
+  "CenterPositionLat": 114.03079734305788
+ },
+ {
+  "ID": 188704700,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 22.380402263660443,
+  "CenterPositionLat": 114.18669748856782
+ },
+ {
+  "ID": 189410346,
+  "Capacity": 19,
+  "Name": "大埔墟休憩花園 Tai Po Market Rest Garden",
+  "CenterPositionLon": 22.448681099999998,
+  "CenterPositionLat": 114.165305
+ },
+ {
+  "ID": 189412637,
+  "Capacity": 96,
+  "Name": "",
+  "CenterPositionLon": 22.443497215966467,
+  "CenterPositionLat": 114.16694164923389
+ },
+ {
+  "ID": 189537325,
+  "Capacity": 1973,
+  "Name": "梅樹坑公園 Mui Shue Hang Park",
+  "CenterPositionLon": 22.453922586979978,
+  "CenterPositionLat": 114.15291374436896
+ },
+ {
+  "ID": 189724379,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 22.44265926647726,
+  "CenterPositionLat": 114.16677003916978
+ },
+ {
+  "ID": 189782510,
+  "Capacity": 78,
+  "Name": "偉智街休憩花園 Wai Chi Street Rest Garden",
+  "CenterPositionLon": 22.33439989384179,
+  "CenterPositionLat": 114.16685489118069
+ },
+ {
+  "ID": 189783537,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 22.33502788765771,
+  "CenterPositionLat": 114.16781430952875
+ },
+ {
+  "ID": 189787114,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 22.33942958583429,
+  "CenterPositionLat": 114.16448268847067
+ },
+ {
+  "ID": 190932264,
+  "Capacity": 213,
+  "Name": "康富遊樂場 Hong Fu Playground",
+  "CenterPositionLon": 22.25391609176206,
+  "CenterPositionLat": 114.13533561012426
+ },
+ {
+  "ID": 191372337,
+  "Capacity": 249,
+  "Name": "廣福休憩處 Kwong Fuk Sitting-out Area",
+  "CenterPositionLon": 22.447004226791357,
+  "CenterPositionLat": 114.17366910416804
+ },
+ {
+  "ID": 191388612,
+  "Capacity": 54,
+  "Name": "運頭角道休憩處 Wan Tau Kok Road Sitting-out Area",
+  "CenterPositionLon": 22.446529355169012,
+  "CenterPositionLat": 114.168639823811
+ },
+ {
+  "ID": 191714250,
+  "Capacity": 3220,
+  "Name": "完善公園 Yuen Shin Park",
+  "CenterPositionLon": 22.4513624538493,
+  "CenterPositionLat": 114.17599848326732
+ },
+ {
+  "ID": 192380986,
+  "Capacity": 1667,
+  "Name": "百福田心遊樂場 Pak Fuk Tin Sum Playground",
+  "CenterPositionLon": 22.48907161563949,
+  "CenterPositionLat": 114.14078968392361
+ },
+ {
+  "ID": 193647899,
+  "Capacity": 111,
+  "Name": "李屋村第一花園 Lei Uk Tsuen Garden No 1",
+  "CenterPositionLon": 22.374016449028325,
+  "CenterPositionLat": 114.18505604147639
+ },
+ {
+  "ID": 195688030,
+  "Capacity": 411,
+  "Name": "全安路花園 Chuen On Road Garden",
+  "CenterPositionLon": 22.46046398342292,
+  "CenterPositionLat": 114.17352681049829
+ },
+ {
+  "ID": 195741826,
+  "Capacity": 585,
+  "Name": "",
+  "CenterPositionLon": 22.335902485740004,
+  "CenterPositionLat": 114.21524606067037
+ },
+ {
+  "ID": 197664896,
+  "Capacity": 254,
+  "Name": "",
+  "CenterPositionLon": 22.333880707836876,
+  "CenterPositionLat": 114.21315014249207
+ },
+ {
+  "ID": 197738445,
+  "Capacity": 634,
+  "Name": "常盛街公園 Sheung Shing Street Park",
+  "CenterPositionLon": 22.318436732202297,
+  "CenterPositionLat": 114.17945042070716
+ },
+ {
+  "ID": 197739476,
+  "Capacity": 904,
+  "Name": "何文田公園 Ho Man Tin Park",
+  "CenterPositionLon": 22.311923433544948,
+  "CenterPositionLat": 114.18083182844313
+ },
+ {
+  "ID": 198024529,
+  "Capacity": 2594,
+  "Name": "牛池灣公園 Ngau Chi Wan Park",
+  "CenterPositionLon": 22.337576043228335,
+  "CenterPositionLat": 114.21361602092826
+ },
+ {
+  "ID": 198994698,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 22.281815989855275,
+  "CenterPositionLat": 114.18323693466903
+ },
+ {
+  "ID": 199150906,
+  "Capacity": 122,
+  "Name": "山尾街遊樂場 Shan Mei Street Playground",
+  "CenterPositionLon": 22.39767043881328,
+  "CenterPositionLat": 114.19303023090708
+ },
+ {
+  "ID": 199206408,
+  "Capacity": 24,
+  "Name": "山尾街休憩處 San Mei Street Sitting-out Area",
+  "CenterPositionLon": 22.396462929424004,
+  "CenterPositionLat": 114.1945872053724
+ },
+ {
+  "ID": 199282362,
+  "Capacity": 92,
+  "Name": "山塘新村花園 Shan Tong New Village Garden",
+  "CenterPositionLon": 22.440443307195,
+  "CenterPositionLat": 114.16942154736893
+ },
+ {
+  "ID": 199625316,
+  "Capacity": 272,
+  "Name": "荔景山路遊樂場 Lai King Hill Road Playground",
+  "CenterPositionLon": 22.34574293058007,
+  "CenterPositionLat": 114.12760490305568
+ },
+ {
+  "ID": 199756565,
+  "Capacity": 6059,
+  "Name": "中葵涌公園 Central Kwai Chung Park",
+  "CenterPositionLon": 22.35646445820223,
+  "CenterPositionLat": 114.13286586728955
+ },
+ {
+  "ID": 199804016,
+  "Capacity": 191,
+  "Name": "銅鑼灣花園 Tung Lo Wan Garden",
+  "CenterPositionLon": 22.283086103755938,
+  "CenterPositionLat": 114.18574422242945
+ },
+ {
+  "ID": 199989609,
+  "Capacity": 24,
+  "Name": "南華莆遊樂場 Nam Wa Po Playground",
+  "CenterPositionLon": 22.47517776194461,
+  "CenterPositionLat": 114.15173191827307
+ },
+ {
+  "ID": 200146602,
+  "Capacity": 1178,
+  "Name": "秀明道公園 Sau Ming Road Park",
+  "CenterPositionLon": 22.32243680096673,
+  "CenterPositionLat": 114.22985930778998
+ },
+ {
+  "ID": 200293828,
+  "Capacity": 96,
+  "Name": "城西公園 West End Park",
+  "CenterPositionLon": 22.283375087750745,
+  "CenterPositionLat": 114.14312234649168
+ },
+ {
+  "ID": 200306861,
+  "Capacity": 618,
+  "Name": "天河路遊樂場 Tin Ho Road Playground",
+  "CenterPositionLon": 22.449611416042487,
+  "CenterPositionLat": 114.00024507275046
+ },
+ {
+  "ID": 203096345,
+  "Capacity": 20,
+  "Name": "梅子林路花園 Mui Tsz Lam Road Garden",
+  "CenterPositionLon": 22.40101078193634,
+  "CenterPositionLat": 114.22665110365915
+ },
+ {
+  "ID": 203961008,
+  "Capacity": 486,
+  "Name": "石排街公園 Shek Pai Street Park",
+  "CenterPositionLon": 22.363858519366165,
+  "CenterPositionLat": 114.13721911660033
+ },
+ {
+  "ID": 204503663,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 22.366232015691995,
+  "CenterPositionLat": 114.14158257755052
+ },
+ {
+  "ID": 204545721,
+  "Capacity": 125,
+  "Name": "吐露港花園 (2區) Tolo Harbour Garden (Zone 2)",
+  "CenterPositionLon": 22.440724304168526,
+  "CenterPositionLat": 114.18542391305296
+ },
+ {
+  "ID": 204545723,
+  "Capacity": 269,
+  "Name": "吐露港花園 (1區) Tolo Harbour Garden (Zone 1)",
+  "CenterPositionLon": 22.441385836609836,
+  "CenterPositionLat": 114.18375945540815
+ },
+ {
+  "ID": 204629389,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 22.392169833216077,
+  "CenterPositionLat": 113.97353672877152
+ },
+ {
+  "ID": 204795748,
+  "Capacity": 3,
+  "Name": "銀礦灣瀑布公園 Silvermine Bay Waterfall Garden",
+  "CenterPositionLon": 22.27343415642612,
+  "CenterPositionLat": 113.99156972160715
+ },
+ {
+  "ID": 204880275,
+  "Capacity": 1915,
+  "Name": "花墟公園 Fa Hui Park",
+  "CenterPositionLon": 22.32787496031748,
+  "CenterPositionLat": 114.17423357635938
+ },
+ {
+  "ID": 204881087,
+  "Capacity": 382,
+  "Name": "",
+  "CenterPositionLon": 22.34340700151402,
+  "CenterPositionLat": 114.16343263308809
+ },
+ {
+  "ID": 205651322,
+  "Capacity": 875,
+  "Name": "唐明街公園 Tong Ming Street Park",
+  "CenterPositionLon": 22.30967388064923,
+  "CenterPositionLat": 114.25911524086803
+ },
+ {
+  "ID": 205661985,
+  "Capacity": 73,
+  "Name": "青敬路花園 Tsing King Road Garden",
+  "CenterPositionLon": 22.353274434106133,
+  "CenterPositionLat": 114.10770128241754
+ },
+ {
+  "ID": 205663303,
+  "Capacity": 118,
+  "Name": "青綠街花園 Tsing Luk Street Garden",
+  "CenterPositionLon": 22.353329355244554,
+  "CenterPositionLat": 114.10449505930676
+ },
+ {
+  "ID": 205663305,
+  "Capacity": 70,
+  "Name": "青綠街花園 Tsing Luk Street Garden",
+  "CenterPositionLon": 22.353406311555215,
+  "CenterPositionLat": 114.10566312815445
+ },
+ {
+  "ID": 205669093,
+  "Capacity": 214,
+  "Name": "長環街休憩花園 Cheung Wan Street Rest Garden",
+  "CenterPositionLon": 22.3518671,
+  "CenterPositionLat": 114.10899025
+ },
+ {
+  "ID": 205670830,
+  "Capacity": 212,
+  "Name": "長輝路海濱公園 Cheung Fai Road Promenade",
+  "CenterPositionLon": 22.349407244403054,
+  "CenterPositionLat": 114.1115532057195
+ },
+ {
+  "ID": 205716483,
+  "Capacity": 366,
+  "Name": "大王下遊樂場 Tai Wong Ha Playground",
+  "CenterPositionLon": 22.353852967214333,
+  "CenterPositionLat": 114.10199839534737
+ },
+ {
+  "ID": 205717584,
+  "Capacity": 143,
+  "Name": "長達路休憩處 Chuung Tat Road Sitting-out Area",
+  "CenterPositionLon": 22.349402416913488,
+  "CenterPositionLat": 114.11002031001647
+ },
+ {
+  "ID": 205719186,
+  "Capacity": 2095,
+  "Name": "觀塘海濱花園 Kwun Tong Promenade",
+  "CenterPositionLon": 22.312033466714176,
+  "CenterPositionLat": 114.21722459644917
+ },
+ {
+  "ID": 205719904,
+  "Capacity": 309,
+  "Name": "牙鷹洲花園 Nga Ying Chau Garden",
+  "CenterPositionLon": 22.36072443441167,
+  "CenterPositionLat": 114.10614371331772
+ },
+ {
+  "ID": 205732253,
+  "Capacity": 3812,
+  "Name": "香港單車館公園 Hong Kong Velodrome Park",
+  "CenterPositionLon": 22.31372252594998,
+  "CenterPositionLat": 114.26152798971411
+ },
+ {
+  "ID": 205746121,
+  "Capacity": 153,
+  "Name": "涌美路臨時遊樂場 Chung Mei Road Temporary Playground",
+  "CenterPositionLon": 22.350469544880834,
+  "CenterPositionLat": 114.10808065445315
+ },
+ {
+  "ID": 205759234,
+  "Capacity": 162,
+  "Name": "青鴻路遊樂場 Tsing Hung Road Playground",
+  "CenterPositionLon": 22.342874747301444,
+  "CenterPositionLat": 114.1095260562151
+ },
+ {
+  "ID": 205759239,
+  "Capacity": 417,
+  "Name": "美景遊樂場 Mei King Playground",
+  "CenterPositionLon": 22.34365650740334,
+  "CenterPositionLat": 114.10765884391358
+ },
+ {
+  "ID": 205770060,
+  "Capacity": 3726,
+  "Name": "青衣公園 Tsing Yi Park",
+  "CenterPositionLon": 22.356123868571245,
+  "CenterPositionLat": 114.10540420515615
+ },
+ {
+  "ID": 205975851,
+  "Capacity": 17,
+  "Name": "上高灘街休憩處 Sheung Ko Tan Street Sitting-Out Area",
+  "CenterPositionLon": 22.351728920779536,
+  "CenterPositionLat": 114.10619131405467
+ },
+ {
+  "ID": 205980895,
+  "Capacity": 56,
+  "Name": "涌美路休憩處 Chung Mei Road Sitting-out Area",
+  "CenterPositionLon": 22.351422572336205,
+  "CenterPositionLat": 114.10361417298003
+ },
+ {
+  "ID": 206047364,
+  "Capacity": 5,
+  "Name": "啓田道花圃 Kai Tin Road Planting Area",
+  "CenterPositionLon": 22.30681528962513,
+  "CenterPositionLat": 114.23510662895922
+ },
+ {
+  "ID": 206055871,
+  "Capacity": 37,
+  "Name": "葵興休憩花園 Kwai Hing Rest Garden",
+  "CenterPositionLon": 22.363553298840632,
+  "CenterPositionLat": 114.13159554775044
+ },
+ {
+  "ID": 206058395,
+  "Capacity": 295,
+  "Name": "興芳路遊樂場 Hing Fong Road Playground",
+  "CenterPositionLon": 22.360834946213643,
+  "CenterPositionLat": 114.1287392544591
+ },
+ {
+  "ID": 207402926,
+  "Capacity": 107,
+  "Name": "建業街遊樂場 Kin Yip Street Playground",
+  "CenterPositionLon": 22.442854049999998,
+  "CenterPositionLat": 114.0316478
+ },
+ {
+  "ID": 208971157,
+  "Capacity": 114,
+  "Name": "聯和墟兒童遊樂場 Luen Wo Hui Children's Playground",
+  "CenterPositionLon": 22.49972932531172,
+  "CenterPositionLat": 114.14503741703281
+ },
+ {
+  "ID": 209128555,
+  "Capacity": 1453,
+  "Name": "鴨脷洲風之塔公園 Ap Lei Chau Wind Tower Park",
+  "CenterPositionLon": 22.244920087036643,
+  "CenterPositionLat": 114.1523756084588
+ },
+ {
+  "ID": 209445604,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 22.312265113094586,
+  "CenterPositionLat": 114.26111723131476
+ },
+ {
+  "ID": 209445605,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.312420065052702,
+  "CenterPositionLat": 114.26089615072512
+ },
+ {
+  "ID": 209621586,
+  "Capacity": 457,
+  "Name": "湖山草地滾球場 Wu Shan Lawn Bowling Green",
+  "CenterPositionLon": 22.37528836696675,
+  "CenterPositionLat": 113.96879942096255
+ },
+ {
+  "ID": 209623317,
+  "Capacity": 152,
+  "Name": "湖山花園 Wu Shan Garden",
+  "CenterPositionLon": 22.373029863089947,
+  "CenterPositionLat": 113.96998138463415
+ },
+ {
+  "ID": 209628746,
+  "Capacity": 277,
+  "Name": "湖景路公園 Wu King Road Garden",
+  "CenterPositionLon": 22.375419203181984,
+  "CenterPositionLat": 113.96646504718423
+ },
+ {
+  "ID": 209629038,
+  "Capacity": 440,
+  "Name": "湖山網球場 Wu Shan Tennis Court",
+  "CenterPositionLon": 22.376627945820875,
+  "CenterPositionLat": 113.9679232236045
+ },
+ {
+  "ID": 209720893,
+  "Capacity": 1506,
+  "Name": "啟德跑道公園 Kai Tak Runway Park",
+  "CenterPositionLon": 22.304905108961133,
+  "CenterPositionLat": 114.21626655793786
+ },
+ {
+  "ID": 211349558,
+  "Capacity": 192,
+  "Name": "貿泰路花園 Mau Tai Road Garden",
+  "CenterPositionLon": 22.321066425006517,
+  "CenterPositionLat": 114.25660240260056
+ },
+ {
+  "ID": 211434630,
+  "Capacity": 161,
+  "Name": "Park 7",
+  "CenterPositionLon": 22.4633563562053,
+  "CenterPositionLat": 114.15383467532925
+ },
+ {
+  "ID": 211703398,
+  "Capacity": 65,
+  "Name": "Park 6",
+  "CenterPositionLon": 22.46279536653665,
+  "CenterPositionLat": 114.15514175039715
+ },
+ {
+  "ID": 214582768,
+  "Capacity": 49,
+  "Name": "Park 2",
+  "CenterPositionLon": 22.46140693315474,
+  "CenterPositionLat": 114.15609719879087
+ },
+ {
+  "ID": 218451811,
+  "Capacity": 575,
+  "Name": "鞍誠街花園 On Shing Street Garden",
+  "CenterPositionLon": 22.423330138613125,
+  "CenterPositionLat": 114.23201098857746
+ },
+ {
+  "ID": 219459813,
+  "Capacity": 86,
+  "Name": "宜春街遊樂場 Yi Chun Street Playground",
+  "CenterPositionLon": 22.379916714636266,
+  "CenterPositionLat": 114.27151438110137
+ },
+ {
+  "ID": 219459814,
+  "Capacity": 119,
+  "Name": "西貢公園 Sai Kung Park",
+  "CenterPositionLon": 22.38067659313371,
+  "CenterPositionLat": 114.27025623774745
+ },
+ {
+  "ID": 219538249,
+  "Capacity": 1929,
+  "Name": "青田遊樂場 Tsing Tin Playground",
+  "CenterPositionLon": 22.405981556920874,
+  "CenterPositionLat": 113.96807614419004
+ },
+ {
+  "ID": 219916786,
+  "Capacity": 621,
+  "Name": "大興邨紫荊園 Tai Hing Estate Bauhinia Garden",
+  "CenterPositionLon": 22.40148201102173,
+  "CenterPositionLat": 113.96885914269073
+ },
+ {
+  "ID": 220337665,
+  "Capacity": 393,
+  "Name": "青田花園 Tsing Tin Garden",
+  "CenterPositionLon": 22.404848260890727,
+  "CenterPositionLat": 113.97137830237355
+ },
+ {
+  "ID": 220339656,
+  "Capacity": 46,
+  "Name": "青楊休憩公園 Tsing Yeung Sitting-out Area",
+  "CenterPositionLon": 22.39935307173377,
+  "CenterPositionLat": 113.97021503594517
+ },
+ {
+  "ID": 220345899,
+  "Capacity": 367,
+  "Name": "石排頭遊樂場 Shek Pai Tau Playground",
+  "CenterPositionLon": 22.397518982817417,
+  "CenterPositionLat": 113.96981794586695
+ },
+ {
+  "ID": 220552170,
+  "Capacity": 73,
+  "Name": "邱德根公園 Deacon Chiu Park",
+  "CenterPositionLon": 22.39461732450023,
+  "CenterPositionLat": 113.97529905226892
+ },
+ {
+  "ID": 221995200,
+  "Capacity": 45,
+  "Name": "青湖休憩處 Tsing Wu Sitting-Out Area",
+  "CenterPositionLon": 22.38884375,
+  "CenterPositionLat": 113.9790786
+ },
+ {
+  "ID": 221995202,
+  "Capacity": 99,
+  "Name": "青山兒童遊樂場 Tsing Shan Children's Playground",
+  "CenterPositionLon": 22.38887266282988,
+  "CenterPositionLat": 113.97974966957071
+ },
+ {
+  "ID": 221995205,
+  "Capacity": 61,
+  "Name": "青河休憩公園 Tsing Ho Rest Garden",
+  "CenterPositionLon": 22.38813765,
+  "CenterPositionLat": 113.9795673
+ },
+ {
+  "ID": 223008352,
+  "Capacity": 146,
+  "Name": "麒麟崗公眾公園 Ki Lun Kong Public Park",
+  "CenterPositionLon": 22.38212761118948,
+  "CenterPositionLat": 113.97873948985497
+ },
+ {
+  "ID": 223149180,
+  "Capacity": 399,
+  "Name": "海珠路遊樂場 Hoi Chu Road Playground",
+  "CenterPositionLon": 22.38351832585854,
+  "CenterPositionLat": 113.97393863000151
+ },
+ {
+  "ID": 223230363,
+  "Capacity": 195,
+  "Name": "海皇路花園 Hai Wong Road Garden",
+  "CenterPositionLon": 22.385580066545618,
+  "CenterPositionLat": 113.9703032857905
+ },
+ {
+  "ID": 223278155,
+  "Capacity": 84,
+  "Name": "青海遊樂場 Tsing Hoi Playground",
+  "CenterPositionLon": 22.389696850309843,
+  "CenterPositionLat": 113.97853345353052
+ },
+ {
+  "ID": 224604821,
+  "Capacity": 652,
+  "Name": "",
+  "CenterPositionLon": 22.352932138990987,
+  "CenterPositionLat": 114.06124091278345
+ },
+ {
+  "ID": 224751148,
+  "Capacity": 3861,
+  "Name": "獅子山公園 Lion Rock Park",
+  "CenterPositionLon": 22.345419648665583,
+  "CenterPositionLat": 114.18305301510287
+ },
+ {
+  "ID": 227077711,
+  "Capacity": 31,
+  "Name": "樂活道休憩花園 Broadwood Road Rest Garden",
+  "CenterPositionLon": 22.27368594852723,
+  "CenterPositionLat": 114.18535461943112
+ },
+ {
+  "ID": 228005742,
+  "Capacity": 306,
+  "Name": "水邊村遊樂場 Shui Pin Tsuen Playground",
+  "CenterPositionLon": 22.44398800268439,
+  "CenterPositionLat": 114.02171887696205
+ },
+ {
+  "ID": 228008758,
+  "Capacity": 232,
+  "Name": "市鎮公園北兒童遊樂場 Town Park North Children's Playground",
+  "CenterPositionLon": 22.443811112061336,
+  "CenterPositionLat": 114.01891067823325
+ },
+ {
+  "ID": 228013670,
+  "Capacity": 102,
+  "Name": "西菁街兒童遊樂場 Sai Ching Street Children's Playground",
+  "CenterPositionLon": 22.442417710396462,
+  "CenterPositionLat": 114.02732602516632
+ },
+ {
+  "ID": 228122276,
+  "Capacity": 136,
+  "Name": "市鎮公園南遊樂場 Town Park South Playground",
+  "CenterPositionLon": 22.439592542781796,
+  "CenterPositionLat": 114.01825430794115
+ },
+ {
+  "ID": 228137540,
+  "Capacity": 124,
+  "Name": "屏會街休憩花園 Ping Wui Street Rest Garden",
+  "CenterPositionLon": 22.446777478157394,
+  "CenterPositionLat": 114.02250641306154
+ },
+ {
+  "ID": 228145452,
+  "Capacity": 194,
+  "Name": "俊賢坊遊樂場 Chun Yin Square Playground",
+  "CenterPositionLon": 22.44685166819989,
+  "CenterPositionLat": 114.0239035297396
+ },
+ {
+  "ID": 228413047,
+  "Capacity": 134,
+  "Name": "擊壤路五人足球場 Kik Yueng Road 5-a-side Football Pitch",
+  "CenterPositionLon": 22.4453088,
+  "CenterPositionLat": 114.0254341
+ },
+ {
+  "ID": 228417456,
+  "Capacity": 190,
+  "Name": "宏業南街休憩花園 Wang Yip Street South Rest Garden",
+  "CenterPositionLon": 22.44816353457289,
+  "CenterPositionLat": 114.0281650386583
+ },
+ {
+  "ID": 228457641,
+  "Capacity": 99,
+  "Name": "青華遊樂場 Tsing Wah Playground",
+  "CenterPositionLon": 22.3485712344004,
+  "CenterPositionLat": 114.09750842944014
+ },
+ {
+  "ID": 228461593,
+  "Capacity": 91,
+  "Name": "青華花園 Tsing Wah Garden",
+  "CenterPositionLon": 22.348143823660887,
+  "CenterPositionLat": 114.09727060022189
+ },
+ {
+  "ID": 230809059,
+  "Capacity": 287,
+  "Name": "",
+  "CenterPositionLon": 22.360202601243078,
+  "CenterPositionLat": 114.10482760409758
+ },
+ {
+  "ID": 230809060,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 22.360845933333334,
+  "CenterPositionLat": 114.1033884
+ },
+ {
+  "ID": 231329525,
+  "Capacity": 91,
+  "Name": "水車館街遊樂場 Shui Che Kwun Playground",
+  "CenterPositionLon": 22.445192838859324,
+  "CenterPositionLat": 114.03083503021334
+ },
+ {
+  "ID": 231329526,
+  "Capacity": 25,
+  "Name": "水門頭花園 Shui Mun Tau Rest Garden",
+  "CenterPositionLon": 22.445735556239992,
+  "CenterPositionLat": 114.03137702202264
+ },
+ {
+  "ID": 231602706,
+  "Capacity": 2548,
+  "Name": "數碼港公園  Cyberport Park",
+  "CenterPositionLon": 22.25854034077408,
+  "CenterPositionLat": 114.13025883790655
+ },
+ {
+  "ID": 232150520,
+  "Capacity": 622,
+  "Name": "睦鄰街遊樂場 Muk Lun Street Playground",
+  "CenterPositionLon": 22.341246373112728,
+  "CenterPositionLat": 114.1966999642526
+ },
+ {
+  "ID": 232427875,
+  "Capacity": 108,
+  "Name": "德業街遊樂場 Tak Yip Street Playground",
+  "CenterPositionLon": 22.451138706094305,
+  "CenterPositionLat": 114.03172873491235
+ },
+ {
+  "ID": 232427892,
+  "Capacity": 799,
+  "Name": "東頭工業區遊樂場 Tung Tau Industrial Area Playground",
+  "CenterPositionLon": 22.449612543799173,
+  "CenterPositionLat": 114.03051211728541
+ },
+ {
+  "ID": 232441034,
+  "Capacity": 1740,
+  "Name": "屯門海濱花園 Tuen Mun Promenade",
+  "CenterPositionLon": 22.372082987850757,
+  "CenterPositionLat": 113.96751055020887
+ },
+ {
+  "ID": 232577498,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 22.39279599055736,
+  "CenterPositionLat": 113.97558675482558
+ },
+ {
+  "ID": 233262084,
+  "Capacity": 479,
+  "Name": "保榮路遊樂場 Po Wing Road Playground",
+  "CenterPositionLon": 22.496657996198905,
+  "CenterPositionLat": 114.12977421143272
+ },
+ {
+  "ID": 233262092,
+  "Capacity": 143,
+  "Name": "保榮路休憩處 Po Wing Road Sitting-out Area",
+  "CenterPositionLon": 22.497071931505516,
+  "CenterPositionLat": 114.12781212704412
+ },
+ {
+  "ID": 233498731,
+  "Capacity": 513,
+  "Name": "石湖墟遊樂場 Shek Wu Hui Playground",
+  "CenterPositionLon": 22.50612517980221,
+  "CenterPositionLat": 114.12635012513536
+ },
+ {
+  "ID": 233498754,
+  "Capacity": 99,
+  "Name": "彩園戲場  Choi Yuen Theater",
+  "CenterPositionLon": 22.501500164744698,
+  "CenterPositionLat": 114.12474799571439
+ },
+ {
+  "ID": 233814005,
+  "Capacity": 107,
+  "Name": "葵合街遊樂場 Kwai Hop Street Playground",
+  "CenterPositionLon": 22.36519516143361,
+  "CenterPositionLat": 114.12945193689364
+ },
+ {
+  "ID": 234585230,
+  "Capacity": 28,
+  "Name": "黃麻角道遊樂場 Wong Ma Kok Road Playground",
+  "CenterPositionLon": 22.21739582990398,
+  "CenterPositionLat": 114.21345355338242
+ },
+ {
+  "ID": 234741115,
+  "Capacity": 77,
+  "Name": "寶鄉橋休憩處 Po Heung Bridge Sitting-out Area",
+  "CenterPositionLon": 22.45005753250683,
+  "CenterPositionLat": 114.16754588590744
+ },
+ {
+  "ID": 237758325,
+  "Capacity": 125,
+  "Name": "山尾街籃球場 San Mei Street Basketball Court",
+  "CenterPositionLon": 22.396898802554837,
+  "CenterPositionLat": 114.19385350027153
+ },
+ {
+  "ID": 240091532,
+  "Capacity": 1057,
+  "Name": "LG7 Lawn Area",
+  "CenterPositionLon": 22.339366136402198,
+  "CenterPositionLat": 114.26363595707613
+ },
+ {
+  "ID": 240091550,
+  "Capacity": 308,
+  "Name": "",
+  "CenterPositionLon": 22.334987262910435,
+  "CenterPositionLat": 114.26298508688936
+ },
+ {
+  "ID": 240225388,
+  "Capacity": 257,
+  "Name": "廣播道花園 Broadcast Drive Garden",
+  "CenterPositionLon": 22.34367538265274,
+  "CenterPositionLat": 114.18221723299963
+ },
+ {
+  "ID": 240225781,
+  "Capacity": 357,
+  "Name": "龍翔道公園 Lung Cheung Road Park",
+  "CenterPositionLon": 22.34358528533886,
+  "CenterPositionLat": 114.18100316691681
+ },
+ {
+  "ID": 240285901,
+  "Capacity": 246,
+  "Name": "龍翔道公園 Lung Cheung Road Park",
+  "CenterPositionLon": 22.34357868302988,
+  "CenterPositionLat": 114.18016427811763
+ },
+ {
+  "ID": 243666503,
+  "Capacity": 7,
+  "Name": "寶鄉橋休憩處 Po Heung Bridge Sitting-out Area",
+  "CenterPositionLon": 22.449488936094664,
+  "CenterPositionLat": 114.16684643678283
+ },
+ {
+  "ID": 243868305,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 22.348782740937033,
+  "CenterPositionLat": 114.10656703345138
+ },
+ {
+  "ID": 244675569,
+  "Capacity": 299,
+  "Name": "太和路休憩公園",
+  "CenterPositionLon": 22.450857761233827,
+  "CenterPositionLat": 114.16543022357814
+ },
+ {
+  "ID": 249088574,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 22.34506207990033,
+  "CenterPositionLat": 114.1082816810943
+ },
+ {
+  "ID": 249263019,
+  "Capacity": 99,
+  "Name": "仁風街休憩花園 Yan Fung Street Rest Garden",
+  "CenterPositionLon": 22.309453305781236,
+  "CenterPositionLat": 114.18341811211859
+ },
+ {
+  "ID": 249316008,
+  "Capacity": 2665,
+  "Name": "城門谷公園 (南園) Shing Mun Valley Park (South Garden)",
+  "CenterPositionLon": 22.374879237450347,
+  "CenterPositionLat": 114.12592966396792
+ },
+ {
+  "ID": 249316046,
+  "Capacity": 1202,
+  "Name": "城門谷公園(北園) Shing Mun Valley Park (North Garden)",
+  "CenterPositionLon": 22.37740133830011,
+  "CenterPositionLat": 114.12988762873015
+ },
+ {
+  "ID": 249476074,
+  "Capacity": 283,
+  "Name": "怡明邨公園 Yee Ming Estate Park",
+  "CenterPositionLon": 22.305293750582052,
+  "CenterPositionLat": 114.26302519938669
+ },
+ {
+  "ID": 250487369,
+  "Capacity": 776,
+  "Name": "湖山河畔公園 Wu Shan Riverside Park",
+  "CenterPositionLon": 22.384094949777285,
+  "CenterPositionLat": 113.96762225485683
+ },
+ {
+  "ID": 250699968,
+  "Capacity": 295,
+  "Name": "福民花園 Fuk Man Garden",
+  "CenterPositionLon": 22.383748991495704,
+  "CenterPositionLat": 114.27152091350284
+ },
+ {
+  "ID": 255289115,
+  "Capacity": 53,
+  "Name": "鳳南路花園 Fung Nam Road Garden",
+  "CenterPositionLon": 22.507745094393027,
+  "CenterPositionLat": 114.12746345161905
+ },
+ {
+  "ID": 255289128,
+  "Capacity": 1552,
+  "Name": "北區公園 North District Park",
+  "CenterPositionLon": 22.500040404421455,
+  "CenterPositionLat": 114.13192475724532
+ },
+ {
+  "ID": 255289135,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 22.505058667565024,
+  "CenterPositionLat": 114.13015742117726
+ },
+ {
+  "ID": 255289151,
+  "Capacity": 298,
+  "Name": "上水花園第一號 Sheung Shui Garden No.1",
+  "CenterPositionLon": 22.503513948727473,
+  "CenterPositionLat": 114.13051179776988
+ },
+ {
+  "ID": 255289152,
+  "Capacity": 147,
+  "Name": "上水花園第二號 Sheung Shui Garden No.2",
+  "CenterPositionLon": 22.502180819720316,
+  "CenterPositionLat": 114.13213054599788
+ },
+ {
+  "ID": 255289153,
+  "Capacity": 146,
+  "Name": "上水花園第三號 Sheung Shui Garden No.3",
+  "CenterPositionLon": 22.501432876534196,
+  "CenterPositionLat": 114.13110064458321
+ },
+ {
+  "ID": 255289154,
+  "Capacity": 371,
+  "Name": "上水花園第四號 Sheung Shui Garden No.4",
+  "CenterPositionLon": 22.501553937867385,
+  "CenterPositionLat": 114.12993987521436
+ },
+ {
+  "ID": 255289170,
+  "Capacity": 151,
+  "Name": "天平路花園 Tin Ping Road Garden",
+  "CenterPositionLon": 22.50924594801547,
+  "CenterPositionLat": 114.12685666604149
+ },
+ {
+  "ID": 255637033,
+  "Capacity": 393,
+  "Name": "杯渡路(南)休憩公園 Pui To Road (South) Rest Garden",
+  "CenterPositionLon": 22.392931313751333,
+  "CenterPositionLat": 113.97192764009262
+ },
+ {
+  "ID": 255637879,
+  "Capacity": 1229,
+  "Name": "青山公路（新墟）公園 Castle Peak Road (San Hui) Park",
+  "CenterPositionLon": 22.405655226362114,
+  "CenterPositionLat": 113.97768189207963
+ },
+ {
+  "ID": 255757443,
+  "Capacity": 15456,
+  "Name": "葵涌公園 Kwai Chung Park",
+  "CenterPositionLon": 22.354598093639083,
+  "CenterPositionLat": 114.11935952624984
+ },
+ {
+  "ID": 255978781,
+  "Capacity": 38,
+  "Name": "寵物公園 Pet Garden",
+  "CenterPositionLon": 22.30210053634952,
+  "CenterPositionLat": 114.26138005671537
+ },
+ {
+  "ID": 256320493,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 22.415741948274388,
+  "CenterPositionLat": 113.9749041189404
+ },
+ {
+  "ID": 256538220,
+  "Capacity": 44,
+  "Name": "馬鞍山公園 Ma On Shan Park",
+  "CenterPositionLon": 22.42681702483095,
+  "CenterPositionLat": 114.2336059653392
+ },
+ {
+  "ID": 256670620,
+  "Capacity": 51,
+  "Name": "鞍誠街休憩處 On Shing Street Sitting-out Area",
+  "CenterPositionLon": 22.422341855823426,
+  "CenterPositionLat": 114.23229057030441
+ },
+ {
+  "ID": 256670621,
+  "Capacity": 125,
+  "Name": "鞍源街花園 On Yuen Street Garden",
+  "CenterPositionLon": 22.424302750607353,
+  "CenterPositionLat": 114.22878940355453
+ },
+ {
+  "ID": 257057255,
+  "Capacity": 256,
+  "Name": "仁愛廣場 Yan Oi Town Square",
+  "CenterPositionLon": 22.396568035431972,
+  "CenterPositionLat": 113.97552833253295
+ },
+ {
+  "ID": 257057318,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 22.39502188076432,
+  "CenterPositionLat": 113.97475140277388
+ },
+ {
+  "ID": 257743892,
+  "Capacity": 115,
+  "Name": "銀圍休憩花園 Ngan Wai Rest Garden",
+  "CenterPositionLon": 22.402809394320197,
+  "CenterPositionLat": 113.97437432866286
+ },
+ {
+  "ID": 258068796,
+  "Capacity": 363,
+  "Name": "恆康街花園 Hang Hong Street Garden",
+  "CenterPositionLon": 22.417640998605464,
+  "CenterPositionLat": 114.2305213531726
+ },
+ {
+  "ID": 258074789,
+  "Capacity": 46,
+  "Name": "馬鞍山西沙路寵物公園 Ma On Shan Sai Sha Road Pet Garden",
+  "CenterPositionLon": 22.41560259326751,
+  "CenterPositionLat": 114.22505578401389
+ },
+ {
+  "ID": 258237484,
+  "Capacity": 3297,
+  "Name": "馬鞍山海濱長廊 Ma On Shan Promenade",
+  "CenterPositionLon": 22.41867791310416,
+  "CenterPositionLat": 114.22418323785199
+ },
+ {
+  "ID": 258321858,
+  "Capacity": 1531,
+  "Name": "安景街公園 On King Street Park",
+  "CenterPositionLon": 22.39315184900979,
+  "CenterPositionLat": 114.20637067396022
+ },
+ {
+  "ID": 258325374,
+  "Capacity": 320,
+  "Name": "安睦街花園 On Muk Street Garden",
+  "CenterPositionLon": 22.389324457118693,
+  "CenterPositionLat": 114.20516763877679
+ },
+ {
+  "ID": 258421150,
+  "Capacity": 36,
+  "Name": "良田村花園 Leung Tin Tsuen Garden",
+  "CenterPositionLon": 22.399081075403387,
+  "CenterPositionLat": 113.9781954221126
+ },
+ {
+  "ID": 258421163,
+  "Capacity": 366,
+  "Name": "新墟遊樂場 San Hui Playground",
+  "CenterPositionLon": 22.400324350820927,
+  "CenterPositionLat": 113.97640927281563
+ },
+ {
+  "ID": 258421164,
+  "Capacity": 25,
+  "Name": "新墟休憩處 San Hui Sitting-out Area",
+  "CenterPositionLon": 22.39794833453014,
+  "CenterPositionLat": 113.97683424987068
+ },
+ {
+  "ID": 258421165,
+  "Capacity": 32,
+  "Name": "新墟村休憩花園 San Hui Tsuen Rest Garden",
+  "CenterPositionLon": 22.401265619651554,
+  "CenterPositionLat": 113.97921764062265
+ },
+ {
+  "ID": 258421169,
+  "Capacity": 372,
+  "Name": "新和里遊樂場 San Wo Lane Playground",
+  "CenterPositionLon": 22.402130853478656,
+  "CenterPositionLat": 113.9768990705963
+ },
+ {
+  "ID": 258421170,
+  "Capacity": 136,
+  "Name": "新和里遊樂場 San Wo Lane Playground",
+  "CenterPositionLon": 22.401251669274476,
+  "CenterPositionLat": 113.97667144370003
+ },
+ {
+  "ID": 258609853,
+  "Capacity": 268,
+  "Name": "城門河第二海濱公園 Shing Mun River Promenade Garden II",
+  "CenterPositionLon": 22.38945168533672,
+  "CenterPositionLat": 114.20235614821424
+ },
+ {
+  "ID": 258612314,
+  "Capacity": 2770,
+  "Name": "馬鞍山公園 Ma On Shan Park",
+  "CenterPositionLon": 22.42709766454027,
+  "CenterPositionLat": 114.23105259287412
+ },
+ {
+  "ID": 258613077,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 22.386005624014704,
+  "CenterPositionLat": 114.19457327777717
+ },
+ {
+  "ID": 258872629,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 22.385177930362698,
+  "CenterPositionLat": 114.19050927895782
+ },
+ {
+  "ID": 259363478,
+  "Capacity": 48,
+  "Name": "馬鞍山西沙路休憩處 Ma On Shan Sai Sha Road Sitting-Out Area",
+  "CenterPositionLon": 22.420263832713427,
+  "CenterPositionLat": 114.22510032173282
+ },
+ {
+  "ID": 260760025,
+  "Capacity": 15,
+  "Name": "下灣村花園 Ha Wan Tsuen Garden",
+  "CenterPositionLon": 22.514293724151536,
+  "CenterPositionLat": 114.0737013114562
+ },
+ {
+  "ID": 260760027,
+  "Capacity": 68,
+  "Name": "落馬洲花園 Lok Ma Chau Garden",
+  "CenterPositionLon": 22.510535412070617,
+  "CenterPositionLat": 114.07934803706496
+ },
+ {
+  "ID": 260760030,
+  "Capacity": 590,
+  "Name": "文天祥公園 Man Tin Cheung Park",
+  "CenterPositionLon": 22.497286910928807,
+  "CenterPositionLat": 114.07700640542741
+ },
+ {
+  "ID": 260760038,
+  "Capacity": 574,
+  "Name": "新田公園 San Tin Park",
+  "CenterPositionLon": 22.498614093301654,
+  "CenterPositionLat": 114.07604861014762
+ },
+ {
+  "ID": 260868019,
+  "Capacity": 60,
+  "Name": "東華三院百週年紀念廣場 TWGHs Centenary Square",
+  "CenterPositionLon": 22.275335286462518,
+  "CenterPositionLat": 114.17716396410205
+ },
+ {
+  "ID": 261065179,
+  "Capacity": 61,
+  "Name": "新田圍花園 San Tin Wai Garden",
+  "CenterPositionLon": 22.371907878578924,
+  "CenterPositionLat": 114.18252985487644
+ },
+ {
+  "ID": 261065180,
+  "Capacity": 68,
+  "Name": "沙田頭村休憩用地 Sha Tin Tau Village Sitting-out Area",
+  "CenterPositionLon": 22.37339197907634,
+  "CenterPositionLat": 114.18962783158715
+ },
+ {
+  "ID": 261065200,
+  "Capacity": 1280,
+  "Name": "曾大屋遊樂場 Tsang Tai Uk Recreation Ground",
+  "CenterPositionLon": 22.374989078515355,
+  "CenterPositionLat": 114.18988378547785
+ },
+ {
+  "ID": 261065201,
+  "Capacity": 66,
+  "Name": "曾大屋遊樂場 Tsang Tai Uk Recreation Ground",
+  "CenterPositionLon": 22.375092914669175,
+  "CenterPositionLat": 114.19163326202069
+ },
+ {
+  "ID": 261065703,
+  "Capacity": 58,
+  "Name": "大埔道七咪半休憩花園 7½ Mile Stone Tai Po Road Rest Garden",
+  "CenterPositionLon": 22.371431061118898,
+  "CenterPositionLat": 114.17473536224527
+ },
+ {
+  "ID": 262866717,
+  "Capacity": 44,
+  "Name": "龍翔道洋紫荊花園 Lung Cheung Road Bauhinia Garden",
+  "CenterPositionLon": 22.342514388444037,
+  "CenterPositionLat": 114.18531749837136
+ },
+ {
+  "ID": 263310021,
+  "Capacity": 48,
+  "Name": "杏林街休憩處 Heng Lam Street Sitting-out Area",
+  "CenterPositionLon": 22.335478349103738,
+  "CenterPositionLat": 114.1876907653556
+ },
+ {
+  "ID": 263310037,
+  "Capacity": 343,
+  "Name": "摩士一號公園 Morse Park No. 1",
+  "CenterPositionLon": 22.336765129042522,
+  "CenterPositionLat": 114.19394858435717
+ },
+ {
+  "ID": 263310038,
+  "Capacity": 493,
+  "Name": "摩士二號公園 Morse Park No. 2",
+  "CenterPositionLon": 22.337165455517603,
+  "CenterPositionLat": 114.19282037976268
+ },
+ {
+  "ID": 263310067,
+  "Capacity": 235,
+  "Name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+  "CenterPositionLon": 22.337638007799683,
+  "CenterPositionLat": 114.19325218643745
+ },
+ {
+  "ID": 263311574,
+  "Capacity": 1365,
+  "Name": "聯合道公園 Junction Road Park",
+  "CenterPositionLon": 22.338627534700056,
+  "CenterPositionLat": 114.18419050542374
+ },
+ {
+  "ID": 263472324,
+  "Capacity": 41,
+  "Name": "牛池灣村休憩處 Ngau Chi Wan Village Sitting-out Area",
+  "CenterPositionLon": 22.335549589500932,
+  "CenterPositionLat": 114.20822602967176
+ },
+ {
+  "ID": 263482689,
+  "Capacity": 280,
+  "Name": "龍趣園何鴻燊公園 Lung Tsui Yuen Stanley Ho Park",
+  "CenterPositionLon": 22.34046318839059,
+  "CenterPositionLat": 114.19410534253491
+ },
+ {
+  "ID": 266353071,
+  "Capacity": 23,
+  "Name": "皇龍道休憩處 Dragon Road Sitting-out Area",
+  "CenterPositionLon": 22.282658692678336,
+  "CenterPositionLat": 114.19329170438695
+ },
+ {
+  "ID": 266353255,
+  "Capacity": 12,
+  "Name": "留仙街臨時休憩處 Lau Sin Street Temporary Sitting-out Area",
+  "CenterPositionLon": 22.283027075485418,
+  "CenterPositionLat": 114.19204801336674
+ },
+ {
+  "ID": 266353322,
+  "Capacity": 77,
+  "Name": "天后廟花園 Tin Hau Temple Garden",
+  "CenterPositionLon": 22.28216063894546,
+  "CenterPositionLat": 114.19265927527104
+ },
+ {
+  "ID": 266353339,
+  "Capacity": 66,
+  "Name": "屈臣道休憩花園 Watson Road Rest Garden",
+  "CenterPositionLon": 22.287416702669905,
+  "CenterPositionLat": 114.18997036602163
+ },
+ {
+  "ID": 266586309,
+  "Capacity": 567,
+  "Name": "西貢海濱公園 Sai Kung Waterfront Park",
+  "CenterPositionLon": 22.382442031144475,
+  "CenterPositionLat": 114.27459663519674
+ },
+ {
+  "ID": 266617558,
+  "Capacity": 574,
+  "Name": "城門河第三海濱公園 Shing Mun River Promenade Garden No.3",
+  "CenterPositionLon": 22.391646196353275,
+  "CenterPositionLat": 114.19917912921966
+ },
+ {
+  "ID": 271666267,
+  "Capacity": 637,
+  "Name": "愛秩序灣遊樂場 Aldrich Bay Playground",
+  "CenterPositionLon": 22.27906286533547,
+  "CenterPositionLat": 114.22722975086054
+ },
+ {
+  "ID": 272209591,
+  "Capacity": 331,
+  "Name": "偉明街花園 Wai Ming Street Garden",
+  "CenterPositionLon": 22.486140869291738,
+  "CenterPositionLat": 114.14011308686162
+ },
+ {
+  "ID": 272305867,
+  "Capacity": 118,
+  "Name": "百和路休憩處 Pak Wo Road Sitting-out Area",
+  "CenterPositionLon": 22.491146670398823,
+  "CenterPositionLat": 114.13350347429893
+ },
+ {
+  "ID": 273636133,
+  "Capacity": 48,
+  "Name": "魷魚灣兒童遊樂場 Yau Yue Wan Children's Playground",
+  "CenterPositionLon": 22.325575706620885,
+  "CenterPositionLat": 114.26028942025586
+ },
+ {
+  "ID": 276147707,
+  "Capacity": 48,
+  "Name": "迷宮花園 Maze Garden",
+  "CenterPositionLon": 22.329604841764596,
+  "CenterPositionLat": 114.22000656975837
+ },
+ {
+  "ID": 276147962,
+  "Capacity": 105,
+  "Name": "社區園圃 Community Garden",
+  "CenterPositionLon": 22.32963849551394,
+  "CenterPositionLat": 114.22277244806787
+ },
+ {
+  "ID": 276148680,
+  "Capacity": 71,
+  "Name": "四季花園 Four Seasons Garden",
+  "CenterPositionLon": 22.330694804967216,
+  "CenterPositionLat": 114.22092228595106
+ },
+ {
+  "ID": 276148681,
+  "Capacity": 90,
+  "Name": "簕杜鵑園 Bougainvillea Garden",
+  "CenterPositionLon": 22.3302893649677,
+  "CenterPositionLat": 114.22033505446815
+ },
+ {
+  "ID": 281580241,
+  "Capacity": 275,
+  "Name": "鰂魚涌海濱花園 Quarry Bay Promenade",
+  "CenterPositionLon": 22.290690273140864,
+  "CenterPositionLat": 114.21396354879136
+ },
+ {
+  "ID": 291174752,
+  "Capacity": 311,
+  "Name": "",
+  "CenterPositionLon": 22.385633142886135,
+  "CenterPositionLat": 114.19259336466273
+ },
+ {
+  "ID": 291481809,
+  "Capacity": 553,
+  "Name": "葵涌新區公園 Kwai Chung San Kui Park",
+  "CenterPositionLon": 22.36734097503835,
+  "CenterPositionLat": 114.13077207119633
+ },
+ {
+  "ID": 292553711,
+  "Capacity": 116,
+  "Name": "愛秩序灣兒童遊樂場 Aldrich Bay Children's Playground",
+  "CenterPositionLon": 22.279461627066055,
+  "CenterPositionLat": 114.22831055571062
+ },
+ {
+  "ID": 295324058,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 22.347002707639923,
+  "CenterPositionLat": 114.10853775802808
+ },
+ {
+  "ID": 295334193,
+  "Capacity": 1333,
+  "Name": "青衣西路公園 Tsing Yi Road West Park",
+  "CenterPositionLon": 22.3526935584424,
+  "CenterPositionLat": 114.09914492841561
+ },
+ {
+  "ID": 295407287,
+  "Capacity": 82,
+  "Name": "長江公園 Cheung Kong Park",
+  "CenterPositionLon": 22.279118005849604,
+  "CenterPositionLat": 114.1601444631199
+ },
+ {
+  "ID": 296724475,
+  "Capacity": 208,
+  "Name": "港島東體育館休憩處 Island East Sports Centre Sitting-out Area",
+  "CenterPositionLon": 22.284589608156587,
+  "CenterPositionLat": 114.22209027935753
+ },
+ {
+  "ID": 296724536,
+  "Capacity": 1910,
+  "Name": "鰂魚涌公園 Quarry Bay Park",
+  "CenterPositionLon": 22.28866805145683,
+  "CenterPositionLat": 114.2201397608517
+ },
+ {
+  "ID": 296724561,
+  "Capacity": 824,
+  "Name": "筲箕灣配水庫遊樂場 Shau Kei Wan Service Reservoir Playground",
+  "CenterPositionLon": 22.281996232839507,
+  "CenterPositionLat": 114.2177165584074
+ },
+ {
+  "ID": 296753756,
+  "Capacity": 260,
+  "Name": "柴灣公園 Chai Wan Park",
+  "CenterPositionLon": 22.264311833201525,
+  "CenterPositionLat": 114.23906355358264
+ },
+ {
+  "ID": 297494136,
+  "Capacity": 9,
+  "Name": "繁華街休憩處 Fan Wa Street Sitting-out Area",
+  "CenterPositionLon": 22.302714389593596,
+  "CenterPositionLat": 114.2274496337952
+ },
+ {
+  "ID": 297494137,
+  "Capacity": 8,
+  "Name": "繁華街臨時休憩處 Fan Wa Street Temporary Sitting-out Area",
+  "CenterPositionLon": 22.303526936580393,
+  "CenterPositionLat": 114.22765258247075
+ },
+ {
+  "ID": 297494159,
+  "Capacity": 289,
+  "Name": "偉樂街臨時足球場 Wai Lok Street Temporary Soccer Pitch",
+  "CenterPositionLon": 22.303880346710603,
+  "CenterPositionLat": 114.2261377937106
+ },
+ {
+  "ID": 297892931,
+  "Capacity": 86,
+  "Name": "崗背街休憩花園 Kong Pui Street Rest Garden",
+  "CenterPositionLon": 22.37905435623855,
+  "CenterPositionLat": 114.19783384518833
+ },
+ {
+  "ID": 297892968,
+  "Capacity": 21,
+  "Name": "怡成坊休憩花園 Yi Shing Square Sitting-out Area",
+  "CenterPositionLon": 22.3802199,
+  "CenterPositionLat": 114.19565215
+ },
+ {
+  "ID": 297968924,
+  "Capacity": 663,
+  "Name": "宣道園 Suen Douh Camp",
+  "CenterPositionLon": 22.50563683946494,
+  "CenterPositionLat": 114.1478892072197
+ },
+ {
+  "ID": 299215651,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 22.323059258330176,
+  "CenterPositionLat": 114.2200988427319
+ },
+ {
+  "ID": 299215723,
+  "Capacity": 12,
+  "Name": "康寧道休憩公園 Hong Ning Road Rest Garden",
+  "CenterPositionLon": 22.31716695599508,
+  "CenterPositionLat": 114.22267732397803
+ },
+ {
+  "ID": 299408860,
+  "Capacity": 118,
+  "Name": "Coombe Road Children's Playground 甘道兒童遊樂場",
+  "CenterPositionLon": 22.267276428796116,
+  "CenterPositionLat": 114.16893632046454
+ },
+ {
+  "ID": 299581538,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 22.380134681215722,
+  "CenterPositionLat": 114.19445789300512
+ },
+ {
+  "ID": 300687064,
+  "Capacity": 101,
+  "Name": "水上花園 Water Garden",
+  "CenterPositionLon": 22.361834968256407,
+  "CenterPositionLat": 114.11312795195072
+ },
+ {
+  "ID": 300687091,
+  "Capacity": 381,
+  "Name": "碧堤半島公眾遊憩用地 Bellagio Landscape Deck Public Open Space",
+  "CenterPositionLon": 22.366324585529654,
+  "CenterPositionLat": 114.06115518216076
+ },
+ {
+  "ID": 300687130,
+  "Capacity": 359,
+  "Name": "圓環公園 Circle Park",
+  "CenterPositionLon": 22.37007846586649,
+  "CenterPositionLat": 114.12336102581892
+ },
+ {
+  "ID": 300687131,
+  "Capacity": 73,
+  "Name": "圓環公園 Circle Park",
+  "CenterPositionLon": 22.37062179255259,
+  "CenterPositionLat": 114.12335831172045
+ },
+ {
+  "ID": 300687231,
+  "Capacity": 53,
+  "Name": "荃富街花園 Tsuen Fu Street Garden",
+  "CenterPositionLon": 22.3688408913983,
+  "CenterPositionLat": 114.12160600372644
+ },
+ {
+  "ID": 300687239,
+  "Capacity": 107,
+  "Name": "荃榮街遊樂場 Tsuen Wing Street Playground",
+  "CenterPositionLon": 22.36810428958433,
+  "CenterPositionLat": 114.12116097770006
+ },
+ {
+  "ID": 302152635,
+  "Capacity": 176,
+  "Name": "洪德路休憩處 Hung Tak Road Sitting-out Area",
+  "CenterPositionLon": 22.433412798308527,
+  "CenterPositionLat": 113.99837619279081
+ },
+ {
+  "ID": 302152667,
+  "Capacity": 84,
+  "Name": "強業街休憩花園 Keung Yip Street Rest Garden",
+  "CenterPositionLon": 22.448731770374767,
+  "CenterPositionLat": 114.02983665341917
+ },
+ {
+  "ID": 302152804,
+  "Capacity": 96,
+  "Name": "屏山里花園 Ping Shan Lane Garden",
+  "CenterPositionLon": 22.442153519609125,
+  "CenterPositionLat": 114.01197562607281
+ },
+ {
+  "ID": 302740072,
+  "Capacity": 4,
+  "Name": "魷魚灣兒童遊樂場 Yau Yue Wan Children's Playground",
+  "CenterPositionLon": 22.32528910272344,
+  "CenterPositionLat": 114.26034343000647
+ },
+ {
+  "ID": 302740073,
+  "Capacity": 218,
+  "Name": "魷魚灣遊樂場 Yau Yue Wan Playground",
+  "CenterPositionLon": 22.327266676848744,
+  "CenterPositionLat": 114.25937903801847
+ },
+ {
+  "ID": 302740074,
+  "Capacity": 124,
+  "Name": "毓雅里社區園圃 Yuk Nga Lane Community Garden",
+  "CenterPositionLon": 22.323899274632417,
+  "CenterPositionLat": 114.25537481148665
+ },
+ {
+  "ID": 309471255,
+  "Capacity": 390,
+  "Name": "粉嶺樓路遊樂場 Fan Leng Lau Road Playground",
+  "CenterPositionLon": 22.50046236714762,
+  "CenterPositionLat": 114.14082277685422
+ },
+ {
+  "ID": 309471258,
+  "Capacity": 214,
+  "Name": "聯和墟遊樂場 Luen Wo Hui Playground",
+  "CenterPositionLon": 22.497406424033684,
+  "CenterPositionLat": 114.14277184155418
+ },
+ {
+  "ID": 311764682,
+  "Capacity": 1557,
+  "Name": "將軍澳海濱公園 Tseung Kwan O Waterfront Park",
+  "CenterPositionLon": 22.302126028985334,
+  "CenterPositionLat": 114.26104108754011
+ },
+ {
+  "ID": 311799388,
+  "Capacity": 2146,
+  "Name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+  "CenterPositionLon": 22.283027294011063,
+  "CenterPositionLat": 114.16565672552507
+ },
+ {
+  "ID": 312025145,
+  "Capacity": 30,
+  "Name": "銅鑼灣道休憩處 Tung Lo Wan Road Sitting-out Area",
+  "CenterPositionLon": 22.27871334562405,
+  "CenterPositionLat": 114.18942549563381
+ },
+ {
+  "ID": 313120684,
+  "Capacity": 1424,
+  "Name": "天業路公園 Tin Yip Road Park",
+  "CenterPositionLon": 22.46343594438698,
+  "CenterPositionLat": 114.00708572749198
+ },
+ {
+  "ID": 313793543,
+  "Capacity": 218,
+  "Name": "曉光街草坪公園 Hiu Kwong Street Park Strip",
+  "CenterPositionLon": 22.3160975925511,
+  "CenterPositionLat": 114.23203336924549
+ },
+ {
+  "ID": 313793546,
+  "Capacity": 143,
+  "Name": "秀茂坪交通安全城 Sau Mau Ping Road Safety Town",
+  "CenterPositionLon": 22.320519613126333,
+  "CenterPositionLat": 114.2310803271087
+ },
+ {
+  "ID": 316843366,
+  "Capacity": 32,
+  "Name": "鐵樹街休憩處 Tit Shu Street Sitting-out Area",
+  "CenterPositionLon": 22.31908846483694,
+  "CenterPositionLat": 114.16331349927741
+ },
+ {
+  "ID": 321778557,
+  "Capacity": 749,
+  "Name": "摩星嶺食水配水庫 Mount Davis Fresh Water Service Reservoir",
+  "CenterPositionLon": 22.27400431109556,
+  "CenterPositionLat": 114.12273399197275
+ },
+ {
+  "ID": 322836344,
+  "Capacity": 140,
+  "Name": "麗湖休憩處 Lynwood Sitting-out Area",
+  "CenterPositionLon": 22.45935742498842,
+  "CenterPositionLat": 114.00509363664862
+ },
+ {
+  "ID": 322836645,
+  "Capacity": 56,
+  "Name": "龍園 Dragon Park",
+  "CenterPositionLon": 22.45911804935089,
+  "CenterPositionLat": 114.00524072215443
+ },
+ {
+  "ID": 323202867,
+  "Capacity": 411,
+  "Name": "香港摩天輪 The Hong Kong Observation Wheel",
+  "CenterPositionLon": 22.28528601066192,
+  "CenterPositionLat": 114.16150061060516
+ },
+ {
+  "ID": 324477653,
+  "Capacity": 46,
+  "Name": "天后廟道公園 Tin Hau Temple Road Park",
+  "CenterPositionLon": 22.288265914500915,
+  "CenterPositionLat": 114.20325243487817
+ },
+ {
+  "ID": 332878989,
+  "Capacity": 165,
+  "Name": "吉祥街花園 Kat Cheung Crescent Garden",
+  "CenterPositionLon": 22.49641373501818,
+  "CenterPositionLat": 114.13193964074502
+ },
+ {
+  "ID": 343575243,
+  "Capacity": 252,
+  "Name": "黃大仙廣場 Wong Tai Sin Square",
+  "CenterPositionLon": 22.34212122449866,
+  "CenterPositionLat": 114.19486318150808
+ },
+ {
+  "ID": 345588225,
+  "Capacity": 104,
+  "Name": "大學站單車匯合中心 University Station Cycling Entry/Exit Hub",
+  "CenterPositionLon": 22.41413568878757,
+  "CenterPositionLat": 114.2105702772283
+ },
+ {
+  "ID": 347136870,
+  "Capacity": 45,
+  "Name": "南朗山道休憩處 Nam Long Shan Road Sitting-Out Area",
+  "CenterPositionLon": 22.248150338756375,
+  "CenterPositionLat": 114.1664653538063
+ },
+ {
+  "ID": 350162721,
+  "Capacity": 210,
+  "Name": "瀝源街休憩花園 Lek Yuen Street Rest Garden",
+  "CenterPositionLon": 22.383581420180622,
+  "CenterPositionLat": 114.19219505023176
+ },
+ {
+  "ID": 352025987,
+  "Capacity": 584,
+  "Name": "粉嶺康樂公園 Fanling Hong Lok Park",
+  "CenterPositionLon": 22.491943304981262,
+  "CenterPositionLat": 114.14377367478926
+ },
+ {
+  "ID": 354970547,
+  "Capacity": 178,
+  "Name": "粉嶺站遊樂場 Fanling Station Playground",
+  "CenterPositionLon": 22.491344695197853,
+  "CenterPositionLat": 114.14049338548223
+ },
+ {
+  "ID": 359829658,
+  "Capacity": 49,
+  "Name": "安樂村花園 On Lok Tsuen Garden",
+  "CenterPositionLon": 22.49780113177052,
+  "CenterPositionLat": 114.14397922025155
+ },
+ {
+  "ID": 361228343,
+  "Capacity": 172,
+  "Name": "安樂村四號休憩處 On Lok Tsuen Sitting-out Area No. 4",
+  "CenterPositionLon": 22.494044094390617,
+  "CenterPositionLat": 114.14409916564657
+ },
+ {
+  "ID": 367542053,
+  "Capacity": 655,
+  "Name": "牛頭角公園 Ngau Tau Kok Park",
+  "CenterPositionLon": 22.322717981991826,
+  "CenterPositionLat": 114.21518042102471
+ },
+ {
+  "ID": 368010588,
+  "Capacity": 54,
+  "Name": "安樂村三號休憩處 On Lok Tsuen Sitting-out Area No. 3",
+  "CenterPositionLon": 22.496602698755137,
+  "CenterPositionLat": 114.14411431790305
+ },
+ {
+  "ID": 375229433,
+  "Capacity": 144,
+  "Name": "大陂頭休憩公園 Tai Pei Tau Rest Garden",
+  "CenterPositionLon": 22.443732750386733,
+  "CenterPositionLat": 114.02531691160235
+ },
+ {
+  "ID": 377324711,
+  "Capacity": 45,
+  "Name": "新安休憩處 San On Sitting Out Area",
+  "CenterPositionLon": 22.39298125,
+  "CenterPositionLat": 113.9704677
+ },
+ {
+  "ID": 377642451,
+  "Capacity": 267,
+  "Name": "屯門洪祥路休憩處 Tuen Mun Hung Cheung Road Sitting-out Area",
+  "CenterPositionLon": 22.39380300931316,
+  "CenterPositionLat": 113.96908782038308
+ },
+ {
+  "ID": 378305439,
+  "Capacity": 266,
+  "Name": "Fung Tei Garden",
+  "CenterPositionLon": 22.406305656355006,
+  "CenterPositionLat": 113.97910271539199
+ },
+ {
+  "ID": 385577478,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": 22.328311891582874,
+  "CenterPositionLat": 114.20429217936046
+ },
+ {
+  "ID": 385577483,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 22.327768552813733,
+  "CenterPositionLat": 114.20388709637868
+ },
+ {
+  "ID": 385577484,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 22.328953323766843,
+  "CenterPositionLat": 114.20451759860947
+ },
+ {
+  "ID": 390554531,
+  "Capacity": 291,
+  "Name": "百周年花園 Centennial Garden",
+  "CenterPositionLon": 22.28290130211506,
+  "CenterPositionLat": 114.1337320303661
+ },
+ {
+  "ID": 391897958,
+  "Capacity": 736,
+  "Name": "地區休憩用地 District Open Space",
+  "CenterPositionLon": 22.323310282307506,
+  "CenterPositionLat": 114.23214271320344
+ },
+ {
+  "ID": 394662417,
+  "Capacity": 615,
+  "Name": "興華街西遊樂場 Hing Wah Street West Playground",
+  "CenterPositionLon": 22.332951480559036,
+  "CenterPositionLat": 114.15019945397698
+ },
+ {
+  "ID": 400577598,
+  "Capacity": 381,
+  "Name": "粉嶺樓遊樂場 Fan Leng Lau Pleasure Ground",
+  "CenterPositionLon": 22.49692426207978,
+  "CenterPositionLat": 114.14003900432353
+ },
+ {
+  "ID": 401208307,
+  "Capacity": 304,
+  "Name": "中央公園",
+  "CenterPositionLon": 22.46937567295615,
+  "CenterPositionLat": 114.19376385563898
+ },
+ {
+  "ID": 403433918,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 22.45241560608505,
+  "CenterPositionLat": 114.16059458553688
+ },
+ {
+  "ID": 405956224,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 22.327217792899116,
+  "CenterPositionLat": 114.20331622220993
+ },
+ {
+  "ID": 405982759,
+  "Capacity": 95,
+  "Name": "萬宜遊樂場 Man Yee Playground",
+  "CenterPositionLon": 22.38126410241327,
+  "CenterPositionLat": 114.27198414320158
+ },
+ {
+  "ID": 406922131,
+  "Capacity": 108,
+  "Name": "沙咀遊樂場 Sha Tsui Playground",
+  "CenterPositionLon": 22.38144284140631,
+  "CenterPositionLat": 114.27306277725808
+ },
+ {
+  "ID": 408111699,
+  "Capacity": 304,
+  "Name": "鳳園蝴蝶保育區 Fung Yuen Butterfly Reserve",
+  "CenterPositionLon": 22.467025508750016,
+  "CenterPositionLat": 114.18077906634194
+ },
+ {
+  "ID": 427016947,
+  "Capacity": 97,
+  "Name": "寶業街休憩處 Po Yip Street Sitting-out Area",
+  "CenterPositionLon": 22.448291502466297,
+  "CenterPositionLat": 114.0305179193184
+ },
+ {
+  "ID": 428895459,
+  "Capacity": 122,
+  "Name": "延文禮士道花園 Inverness Road Garden",
+  "CenterPositionLon": 22.332254470484795,
+  "CenterPositionLat": 114.18593011524143
+ },
+ {
+  "ID": 429558726,
+  "Capacity": 30,
+  "Name": "多實街休憩花園 Dorset Crescent Rest Garden",
+  "CenterPositionLon": 22.338780399959084,
+  "CenterPositionLat": 114.17769753877053
+ },
+ {
+  "ID": 430028787,
+  "Capacity": 62,
+  "Name": "衙前圍道休憩處 Nga Tsin Wai Road Sitting-out Area",
+  "CenterPositionLon": 22.329341260841062,
+  "CenterPositionLat": 114.18321484753844
+ },
+ {
+  "ID": 435247889,
+  "Capacity": 400,
+  "Name": "南運路休憩處 Nam Wan Road Sitting-out Area",
+  "CenterPositionLon": 22.44999421181874,
+  "CenterPositionLat": 114.17028742378427
+ },
+ {
+  "ID": 438740774,
+  "Capacity": 296,
+  "Name": "香港女童軍總會天水圍何超瓊活動中心 The Hong Kong Girl Guides Association Tin Shui Wai Pansy Ho Activity Centre",
+  "CenterPositionLon": 22.465756705268912,
+  "CenterPositionLat": 113.99742942839057
+ },
+ {
+  "ID": 442894564,
+  "Capacity": 120,
+  "Name": "田心休憩處 Tin Sum Sitting-out Area",
+  "CenterPositionLon": 22.490258022428417,
+  "CenterPositionLat": 114.13898704808841
+ },
+ {
+  "ID": 443384828,
+  "Capacity": 74,
+  "Name": "虎背花園 Fu Pui Garden",
+  "CenterPositionLon": 22.441630020382625,
+  "CenterPositionLat": 114.01274608468566
+ },
+ {
+  "ID": 444350085,
+  "Capacity": 3,
+  "Name": "沙田㘭半島獅子花園",
+  "CenterPositionLon": 22.355303097307225,
+  "CenterPositionLat": 114.19961660459842
+ },
+ {
+  "ID": 444351863,
+  "Capacity": 463,
+  "Name": "扎山道晨運園",
+  "CenterPositionLon": 22.335862403479357,
+  "CenterPositionLat": 114.21909279260798
+ },
+ {
+  "ID": 445160618,
+  "Capacity": 81,
+  "Name": "樂園徑兒童遊樂場 Lok Yuen Path Children's Playground",
+  "CenterPositionLon": 22.400157568932187,
+  "CenterPositionLat": 114.19897715992298
+ },
+ {
+  "ID": 445166101,
+  "Capacity": 32,
+  "Name": "樂蓮徑休憩處 Lok Lin Path Sitting-out Area",
+  "CenterPositionLon": 22.400729549507975,
+  "CenterPositionLat": 114.19949214207305
+ },
+ {
+  "ID": 446811332,
+  "Capacity": 430,
+  "Name": "海輝道海濱花園 Hoi Fai Road Promenade",
+  "CenterPositionLon": 22.3169247492579,
+  "CenterPositionLat": 114.1571448223751
+ },
+ {
+  "ID": 447275126,
+  "Capacity": 46,
+  "Name": "順緻街休憩處 Shun Chi Street Sitting-out Area",
+  "CenterPositionLon": 22.333700967151717,
+  "CenterPositionLat": 114.22793203058761
+ },
+ {
+  "ID": 447856667,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 22.379292928900828,
+  "CenterPositionLat": 114.12922678195847
+ },
+ {
+  "ID": 447880861,
+  "Capacity": 115,
+  "Name": "打鼓嶺遊樂場 Ta Kwu Ling Playground",
+  "CenterPositionLon": 22.53090199812594,
+  "CenterPositionLat": 114.1538625304676
+ },
+ {
+  "ID": 448012645,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 22.26002977370021,
+  "CenterPositionLat": 114.23001106205206
+ },
+ {
+  "ID": 448041626,
+  "Capacity": 209,
+  "Name": "寶雲道網球場/寶雲道食水配水庫",
+  "CenterPositionLon": 22.27457493518728,
+  "CenterPositionLat": 114.16688074866211
+ },
+ {
+  "ID": 448196969,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 22.27679191896686,
+  "CenterPositionLat": 114.29725106836085
+ },
+ {
+  "ID": 448229601,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 22.430278513604833,
+  "CenterPositionLat": 113.99824435012016
+ },
+ {
+  "ID": 448231481,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 22.421543724300577,
+  "CenterPositionLat": 113.98508759046554
+ },
+ {
+  "ID": 448231482,
+  "Capacity": 400,
+  "Name": "福亨村路花園 Fuk Hang Tsuen Road Garden",
+  "CenterPositionLon": 22.420568872266596,
+  "CenterPositionLat": 113.98500296004569
+ },
+ {
+  "ID": 448234771,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 22.42808196133702,
+  "CenterPositionLat": 113.99747109442754
+ },
+ {
+  "ID": 448366757,
+  "Capacity": 8,
+  "Name": "上一村休憩處 Sheung Yat Tsuen Sitting-out Area",
+  "CenterPositionLon": 22.376236116518736,
+  "CenterPositionLat": 114.1418032010726
+ },
+ {
+  "ID": 448414586,
+  "Capacity": 689,
+  "Name": "上村公園 Sheung Tsuen Park",
+  "CenterPositionLon": 22.43171420786486,
+  "CenterPositionLat": 114.1023648048575
+ },
+ {
+  "ID": 448414589,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 22.431415785674563,
+  "CenterPositionLat": 114.10387110431141
+ },
+ {
+  "ID": 448414623,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 22.46359421614564,
+  "CenterPositionLat": 114.14606776977303
+ },
+ {
+  "ID": 448414670,
+  "Capacity": 120,
+  "Name": "",
+  "CenterPositionLon": 22.45392554825825,
+  "CenterPositionLat": 114.15324807601809
+ },
+ {
+  "ID": 448456957,
+  "Capacity": 48,
+  "Name": "TAT WAN ROAD SITTING-OUT AREA 達運路休憩處",
+  "CenterPositionLon": 22.438848111492092,
+  "CenterPositionLat": 114.16452352173657
+ },
+ {
+  "ID": 448591136,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 22.36913562318646,
+  "CenterPositionLat": 114.07965348558642
+ },
+ {
+  "ID": 448598595,
+  "Capacity": 308,
+  "Name": "",
+  "CenterPositionLon": 22.376144311778937,
+  "CenterPositionLat": 113.9922549824509
+ },
+ {
+  "ID": 448889700,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.285437598570418,
+  "CenterPositionLat": 113.90251059622388
+ },
+ {
+  "ID": 448892311,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.288839663723085,
+  "CenterPositionLat": 113.92070860520997
+ },
+ {
+  "ID": 448900892,
+  "Capacity": 81,
+  "Name": "樂楓徑休憩花園 Lok Fung Path Rest Garden",
+  "CenterPositionLon": 22.401398425775966,
+  "CenterPositionLat": 114.19617087993244
+ },
+ {
+  "ID": 448900900,
+  "Capacity": 17,
+  "Name": "樂桂徑休憩花園",
+  "CenterPositionLon": 22.401772823680172,
+  "CenterPositionLat": 114.19458041672266
+ },
+ {
+  "ID": 449018850,
+  "Capacity": 42,
+  "Name": "銀岬道休憩處",
+  "CenterPositionLon": 22.32059754674395,
+  "CenterPositionLat": 114.27215455428512
+ },
+ {
+  "ID": 449304995,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 22.30936360546255,
+  "CenterPositionLat": 114.18309394121201
+ },
+ {
+  "ID": 449876390,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 22.440121424652876,
+  "CenterPositionLat": 114.06521251416943
+ },
+ {
+  "ID": 449876392,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 22.440148178156832,
+  "CenterPositionLat": 114.06486316204148
+ },
+ {
+  "ID": 449876395,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 22.439930794951675,
+  "CenterPositionLat": 114.06329337897998
+ },
+ {
+  "ID": 449876397,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 22.439773527979877,
+  "CenterPositionLat": 114.06162352004863
+ },
+ {
+  "ID": 449876491,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 22.425015685169296,
+  "CenterPositionLat": 114.07722325911469
+ },
+ {
+  "ID": 451087473,
+  "Capacity": 254,
+  "Name": "西灣河海濱公園 Sai Wan Ho Harbour Park",
+  "CenterPositionLon": 22.287021326346544,
+  "CenterPositionLat": 114.22333489127209
+ },
+ {
+  "ID": 451593879,
+  "Capacity": 858,
+  "Name": "",
+  "CenterPositionLon": 22.31230052022704,
+  "CenterPositionLat": 114.17945318045903
+ },
+ {
+  "ID": 451600487,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 22.31645534284012,
+  "CenterPositionLat": 114.18472904385965
+ },
+ {
+  "ID": 452439436,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 22.364214049999998,
+  "CenterPositionLat": 114.05355925
+ },
+ {
+  "ID": 454426154,
+  "Capacity": 101,
+  "Name": "深灣道休憩處 Shum Wan Road Sitting-Out Area",
+  "CenterPositionLon": 22.244880357449155,
+  "CenterPositionLat": 114.16541853289752
+ },
+ {
+  "ID": 454488979,
+  "Capacity": 101,
+  "Name": "禮頓山公衆休閒公園 Leighton Hill Public Garden",
+  "CenterPositionLon": 22.27484136198432,
+  "CenterPositionLat": 114.18348217645534
+ },
+ {
+  "ID": 455891698,
+  "Capacity": 116,
+  "Name": "寶雲道情人石公園 Bowen Road Lover's Stone Garden",
+  "CenterPositionLon": 22.270990892858485,
+  "CenterPositionLat": 114.1764780612888
+ },
+ {
+  "ID": 456166504,
+  "Capacity": 65,
+  "Name": "華景山路花園 Wah King Hill Road Garden",
+  "CenterPositionLon": 22.352197387948557,
+  "CenterPositionLat": 114.13713175528295
+ },
+ {
+  "ID": 457650488,
+  "Capacity": 109,
+  "Name": "秀茂坪紀念公園 Sau Mau Ping Memorial Park",
+  "CenterPositionLon": 22.31796894230215,
+  "CenterPositionLat": 114.22895890742215
+ },
+ {
+  "ID": 458068132,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.230175511421756,
+  "CenterPositionLat": 114.25228283279097
+ },
+ {
+  "ID": 458475246,
+  "Capacity": 54,
+  "Name": "望隆街休憩處 Mong Lung Street Sitting-out Area",
+  "CenterPositionLon": 22.278981526941138,
+  "CenterPositionLat": 114.22978478531263
+ },
+ {
+  "ID": 458610793,
+  "Capacity": 461,
+  "Name": "InPARK",
+  "CenterPositionLon": 22.31193260277784,
+  "CenterPositionLat": 114.22230576876345
+ },
+ {
+  "ID": 458817937,
+  "Capacity": 252,
+  "Name": "",
+  "CenterPositionLon": 22.28019196088656,
+  "CenterPositionLat": 114.16871587902612
+ },
+ {
+  "ID": 462345656,
+  "Capacity": 163,
+  "Name": "洪聖街休憩花園 Hung Shing Street Rest Garden",
+  "CenterPositionLon": 22.244876820674914,
+  "CenterPositionLat": 114.15635567094704
+ },
+ {
+  "ID": 462345657,
+  "Capacity": 37,
+  "Name": "鴨脷洲海濱長廊社區園圃 Ap Lei Chau Waterfront Promenade Community Garden",
+  "CenterPositionLon": 22.245135258587677,
+  "CenterPositionLat": 114.15626059521786
+ },
+ {
+  "ID": 462961322,
+  "Capacity": 411,
+  "Name": "長洲公園 Cheung Chau Park",
+  "CenterPositionLon": 22.204211996787507,
+  "CenterPositionLat": 114.0250045526493
+ },
+ {
+  "ID": 465676975,
+  "Capacity": 98,
+  "Name": "黃竹坑涌尾寵物公園 Wong Chuk Hang Staunton Creek Pet Garden",
+  "CenterPositionLon": 22.246554313870284,
+  "CenterPositionLat": 114.16075292956141
+ },
+ {
+  "ID": 465797624,
+  "Capacity": 169,
+  "Name": "鴨脷洲橋道遊樂場 Ap Lei Chau Bridge Road Playground",
+  "CenterPositionLon": 22.242998327761136,
+  "CenterPositionLat": 114.15144094522526
+ },
+ {
+  "ID": 465799671,
+  "Capacity": 68,
+  "Name": "香葉道休憩處 Heung Yip Road Sitting-out Area",
+  "CenterPositionLon": 22.247625897601004,
+  "CenterPositionLat": 114.16398669768706
+ },
+ {
+  "ID": 466264508,
+  "Capacity": 139,
+  "Name": "滾軸溜冰場",
+  "CenterPositionLon": 22.374636295153906,
+  "CenterPositionLat": 113.96783159252928
+ },
+ {
+  "ID": 466264512,
+  "Capacity": 22,
+  "Name": "乒乓波場",
+  "CenterPositionLon": 22.374692710886656,
+  "CenterPositionLat": 113.96755641993369
+ },
+ {
+  "ID": 466264513,
+  "Capacity": 13,
+  "Name": "羽毛球場",
+  "CenterPositionLon": 22.374715775950595,
+  "CenterPositionLat": 113.96739513493606
+ },
+ {
+  "ID": 466264514,
+  "Capacity": 12,
+  "Name": "羽毛球場",
+  "CenterPositionLon": 22.37486405,
+  "CenterPositionLat": 113.96731015
+ },
+ {
+  "ID": 468563988,
+  "Capacity": 15,
+  "Name": "Villa Rocha Outdoor Residential Park",
+  "CenterPositionLon": 22.272518597071958,
+  "CenterPositionLat": 114.18639054406788
+ },
+ {
+  "ID": 468614129,
+  "Capacity": 133,
+  "Name": "泰亨文山公園",
+  "CenterPositionLon": 22.470036246284792,
+  "CenterPositionLat": 114.14874331581612
+ },
+ {
+  "ID": 469235800,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": 22.26867932771311,
+  "CenterPositionLat": 114.24867637000987
+ },
+ {
+  "ID": 469455818,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.312310418037494,
+  "CenterPositionLat": 114.26065583991002
+ },
+ {
+  "ID": 469529842,
+  "Capacity": 313,
+  "Name": "Tung Chung Crescent Trees",
+  "CenterPositionLon": 22.28808469246226,
+  "CenterPositionLat": 113.93976378197156
+ },
+ {
+  "ID": 469529844,
+  "Capacity": 103,
+  "Name": "Tung Chung Crescent Sky Garden",
+  "CenterPositionLon": 22.288319429406137,
+  "CenterPositionLat": 113.93922352500078
+ },
+ {
+  "ID": 471233918,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 22.270092719285053,
+  "CenterPositionLat": 114.18621787879773
+ },
+ {
+  "ID": 472271014,
+  "Capacity": 122,
+  "Name": "大埔滘公園 Tai Po Kau Park",
+  "CenterPositionLon": 22.43299142996523,
+  "CenterPositionLat": 114.18907638726732
+ },
+ {
+  "ID": 475639640,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 22.303455697775004,
+  "CenterPositionLat": 114.25298091952881
+ },
+ {
+  "ID": 476663152,
+  "Capacity": 205,
+  "Name": "北角海水配水庫休憩處 North Point Salt Water Service Reservoir Playground",
+  "CenterPositionLon": 22.288257602147795,
+  "CenterPositionLat": 114.19864472224322
+ },
+ {
+  "ID": 492377413,
+  "Capacity": 510,
+  "Name": "Lei Yue Mun Park",
+  "CenterPositionLon": 22.277592793296105,
+  "CenterPositionLat": 114.23266214742335
+ },
+ {
+  "ID": 493452629,
+  "Capacity": 204,
+  "Name": "沙頭角兒童遊樂場 Sha Tau Kok Children's Playground",
+  "CenterPositionLon": 22.546727417017696,
+  "CenterPositionLat": 114.22411312527014
+ },
+ {
+  "ID": 495161227,
+  "Capacity": 25,
+  "Name": "馬錦街休憩處 Ma Kam Street Sitting-out Area",
+  "CenterPositionLon": 22.425146945787024,
+  "CenterPositionLat": 114.23520715023355
+ },
+ {
+  "ID": 496430899,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 22.453944278569313,
+  "CenterPositionLat": 114.16143752616469
+ },
+ {
+  "ID": 497801462,
+  "Capacity": 102,
+  "Name": "古洞遊樂場 Kwu Tung Playground",
+  "CenterPositionLon": 22.504444699999997,
+  "CenterPositionLat": 114.1004846
+ },
+ {
+  "ID": 498065643,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 22.269889586631106,
+  "CenterPositionLat": 114.1861327723186
+ },
+ {
+  "ID": 499420583,
+  "Capacity": 170,
+  "Name": "和興遊樂場 Wo Hing Playground",
+  "CenterPositionLon": 22.482617136073994,
+  "CenterPositionLat": 114.14311291064773
+ },
+ {
+  "ID": 501316919,
+  "Capacity": 32,
+  "Name": "鳳香街休憩處 Fung Heung Street Sitting-out Area",
+  "CenterPositionLon": 22.44210779317013,
+  "CenterPositionLat": 114.03316848262655
+ },
+ {
+  "ID": 502109065,
+  "Capacity": 15,
+  "Name": "東堤街休憩花園 Tung Tai Street Rest Garden",
+  "CenterPositionLon": 22.446671486418314,
+  "CenterPositionLat": 114.03036755025131
+ },
+ {
+  "ID": 503339814,
+  "Capacity": 32,
+  "Name": "小瀝源村休憩處 Siu Lek Yuen Village Sitting-Out Area",
+  "CenterPositionLon": 22.38132061247364,
+  "CenterPositionLat": 114.21163258377868
+ },
+ {
+  "ID": 517838095,
+  "Capacity": 103,
+  "Name": "聯興街休憩處 Luen Hing Street Sitting-out Area",
+  "CenterPositionLon": 22.49963879289356,
+  "CenterPositionLat": 114.14124748464741
+ },
+ {
+  "ID": 523222642,
+  "Capacity": 9,
+  "Name": "大埔頭遊樂場 Tai Po Tau Playground",
+  "CenterPositionLon": 22.45527738704395,
+  "CenterPositionLat": 114.15830321159314
+ },
+ {
+  "ID": 525161841,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 22.21887569272208,
+  "CenterPositionLat": 114.02635790570561
+ },
+ {
+  "ID": 533837094,
+  "Capacity": 1209,
+  "Name": "恆輝街公園 Heng Fai Street Park",
+  "CenterPositionLon": 22.415475650478545,
+  "CenterPositionLat": 114.22683322817169
+ },
+ {
+  "ID": 539099634,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 22.3153392,
+  "CenterPositionLat": 114.22880705
+ },
+ {
+  "ID": 539189803,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 22.31479917054876,
+  "CenterPositionLat": 114.23113807447218
+ },
+ {
+  "ID": 539248779,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 22.316180591261798,
+  "CenterPositionLat": 114.23350887279038
+ },
+ {
+  "ID": 539497001,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 22.334820099999998,
+  "CenterPositionLat": 114.20709045
+ },
+ {
+  "ID": 539497002,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 22.334160973581792,
+  "CenterPositionLat": 114.20622109224031
+ },
+ {
+  "ID": 539497003,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 22.33378296325797,
+  "CenterPositionLat": 114.20745395207817
+ },
+ {
+  "ID": 539551790,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": 22.462543574179243,
+  "CenterPositionLat": 114.1862160752363
+ },
+ {
+  "ID": 539669811,
+  "Capacity": 38,
+  "Name": "涼亭 Pavilion",
+  "CenterPositionLon": 22.482806009099203,
+  "CenterPositionLat": 114.13202452424174
+ },
+ {
+  "ID": 539771724,
+  "Capacity": 44,
+  "Name": "健體設施 Fitness facilities",
+  "CenterPositionLon": 22.48307014020996,
+  "CenterPositionLat": 114.13120918553982
+ },
+ {
+  "ID": 539781965,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 22.31015617377926,
+  "CenterPositionLat": 114.23703445564063
+ },
+ {
+  "ID": 540169085,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 22.49108972851473,
+  "CenterPositionLat": 114.13415390262516
+ },
+ {
+  "ID": 540189913,
+  "Capacity": 282,
+  "Name": "安樂村二號休憩處 On Lok Tsuen Sitting-out Area No. 2",
+  "CenterPositionLon": 22.495414163537085,
+  "CenterPositionLat": 114.14208879696753
+ },
+ {
+  "ID": 542896474,
+  "Capacity": 438,
+  "Name": "",
+  "CenterPositionLon": 22.478772575190874,
+  "CenterPositionLat": 114.0656424644861
+ },
+ {
+  "ID": 543838006,
+  "Capacity": 10,
+  "Name": "Tung Chung Fort Park",
+  "CenterPositionLon": 22.278192388531274,
+  "CenterPositionLat": 113.93601371632742
+ },
+ {
+  "ID": 543974340,
+  "Capacity": 103,
+  "Name": "南邊圍南亭公園",
+  "CenterPositionLon": 22.44603411096888,
+  "CenterPositionLat": 114.03233365047235
+ },
+ {
+  "ID": 544462647,
+  "Capacity": 107,
+  "Name": "黃竹坑配水庫休憩花園 Wong Chuk Hang Service Reservoir Rest Garden",
+  "CenterPositionLon": 22.24380534586657,
+  "CenterPositionLat": 114.16735032237655
+ },
+ {
+  "ID": 545199060,
+  "Capacity": 36,
+  "Name": "Yat Nga Court Playground",
+  "CenterPositionLon": 22.443101155129167,
+  "CenterPositionLat": 114.16752579762357
+ },
+ {
+  "ID": 545199061,
+  "Capacity": 29,
+  "Name": "Wan Tou Tong Playground",
+  "CenterPositionLon": 22.44248472274978,
+  "CenterPositionLat": 114.1685498669409
+ },
+ {
+  "ID": 545203291,
+  "Capacity": 25,
+  "Name": "Tak Nga Court Playground",
+  "CenterPositionLon": 22.440331404254557,
+  "CenterPositionLat": 114.16602520354526
+ },
+ {
+  "ID": 546261178,
+  "Capacity": 13,
+  "Name": "馥林閣兒童遊樂場",
+  "CenterPositionLon": 22.38015246654163,
+  "CenterPositionLat": 114.21695713709595
+ },
+ {
+  "ID": 551854025,
+  "Capacity": 337,
+  "Name": "石頭公園 Rock Garden",
+  "CenterPositionLon": 22.377326400051217,
+  "CenterPositionLat": 114.19292628582281
+ },
+ {
+  "ID": 551857335,
+  "Capacity": 95,
+  "Name": "曾大屋遊樂場 Tsang Tai Uk Recreation Ground",
+  "CenterPositionLon": 22.3761352596516,
+  "CenterPositionLat": 114.19383991068561
+ },
+ {
+  "ID": 552510080,
+  "Capacity": 152,
+  "Name": "南運路休憩處 Nam Wan Road Sitting-out Area",
+  "CenterPositionLon": 22.448938891842193,
+  "CenterPositionLat": 114.17139536787406
+ },
+ {
+  "ID": 552532072,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 22.26633741190021,
+  "CenterPositionLat": 113.99829508467563
+ },
+ {
+  "ID": 552532081,
+  "Capacity": 230,
+  "Name": "梅窩海濱長廊 Mui Wo Waterfront Promenade",
+  "CenterPositionLon": 22.26652105539271,
+  "CenterPositionLat": 113.99929628355882
+ },
+ {
+  "ID": 555018815,
+  "Capacity": 113,
+  "Name": "賽西湖公園 Choi Sai Woo Park",
+  "CenterPositionLon": 22.285481630465746,
+  "CenterPositionLat": 114.19988973663784
+ },
+ {
+  "ID": 556249298,
+  "Capacity": 15,
+  "Name": "麒麟圍兒童遊樂場 Kei Lun Wai Chidren’s Playground",
+  "CenterPositionLon": 22.412169246731498,
+  "CenterPositionLat": 113.97578414072201
+ },
+ {
+  "ID": 556908885,
+  "Capacity": 291,
+  "Name": "天水圍單車匯合中心 Tin Shui Wai Cycling Entry/Exit Hub",
+  "CenterPositionLon": 22.45114088480254,
+  "CenterPositionLat": 114.00800706042581
+ },
+ {
+  "ID": 557574663,
+  "Capacity": 66,
+  "Name": "箕勒仔觀景台  Kei Lak Tsai Viewing Point",
+  "CenterPositionLon": 22.481678511998194,
+  "CenterPositionLat": 114.12964659326
+ },
+ {
+  "ID": 557600419,
+  "Capacity": 438,
+  "Name": "豐物道海濱 Fung Mat Road Waterfront",
+  "CenterPositionLon": 22.290330714378115,
+  "CenterPositionLat": 114.14013609769768
+ },
+ {
+  "ID": 557641672,
+  "Capacity": 139,
+  "Name": "梅窩游泳池 Mui Wo Swimming Pool",
+  "CenterPositionLon": 22.266411343667684,
+  "CenterPositionLat": 113.99593018858317
+ },
+ {
+  "ID": 557670017,
+  "Capacity": 295,
+  "Name": "",
+  "CenterPositionLon": 22.455433244235124,
+  "CenterPositionLat": 114.1649107267843
+ },
+ {
+  "ID": 557670643,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 22.248442337999407,
+  "CenterPositionLat": 113.89693714782983
+ },
+ {
+  "ID": 558240045,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 22.283056307147774,
+  "CenterPositionLat": 114.22254217521731
+ },
+ {
+  "ID": 558240046,
+  "Capacity": 251,
+  "Name": "鯉魚灣休憩公園 Lei King Wan Sitting-out Area",
+  "CenterPositionLon": 22.28366896557158,
+  "CenterPositionLat": 114.22296851604733
+ },
+ {
+  "ID": 558240047,
+  "Capacity": 13,
+  "Name": "金華街休憩花園 Kam Wah Street Reset Garden",
+  "CenterPositionLon": 22.2779033057443,
+  "CenterPositionLat": 114.23045533450662
+ },
+ {
+  "ID": 559467044,
+  "Capacity": 87,
+  "Name": "朗屏邨八角廣場 Long Ping Estate Plaza",
+  "CenterPositionLon": 22.44984588105968,
+  "CenterPositionLat": 114.0242267454304
+ },
+ {
+  "ID": 560279332,
+  "Capacity": 6,
+  "Name": "天后廟道休憩花園 Tin Hau Temple Road Sitting-out Area",
+  "CenterPositionLon": 22.288296881495953,
+  "CenterPositionLat": 114.20548320985446
+ },
+ {
+  "ID": 561203234,
+  "Capacity": 3,
+  "Name": "普樂里休憩處 Bullock Lane Sitting-out Area",
+  "CenterPositionLon": 22.27648843857698,
+  "CenterPositionLat": 114.17575429037055
+ },
+ {
+  "ID": 561535503,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 22.476744753543347,
+  "CenterPositionLat": 114.04467882213986
+ },
+ {
+  "ID": 563765731,
+  "Capacity": 35,
+  "Name": "畫眉徑觀景台 Wa Mei Path Viewing Point",
+  "CenterPositionLon": 22.48430549954171,
+  "CenterPositionLat": 114.1342927169342
+ },
+ {
+  "ID": 563837034,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 22.246010690231703,
+  "CenterPositionLat": 114.24612829530803
+ },
+ {
+  "ID": 563883430,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 22.304559799073683,
+  "CenterPositionLat": 114.26613196249686
+ },
+ {
+  "ID": 565369074,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 22.29662018552015,
+  "CenterPositionLat": 113.95095952952596
+ },
+ {
+  "ID": 565369077,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 22.295780821096784,
+  "CenterPositionLat": 113.95009224093688
+ },
+ {
+  "ID": 565369078,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 22.29557019819839,
+  "CenterPositionLat": 113.94957209655537
+ },
+ {
+  "ID": 565369082,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 22.29525410719845,
+  "CenterPositionLat": 113.94945295587803
+ },
+ {
+  "ID": 565369111,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 22.295816533566388,
+  "CenterPositionLat": 113.95098673248656
+ },
+ {
+  "ID": 565369124,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 22.29551336047037,
+  "CenterPositionLat": 113.9502150579442
+ },
+ {
+  "ID": 565369128,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.295170142590287,
+  "CenterPositionLat": 113.95102756097285
+ },
+ {
+  "ID": 565412494,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 22.48527397285477,
+  "CenterPositionLat": 114.13658947909417
+ },
+ {
+  "ID": 565412495,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 22.486001827596994,
+  "CenterPositionLat": 114.13762899434916
+ },
+ {
+  "ID": 565412496,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 22.484042395635502,
+  "CenterPositionLat": 114.13111799733117
+ },
+ {
+  "ID": 565412497,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 22.483140481787743,
+  "CenterPositionLat": 114.13143269836736
+ },
+ {
+  "ID": 565591949,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 22.487268544574153,
+  "CenterPositionLat": 114.1347931714702
+ },
+ {
+  "ID": 565741193,
+  "Capacity": 33,
+  "Name": "馬影徑休憩公園 Ma Ying Path Rest Garden",
+  "CenterPositionLon": 22.40521068549915,
+  "CenterPositionLat": 114.20381582093869
+ },
+ {
+  "ID": 567769132,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": 22.493078051517557,
+  "CenterPositionLat": 114.1346943138041
+ },
+ {
+  "ID": 567801791,
+  "Capacity": 6294,
+  "Name": "西九藝術公園 Art Park",
+  "CenterPositionLon": 22.29992331780759,
+  "CenterPositionLat": 114.15647446932502
+ },
+ {
+  "ID": 567841357,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.467518542579366,
+  "CenterPositionLat": 114.1291106446296
+ },
+ {
+  "ID": 567855138,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 22.492309879910895,
+  "CenterPositionLat": 114.13406207104144
+ },
+ {
+  "ID": 567855149,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 22.491912799919376,
+  "CenterPositionLat": 114.13437183437306
+ },
+ {
+  "ID": 567855151,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 22.49166612230607,
+  "CenterPositionLat": 114.13405187630931
+ },
+ {
+  "ID": 567855154,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 22.49190885182716,
+  "CenterPositionLat": 114.13378926184456
+ },
+ {
+  "ID": 567855155,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 22.492289664122833,
+  "CenterPositionLat": 114.13487267238682
+ },
+ {
+  "ID": 567855159,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 22.49267155583703,
+  "CenterPositionLat": 114.13519567678233
+ },
+ {
+  "ID": 568662659,
+  "Capacity": 40,
+  "Name": "浣紗街兒童遊樂場 Wun Sha Street Children's Playground",
+  "CenterPositionLon": 22.277562547563388,
+  "CenterPositionLat": 114.19347774865417
+ },
+ {
+  "ID": 568662761,
+  "Capacity": 13,
+  "Name": "白建時道休憩處 Perlins Road Sitting-out Area",
+  "CenterPositionLon": 22.269788598077852,
+  "CenterPositionLat": 114.19332623784598
+ },
+ {
+  "ID": 569218715,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 22.304070435210082,
+  "CenterPositionLat": 114.18009787215851
+ },
+ {
+  "ID": 569218716,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 22.30413053872703,
+  "CenterPositionLat": 114.17891293480903
+ },
+ {
+  "ID": 569218717,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 22.304305337293762,
+  "CenterPositionLat": 114.17910247538227
+ },
+ {
+  "ID": 571266438,
+  "Capacity": 140,
+  "Name": "Park",
+  "CenterPositionLon": 22.47856304334584,
+  "CenterPositionLat": 114.04702715764735
+ },
+ {
+  "ID": 576655993,
+  "Capacity": 514,
+  "Name": "赤柱海濱長廊 Stanley Promenade",
+  "CenterPositionLon": 22.21790130127049,
+  "CenterPositionLat": 114.21195578411056
+ },
+ {
+  "ID": 576655995,
+  "Capacity": 9,
+  "Name": "Stanley Beach Road Children's Playground",
+  "CenterPositionLon": 22.219447788882842,
+  "CenterPositionLat": 114.21309730728147
+ },
+ {
+  "ID": 576655997,
+  "Capacity": 39,
+  "Name": "Headland Road/Repulse Bay Road Garden",
+  "CenterPositionLon": 22.225905087561163,
+  "CenterPositionLat": 114.20307972967692
+ },
+ {
+  "ID": 576660180,
+  "Capacity": 37,
+  "Name": "黃泥涌水塘公園 Wong Nai Chung Reservoir Park",
+  "CenterPositionLon": 22.25721853263814,
+  "CenterPositionLat": 114.19506447160947
+ },
+ {
+  "ID": 579741513,
+  "Capacity": 104,
+  "Name": "黃泥頭花園 Wong Nai Tau Gardens",
+  "CenterPositionLon": 22.382216826311517,
+  "CenterPositionLat": 114.21819821679019
+ },
+ {
+  "ID": 581494623,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 22.33592635,
+  "CenterPositionLat": 114.1806306
+ },
+ {
+  "ID": 583434703,
+  "Capacity": 99,
+  "Name": "馬鈴徑休憩花園 Ma Ling Path Rest Garden",
+  "CenterPositionLon": 22.40955359188479,
+  "CenterPositionLat": 114.20949408301587
+ },
+ {
+  "ID": 583750607,
+  "Capacity": 111,
+  "Name": "Provident Square Park",
+  "CenterPositionLon": 22.292222070272565,
+  "CenterPositionLat": 114.19661230330921
+ },
+ {
+  "ID": 583750608,
+  "Capacity": 300,
+  "Name": "South Horizons Phase IV Park",
+  "CenterPositionLon": 22.243348605625986,
+  "CenterPositionLat": 114.1497696668018
+ },
+ {
+  "ID": 583928668,
+  "Capacity": 1190,
+  "Name": "賽西湖公園 Choi Sai Woo Park",
+  "CenterPositionLon": 22.286790652770605,
+  "CenterPositionLat": 114.20197448566009
+ },
+ {
+  "ID": 583928669,
+  "Capacity": 1327,
+  "Name": "賽西湖公園 Choi Sai Woo Park",
+  "CenterPositionLon": 22.286274512033234,
+  "CenterPositionLat": 114.20200220306855
+ },
+ {
+  "ID": 584422305,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 22.26839770006484,
+  "CenterPositionLat": 114.24959451819494
+ },
+ {
+  "ID": 584492824,
+  "Capacity": 407,
+  "Name": "中西區海濱長廊-西區副食品批發市場段 Central and Western District Promenade - Western Wholesale Food Market Section",
+  "CenterPositionLon": 22.289708282643907,
+  "CenterPositionLat": 114.13653392890555
+ },
+ {
+  "ID": 586085350,
+  "Capacity": 271,
+  "Name": "樂華街遊樂場",
+  "CenterPositionLon": 22.34811656155642,
+  "CenterPositionLat": 114.20467729216064
+ },
+ {
+  "ID": 591697630,
+  "Capacity": 40,
+  "Name": "滑浪風帆紀念花園 Windsurfing Memorial Garden",
+  "CenterPositionLon": 22.210470547547715,
+  "CenterPositionLat": 114.02963094651756
+ },
+ {
+  "ID": 597879260,
+  "Capacity": 7,
+  "Name": "馬閃排路休憩公園",
+  "CenterPositionLon": 22.376345726747047,
+  "CenterPositionLat": 114.12034146699378
+ },
+ {
+  "ID": 604590117,
+  "Capacity": 41,
+  "Name": "歌和老街／義德道花園",
+  "CenterPositionLon": 22.34030943603138,
+  "CenterPositionLat": 114.17770854926934
+ },
+ {
+  "ID": 606547775,
+  "Capacity": 49,
+  "Name": "魚角村休憩處 Yue Kok Village Sitting-Out Area",
+  "CenterPositionLon": 22.45766016057545,
+  "CenterPositionLat": 114.17730811534088
+ },
+ {
+  "ID": 607531492,
+  "Capacity": 160,
+  "Name": "臨時動感公園 Temporary Activity Green",
+  "CenterPositionLon": 22.296387826286754,
+  "CenterPositionLat": 114.27057013503784
+ },
+ {
+  "ID": 612668446,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 22.342031666918693,
+  "CenterPositionLat": 114.19407212660172
+ },
+ {
+  "ID": 616040946,
+  "Capacity": 4,
+  "Name": "圍頭村休憩處 Wai Tau Tsuen Sitting-out Area",
+  "CenterPositionLon": 22.463534206589156,
+  "CenterPositionLat": 114.14520612007807
+ },
+ {
+  "ID": 616311229,
+  "Capacity": 96,
+  "Name": "百和路籃球場 Pak Wo Road Basketball Court",
+  "CenterPositionLon": 22.491362877744855,
+  "CenterPositionLat": 114.13298969890829
+ },
+ {
+  "ID": 617884062,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 22.24905209040035,
+  "CenterPositionLat": 114.17598270383526
+ },
+ {
+  "ID": 619408287,
+  "Capacity": 10,
+  "Name": "Resting Area",
+  "CenterPositionLon": 22.48526177709186,
+  "CenterPositionLat": 114.14671889750889
+ },
+ {
+  "ID": 621376844,
+  "Capacity": 92,
+  "Name": "沙嶺遊樂場 Sha Ling Playground",
+  "CenterPositionLon": 22.525071093683845,
+  "CenterPositionLat": 114.12179843758125
+ },
+ {
+  "ID": 622838066,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": 22.4158944376794,
+  "CenterPositionLat": 114.21434351799236
+ },
+ {
+  "ID": 623701032,
+  "Capacity": 213,
+  "Name": "打鼓嶺竹園村遊樂場 Ta Kwu Ling Chuk Yuen Village Playground",
+  "CenterPositionLon": 22.545475754637447,
+  "CenterPositionLat": 114.15595372863989
+ },
+ {
+  "ID": 624032476,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.472942013865072,
+  "CenterPositionLat": 114.21940332048361
+ },
+ {
+  "ID": 632377834,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 22.27573316666667,
+  "CenterPositionLat": 114.1942658
+ },
+ {
+  "ID": 635967261,
+  "Capacity": 265,
+  "Name": "蒲魯賢徑臨時遊樂場 Brewin Path Temporary Playground",
+  "CenterPositionLon": 22.27475612687,
+  "CenterPositionLat": 114.15574458058806
+ },
+ {
+  "ID": 640754024,
+  "Capacity": 86,
+  "Name": "寵物公園 Pet Park",
+  "CenterPositionLon": 22.304538891818385,
+  "CenterPositionLat": 114.15834815162067
+ },
+ {
+  "ID": 640754028,
+  "Capacity": 1328,
+  "Name": "苗圃公園 Nursery Park",
+  "CenterPositionLon": 22.302619947271214,
+  "CenterPositionLat": 114.15569435819239
+ },
+ {
+  "ID": 651937576,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 22.2614873,
+  "CenterPositionLat": 114.2506551
+ },
+ {
+  "ID": 651937579,
+  "Capacity": 239,
+  "Name": "",
+  "CenterPositionLon": 22.26542345409169,
+  "CenterPositionLat": 114.24903280159756
+ },
+ {
+  "ID": 651937592,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.261952,
+  "CenterPositionLat": 114.2504362
+ },
+ {
+  "ID": 652029350,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 22.2618299,
+  "CenterPositionLat": 114.2347494
+ },
+ {
+  "ID": 656620230,
+  "Capacity": 59,
+  "Name": "百子里公園 Pak Tsz Lane Park",
+  "CenterPositionLon": 22.283367309866986,
+  "CenterPositionLat": 114.15290923036646
+ },
+ {
+  "ID": 657755936,
+  "Capacity": 50,
+  "Name": "Po Lam Sitting-Out Area",
+  "CenterPositionLon": 22.327243143847337,
+  "CenterPositionLat": 114.25398641216043
+ },
+ {
+  "ID": 658056552,
+  "Capacity": 77,
+  "Name": "Fu Tung Estate Garden Park",
+  "CenterPositionLon": 22.288001342828334,
+  "CenterPositionLat": 113.94166525686529
+ },
+ {
+  "ID": 658056559,
+  "Capacity": 71,
+  "Name": "Fu Tung Estate Garden Park",
+  "CenterPositionLon": 22.28748077348318,
+  "CenterPositionLat": 113.94123753663435
+ },
+ {
+  "ID": 658163237,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 22.28709525797487,
+  "CenterPositionLat": 114.22027572585391
+ },
+ {
+  "ID": 658474991,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 22.29843850962137,
+  "CenterPositionLat": 114.24754022082904
+ },
+ {
+  "ID": 658717777,
+  "Capacity": 73,
+  "Name": "龍躍樂園 Leaping Dragon Paradise",
+  "CenterPositionLon": 22.25697070982026,
+  "CenterPositionLat": 114.251321643104
+ },
+ {
+  "ID": 658726215,
+  "Capacity": 616,
+  "Name": "沙頭角海濱公園 Sha Tau Kok Waterfront Park",
+  "CenterPositionLon": 22.54415097781363,
+  "CenterPositionLat": 114.22326092361095
+ },
+ {
+  "ID": 659085838,
+  "Capacity": 231,
+  "Name": "美田路休憩處 Mei Tin Road Sitting-out Area",
+  "CenterPositionLon": 22.37710754528713,
+  "CenterPositionLat": 114.17437774853144
+ },
+ {
+  "ID": 659666260,
+  "Capacity": 322,
+  "Name": "文昌街公園 Man Cheong Street Garden",
+  "CenterPositionLon": 22.308603990512268,
+  "CenterPositionLat": 114.16620254928368
+ },
+ {
+  "ID": 663284604,
+  "Capacity": 76,
+  "Name": "士美非路休憩處 Smithfield Sitting-out Area",
+  "CenterPositionLon": 22.28179103619266,
+  "CenterPositionLat": 114.12946537031321
+ },
+ {
+  "ID": 665128427,
+  "Capacity": 2989,
+  "Name": "青衣東北公園 Tsing Yi Northeast Park",
+  "CenterPositionLon": 22.362160843038954,
+  "CenterPositionLat": 114.09871251732062
+ },
+ {
+  "ID": 665308185,
+  "Capacity": 8,
+  "Name": "大坑西街休憩處",
+  "CenterPositionLon": 22.333337945405486,
+  "CenterPositionLat": 114.16958572110984
+ },
+ {
+  "ID": 665731930,
+  "Capacity": 25,
+  "Name": "旺角康民角 Mong Kok Civic Triangle",
+  "CenterPositionLon": 22.322842666666666,
+  "CenterPositionLat": 114.16837693333333
+ },
+ {
+  "ID": 666304484,
+  "Capacity": 10,
+  "Name": "Exercise area",
+  "CenterPositionLon": 22.386490147988262,
+  "CenterPositionLat": 113.97098773249614
+ },
+ {
+  "ID": 667912496,
+  "Capacity": 229,
+  "Name": "",
+  "CenterPositionLon": 22.323514476931106,
+  "CenterPositionLat": 114.20976363145796
+ },
+ {
+  "ID": 668455744,
+  "Capacity": 475,
+  "Name": "公共休憩空間Public Rest Space",
+  "CenterPositionLon": 22.30119311782817,
+  "CenterPositionLat": 114.1889192118442
+ },
+ {
+  "ID": 671029528,
+  "Capacity": 27,
+  "Name": "文昌街休憩花園 Man Cheong Street Rest Garden",
+  "CenterPositionLon": 22.307944622048545,
+  "CenterPositionLat": 114.16538543638077
+ },
+ {
+  "ID": 672609038,
+  "Capacity": 276,
+  "Name": "奧海城海濱公園 Olympian City Promenade Park",
+  "CenterPositionLon": 22.320753408146068,
+  "CenterPositionLat": 114.1573572939676
+ },
+ {
+  "ID": 674026931,
+  "Capacity": 24,
+  "Name": "Open area outside Popcorn shopping mall",
+  "CenterPositionLon": 22.3079314156894,
+  "CenterPositionLat": 114.26083413733586
+ },
+ {
+  "ID": 674677822,
+  "Capacity": 16,
+  "Name": "西灣河遊樂場",
+  "CenterPositionLon": 22.285852357992617,
+  "CenterPositionLat": 114.22228875936183
+ },
+ {
+  "ID": 674677826,
+  "Capacity": 11,
+  "Name": "鯉景灣遊樂場",
+  "CenterPositionLon": 22.28576111205502,
+  "CenterPositionLat": 114.22331392684525
+ },
+ {
+  "ID": 675098915,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.371160271400505,
+  "CenterPositionLat": 114.10149996361065
+ },
+ {
+  "ID": 675103174,
+  "Capacity": 102,
+  "Name": "North Point Promenade Phase 1",
+  "CenterPositionLon": 22.29304777102051,
+  "CenterPositionLat": 114.19924106502806
+ },
+ {
+  "ID": 675493141,
+  "Capacity": 1060,
+  "Name": "",
+  "CenterPositionLon": 22.306345689082477,
+  "CenterPositionLat": 114.25489745884977
+ },
+ {
+  "ID": 675496677,
+  "Capacity": 909,
+  "Name": "",
+  "CenterPositionLon": 22.31954519811168,
+  "CenterPositionLat": 114.26023638367136
+ },
+ {
+  "ID": 675503054,
+  "Capacity": 60,
+  "Name": "華永會將軍澳紀念花園B區",
+  "CenterPositionLon": 22.29548475101851,
+  "CenterPositionLat": 114.24748854419988
+ },
+ {
+  "ID": 675503055,
+  "Capacity": 7,
+  "Name": "華永會將軍澳紀念花園A區",
+  "CenterPositionLon": 22.29601714310187,
+  "CenterPositionLat": 114.24731064140288
+ },
+ {
+  "ID": 676238788,
+  "Capacity": 107,
+  "Name": "寶雲道公園 Bowen Road Park",
+  "CenterPositionLon": 22.270000519885084,
+  "CenterPositionLat": 114.171622453348
+ },
+ {
+  "ID": 680020583,
+  "Capacity": 165,
+  "Name": "",
+  "CenterPositionLon": 22.282376660693615,
+  "CenterPositionLat": 114.23024457539638
+ },
+ {
+  "ID": 680487086,
+  "Capacity": 66,
+  "Name": "卑路乍灣海濱長廊 Belcher Bay Promenade",
+  "CenterPositionLon": 22.285372491983782,
+  "CenterPositionLat": 114.12914795556135
+ },
+ {
+  "ID": 684780794,
+  "Capacity": 375,
+  "Name": "牛棚藝術公園 Cattle Depot Artist Village",
+  "CenterPositionLon": 22.320397773189256,
+  "CenterPositionLat": 114.1911564212175
+ },
+ {
+  "ID": 685767572,
+  "Capacity": 106,
+  "Name": "錦田波地遊樂場 Kam Tin Po Tei Playground",
+  "CenterPositionLon": 22.439354214541606,
+  "CenterPositionLat": 114.06739727517191
+ },
+ {
+  "ID": 687233348,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 22.331441478868076,
+  "CenterPositionLat": 114.21146075216105
+ },
+ {
+  "ID": 687889699,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 22.352066033081908,
+  "CenterPositionLat": 114.10703214170299
+ },
+ {
+  "ID": 687889705,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 22.349970192016848,
+  "CenterPositionLat": 114.1065297291634
+ },
+ {
+  "ID": 687889706,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 22.350252814410783,
+  "CenterPositionLat": 114.10620769500741
+ },
+ {
+  "ID": 687889719,
+  "Capacity": 8,
+  "Name": "上高灘街休憩處 Sheung Ko Tan Street Sitting-Out Area",
+  "CenterPositionLon": 22.350794916167597,
+  "CenterPositionLat": 114.1059157792472
+ },
+ {
+  "ID": 687889720,
+  "Capacity": 31,
+  "Name": "上高灘街休憩處 Sheung Ko Tan Street Sitting-Out Area",
+  "CenterPositionLon": 22.35068404182928,
+  "CenterPositionLat": 114.10631643292788
+ },
+ {
+  "ID": 687899193,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.351715047213165,
+  "CenterPositionLat": 114.10006012363172
+ },
+ {
+  "ID": 687925585,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 22.350676014689334,
+  "CenterPositionLat": 114.10261640137664
+ },
+ {
+  "ID": 687925600,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.3585290825985,
+  "CenterPositionLat": 114.10468666667114
+ },
+ {
+  "ID": 688296915,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 22.249652280767904,
+  "CenterPositionLat": 113.8700033399185
+ },
+ {
+  "ID": 689332849,
+  "Capacity": 105,
+  "Name": "大頭嶺遊樂場 Tai Tau Leng Playground",
+  "CenterPositionLon": 22.50043216756864,
+  "CenterPositionLat": 114.12297284051733
+ },
+ {
+  "ID": 689332850,
+  "Capacity": 20,
+  "Name": "大頭嶺遊樂場 Tai Tau Leng Playground",
+  "CenterPositionLon": 22.49995325866636,
+  "CenterPositionLat": 114.12415028688768
+ },
+ {
+  "ID": 690997186,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 22.49806379177571,
+  "CenterPositionLat": 114.15249850544812
+ },
+ {
+  "ID": 691002186,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 22.508084206960078,
+  "CenterPositionLat": 114.14609300298058
+ },
+ {
+  "ID": 691670899,
+  "Capacity": 9,
+  "Name": "蝴蝶山徑觀景台 Butterfly Viewing Point",
+  "CenterPositionLon": 22.484042494183985,
+  "CenterPositionLat": 114.13063953655553
+ },
+ {
+  "ID": 692539658,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.23253748299396,
+  "CenterPositionLat": 113.95833235236499
+ },
+ {
+  "ID": 692543969,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 22.234442575202362,
+  "CenterPositionLat": 113.95048148405128
+ },
+ {
+  "ID": 693487472,
+  "Capacity": 52,
+  "Name": "北京道休憩處 Peking Road Sitting-out Area",
+  "CenterPositionLon": 22.295972370659584,
+  "CenterPositionLat": 114.17055394914507
+ },
+ {
+  "ID": 693845868,
+  "Capacity": 21,
+  "Name": "Barbecue Site",
+  "CenterPositionLon": 22.521179748148832,
+  "CenterPositionLat": 114.22604461466604
+ },
+ {
+  "ID": 693999754,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 22.527090108921854,
+  "CenterPositionLat": 114.10579813783784
+ },
+ {
+  "ID": 693999755,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.52715568712502,
+  "CenterPositionLat": 114.10628909877718
+ },
+ {
+  "ID": 694000497,
+  "Capacity": 48,
+  "Name": "燕崗遊樂場 Yin Kong Playground",
+  "CenterPositionLon": 22.50452803162665,
+  "CenterPositionLat": 114.11217678103785
+ },
+ {
+  "ID": 694000499,
+  "Capacity": 30,
+  "Name": "東方兒童遊樂場 Tung Fong Children's Playground",
+  "CenterPositionLon": 22.50864684401337,
+  "CenterPositionLat": 114.1008117656458
+ },
+ {
+  "ID": 694000878,
+  "Capacity": 72,
+  "Name": "龍躍頭新圍兒童遊樂場 Lung Yeuk Tau San Wai Children's Playground",
+  "CenterPositionLon": 22.507170666989172,
+  "CenterPositionLat": 114.14761459578204
+ },
+ {
+  "ID": 694003057,
+  "Capacity": 44,
+  "Name": "永寧籃球場 Wing Ling Basketball Court",
+  "CenterPositionLon": 22.50113931032471,
+  "CenterPositionLat": 114.15115221561219
+ },
+ {
+  "ID": 694003396,
+  "Capacity": 15,
+  "Name": "上禾坑兒童遊樂場 Sheung Wo Hang Children's Playground",
+  "CenterPositionLon": 22.52391385,
+  "CenterPositionLat": 114.19480569999999
+ },
+ {
+  "ID": 694005217,
+  "Capacity": 5,
+  "Name": "李屋村兒童遊樂場  Lei Uk Tsuen Children's Playground",
+  "CenterPositionLon": 22.534921510647255,
+  "CenterPositionLat": 114.14867333912521
+ },
+ {
+  "ID": 694005223,
+  "Capacity": 24,
+  "Name": "週田村兒童遊樂場 Chow Tin Tsuen Children's Playground",
+  "CenterPositionLon": 22.536234448433152,
+  "CenterPositionLat": 114.14461260264753
+ },
+ {
+  "ID": 694949856,
+  "Capacity": 9,
+  "Name": "Open area of Harbour Building",
+  "CenterPositionLon": 22.286522662742396,
+  "CenterPositionLat": 114.15491730828879
+ },
+ {
+  "ID": 694950098,
+  "Capacity": 3,
+  "Name": "Park next to Opulent House",
+  "CenterPositionLon": 22.40323366687742,
+  "CenterPositionLat": 113.97506671327417
+ },
+ {
+  "ID": 694950677,
+  "Capacity": 7,
+  "Name": "Park next to Pond",
+  "CenterPositionLon": 22.40317321194809,
+  "CenterPositionLat": 113.97517066045462
+ },
+ {
+  "ID": 695922354,
+  "Capacity": 48,
+  "Name": "馬尾下遊樂場 Ma Mei Ha Playground",
+  "CenterPositionLon": 22.5182418,
+  "CenterPositionLat": 114.1772001
+ },
+ {
+  "ID": 695936182,
+  "Capacity": 15,
+  "Name": "沙宣道休憩花園",
+  "CenterPositionLon": 22.27034348838356,
+  "CenterPositionLat": 114.12985660701636
+ },
+ {
+  "ID": 695936183,
+  "Capacity": 35,
+  "Name": "沙宣道休憩花園",
+  "CenterPositionLon": 22.269425666666667,
+  "CenterPositionLat": 114.1303209
+ },
+ {
+  "ID": 696281456,
+  "Capacity": 40,
+  "Name": "鹿頸村遊樂場 Luk Keng Village Playground",
+  "CenterPositionLon": 22.522442867575517,
+  "CenterPositionLat": 114.21603350745463
+ },
+ {
+  "ID": 696320374,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": 22.495361363843532,
+  "CenterPositionLat": 114.12270402714691
+ },
+ {
+  "ID": 696328573,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 22.328228266666667,
+  "CenterPositionLat": 114.22677546666667
+ },
+ {
+  "ID": 696405913,
+  "Capacity": 95,
+  "Name": "公眾休憩用地A Public Recreational Area A",
+  "CenterPositionLon": 22.32895409338894,
+  "CenterPositionLat": 114.22800727922977
+ },
+ {
+  "ID": 698256302,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 22.292900309418343,
+  "CenterPositionLat": 114.01644864897027
+ },
+ {
+  "ID": 698621618,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 22.320589018703743,
+  "CenterPositionLat": 114.2322214498728
+ },
+ {
+  "ID": 698990262,
+  "Capacity": 12,
+  "Name": "屋蘭士街休憩處 Oaklands Avenue Sitting-out Area",
+  "CenterPositionLon": 22.28293582819334,
+  "CenterPositionLat": 114.14370936002459
+ },
+ {
+  "ID": 699043013,
+  "Capacity": 24,
+  "Name": "貴州街/旭日街休憩處 Kwei Chow Street/Yuk Yat Street Sitting-Out Area",
+  "CenterPositionLon": 22.31654282311535,
+  "CenterPositionLat": 114.19238619433946
+ },
+ {
+  "ID": 699152725,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 22.312836105653876,
+  "CenterPositionLat": 114.18948676413005
+ },
+ {
+  "ID": 699190425,
+  "Capacity": 266,
+  "Name": "",
+  "CenterPositionLon": 22.3190219609952,
+  "CenterPositionLat": 114.16225177383559
+ },
+ {
+  "ID": 700121826,
+  "Capacity": 22,
+  "Name": "守仁徑小園地",
+  "CenterPositionLon": 22.319499074460413,
+  "CenterPositionLat": 114.22093408859823
+ },
+ {
+  "ID": 700272397,
+  "Capacity": 6,
+  "Name": "水口休憩處",
+  "CenterPositionLon": 22.22170677550573,
+  "CenterPositionLat": 113.91467822621121
+ },
+ {
+  "ID": 700447085,
+  "Capacity": 5,
+  "Name": "貝澳新圍村休憩處",
+  "CenterPositionLon": 22.24349692884505,
+  "CenterPositionLat": 113.97782552414854
+ },
+ {
+  "ID": 700447095,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 22.24055007217737,
+  "CenterPositionLat": 113.98179274681966
+ },
+ {
+  "ID": 700447099,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 22.240467678266562,
+  "CenterPositionLat": 113.98240688506444
+ },
+ {
+  "ID": 700512635,
+  "Capacity": 16,
+  "Name": "青山公路六咪花園",
+  "CenterPositionLon": 22.34903225,
+  "CenterPositionLat": 114.1345006
+ },
+ {
+  "ID": 700761439,
+  "Capacity": 97,
+  "Name": "天慈花園 Tin Tsz Garden",
+  "CenterPositionLon": 22.452014530908908,
+  "CenterPositionLat": 114.00840309172479
+ },
+ {
+  "ID": 700770827,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 22.453351794862467,
+  "CenterPositionLat": 114.00776624919085
+ },
+ {
+  "ID": 702496731,
+  "Capacity": 88,
+  "Name": "蝴蝶山休憩處 Wu Tip Shan Sitting-out Area",
+  "CenterPositionLon": 22.48665010702724,
+  "CenterPositionLat": 114.13851276223909
+ },
+ {
+  "ID": 702497771,
+  "Capacity": 26,
+  "Name": "鴨洲休憩處 Ap Chau Sitting-out Area",
+  "CenterPositionLon": 22.551497130218255,
+  "CenterPositionLat": 114.26970748900385
+ },
+ {
+  "ID": 702497772,
+  "Capacity": 6,
+  "Name": "鴨洲休憩處 Ap Chau Sitting-out Area",
+  "CenterPositionLon": 22.55138553868065,
+  "CenterPositionLat": 114.2696571547479
+ },
+ {
+  "ID": 702500337,
+  "Capacity": 6,
+  "Name": "鳳凰湖遊樂場 Fung Wong Wu Playground",
+  "CenterPositionLon": 22.537209833282244,
+  "CenterPositionLat": 114.14760994372874
+ },
+ {
+  "ID": 702596897,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 22.273842346250483,
+  "CenterPositionLat": 113.93072642803713
+ },
+ {
+  "ID": 702596938,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 22.277196549632762,
+  "CenterPositionLat": 113.93487476647014
+ },
+ {
+  "ID": 702596960,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 22.278325325269126,
+  "CenterPositionLat": 113.93656074455222
+ },
+ {
+  "ID": 702596976,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 22.28023974425167,
+  "CenterPositionLat": 113.93010108548216
+ },
+ {
+  "ID": 702596978,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 22.28011013360369,
+  "CenterPositionLat": 113.93132942960504
+ },
+ {
+  "ID": 703352008,
+  "Capacity": 75,
+  "Name": "聯運街休憩處",
+  "CenterPositionLon": 22.321163468132088,
+  "CenterPositionLat": 114.17219752065085
+ },
+ {
+  "ID": 703954062,
+  "Capacity": 17,
+  "Name": "大坑東休憩處",
+  "CenterPositionLon": 22.327567854258767,
+  "CenterPositionLat": 114.17196854263068
+ },
+ {
+  "ID": 706753093,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 22.276335364716616,
+  "CenterPositionLat": 114.18352140516757
+ },
+ {
+  "ID": 706753094,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 22.27617667783575,
+  "CenterPositionLat": 114.18374645680453
+ },
+ {
+  "ID": 706753114,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 22.275970450000003,
+  "CenterPositionLat": 114.18398400000001
+ },
+ {
+  "ID": 706753115,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 22.27577168674179,
+  "CenterPositionLat": 114.18420702264048
+ },
+ {
+  "ID": 706753117,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 22.27649527378517,
+  "CenterPositionLat": 114.18332532289685
+ },
+ {
+  "ID": 708473162,
+  "Capacity": 89,
+  "Name": "唐人新村花園",
+  "CenterPositionLon": 22.436537300936124,
+  "CenterPositionLat": 114.01139245473901
+ },
+ {
+  "ID": 708615834,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 22.273339467364814,
+  "CenterPositionLat": 114.18246535349806
+ },
+ {
+  "ID": 710582382,
+  "Capacity": 159,
+  "Name": "園圃街雀鳥花園",
+  "CenterPositionLon": 22.325911082809338,
+  "CenterPositionLat": 114.17383513941446
+ },
+ {
+  "ID": 710583499,
+  "Capacity": 21,
+  "Name": "界限街小園地",
+  "CenterPositionLon": 22.326449300350077,
+  "CenterPositionLat": 114.17220922671278
+ },
+ {
+  "ID": 710584931,
+  "Capacity": 74,
+  "Name": "棠蔭街山邊休憩處",
+  "CenterPositionLon": 22.328498718388985,
+  "CenterPositionLat": 114.16981082289529
+ },
+ {
+  "ID": 711947184,
+  "Capacity": 587,
+  "Name": "石湖墟遊樂場 Shek Wu Hui Playground",
+  "CenterPositionLon": 22.50518202604077,
+  "CenterPositionLat": 114.12590085464797
+ },
+ {
+  "ID": 712313472,
+  "Capacity": 655,
+  "Name": "百和路遊樂場 Pak Wo Road Playground",
+  "CenterPositionLon": 22.492492799641692,
+  "CenterPositionLat": 114.13306823525697
+ },
+ {
+  "ID": 713941032,
+  "Capacity": 2,
+  "Name": "嘉榮街休憩處",
+  "CenterPositionLon": 22.294336343492265,
+  "CenterPositionLat": 114.23797724412438
+ },
+ {
+  "ID": 714976392,
+  "Capacity": 17,
+  "Name": "公主道兒童遊樂場",
+  "CenterPositionLon": 22.31616350832737,
+  "CenterPositionLat": 114.17771843920737
+ },
+ {
+  "ID": 714976396,
+  "Capacity": 83,
+  "Name": "培正道休憩花園",
+  "CenterPositionLon": 22.317104418707483,
+  "CenterPositionLat": 114.17810721006953
+ },
+ {
+  "ID": 714976397,
+  "Capacity": 72,
+  "Name": "培正道休憩花園",
+  "CenterPositionLon": 22.317765193439076,
+  "CenterPositionLat": 114.17832053233039
+ },
+ {
+  "ID": 715442391,
+  "Capacity": 212,
+  "Name": "香港警務處早禾坑康樂中心",
+  "CenterPositionLon": 22.392730976801477,
+  "CenterPositionLat": 114.28962707284492
+ },
+ {
+  "ID": 715705487,
+  "Capacity": 102,
+  "Name": "North Point Promenade",
+  "CenterPositionLon": 22.29359441971907,
+  "CenterPositionLat": 114.20183782874568
+ },
+ {
+  "ID": 718766337,
+  "Capacity": 439,
+  "Name": "Olympic Garden 世運花園",
+  "CenterPositionLon": 22.327244360667105,
+  "CenterPositionLat": 114.18983545415371
+ },
+ {
+  "ID": 721202031,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 22.39083194412773,
+  "CenterPositionLat": 114.201020016984
+ },
+ {
+  "ID": 721206501,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 22.318693381356695,
+  "CenterPositionLat": 114.1739050697858
+ },
+ {
+  "ID": 721502336,
+  "Capacity": 23,
+  "Name": "Tong Ming Court Playground",
+  "CenterPositionLon": 22.308364075083784,
+  "CenterPositionLat": 114.25637882139876
+ },
+ {
+  "ID": 722502386,
+  "Capacity": 67,
+  "Name": "安邦路休憩處 On Pong Road Sitting-out Area",
+  "CenterPositionLon": 22.452335711756866,
+  "CenterPositionLat": 114.16982874365722
+ },
+ {
+  "ID": 722556389,
+  "Capacity": 13,
+  "Name": "雞嶺遊樂場 Kai Leng Playground",
+  "CenterPositionLon": 22.49409388085023,
+  "CenterPositionLat": 114.12921770311503
+ },
+ {
+  "ID": 722559522,
+  "Capacity": 10,
+  "Name": "麻笏圍兒童遊樂場 Ma Wat Wai Children's Playground",
+  "CenterPositionLon": 22.499152876880647,
+  "CenterPositionLat": 114.14987043192728
+ },
+ {
+  "ID": 722559523,
+  "Capacity": 13,
+  "Name": "松園下遊樂場 Tsung Yuen Ha Playground",
+  "CenterPositionLon": 22.552386039264224,
+  "CenterPositionLat": 114.15627148061111
+ },
+ {
+  "ID": 722658613,
+  "Capacity": 96,
+  "Name": "粉嶺站休憩處 Fanling Station Sitting-out Area",
+  "CenterPositionLon": 22.49300399070678,
+  "CenterPositionLat": 114.1379491306859
+ },
+ {
+  "ID": 722672496,
+  "Capacity": 69,
+  "Name": "聯和墟遊樂場 Luen Wo Hui Playground",
+  "CenterPositionLon": 22.49801119863014,
+  "CenterPositionLat": 114.14341822358341
+ },
+ {
+  "ID": 722672497,
+  "Capacity": 115,
+  "Name": "聯和墟遊樂場 Luen Wo Hui Playground",
+  "CenterPositionLon": 22.498618276827994,
+  "CenterPositionLat": 114.14399880179012
+ },
+ {
+  "ID": 722677952,
+  "Capacity": 30,
+  "Name": "華明路休憩處 Wah Ming Road Sitting-out Area",
+  "CenterPositionLon": 22.482135618735757,
+  "CenterPositionLat": 114.14006691200133
+ },
+ {
+  "ID": 722685052,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": 22.52553290820389,
+  "CenterPositionLat": 114.16155139092459
+ },
+ {
+  "ID": 722685055,
+  "Capacity": 17,
+  "Name": "坪輋新村休憩處 Ping Che New Village Sitting-out Area",
+  "CenterPositionLon": 22.52503969629915,
+  "CenterPositionLat": 114.16113858616708
+ },
+ {
+  "ID": 722685061,
+  "Capacity": 35,
+  "Name": "坪輋隔田兒童遊樂場 Ping Che Kat Tin Children's Playground",
+  "CenterPositionLon": 22.528214960282344,
+  "CenterPositionLat": 114.16137807663719
+ },
+ {
+  "ID": 722685062,
+  "Capacity": 26,
+  "Name": "坪輋兒童遊樂場 PING CHE CHILDREN'S PLAYGROUND",
+  "CenterPositionLon": 22.528026378495525,
+  "CenterPositionLat": 114.1583913622212
+ },
+ {
+  "ID": 722685067,
+  "Capacity": 21,
+  "Name": "昇平新村兒童遊樂場 Sing Ping San Tsuen Children's Playground",
+  "CenterPositionLon": 22.531344374935077,
+  "CenterPositionLat": 114.15455872729898
+ },
+ {
+  "ID": 722685069,
+  "Capacity": 37,
+  "Name": "簡頭圍遊樂場 Kan Tau Wai Playground",
+  "CenterPositionLon": 22.538998069906317,
+  "CenterPositionLat": 114.14973062334127
+ },
+ {
+  "ID": 722694770,
+  "Capacity": 56,
+  "Name": "唐公嶺籃球場 Tong Kung Leng Basketball Court",
+  "CenterPositionLon": 22.484944647295677,
+  "CenterPositionLat": 114.11026730896833
+ },
+ {
+  "ID": 722694772,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.485153173051764,
+  "CenterPositionLat": 114.11002635203721
+ },
+ {
+  "ID": 722694777,
+  "Capacity": 26,
+  "Name": "長瀝休憩處  Cheung Lek Sitting-Out area",
+  "CenterPositionLon": 22.48530352503229,
+  "CenterPositionLat": 114.10265225733127
+ },
+ {
+  "ID": 722700743,
+  "Capacity": 63,
+  "Name": "上水坑頭村休憩處 Sheung Shui Hang Tau Village Sitting-out Area",
+  "CenterPositionLon": 22.487942225844776,
+  "CenterPositionLat": 114.10191912480134
+ },
+ {
+  "ID": 722711529,
+  "Capacity": 154,
+  "Name": "上水鄉第八休憩處 Sheung Shui Heung Sitting-out Area No.8",
+  "CenterPositionLon": 22.508811489726476,
+  "CenterPositionLat": 114.12274630971648
+ },
+ {
+  "ID": 722711534,
+  "Capacity": 76,
+  "Name": "上水鄉第七休憩處 Sheung Shui Heung Sitting-out Area No.7",
+  "CenterPositionLon": 22.50927575822104,
+  "CenterPositionLat": 114.12155228515181
+ },
+ {
+  "ID": 722711552,
+  "Capacity": 32,
+  "Name": "上水鄉第十一休憩處 Sheung Shui Heung Sitting-out Area No.11",
+  "CenterPositionLon": 22.51029925,
+  "CenterPositionLat": 114.1230901
+ },
+ {
+  "ID": 722711553,
+  "Capacity": 26,
+  "Name": "上水鄉第一休憩處  Sheung Shui Heung Sitting-out Area No.1",
+  "CenterPositionLon": 22.51051324844056,
+  "CenterPositionLat": 114.12387883968776
+ },
+ {
+  "ID": 722711555,
+  "Capacity": 27,
+  "Name": "文閣村花園 Man Kok Village Garden",
+  "CenterPositionLon": 22.51074780642608,
+  "CenterPositionLat": 114.12288952284706
+ },
+ {
+  "ID": 722711560,
+  "Capacity": 31,
+  "Name": "文閣村休憩處 Man Kok Village Sitting-out Area",
+  "CenterPositionLon": 22.512786605145955,
+  "CenterPositionLat": 114.12539777737113
+ },
+ {
+  "ID": 722711561,
+  "Capacity": 46,
+  "Name": "上水游樂場 SheungShui Playground",
+  "CenterPositionLon": 22.509601018578824,
+  "CenterPositionLat": 114.12456486838656
+ },
+ {
+  "ID": 722711562,
+  "Capacity": 119,
+  "Name": "上水鄉第六休憩處 Sheung Shui Heung Sitting-out Area No.6",
+  "CenterPositionLon": 22.509481912939748,
+  "CenterPositionLat": 114.1240258103639
+ },
+ {
+  "ID": 722711563,
+  "Capacity": 37,
+  "Name": "上水鄉第六休憩處 Sheung Shui Heung Sitting-out Area No.6",
+  "CenterPositionLon": 22.509324223347864,
+  "CenterPositionLat": 114.1235905822788
+ },
+ {
+  "ID": 722711564,
+  "Capacity": 6,
+  "Name": "上水鄉第四休憩處 Sheung Shui Heung Sitting-out Area No.4",
+  "CenterPositionLon": 22.509883687085672,
+  "CenterPositionLat": 114.12581929291346
+ },
+ {
+  "ID": 722711566,
+  "Capacity": 129,
+  "Name": "上水鄉第三休憩處 Sheung Shui Heung Sitting-out Area No.3",
+  "CenterPositionLon": 22.50935546862265,
+  "CenterPositionLat": 114.12610505232718
+ },
+ {
+  "ID": 722711567,
+  "Capacity": 16,
+  "Name": "上水鄉第五休憩處  Sheung Shui Heung Sitting-out Area No.5",
+  "CenterPositionLon": 22.50813013674238,
+  "CenterPositionLat": 114.1263188550237
+ },
+ {
+  "ID": 722711571,
+  "Capacity": 114,
+  "Name": "上水鄉第九休憩處 Sheung Shui Heung Sitting-out Area No.9",
+  "CenterPositionLon": 22.507757946063965,
+  "CenterPositionLat": 114.12342433514836
+ },
+ {
+  "ID": 722712660,
+  "Capacity": 19,
+  "Name": "Sheung Shui Wa Shan Sitting-out Area 上水華山休憩處",
+  "CenterPositionLon": 22.513094182143565,
+  "CenterPositionLat": 114.13530416247313
+ },
+ {
+  "ID": 722713854,
+  "Capacity": 39,
+  "Name": "Kat O Fisherman Village Sitting-out Area 吉澳漁民村休憩處",
+  "CenterPositionLon": 22.551439787970853,
+  "CenterPositionLat": 114.28957819291452
+ },
+ {
+  "ID": 722716636,
+  "Capacity": 20,
+  "Name": "NAM CHUNG CHILDREN'S PLAYGROUND 南涌兒童遊樂場",
+  "CenterPositionLon": 22.524397797416682,
+  "CenterPositionLat": 114.20842428218462
+ },
+ {
+  "ID": 722716643,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 22.52414382102475,
+  "CenterPositionLat": 114.21555604994693
+ },
+ {
+  "ID": 722719221,
+  "Capacity": 353,
+  "Name": "石門河濱花園 Shek Mun Riverside Garden",
+  "CenterPositionLon": 22.3853106858401,
+  "CenterPositionLat": 114.2092161745846
+ },
+ {
+  "ID": 722893721,
+  "Capacity": 116,
+  "Name": "維翰路花園 Wai Hon Road Garden",
+  "CenterPositionLon": 22.495280784220878,
+  "CenterPositionLat": 114.1293835919248
+ },
+ {
+  "ID": 722893730,
+  "Capacity": 218,
+  "Name": "粉嶺圍游樂場 FAN LENG WAI PLAYGROUND",
+  "CenterPositionLon": 22.49709673651482,
+  "CenterPositionLat": 114.13633544966943
+ },
+ {
+  "ID": 725139623,
+  "Capacity": 1342,
+  "Name": "屯門河畔公園 Tuen Mun Riverside Park",
+  "CenterPositionLon": 22.4052621605885,
+  "CenterPositionLat": 113.97667167198931
+ },
+ {
+  "ID": 729511823,
+  "Capacity": 884,
+  "Name": "大埔頭遊樂場 Tai Po Tau Playground",
+  "CenterPositionLon": 22.45421857550869,
+  "CenterPositionLat": 114.1583583826391
+ },
+ {
+  "ID": 729511824,
+  "Capacity": 98,
+  "Name": "大埔頭遊樂場 Tai Po Tau Playground",
+  "CenterPositionLon": 22.453502702231905,
+  "CenterPositionLat": 114.1593099314384
+ },
+ {
+  "ID": 729540732,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 22.37375377827853,
+  "CenterPositionLat": 114.10328117633672
+ },
+ {
+  "ID": 733833488,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 22.2870645749972,
+  "CenterPositionLat": 114.21272038025563
+ },
+ {
+  "ID": 734188562,
+  "Capacity": 15,
+  "Name": "利南道一號休憩處 Lee Nam Road Sitting-out Area No. 1",
+  "CenterPositionLon": 22.239238967400766,
+  "CenterPositionLat": 114.15182921495797
+ },
+ {
+  "ID": 734539574,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 22.450558185048777,
+  "CenterPositionLat": 114.16283929539857
+ },
+ {
+  "ID": 734539575,
+  "Capacity": 231,
+  "Name": "廣福橋花園 Kwong Fuk Bridge Garden",
+  "CenterPositionLon": 22.449976628105507,
+  "CenterPositionLat": 114.16542741155388
+ },
+ {
+  "ID": 735263711,
+  "Capacity": 297,
+  "Name": "香港賽馬會山光道公園 Shan Kwong Road Park",
+  "CenterPositionLon": 22.26644674890487,
+  "CenterPositionLat": 114.18668252319819
+ },
+ {
+  "ID": 735263714,
+  "Capacity": 83,
+  "Name": "桂芳街遊樂場 Kwai Fong Street Playground",
+  "CenterPositionLon": 22.266810392397765,
+  "CenterPositionLat": 114.186685034807
+ },
+ {
+  "ID": 735466831,
+  "Capacity": 236,
+  "Name": "橫窩仔街公園 Wang Wo Tsai Street Garden",
+  "CenterPositionLon": 22.36732345090411,
+  "CenterPositionLat": 114.11962392262889
+ },
+ {
+  "ID": 736015397,
+  "Capacity": 48,
+  "Name": "荃貴街休憩處 Tsuen Kwai Street Sitting-out Area",
+  "CenterPositionLon": 22.36939096143076,
+  "CenterPositionLat": 114.12203065635187
+ },
+ {
+  "ID": 736789762,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": 22.29630586702141,
+  "CenterPositionLat": 113.95374309606007
+ },
+ {
+  "ID": 738108659,
+  "Capacity": 242,
+  "Name": "灣仔臨時海濱花園 Wan Chai Temporary Promenade",
+  "CenterPositionLon": 22.2828889136569,
+  "CenterPositionLat": 114.16949138701386
+ },
+ {
+  "ID": 738453849,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 22.307992587144277,
+  "CenterPositionLat": 114.23165570973244
+ },
+ {
+  "ID": 739030488,
+  "Capacity": 22,
+  "Name": "田心第三花園 Tin Sam Garden No. 3",
+  "CenterPositionLon": 22.369022035000757,
+  "CenterPositionLat": 114.17862607989493
+ },
+ {
+  "ID": 739030489,
+  "Capacity": 4,
+  "Name": "田心第二花園 Tin Sam Garden No. 2",
+  "CenterPositionLon": 22.3691082,
+  "CenterPositionLat": 114.17828276666667
+ },
+ {
+  "ID": 739030490,
+  "Capacity": 44,
+  "Name": "田心第一花園 Tin Sam Garden No. 1",
+  "CenterPositionLon": 22.369529842514126,
+  "CenterPositionLat": 114.17847915209039
+ },
+ {
+  "ID": 740104520,
+  "Capacity": 131,
+  "Name": "曾大屋遊樂場 Tsang Tai Uk Recreation Ground",
+  "CenterPositionLon": 22.374348595118157,
+  "CenterPositionLat": 114.19063792011593
+ },
+ {
+  "ID": 740887677,
+  "Capacity": 50,
+  "Name": "Green terrain space",
+  "CenterPositionLon": 22.269772669887075,
+  "CenterPositionLat": 114.18607312948288
+ },
+ {
+  "ID": 741902353,
+  "Capacity": 36,
+  "Name": "巴域街休憩處 Berwick Street Sitting-out Area",
+  "CenterPositionLon": 22.33417582543901,
+  "CenterPositionLat": 114.16342780041063
+ },
+ {
+  "ID": 742102533,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.273930576378504,
+  "CenterPositionLat": 114.17433336448214
+ },
+ {
+  "ID": 742107177,
+  "Capacity": 60,
+  "Name": "太和街遊樂場 Tai Wo Street Playground",
+  "CenterPositionLon": 22.276249467131798,
+  "CenterPositionLat": 114.17421293439754
+ },
+ {
+  "ID": 742768624,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.27493548296026,
+  "CenterPositionLat": 114.17282778168102
+ },
+ {
+  "ID": 742775150,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 22.275737693456747,
+  "CenterPositionLat": 114.17216399614037
+ },
+ {
+  "ID": 743109938,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 22.276951396917475,
+  "CenterPositionLat": 114.16963167130159
+ },
+ {
+  "ID": 743184331,
+  "Capacity": 21,
+  "Name": "洋紫荊園 Bauhinia Garden",
+  "CenterPositionLon": 22.2763804935044,
+  "CenterPositionLat": 114.17027128206962
+ },
+ {
+  "ID": 743546801,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.27624294988018,
+  "CenterPositionLat": 114.17049845230211
+ },
+ {
+  "ID": 744222758,
+  "Capacity": 376,
+  "Name": "North Point Promenade",
+  "CenterPositionLon": 22.29318276832967,
+  "CenterPositionLat": 114.20062832173812
+ },
+ {
+  "ID": 744299950,
+  "Capacity": 202,
+  "Name": "灣仔臨時海濱花園 Wan Chai Temporary Promenade",
+  "CenterPositionLon": 22.284621523778966,
+  "CenterPositionLat": 114.1730130746847
+ },
+ {
+  "ID": 744553908,
+  "Capacity": 146,
+  "Name": "業成街遊樂場 Yip Shing Street Playground",
+  "CenterPositionLon": 22.360991857063947,
+  "CenterPositionLat": 114.13568439964409
+ },
+ {
+  "ID": 745209029,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 22.336081206728423,
+  "CenterPositionLat": 114.20262135707605
+ },
+ {
+  "ID": 749193574,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 22.36448446183493,
+  "CenterPositionLat": 114.13545689314586
+ },
+ {
+  "ID": 749215562,
+  "Capacity": 46,
+  "Name": "宋王臺遊樂場 Sung Wong Toi Playground",
+  "CenterPositionLon": 22.32722593534277,
+  "CenterPositionLat": 114.19081343911286
+ },
+ {
+  "ID": 750644248,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 22.482845731774635,
+  "CenterPositionLat": 114.1313568358423
+ },
+ {
+  "ID": 750644249,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 22.482298340534058,
+  "CenterPositionLat": 114.13058300146653
+ },
+ {
+  "ID": 753665577,
+  "Capacity": 115,
+  "Name": "機場文物園",
+  "CenterPositionLon": 22.296939207671173,
+  "CenterPositionLat": 113.93481351775274
+ },
+ {
+  "ID": 753794082,
+  "Capacity": 57,
+  "Name": "Man Hong Street Playground 民康街遊樂場",
+  "CenterPositionLon": 22.293245895755256,
+  "CenterPositionLat": 114.2057529033071
+ },
+ {
+  "ID": 757856998,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 22.211039833333334,
+  "CenterPositionLat": 114.0279939
+ },
+ {
+  "ID": 757856999,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 22.21133544334111,
+  "CenterPositionLat": 114.02776030462338
+ },
+ {
+  "ID": 757857000,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 22.211605072356893,
+  "CenterPositionLat": 114.02762257466279
+ },
+ {
+  "ID": 758682350,
+  "Capacity": 24,
+  "Name": "堅彌地街休憩處 Kennedy Street Sitting-out Area",
+  "CenterPositionLon": 22.272947543300763,
+  "CenterPositionLat": 114.17435619891592
+ },
+ {
+  "ID": 758714159,
+  "Capacity": 5,
+  "Name": "東沙島街休憩處 Pratas Street Sitting-out Area",
+  "CenterPositionLon": 22.333997165304677,
+  "CenterPositionLat": 114.15844529618003
+ },
+ {
+  "ID": 758886872,
+  "Capacity": 9,
+  "Name": "海天公園 Hoi Tin Park",
+  "CenterPositionLon": 22.30141275,
+  "CenterPositionLat": 114.227994
+ },
+ {
+  "ID": 760033373,
+  "Capacity": 12,
+  "Name": "永寧街休憩處 Wing Ning Street Siting-Out Area",
+  "CenterPositionLon": 22.277636949071685,
+  "CenterPositionLat": 114.17970315388955
+ },
+ {
+  "ID": 761123064,
+  "Capacity": 169,
+  "Name": "Sun Park",
+  "CenterPositionLon": 22.349924660592166,
+  "CenterPositionLat": 114.06015986589895
+ },
+ {
+  "ID": 762011374,
+  "Capacity": 23,
+  "Name": "Mui Wo Ferry Pier Road Sitting Area",
+  "CenterPositionLon": 22.265616453380616,
+  "CenterPositionLat": 114.00131443964348
+ },
+ {
+  "ID": 762011400,
+  "Capacity": 19,
+  "Name": "銀鑛灣觀景台 Silver Mine Bay Viewing Deck",
+  "CenterPositionLon": 22.26699130080549,
+  "CenterPositionLat": 113.99828245217712
+ },
+ {
+  "ID": 762011411,
+  "Capacity": 351,
+  "Name": "梅窩銀河花園 Mui Wo River Silver Garden",
+  "CenterPositionLon": 22.267146741754214,
+  "CenterPositionLat": 113.99767111644728
+ },
+ {
+  "ID": 762021861,
+  "Capacity": 64,
+  "Name": "梅窩銀河花園 Mui Wo River Silver Garden",
+  "CenterPositionLon": 22.266338627002618,
+  "CenterPositionLat": 113.99634497578708
+ },
+ {
+  "ID": 762021884,
+  "Capacity": 156,
+  "Name": "梅窩銀河花園 Mui Wo River Silver Garden",
+  "CenterPositionLon": 22.267313028394607,
+  "CenterPositionLat": 113.99703541145138
+ },
+ {
+  "ID": 762292297,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 22.258389114929454,
+  "CenterPositionLat": 113.99988926776378
+ },
+ {
+  "ID": 763002553,
+  "Capacity": 207,
+  "Name": "Oil Street Sitting-out Area 油街休憩公園",
+  "CenterPositionLon": 22.289484853614937,
+  "CenterPositionLat": 114.1921952146158
+ },
+ {
+  "ID": 763003335,
+  "Capacity": 98,
+  "Name": "North Point Ferry Concourse Promenade 北角渡海輪碼頭廣場海濱花園",
+  "CenterPositionLon": 22.29352265776338,
+  "CenterPositionLat": 114.2038779396703
+ },
+ {
+  "ID": 763007429,
+  "Capacity": 217,
+  "Name": "Sok Kwu Wan Playground",
+  "CenterPositionLon": 22.206209861516605,
+  "CenterPositionLat": 114.13226747427659
+ },
+ {
+  "ID": 763007432,
+  "Capacity": 8,
+  "Name": "Sok Kwu Wan Sitting-out Area",
+  "CenterPositionLon": 22.205812054615137,
+  "CenterPositionLat": 114.13169152351097
+ },
+ {
+  "ID": 763007433,
+  "Capacity": 91,
+  "Name": "Lo So Shing Sitting-out Area",
+  "CenterPositionLon": 22.205463412581768,
+  "CenterPositionLat": 114.12753210919612
+ },
+ {
+  "ID": 763007434,
+  "Capacity": 25,
+  "Name": "Yung Shue Wan Playground",
+  "CenterPositionLon": 22.224308815274203,
+  "CenterPositionLat": 114.11069516531379
+ },
+ {
+  "ID": 763007436,
+  "Capacity": 18,
+  "Name": "Yung Shue Wan Sitting-out Area",
+  "CenterPositionLon": 22.226844921918634,
+  "CenterPositionLat": 114.1111648884803
+ },
+ {
+  "ID": 763008320,
+  "Capacity": 35,
+  "Name": "OLD MAIN STREET REST GARDEN",
+  "CenterPositionLon": 22.247397761677792,
+  "CenterPositionLat": 114.15626600924736
+ },
+ {
+  "ID": 763008322,
+  "Capacity": 15,
+  "Name": "Aberdeen Boulder's Corner Rest Garden",
+  "CenterPositionLon": 22.24720539622673,
+  "CenterPositionLat": 114.15639332409866
+ },
+ {
+  "ID": 763014309,
+  "Capacity": 16,
+  "Name": "San Sang Tsuen Sitting-out Area",
+  "CenterPositionLon": 22.441029553392156,
+  "CenterPositionLat": 113.99040693117925
+ },
+ {
+  "ID": 763859253,
+  "Capacity": 20,
+  "Name": "Sitting-out Area",
+  "CenterPositionLon": 22.284280932271717,
+  "CenterPositionLat": 114.03980163781623
+ },
+ {
+  "ID": 763859254,
+  "Capacity": 17,
+  "Name": "Sitting-out Area",
+  "CenterPositionLon": 22.28389431410924,
+  "CenterPositionLat": 114.03986857108175
+ },
+ {
+  "ID": 763859259,
+  "Capacity": 13,
+  "Name": "Sitting-out Area",
+  "CenterPositionLon": 22.284720689381896,
+  "CenterPositionLat": 114.04044341218778
+ },
+ {
+  "ID": 763859265,
+  "Capacity": 10,
+  "Name": "Sitting-out Area",
+  "CenterPositionLon": 22.28430545,
+  "CenterPositionLat": 114.0416996
+ },
+ {
+  "ID": 763901551,
+  "Capacity": 287,
+  "Name": "坪洲海濱遊樂場 Peng Chau Waterfront Playground",
+  "CenterPositionLon": 22.28523278885176,
+  "CenterPositionLat": 114.03698821305252
+ },
+ {
+  "ID": 764099766,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.289096403990605,
+  "CenterPositionLat": 114.19767658065288
+ },
+ {
+  "ID": 765173859,
+  "Capacity": 414,
+  "Name": "達東路花園 Tat Tung Road Garden",
+  "CenterPositionLon": 22.290742787932246,
+  "CenterPositionLat": 113.93842243182726
+ },
+ {
+  "ID": 765696345,
+  "Capacity": 50,
+  "Name": "TAI TAU LENG SITTING-OUT AREA",
+  "CenterPositionLon": 22.502330252042057,
+  "CenterPositionLat": 114.12335442933822
+ },
+ {
+  "ID": 766434754,
+  "Capacity": 300,
+  "Name": "和睦路遊樂場 Wo Muk Road Playground",
+  "CenterPositionLon": 22.500497472778708,
+  "CenterPositionLat": 114.14212063386516
+ },
+ {
+  "ID": 767842485,
+  "Capacity": 31,
+  "Name": "Ha Tam Shui Hang 2nd Setting-out Area",
+  "CenterPositionLon": 22.547592968171916,
+  "CenterPositionLat": 114.21909775644255
+ },
+ {
+  "ID": 767852609,
+  "Capacity": 32,
+  "Name": "Ma Tsuek Leng Children's Playground",
+  "CenterPositionLon": 22.532683247553148,
+  "CenterPositionLat": 114.20012250644731
+ },
+ {
+  "ID": 767852610,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 22.53336927054736,
+  "CenterPositionLat": 114.19940273675276
+ },
+ {
+  "ID": 768245382,
+  "Capacity": 8,
+  "Name": "Po Kak Tsai Road Sitting-out Area",
+  "CenterPositionLon": 22.501732744028065,
+  "CenterPositionLat": 114.16156128438998
+ },
+ {
+  "ID": 769707426,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 22.434452800863596,
+  "CenterPositionLat": 113.99590174479347
+ },
+ {
+  "ID": 769815247,
+  "Capacity": 27,
+  "Name": "緩衝區",
+  "CenterPositionLon": 22.465459387685556,
+  "CenterPositionLat": 114.00637899935327
+ },
+ {
+  "ID": 769865866,
+  "Capacity": 3,
+  "Name": "長坑村游樂場 CHEUNG HANG VILLAGE PLAYGROUND",
+  "CenterPositionLon": 22.346940800000002,
+  "CenterPositionLat": 114.14207986666666
+ },
+ {
+  "ID": 771336071,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 22.405165639992738,
+  "CenterPositionLat": 114.27920696329248
+ },
+ {
+  "ID": 771656042,
+  "Capacity": 55,
+  "Name": "元朗市單車滙合中心 Yuen Long Town Cycling Entry / Exit Hub",
+  "CenterPositionLon": 22.44611677440335,
+  "CenterPositionLat": 114.0392141561775
+ },
+ {
+  "ID": 772123097,
+  "Capacity": 1430,
+  "Name": "馬仔坑遊樂場 Ma Chai Hang Recreation Ground",
+  "CenterPositionLon": 22.344271775709434,
+  "CenterPositionLat": 114.18870579049468
+ },
+ {
+  "ID": 772168598,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 22.49744812582207,
+  "CenterPositionLat": 114.1009565142016
+ },
+ {
+  "ID": 773906096,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 22.429508784478447,
+  "CenterPositionLat": 114.20660624808218
+ },
+ {
+  "ID": 775969233,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 22.320320923228284,
+  "CenterPositionLat": 114.15552724073902
+ },
+ {
+  "ID": 776675364,
+  "Capacity": 44,
+  "Name": "東院道休憩處 Eastern Hospital Road Sitting-out Area",
+  "CenterPositionLon": 22.274532755170565,
+  "CenterPositionLat": 114.18818086534161
+ },
+ {
+  "ID": 776900405,
+  "Capacity": 14,
+  "Name": "筲箕灣街市休憩處 Shau Kei Wan Market Building Sitting-out Area",
+  "CenterPositionLon": 22.278196084273233,
+  "CenterPositionLat": 114.23042317390345
+ },
+ {
+  "ID": 776900424,
+  "Capacity": 21,
+  "Name": "廟東街休憩處 Miu Tung Street Sitting-out Area",
+  "CenterPositionLon": 22.28029409827979,
+  "CenterPositionLat": 114.23027567557688
+ },
+ {
+  "ID": 776905460,
+  "Capacity": 124,
+  "Name": "清水灣道臨時休憩處 Clear Water Bay Road Temporary Sitting-out Area",
+  "CenterPositionLon": 22.333722342300174,
+  "CenterPositionLat": 114.22146084365448
+ },
+ {
+  "ID": 776910736,
+  "Capacity": 151,
+  "Name": "公眾休憩用地B Public Recreational Area B",
+  "CenterPositionLon": 22.32747048433899,
+  "CenterPositionLat": 114.22886799565113
+ },
+ {
+  "ID": 776910737,
+  "Capacity": 139,
+  "Name": "公眾休憩用地C Public Recreational Area C",
+  "CenterPositionLon": 22.325255537438434,
+  "CenterPositionLat": 114.23000811125101
+ },
+ {
+  "ID": 777087857,
+  "Capacity": 12,
+  "Name": "南安街休憩處 Nam On Street Sitting-out Area",
+  "CenterPositionLon": 22.279702925682535,
+  "CenterPositionLat": 114.22625505376479
+ },
+ {
+  "ID": 777132748,
+  "Capacity": 15,
+  "Name": "鰂魚涌街休憩處 Quarry Bay Street Sitting-out Area",
+  "CenterPositionLon": 22.284273271511417,
+  "CenterPositionLat": 114.21164171930604
+ },
+ {
+  "ID": 777207942,
+  "Capacity": 153,
+  "Name": "巴色道遊樂場 Basel Road Playground",
+  "CenterPositionLon": 22.281755753150758,
+  "CenterPositionLat": 114.23184038885623
+ },
+ {
+  "ID": 777658304,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 22.323478360454043,
+  "CenterPositionLat": 114.16207970766024
+ },
+ {
+  "ID": 777658305,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 22.323670487419523,
+  "CenterPositionLat": 114.16207273443601
+ },
+ {
+  "ID": 778484210,
+  "Capacity": 83,
+  "Name": "銅鑼灣遊樂場  TUNG LO WAN PLAYGROUND",
+  "CenterPositionLon": 22.377489121920807,
+  "CenterPositionLat": 114.18100844136845
+ },
+ {
+  "ID": 778862699,
+  "Capacity": 133,
+  "Name": "青賢花園 Tsing Yin Garden",
+  "CenterPositionLon": 22.39922202398198,
+  "CenterPositionLat": 113.9748522565556
+ },
+ {
+  "ID": 778875912,
+  "Capacity": 60,
+  "Name": "大興北休憩處 TAI HING NORTH SITTING-OUT AREA",
+  "CenterPositionLon": 22.4050319727968,
+  "CenterPositionLat": 113.96973774400858
+ },
+ {
+  "ID": 779053948,
+  "Capacity": 67,
+  "Name": "大涌橋路休憩處 Tai Chung Kiu Road Sitting-out Area",
+  "CenterPositionLon": 22.387048958881742,
+  "CenterPositionLat": 114.20097261010721
+ },
+ {
+  "ID": 779325126,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 22.290440169039197,
+  "CenterPositionLat": 114.20206912210068
+ },
+ {
+  "ID": 780473794,
+  "Capacity": 15,
+  "Name": "杏花村兒童遊樂場",
+  "CenterPositionLon": 22.278493935126043,
+  "CenterPositionLat": 114.23984375589517
+ },
+ {
+  "ID": 780927740,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 22.495158495326674,
+  "CenterPositionLat": 114.13639736563279
+ },
+ {
+  "ID": 780983292,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 22.49048434517144,
+  "CenterPositionLat": 114.12292269828745
+ },
+ {
+  "ID": 781674926,
+  "Capacity": 64,
+  "Name": "Resting Area",
+  "CenterPositionLon": 22.489538521147594,
+  "CenterPositionLat": 114.14287070472665
+ },
+ {
+  "ID": 781693700,
+  "Capacity": 37,
+  "Name": "Sheung Shui Heung Sitting-out Area No.10 上水鄉第十休憩處",
+  "CenterPositionLon": 22.506959766666665,
+  "CenterPositionLat": 114.12668500000001
+ },
+ {
+  "ID": 781719976,
+  "Capacity": 15,
+  "Name": "上水坑頭村第二號休憩處 Sheung Shui Hang Tau Village Sitting-out Area No.2",
+  "CenterPositionLon": 22.495378267668364,
+  "CenterPositionLat": 114.09993401901953
+ },
+ {
+  "ID": 781725035,
+  "Capacity": 43,
+  "Name": "麒麟村遊樂場 Ki Lun Tsuen Playground",
+  "CenterPositionLon": 22.490459516453466,
+  "CenterPositionLat": 114.09411615165885
+ },
+ {
+  "ID": 783103739,
+  "Capacity": 68,
+  "Name": "中文大學民主廣場",
+  "CenterPositionLon": 22.413780603380776,
+  "CenterPositionLat": 114.20962810323734
+ },
+ {
+  "ID": 783103740,
+  "Capacity": 11,
+  "Name": "中文大學文化廣場",
+  "CenterPositionLon": 22.418523067490455,
+  "CenterPositionLat": 114.20560051250679
+ },
+ {
+  "ID": 783218309,
+  "Capacity": 35,
+  "Name": "逸夫臺",
+  "CenterPositionLon": 22.422318232508122,
+  "CenterPositionLat": 114.20127685040083
+ },
+ {
+  "ID": 783622608,
+  "Capacity": 8,
+  "Name": "圓夢臺",
+  "CenterPositionLon": 22.42317919319184,
+  "CenterPositionLat": 114.20210714385036
+ },
+ {
+  "ID": 784409726,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 22.510675566694527,
+  "CenterPositionLat": 114.10940695782386
+ },
+ {
+  "ID": 784419634,
+  "Capacity": 61,
+  "Name": "雙魚河休憩處 River Beas Sitting-out Area",
+  "CenterPositionLon": 22.512686043574757,
+  "CenterPositionLat": 114.11526249074643
+ },
+ {
+  "ID": 784521962,
+  "Capacity": 71,
+  "Name": "粉嶺樓花園 Fan Leng Lau Garden",
+  "CenterPositionLon": 22.496350176753555,
+  "CenterPositionLat": 114.141570787832
+ },
+ {
+  "ID": 784521975,
+  "Capacity": 44,
+  "Name": "粉嶺樓花園 Fan Leng Lau Garden",
+  "CenterPositionLon": 22.498035484205392,
+  "CenterPositionLat": 114.14045742607455
+ },
+ {
+  "ID": 784782020,
+  "Capacity": 371,
+  "Name": "百福兒童遊樂場 Pak Fuk Childrens Playground",
+  "CenterPositionLon": 22.49477812558732,
+  "CenterPositionLat": 114.13404638018251
+ },
+ {
+  "ID": 785341618,
+  "Capacity": 33,
+  "Name": "單車休息處 Resting Area",
+  "CenterPositionLon": 22.479273850418345,
+  "CenterPositionLat": 114.05717233028751
+ },
+ {
+  "ID": 785350532,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 22.454328122688253,
+  "CenterPositionLat": 114.04907755559881
+ },
+ {
+  "ID": 786203269,
+  "Capacity": 274,
+  "Name": "安東街臨時休憩處 On Tung Street Temporary Sitting-out Area",
+  "CenterPositionLon": 22.283421076199872,
+  "CenterPositionLat": 113.94095760053793
+ },
+ {
+  "ID": 787051824,
+  "Capacity": 16,
+  "Name": "粉嶺康樂公園 Fanling Hong Lok Park",
+  "CenterPositionLon": 22.491378002743772,
+  "CenterPositionLat": 114.14322081584848
+ },
+ {
+  "ID": 787894910,
+  "Capacity": 174,
+  "Name": "",
+  "CenterPositionLon": 22.37757807402648,
+  "CenterPositionLat": 114.10315176817917
+ },
+ {
+  "ID": 788169186,
+  "Capacity": 117,
+  "Name": "新運路花園 San Wan Road Garden",
+  "CenterPositionLon": 22.50051655069957,
+  "CenterPositionLat": 114.12989244493909
+ },
+ {
+  "ID": 788897333,
+  "Capacity": 32,
+  "Name": "泰民街休憩處",
+  "CenterPositionLon": 22.267723352196406,
+  "CenterPositionLat": 114.23408904137005
+ },
+ {
+  "ID": 789121707,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 22.363958177015864,
+  "CenterPositionLat": 114.12482647919327
+ },
+ {
+  "ID": 791196297,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 22.33707252124259,
+  "CenterPositionLat": 114.16490026013453
+ },
+ {
+  "ID": 795554191,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 22.534987414762337,
+  "CenterPositionLat": 114.16276395668015
+ },
+ {
+  "ID": 796393552,
+  "Capacity": 186,
+  "Name": "屯門單車匯合中心 Tuen Mun Cycling Entry/Exit Hub",
+  "CenterPositionLon": 22.415135143029197,
+  "CenterPositionLat": 113.97951857174841
+ },
+ {
+  "ID": 800031155,
+  "Capacity": 87,
+  "Name": "吉澳遊樂場 Kat O Playground",
+  "CenterPositionLon": 22.55073648592662,
+  "CenterPositionLat": 114.29168111384656
+ },
+ {
+  "ID": 800759734,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 22.505184435727298,
+  "CenterPositionLat": 114.13119969111501
+ },
+ {
+  "ID": 801925701,
+  "Capacity": 209,
+  "Name": "石湖墟遊樂場  Shwk Wu Hui Playground",
+  "CenterPositionLon": 22.503678599994632,
+  "CenterPositionLat": 114.12830052392934
+ },
+ {
+  "ID": 801954752,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.521487248124053,
+  "CenterPositionLat": 114.16406615103406
+ },
+ {
+  "ID": 801954753,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.521547261020967,
+  "CenterPositionLat": 114.16428472244435
+ },
+ {
+  "ID": 801977085,
+  "Capacity": 39,
+  "Name": "田心休憩處 Tin Sum Sitting-out Area",
+  "CenterPositionLon": 22.490998441517657,
+  "CenterPositionLat": 114.13829907799816
+ },
+ {
+  "ID": 802078384,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 22.502401229464628,
+  "CenterPositionLat": 114.13007829851571
+ },
+ {
+  "ID": 802393765,
+  "Capacity": 65,
+  "Name": "新屋村休憩處 San Uk Tsuen Sitting-out Area",
+  "CenterPositionLon": 22.503075996116184,
+  "CenterPositionLat": 114.14818599728623
+ },
+ {
+  "ID": 802422976,
+  "Capacity": 12,
+  "Name": "萊洞休憩處 Loi Tung Resting Area",
+  "CenterPositionLon": 22.520917880524244,
+  "CenterPositionLat": 114.18385669760642
+ }
+]

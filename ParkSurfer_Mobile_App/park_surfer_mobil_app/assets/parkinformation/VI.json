@@ -1,0 +1,51 @@
+[
+ {
+  "ID": 38310759,
+  "Capacity": 1974,
+  "Name": "",
+  "CenterPositionLon": 18.32335036158247,
+  "CenterPositionLat": -64.85144589182559
+ },
+ {
+  "ID": 38311399,
+  "Capacity": 108,
+  "Name": "Emancipation Gardens Park",
+  "CenterPositionLon": 18.341206800203974,
+  "CenterPositionLat": -64.93034879600438
+ },
+ {
+  "ID": 38485624,
+  "Capacity": 210,
+  "Name": "FDR Park",
+  "CenterPositionLon": 18.341900869817383,
+  "CenterPositionLat": -64.9281774081396
+ },
+ {
+  "ID": 292984513,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 18.34185870916108,
+  "CenterPositionLat": -64.93080461800137
+ },
+ {
+  "ID": 403878063,
+  "Capacity": 114,
+  "Name": "",
+  "CenterPositionLon": 18.341942983129602,
+  "CenterPositionLat": -64.70814217441034
+ },
+ {
+  "ID": 485925504,
+  "Capacity": 234,
+  "Name": "Winston Wells Ball Park",
+  "CenterPositionLon": 18.330318173418043,
+  "CenterPositionLat": -64.79349489946468
+ },
+ {
+  "ID": 526286540,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 17.725195311581867,
+  "CenterPositionLat": -64.73231143474013
+ }
+]

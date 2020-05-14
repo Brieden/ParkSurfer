@@ -1,0 +1,142 @@
+[
+ {
+  "ID": 35550957,
+  "Capacity": 564,
+  "Name": "Place Léopold Héder",
+  "CenterPositionLon": 4.9392224963166305,
+  "CenterPositionLat": -52.33536546838527
+ },
+ {
+  "ID": 37452608,
+  "Capacity": 121,
+  "Name": "Place Lakou Mango",
+  "CenterPositionLon": 4.912432990124552,
+  "CenterPositionLat": -52.27021259714918
+ },
+ {
+  "ID": 71518540,
+  "Capacity": 816,
+  "Name": "",
+  "CenterPositionLon": 5.1646833254520175,
+  "CenterPositionLat": -52.63872061856492
+ },
+ {
+  "ID": 71604342,
+  "Capacity": 118,
+  "Name": "Square Edison",
+  "CenterPositionLon": 5.157385267857587,
+  "CenterPositionLat": -52.653977408797616
+ },
+ {
+  "ID": 99256295,
+  "Capacity": 190,
+  "Name": "Square du Colonel Prével",
+  "CenterPositionLon": 5.502797121827007,
+  "CenterPositionLat": -54.02783217017864
+ },
+ {
+  "ID": 164777540,
+  "Capacity": 267,
+  "Name": "",
+  "CenterPositionLon": 4.94381108672806,
+  "CenterPositionLat": -52.332141890294956
+ },
+ {
+  "ID": 164778797,
+  "Capacity": 689,
+  "Name": "",
+  "CenterPositionLon": 4.9451263534339285,
+  "CenterPositionLat": -52.32585708542036
+ },
+ {
+  "ID": 164778890,
+  "Capacity": 120,
+  "Name": "Park",
+  "CenterPositionLon": 4.943842719359278,
+  "CenterPositionLat": -52.31882570999762
+ },
+ {
+  "ID": 164854970,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 4.9430973099341085,
+  "CenterPositionLat": -52.3283166151397
+ },
+ {
+  "ID": 165366969,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": 4.943492686987259,
+  "CenterPositionLat": -52.331235391223025
+ },
+ {
+  "ID": 368215332,
+  "Capacity": 440,
+  "Name": "Square Marcel Florent-Blézés",
+  "CenterPositionLon": 5.502079803428742,
+  "CenterPositionLat": -54.025475010440026
+ },
+ {
+  "ID": 483553145,
+  "Capacity": 215,
+  "Name": "Parc",
+  "CenterPositionLon": 4.912387522720504,
+  "CenterPositionLat": -52.27213420314022
+ },
+ {
+  "ID": 500234000,
+  "Capacity": 763,
+  "Name": "Jardin Paysager",
+  "CenterPositionLon": 4.941998974397771,
+  "CenterPositionLat": -52.30323336191568
+ },
+ {
+  "ID": 585788253,
+  "Capacity": 735,
+  "Name": "",
+  "CenterPositionLon": 4.944459633463805,
+  "CenterPositionLat": -52.321436757868355
+ },
+ {
+  "ID": 631696769,
+  "Capacity": 331,
+  "Name": "",
+  "CenterPositionLon": 4.8921495852339,
+  "CenterPositionLat": -52.492836990105715
+ },
+ {
+  "ID": 636678425,
+  "Capacity": 676,
+  "Name": "",
+  "CenterPositionLon": 4.848538545514788,
+  "CenterPositionLat": -52.33096091917867
+ },
+ {
+  "ID": 658388598,
+  "Capacity": 2395,
+  "Name": "Place des Palmistes",
+  "CenterPositionLon": 4.939622055047427,
+  "CenterPositionLat": -52.33383847168144
+ },
+ {
+  "ID": 729141813,
+  "Capacity": 380,
+  "Name": "",
+  "CenterPositionLon": 4.935063964882761,
+  "CenterPositionLat": -52.302446992147274
+ },
+ {
+  "ID": 741106655,
+  "Capacity": 118,
+  "Name": "Espace Gaan Man Gason Amatodja",
+  "CenterPositionLon": 4.2743158333333335,
+  "CenterPositionLat": -54.38323663333333
+ },
+ {
+  "ID": 777028686,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 4.930562305648747,
+  "CenterPositionLat": -52.30081066508426
+ }
+]

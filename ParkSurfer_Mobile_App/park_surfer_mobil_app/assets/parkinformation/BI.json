@@ -1,0 +1,170 @@
+[
+ {
+  "ID": 29863497,
+  "Capacity": 6848,
+  "Name": "Jardin Public",
+  "CenterPositionLon": -3.3919551550619786,
+  "CenterPositionLat": 29.375533323225987
+ },
+ {
+  "ID": 46692291,
+  "Capacity": 887,
+  "Name": "Place de l'Indépendance",
+  "CenterPositionLon": -3.382339137139061,
+  "CenterPositionLat": 29.361413401536005
+ },
+ {
+  "ID": 46753243,
+  "Capacity": 1134,
+  "Name": "Place de la Révolution",
+  "CenterPositionLon": -3.388136623121201,
+  "CenterPositionLat": 29.361575955543575
+ },
+ {
+  "ID": 112648105,
+  "Capacity": 1812,
+  "Name": "",
+  "CenterPositionLon": -3.39927833217827,
+  "CenterPositionLat": 29.358217773992656
+ },
+ {
+  "ID": 205352859,
+  "Capacity": 3509,
+  "Name": "",
+  "CenterPositionLon": -3.3928700082638024,
+  "CenterPositionLat": 29.388161549566064
+ },
+ {
+  "ID": 239879599,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": -3.476192261189771,
+  "CenterPositionLat": 30.248524494941258
+ },
+ {
+  "ID": 422437652,
+  "Capacity": 1487,
+  "Name": "",
+  "CenterPositionLon": -2.8090185368243556,
+  "CenterPositionLat": 29.079245856219025
+ },
+ {
+  "ID": 563955705,
+  "Capacity": 349,
+  "Name": "",
+  "CenterPositionLon": -3.913878008284708,
+  "CenterPositionLat": 29.840388467404356
+ },
+ {
+  "ID": 580799242,
+  "Capacity": 1853,
+  "Name": "",
+  "CenterPositionLon": -2.9096326275647133,
+  "CenterPositionLat": 29.824909997861308
+ },
+ {
+  "ID": 703975396,
+  "Capacity": 458,
+  "Name": "",
+  "CenterPositionLon": -3.6238816488484002,
+  "CenterPositionLat": 30.311564639820187
+ },
+ {
+  "ID": 736756755,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": -4.341283714291238,
+  "CenterPositionLat": 29.601628188045016
+ },
+ {
+  "ID": 736767402,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": -4.340952551003262,
+  "CenterPositionLat": 29.60346002494921
+ },
+ {
+  "ID": 744447176,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": -2.878761792499309,
+  "CenterPositionLat": 30.20945484387247
+ },
+ {
+  "ID": 756516639,
+  "Capacity": 285,
+  "Name": "",
+  "CenterPositionLon": -4.338893488015,
+  "CenterPositionLat": 29.614023266758235
+ },
+ {
+  "ID": 787626130,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": -4.19068765,
+  "CenterPositionLat": 29.770768
+ },
+ {
+  "ID": 792077585,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": -4.134432622307089,
+  "CenterPositionLat": 29.80172612931344
+ },
+ {
+  "ID": 792089637,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": -4.11873748215509,
+  "CenterPositionLat": 30.05370783318532
+ },
+ {
+  "ID": 792089638,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -4.118842449063743,
+  "CenterPositionLat": 30.053821222077435
+ },
+ {
+  "ID": 792089639,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": -4.118791714571124,
+  "CenterPositionLat": 30.053912798076635
+ },
+ {
+  "ID": 792089640,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": -4.118972138415759,
+  "CenterPositionLat": 30.053675339546004
+ },
+ {
+  "ID": 792089641,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": -4.118886361532006,
+  "CenterPositionLat": 30.05374826347454
+ },
+ {
+  "ID": 792089642,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -4.1188325099434655,
+  "CenterPositionLat": 30.05369634365314
+ },
+ {
+  "ID": 792102115,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": -4.146912405865466,
+  "CenterPositionLat": 29.62183906273006
+ },
+ {
+  "ID": 794342093,
+  "Capacity": 274,
+  "Name": "",
+  "CenterPositionLon": -4.006912119886444,
+  "CenterPositionLat": 29.450847064368087
+ }
+]

@@ -1,0 +1,240 @@
+[
+ {
+  "ID": 169093569,
+  "Capacity": 525,
+  "Name": "",
+  "CenterPositionLon": 6.905448043361705,
+  "CenterPositionLat": 0.6334956819092107
+ },
+ {
+  "ID": 215164471,
+  "Capacity": 132,
+  "Name": "Park Fontaine Omidoudou",
+  "CenterPositionLon": 7.529319437135415,
+  "CenterPositionLat": 1.1272051152011116
+ },
+ {
+  "ID": 264339277,
+  "Capacity": 615,
+  "Name": "",
+  "CenterPositionLon": 6.128090419380206,
+  "CenterPositionLat": 1.2136686960089595
+ },
+ {
+  "ID": 264339786,
+  "Capacity": 1103,
+  "Name": "",
+  "CenterPositionLon": 6.126980736190677,
+  "CenterPositionLat": 1.2135439023809391
+ },
+ {
+  "ID": 266410577,
+  "Capacity": 11067,
+  "Name": "Espace D' amenagement futur du site touristique de Kamina",
+  "CenterPositionLon": 7.504800429834938,
+  "CenterPositionLat": 1.1702001669124906
+ },
+ {
+  "ID": 271450670,
+  "Capacity": 11411,
+  "Name": "Palais de Lomé (Ancien Palais des Gouverneurs)",
+  "CenterPositionLon": 6.1202458547771545,
+  "CenterPositionLat": 1.2121831108632604
+ },
+ {
+  "ID": 380264656,
+  "Capacity": 679,
+  "Name": "",
+  "CenterPositionLon": 6.176806579822593,
+  "CenterPositionLat": 1.242946770027604
+ },
+ {
+  "ID": 384202314,
+  "Capacity": 1403,
+  "Name": "",
+  "CenterPositionLon": 7.6578050002692155,
+  "CenterPositionLat": 0.7958424466819275
+ },
+ {
+  "ID": 402872580,
+  "Capacity": 10230,
+  "Name": "",
+  "CenterPositionLon": 9.539160292219684,
+  "CenterPositionLat": 0.8555560738056767
+ },
+ {
+  "ID": 404151283,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 6.87735901455953,
+  "CenterPositionLat": 1.2738647265923007
+ },
+ {
+  "ID": 408752087,
+  "Capacity": 2024,
+  "Name": "",
+  "CenterPositionLon": 6.176878449775294,
+  "CenterPositionLat": 1.2411843391097366
+ },
+ {
+  "ID": 408752217,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": 6.1746293876976885,
+  "CenterPositionLat": 1.2419841435896724
+ },
+ {
+  "ID": 419003001,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 8.988652414018828,
+  "CenterPositionLat": 1.1264846622157623
+ },
+ {
+  "ID": 420571879,
+  "Capacity": 203,
+  "Name": "",
+  "CenterPositionLon": 8.979853345809163,
+  "CenterPositionLat": 1.1508494299187628
+ },
+ {
+  "ID": 420583851,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 8.994272864130867,
+  "CenterPositionLat": 1.134668813126106
+ },
+ {
+  "ID": 420583852,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 8.99444747924869,
+  "CenterPositionLat": 1.1354288977983584
+ },
+ {
+  "ID": 425187115,
+  "Capacity": 154,
+  "Name": "",
+  "CenterPositionLon": 8.99394356381533,
+  "CenterPositionLat": 1.1184102804495846
+ },
+ {
+  "ID": 425187116,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": 8.993797949457967,
+  "CenterPositionLat": 1.1189740430071082
+ },
+ {
+  "ID": 425187117,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 8.994053397105574,
+  "CenterPositionLat": 1.1200385486574285
+ },
+ {
+  "ID": 425187527,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 8.994370618252997,
+  "CenterPositionLat": 1.119102267294291
+ },
+ {
+  "ID": 508242852,
+  "Capacity": 555,
+  "Name": "",
+  "CenterPositionLon": 6.659162108854526,
+  "CenterPositionLat": 1.4144864274914486
+ },
+ {
+  "ID": 508242853,
+  "Capacity": 507,
+  "Name": "",
+  "CenterPositionLon": 6.658881682637219,
+  "CenterPositionLat": 1.4139498498751244
+ },
+ {
+  "ID": 617488186,
+  "Capacity": 1360,
+  "Name": "attikoume",
+  "CenterPositionLon": 6.416433023394095,
+  "CenterPositionLat": 1.212802208444978
+ },
+ {
+  "ID": 651718624,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 11.036197633333334,
+  "CenterPositionLat": 0.1173183
+ },
+ {
+  "ID": 651718625,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 11.036251125545077,
+  "CenterPositionLat": 0.11724288567055155
+ },
+ {
+  "ID": 653389959,
+  "Capacity": 653,
+  "Name": "",
+  "CenterPositionLon": 6.902140385690868,
+  "CenterPositionLat": 0.6336888040789818
+ },
+ {
+  "ID": 653409031,
+  "Capacity": 164,
+  "Name": "Yesuvito",
+  "CenterPositionLon": 6.904518312434665,
+  "CenterPositionLat": 0.6320413886469565
+ },
+ {
+  "ID": 713380496,
+  "Capacity": 1064,
+  "Name": "Centre de loisirs BOAD",
+  "CenterPositionLon": 6.168763372695021,
+  "CenterPositionLat": 1.3207616911530473
+ },
+ {
+  "ID": 754250999,
+  "Capacity": 812,
+  "Name": "Terrain de Foot",
+  "CenterPositionLon": 6.530793418271663,
+  "CenterPositionLat": 0.8635363149979441
+ },
+ {
+  "ID": 754671264,
+  "Capacity": 2043,
+  "Name": "L'occupation du sol",
+  "CenterPositionLon": 6.802813149331491,
+  "CenterPositionLat": 0.7989100032773726
+ },
+ {
+  "ID": 763171972,
+  "Capacity": 155,
+  "Name": "Park",
+  "CenterPositionLon": 6.449929661182293,
+  "CenterPositionLat": 0.9111696893838674
+ },
+ {
+  "ID": 767628881,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 6.254894198911867,
+  "CenterPositionLat": 1.1794692193379304
+ },
+ {
+  "ID": 769028569,
+  "Capacity": 137,
+  "Name": "jardin",
+  "CenterPositionLon": 6.219474684162996,
+  "CenterPositionLat": 1.1816371635642229
+ },
+ {
+  "ID": 769028585,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 6.221652545991424,
+  "CenterPositionLat": 1.1826442119962646
+ }
+]

@@ -1,0 +1,2151 @@
+[
+ {
+  "ID": 8048529,
+  "Capacity": 99,
+  "Name": "Magister Square",
+  "CenterPositionLon": 6.027694677532726,
+  "CenterPositionLat": 80.21908710028511
+ },
+ {
+  "ID": 19145852,
+  "Capacity": 2034,
+  "Name": "Victoria Park",
+  "CenterPositionLon": 6.96941681980852,
+  "CenterPositionLat": 80.76834836390687
+ },
+ {
+  "ID": 22323428,
+  "Capacity": 4765,
+  "Name": "Vihara Mahadevi Park",
+  "CenterPositionLon": 6.91353275348924,
+  "CenterPositionLat": 79.86176882325445
+ },
+ {
+  "ID": 27712165,
+  "Capacity": 1642,
+  "Name": "Galle Face Green",
+  "CenterPositionLon": 6.924224931100765,
+  "CenterPositionLat": 79.84472984718845
+ },
+ {
+  "ID": 28239769,
+  "Capacity": 586,
+  "Name": "Dharmapala Park",
+  "CenterPositionLon": 6.032406397172206,
+  "CenterPositionLat": 80.2136976478737
+ },
+ {
+  "ID": 48893891,
+  "Capacity": 452,
+  "Name": "Cooray playground",
+  "CenterPositionLon": 6.8792593893299445,
+  "CenterPositionLat": 79.86342165398503
+ },
+ {
+  "ID": 51270094,
+  "Capacity": 220,
+  "Name": "Ratnam playground",
+  "CenterPositionLon": 6.945103474109924,
+  "CenterPositionLat": 79.8628624481989
+ },
+ {
+  "ID": 51984767,
+  "Capacity": 651,
+  "Name": "Police Ground",
+  "CenterPositionLon": 6.894177420604989,
+  "CenterPositionLat": 79.86267682442528
+ },
+ {
+  "ID": 54225357,
+  "Capacity": 45,
+  "Name": "Esala Children Park",
+  "CenterPositionLon": 6.915778042696935,
+  "CenterPositionLat": 79.89160274910013
+ },
+ {
+  "ID": 83334963,
+  "Capacity": 946,
+  "Name": "Parliament Ground",
+  "CenterPositionLon": 6.893004031135701,
+  "CenterPositionLat": 79.9191206988047
+ },
+ {
+  "ID": 95074204,
+  "Capacity": 3240,
+  "Name": "",
+  "CenterPositionLon": 6.845724243250452,
+  "CenterPositionLat": 79.90999197557666
+ },
+ {
+  "ID": 97786199,
+  "Capacity": 93,
+  "Name": "White Park",
+  "CenterPositionLon": 6.92626425972183,
+  "CenterPositionLat": 79.87171617744625
+ },
+ {
+  "ID": 98391417,
+  "Capacity": 32,
+  "Name": "Hudson Park",
+  "CenterPositionLon": 6.719943396789542,
+  "CenterPositionLat": 79.9053507599345
+ },
+ {
+  "ID": 98391449,
+  "Capacity": 99,
+  "Name": "Singithi Uyana",
+  "CenterPositionLon": 6.586481320543253,
+  "CenterPositionLat": 79.96169827209876
+ },
+ {
+  "ID": 99837956,
+  "Capacity": 404,
+  "Name": "Subramaniyam park",
+  "CenterPositionLon": 9.660996449233105,
+  "CenterPositionLat": 80.01263358305322
+ },
+ {
+  "ID": 102371583,
+  "Capacity": 898,
+  "Name": "Help Green Park",
+  "CenterPositionLon": 8.328919013052051,
+  "CenterPositionLat": 80.41254698599998
+ },
+ {
+  "ID": 136845710,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 6.029831184790869,
+  "CenterPositionLat": 80.21643145963712
+ },
+ {
+  "ID": 137294982,
+  "Capacity": 33,
+  "Name": "Army Park",
+  "CenterPositionLon": 6.028411983147329,
+  "CenterPositionLat": 80.21511465705845
+ },
+ {
+  "ID": 153100781,
+  "Capacity": 364,
+  "Name": "Royal Palace Park",
+  "CenterPositionLon": 7.290369482981427,
+  "CenterPositionLat": 80.63747823408248
+ },
+ {
+  "ID": 162573577,
+  "Capacity": 111,
+  "Name": "",
+  "CenterPositionLon": 9.735416852950106,
+  "CenterPositionLat": 80.09457276963633
+ },
+ {
+  "ID": 170062618,
+  "Capacity": 863,
+  "Name": "Beach Park",
+  "CenterPositionLon": 5.942164712793529,
+  "CenterPositionLat": 80.55381849743196
+ },
+ {
+  "ID": 171745039,
+  "Capacity": 188,
+  "Name": "Beach Park",
+  "CenterPositionLon": 6.476858260320728,
+  "CenterPositionLat": 79.9821828344985
+ },
+ {
+  "ID": 172893138,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 7.292700050089657,
+  "CenterPositionLat": 80.63452061595615
+ },
+ {
+  "ID": 173114280,
+  "Capacity": 111,
+  "Name": "Hyde Park",
+  "CenterPositionLon": 6.919383517007932,
+  "CenterPositionLat": 79.86128444138264
+ },
+ {
+  "ID": 177258189,
+  "Capacity": 105,
+  "Name": "Children Park",
+  "CenterPositionLon": 6.8856310191533145,
+  "CenterPositionLat": 79.8668059147069
+ },
+ {
+  "ID": 185031770,
+  "Capacity": 22,
+  "Name": "Children's Park",
+  "CenterPositionLon": 6.293355032220802,
+  "CenterPositionLat": 80.16481136913274
+ },
+ {
+  "ID": 187932863,
+  "Capacity": 1398,
+  "Name": "kalamatiya Bird Sanctuary",
+  "CenterPositionLon": 6.101457435386077,
+  "CenterPositionLat": 80.95959300845801
+ },
+ {
+  "ID": 202505165,
+  "Capacity": 489,
+  "Name": "MOD Land",
+  "CenterPositionLon": 6.909274627844251,
+  "CenterPositionLat": 79.90221478638796
+ },
+ {
+  "ID": 204200066,
+  "Capacity": 440,
+  "Name": "Dino Park",
+  "CenterPositionLon": 7.209223727493786,
+  "CenterPositionLat": 79.84598587555423
+ },
+ {
+  "ID": 224073080,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": 6.926108025221006,
+  "CenterPositionLat": 79.86067028103979
+ },
+ {
+  "ID": 224199723,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 7.725587425834369,
+  "CenterPositionLat": 81.68900918641855
+ },
+ {
+  "ID": 224199749,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 7.725528100000002,
+  "CenterPositionLat": 81.6890893
+ },
+ {
+  "ID": 224713700,
+  "Capacity": 721,
+  "Name": "Digana Forest Park",
+  "CenterPositionLon": 7.297879027736055,
+  "CenterPositionLat": 80.7337958196511
+ },
+ {
+  "ID": 225745899,
+  "Capacity": 67,
+  "Name": "Guesthouse Isabella",
+  "CenterPositionLon": 6.453273968392759,
+  "CenterPositionLat": 79.98024265523544
+ },
+ {
+  "ID": 226670888,
+  "Capacity": 52,
+  "Name": "Children Park",
+  "CenterPositionLon": 7.7548113033058055,
+  "CenterPositionLat": 81.68577458286919
+ },
+ {
+  "ID": 230537941,
+  "Capacity": 121,
+  "Name": "Ethirloli Sports Club",
+  "CenterPositionLon": 7.1297130499999986,
+  "CenterPositionLat": 81.85692775
+ },
+ {
+  "ID": 231456854,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 6.852300645483158,
+  "CenterPositionLat": 79.90107139181126
+ },
+ {
+  "ID": 232552306,
+  "Capacity": 232,
+  "Name": "Vystwyke Park",
+  "CenterPositionLon": 6.970792817542312,
+  "CenterPositionLat": 79.87336838744349
+ },
+ {
+  "ID": 232602670,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 6.911159883333896,
+  "CenterPositionLat": 79.87277955907874
+ },
+ {
+  "ID": 232602687,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 6.9112875512588845,
+  "CenterPositionLat": 79.87211003696144
+ },
+ {
+  "ID": 232617170,
+  "Capacity": 51,
+  "Name": "BMICH Park",
+  "CenterPositionLon": 6.902923513167522,
+  "CenterPositionLat": 79.87291918489659
+ },
+ {
+  "ID": 233479635,
+  "Capacity": 420,
+  "Name": "Vavuniya Park",
+  "CenterPositionLon": 8.758098897219849,
+  "CenterPositionLat": 80.49603968928994
+ },
+ {
+  "ID": 236372130,
+  "Capacity": 795,
+  "Name": "Urban Wet Land Park",
+  "CenterPositionLon": 6.880821045826234,
+  "CenterPositionLat": 79.89177404160522
+ },
+ {
+  "ID": 239290258,
+  "Capacity": 276,
+  "Name": "Lourds Play ground",
+  "CenterPositionLon": 7.0349382068439175,
+  "CenterPositionLat": 79.92681284988367
+ },
+ {
+  "ID": 249162685,
+  "Capacity": 87,
+  "Name": "ground",
+  "CenterPositionLon": 7.257095938954238,
+  "CenterPositionLat": 80.592425992544
+ },
+ {
+  "ID": 249170770,
+  "Capacity": 51,
+  "Name": "Akbar Hall Ground",
+  "CenterPositionLon": 7.2521985574076355,
+  "CenterPositionLat": 80.59172437554683
+ },
+ {
+  "ID": 249499877,
+  "Capacity": 48,
+  "Name": "Rajagiriya Perakumba Peace Park",
+  "CenterPositionLon": 6.908669531120634,
+  "CenterPositionLat": 79.8957825459377
+ },
+ {
+  "ID": 255688977,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 6.890181033555921,
+  "CenterPositionLat": 79.9924587827265
+ },
+ {
+  "ID": 258454983,
+  "Capacity": 237,
+  "Name": "",
+  "CenterPositionLon": 7.997502555618869,
+  "CenterPositionLat": 80.26900058876768
+ },
+ {
+  "ID": 258883902,
+  "Capacity": 769,
+  "Name": "Apé Gama",
+  "CenterPositionLon": 6.890402198106327,
+  "CenterPositionLat": 79.92163610121119
+ },
+ {
+  "ID": 258998970,
+  "Capacity": 883,
+  "Name": "Badulla Botanical Garden",
+  "CenterPositionLon": 6.990861802096023,
+  "CenterPositionLat": 81.06331753946839
+ },
+ {
+  "ID": 267208685,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 6.965443195529815,
+  "CenterPositionLat": 80.76678159710026
+ },
+ {
+  "ID": 269127346,
+  "Capacity": 23,
+  "Name": "Children Park",
+  "CenterPositionLon": 7.127097302421951,
+  "CenterPositionLat": 81.82887415609744
+ },
+ {
+  "ID": 271066939,
+  "Capacity": 15,
+  "Name": "Isurupura Singithi Uyana",
+  "CenterPositionLon": 6.913115932766744,
+  "CenterPositionLat": 79.97722242075287
+ },
+ {
+  "ID": 279401794,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 7.9190112,
+  "CenterPositionLat": 80.99789975
+ },
+ {
+  "ID": 286832934,
+  "Capacity": 21,
+  "Name": "Children Park Sammanthurai",
+  "CenterPositionLon": 7.370752594936657,
+  "CenterPositionLat": 81.80976131454324
+ },
+ {
+  "ID": 286999764,
+  "Capacity": 2349,
+  "Name": "Foxhill Supercross Track",
+  "CenterPositionLon": 6.827286801061364,
+  "CenterPositionLat": 80.9624660791402
+ },
+ {
+  "ID": 287253013,
+  "Capacity": 57,
+  "Name": "Torrington Public Park",
+  "CenterPositionLon": 7.2926950999999995,
+  "CenterPositionLat": 80.63548765
+ },
+ {
+  "ID": 287419519,
+  "Capacity": 114,
+  "Name": "school ground",
+  "CenterPositionLon": 7.506901375676937,
+  "CenterPositionLat": 80.66402442021965
+ },
+ {
+  "ID": 287466163,
+  "Capacity": 128,
+  "Name": "Play Ground",
+  "CenterPositionLon": 7.338886220087197,
+  "CenterPositionLat": 80.21461067777969
+ },
+ {
+  "ID": 288254528,
+  "Capacity": 75,
+  "Name": "School Ground",
+  "CenterPositionLon": 6.14966885,
+  "CenterPositionLat": 80.6969414
+ },
+ {
+  "ID": 288402227,
+  "Capacity": 40,
+  "Name": "School Ground",
+  "CenterPositionLon": 6.148864954448926,
+  "CenterPositionLat": 80.69713738361038
+ },
+ {
+  "ID": 288509212,
+  "Capacity": 253,
+  "Name": "Veeramunai children park",
+  "CenterPositionLon": 7.371961720103551,
+  "CenterPositionLat": 81.79735669843117
+ },
+ {
+  "ID": 297394695,
+  "Capacity": 142,
+  "Name": "E.L. Senanayake Children's Park",
+  "CenterPositionLon": 7.287623368814637,
+  "CenterPositionLat": 80.64735499015576
+ },
+ {
+  "ID": 302206235,
+  "Capacity": 184,
+  "Name": "Rajapihilla Park",
+  "CenterPositionLon": 7.485146338921884,
+  "CenterPositionLat": 80.3657862638166
+ },
+ {
+  "ID": 307319761,
+  "Capacity": 130,
+  "Name": "Meddegoda temple",
+  "CenterPositionLon": 7.527742258784025,
+  "CenterPositionLat": 80.26864588688649
+ },
+ {
+  "ID": 308899117,
+  "Capacity": 73,
+  "Name": "Diyawanna Oya Park",
+  "CenterPositionLon": 6.905182726400736,
+  "CenterPositionLat": 79.9056660288417
+ },
+ {
+  "ID": 310189994,
+  "Capacity": 617,
+  "Name": "Ayurwedic Osu Uyana",
+  "CenterPositionLon": 6.325207784164024,
+  "CenterPositionLat": 80.84728567932827
+ },
+ {
+  "ID": 312911261,
+  "Capacity": 295,
+  "Name": "P D Sirisena Play Ground",
+  "CenterPositionLon": 6.935379486654458,
+  "CenterPositionLat": 79.86883562642518
+ },
+ {
+  "ID": 313646575,
+  "Capacity": 79,
+  "Name": "Play Ground",
+  "CenterPositionLon": 7.029324493372007,
+  "CenterPositionLat": 79.96645784160776
+ },
+ {
+  "ID": 313914418,
+  "Capacity": 413,
+  "Name": "",
+  "CenterPositionLon": 7.121039046702497,
+  "CenterPositionLat": 79.91155138945201
+ },
+ {
+  "ID": 316346632,
+  "Capacity": 39,
+  "Name": "Kegalle Police Park",
+  "CenterPositionLon": 7.255137220965099,
+  "CenterPositionLat": 80.35386413672249
+ },
+ {
+  "ID": 317134521,
+  "Capacity": 203,
+  "Name": "",
+  "CenterPositionLon": 8.494654410935844,
+  "CenterPositionLat": 81.18622148220744
+ },
+ {
+  "ID": 317134639,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 8.48793225909944,
+  "CenterPositionLat": 81.18897560840803
+ },
+ {
+  "ID": 317137698,
+  "Capacity": 436,
+  "Name": "",
+  "CenterPositionLon": 8.497454747486548,
+  "CenterPositionLat": 81.18083174978004
+ },
+ {
+  "ID": 317144329,
+  "Capacity": 222,
+  "Name": "",
+  "CenterPositionLon": 8.501299514324579,
+  "CenterPositionLat": 81.17177627170862
+ },
+ {
+  "ID": 317144386,
+  "Capacity": 202,
+  "Name": "",
+  "CenterPositionLon": 8.49978908946979,
+  "CenterPositionLat": 81.17278898373517
+ },
+ {
+  "ID": 321129925,
+  "Capacity": 7,
+  "Name": "Diyatha Uyana Fountain",
+  "CenterPositionLon": 6.903802162297262,
+  "CenterPositionLat": 79.90994392853281
+ },
+ {
+  "ID": 323014177,
+  "Capacity": 11,
+  "Name": "Badulla Ranaviru Memento",
+  "CenterPositionLon": 6.98782167276668,
+  "CenterPositionLat": 81.06147071749204
+ },
+ {
+  "ID": 323380110,
+  "Capacity": 14,
+  "Name": "Badulla MC Haritha Uyana",
+  "CenterPositionLon": 6.991350252684812,
+  "CenterPositionLat": 81.05640073939806
+ },
+ {
+  "ID": 326498656,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 7.069629969121709,
+  "CenterPositionLat": 79.95396149158483
+ },
+ {
+  "ID": 327534932,
+  "Capacity": 22,
+  "Name": "Nelum Pokuna Flag Area",
+  "CenterPositionLon": 6.911346645895131,
+  "CenterPositionLat": 79.86401877721417
+ },
+ {
+  "ID": 332227623,
+  "Capacity": 3,
+  "Name": "Vehicle Park",
+  "CenterPositionLon": 7.30213058014476,
+  "CenterPositionLat": 81.8550531875077
+ },
+ {
+  "ID": 342846951,
+  "Capacity": 310,
+  "Name": "Oval",
+  "CenterPositionLon": 7.272033246238468,
+  "CenterPositionLat": 80.59522854616057
+ },
+ {
+  "ID": 343601672,
+  "Capacity": 309,
+  "Name": "Sri Jayawardenapura Campus Ground",
+  "CenterPositionLon": 6.852396069008477,
+  "CenterPositionLat": 79.9000157649838
+ },
+ {
+  "ID": 357294993,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 6.919202346450061,
+  "CenterPositionLat": 79.96367648818567
+ },
+ {
+  "ID": 358053813,
+  "Capacity": 4,
+  "Name": "Children Park",
+  "CenterPositionLon": 6.933398100835895,
+  "CenterPositionLat": 79.8686928797863
+ },
+ {
+  "ID": 358777735,
+  "Capacity": 17,
+  "Name": "BMC Park \u0026 Children Play Ground",
+  "CenterPositionLon": 6.990116940165935,
+  "CenterPositionLat": 81.05541591776763
+ },
+ {
+  "ID": 367412217,
+  "Capacity": 21,
+  "Name": "Polgahawela Children's Park",
+  "CenterPositionLon": 7.330234806716375,
+  "CenterPositionLat": 80.30105564296889
+ },
+ {
+  "ID": 370325479,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 6.9103494345449885,
+  "CenterPositionLat": 79.88756313768197
+ },
+ {
+  "ID": 370733307,
+  "Capacity": 33,
+  "Name": "Anura Gunwardhana Memorial Children's Park",
+  "CenterPositionLon": 7.0125815447399775,
+  "CenterPositionLat": 79.99559655565524
+ },
+ {
+  "ID": 373008162,
+  "Capacity": 18,
+  "Name": "Umamaheswaran Illam",
+  "CenterPositionLon": 8.744815740081476,
+  "CenterPositionLat": 80.50871929950587
+ },
+ {
+  "ID": 374742277,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 6.901959095608531,
+  "CenterPositionLat": 79.94847055494962
+ },
+ {
+  "ID": 379198145,
+  "Capacity": 102,
+  "Name": "Gallery Island",
+  "CenterPositionLon": 6.91766664887379,
+  "CenterPositionLat": 79.85325221123308
+ },
+ {
+  "ID": 383328567,
+  "Capacity": 25,
+  "Name": "Ariyalai Community Centre Park",
+  "CenterPositionLon": 9.659833036060558,
+  "CenterPositionLat": 80.03744047714711
+ },
+ {
+  "ID": 387640870,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": 7.667910838615554,
+  "CenterPositionLat": 81.04601404139733
+ },
+ {
+  "ID": 392160939,
+  "Capacity": 494,
+  "Name": "Elie House Park",
+  "CenterPositionLon": 6.9609541999119,
+  "CenterPositionLat": 79.86484702835007
+ },
+ {
+  "ID": 392560670,
+  "Capacity": 13,
+  "Name": "Eco Park",
+  "CenterPositionLon": 8.160826603278828,
+  "CenterPositionLat": 81.4208236161988
+ },
+ {
+  "ID": 397205261,
+  "Capacity": 6,
+  "Name": "St. Don Bosco Park.",
+  "CenterPositionLon": 9.79443395,
+  "CenterPositionLat": 79.9945662
+ },
+ {
+  "ID": 397206811,
+  "Capacity": 2,
+  "Name": "Childrens Park",
+  "CenterPositionLon": 9.794736016726882,
+  "CenterPositionLat": 79.99500198961279
+ },
+ {
+  "ID": 398141348,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 7.252514150434086,
+  "CenterPositionLat": 80.44602113630341
+ },
+ {
+  "ID": 400931099,
+  "Capacity": 43,
+  "Name": "Dangolla Childrens Park",
+  "CenterPositionLon": 7.269238011426516,
+  "CenterPositionLat": 80.61158904750094
+ },
+ {
+  "ID": 400942216,
+  "Capacity": 138,
+  "Name": "Gatambe Childrens' Park",
+  "CenterPositionLon": 7.270687939517074,
+  "CenterPositionLat": 80.60543212390566
+ },
+ {
+  "ID": 404829091,
+  "Capacity": 177,
+  "Name": "Battaramulla Cemetary",
+  "CenterPositionLon": 6.905137517276729,
+  "CenterPositionLat": 79.91872539819816
+ },
+ {
+  "ID": 405953217,
+  "Capacity": 41,
+  "Name": "Children's Park",
+  "CenterPositionLon": 6.8156433628667905,
+  "CenterPositionLat": 80.95793925264601
+ },
+ {
+  "ID": 409049428,
+  "Capacity": 153,
+  "Name": "Udawalawe Elephants Park",
+  "CenterPositionLon": 6.437826636962325,
+  "CenterPositionLat": 80.88850722980978
+ },
+ {
+  "ID": 417030153,
+  "Capacity": 245,
+  "Name": "Komararsankulam Park",
+  "CenterPositionLon": 8.691178167957583,
+  "CenterPositionLat": 80.52366180102054
+ },
+ {
+  "ID": 419526735,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 6.943986221477391,
+  "CenterPositionLat": 79.8719150310316
+ },
+ {
+  "ID": 419592604,
+  "Capacity": 170,
+  "Name": "Demtogoda",
+  "CenterPositionLon": 6.9339850012459125,
+  "CenterPositionLat": 79.88116184103107
+ },
+ {
+  "ID": 419830842,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 6.935259711847493,
+  "CenterPositionLat": 79.98342821959892
+ },
+ {
+  "ID": 419830847,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 6.933640217228576,
+  "CenterPositionLat": 79.98273844830969
+ },
+ {
+  "ID": 419830853,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 6.9326754779873045,
+  "CenterPositionLat": 79.98343577795438
+ },
+ {
+  "ID": 420088547,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 6.933113060434532,
+  "CenterPositionLat": 79.98249029830507
+ },
+ {
+  "ID": 431435463,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 7.854173047742559,
+  "CenterPositionLat": 80.65292268493387
+ },
+ {
+  "ID": 431435464,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": 7.851530783845528,
+  "CenterPositionLat": 80.65333825042607
+ },
+ {
+  "ID": 431489755,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 7.856943670499305,
+  "CenterPositionLat": 80.65249943365359
+ },
+ {
+  "ID": 433781269,
+  "Capacity": 3,
+  "Name": "Periyarkulam Children park",
+  "CenterPositionLon": 8.774996251689329,
+  "CenterPositionLat": 80.4990452651134
+ },
+ {
+  "ID": 434314429,
+  "Capacity": 56,
+  "Name": "new park",
+  "CenterPositionLon": 6.904395362494383,
+  "CenterPositionLat": 79.87276144837827
+ },
+ {
+  "ID": 448760366,
+  "Capacity": 240,
+  "Name": "S.B. Yalegama Ground",
+  "CenterPositionLon": 7.4241078798562725,
+  "CenterPositionLat": 80.63098781351938
+ },
+ {
+  "ID": 450936709,
+  "Capacity": 370,
+  "Name": "",
+  "CenterPositionLon": 7.650137613806212,
+  "CenterPositionLat": 81.74700303751071
+ },
+ {
+  "ID": 450999407,
+  "Capacity": 2,
+  "Name": "164 C GN Division Children Park",
+  "CenterPositionLon": 7.676091021994634,
+  "CenterPositionLat": 81.72328366666667
+ },
+ {
+  "ID": 454463587,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": 9.68389912437626,
+  "CenterPositionLat": 80.02277533112141
+ },
+ {
+  "ID": 454985510,
+  "Capacity": 39,
+  "Name": "Revady Park",
+  "CenterPositionLon": 9.825020659645118,
+  "CenterPositionLat": 80.17037014204988
+ },
+ {
+  "ID": 463990297,
+  "Capacity": 55,
+  "Name": "walking path, kids play area, entertainment area",
+  "CenterPositionLon": 7.108828768132309,
+  "CenterPositionLat": 80.05683236392137
+ },
+ {
+  "ID": 463990298,
+  "Capacity": 3,
+  "Name": "Volleyball court",
+  "CenterPositionLon": 7.10967680362659,
+  "CenterPositionLat": 80.05596831602162
+ },
+ {
+  "ID": 463990455,
+  "Capacity": 3,
+  "Name": "natural habitat",
+  "CenterPositionLon": 7.1103744589113935,
+  "CenterPositionLat": 80.05651016964056
+ },
+ {
+  "ID": 470334411,
+  "Capacity": 2,
+  "Name": "Cricket Play area",
+  "CenterPositionLon": 7.141528732544815,
+  "CenterPositionLat": 79.90060876089795
+ },
+ {
+  "ID": 488672946,
+  "Capacity": 328,
+  "Name": "Sri Wijerama Raja maha viharaya",
+  "CenterPositionLon": 6.85842933941987,
+  "CenterPositionLat": 79.9107703632054
+ },
+ {
+  "ID": 491252136,
+  "Capacity": 50,
+  "Name": "abandoned ground",
+  "CenterPositionLon": 8.577617961765023,
+  "CenterPositionLat": 81.21954764117731
+ },
+ {
+  "ID": 492704218,
+  "Capacity": 1267,
+  "Name": "Independence Square Park",
+  "CenterPositionLon": 6.903972254760792,
+  "CenterPositionLat": 79.86662632380059
+ },
+ {
+  "ID": 494079149,
+  "Capacity": 61,
+  "Name": "Children Park",
+  "CenterPositionLon": 7.601285321496354,
+  "CenterPositionLat": 81.72510991032061
+ },
+ {
+  "ID": 498000269,
+  "Capacity": 1801,
+  "Name": "",
+  "CenterPositionLon": 7.957169179331769,
+  "CenterPositionLat": 80.75599890193418
+ },
+ {
+  "ID": 525534644,
+  "Capacity": 3464,
+  "Name": "Horagolla National Park",
+  "CenterPositionLon": 7.139648614045654,
+  "CenterPositionLat": 80.08501222125446
+ },
+ {
+  "ID": 526689495,
+  "Capacity": 126,
+  "Name": "Prime City Park",
+  "CenterPositionLon": 6.891621766220768,
+  "CenterPositionLat": 80.003457867302
+ },
+ {
+  "ID": 529601949,
+  "Capacity": 539,
+  "Name": "NSBM Green University",
+  "CenterPositionLon": 6.821014906495551,
+  "CenterPositionLat": 80.04038072660308
+ },
+ {
+  "ID": 529602568,
+  "Capacity": 237,
+  "Name": "NSBM Playground and Sports Complex",
+  "CenterPositionLon": 6.8219913,
+  "CenterPositionLat": 80.04064095
+ },
+ {
+  "ID": 531274011,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 6.718004783468258,
+  "CenterPositionLat": 80.38016011139709
+ },
+ {
+  "ID": 531800725,
+  "Capacity": 46,
+  "Name": "Samadhi memorial park",
+  "CenterPositionLon": 7.1364683499999995,
+  "CenterPositionLat": 80.0887574
+ },
+ {
+  "ID": 536833873,
+  "Capacity": 173,
+  "Name": "",
+  "CenterPositionLon": 6.843659767912835,
+  "CenterPositionLat": 80.00798200743432
+ },
+ {
+  "ID": 537000737,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 6.9159143759902495,
+  "CenterPositionLat": 79.8784690342728
+ },
+ {
+  "ID": 537005289,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 6.8465902482663985,
+  "CenterPositionLat": 79.93426845553563
+ },
+ {
+  "ID": 539023032,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 9.6494178,
+  "CenterPositionLat": 80.0324024
+ },
+ {
+  "ID": 539033366,
+  "Capacity": 129,
+  "Name": "",
+  "CenterPositionLon": 9.658642043892861,
+  "CenterPositionLat": 80.05316659656047
+ },
+ {
+  "ID": 539049111,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 6.825706076082517,
+  "CenterPositionLat": 79.87745906200857
+ },
+ {
+  "ID": 539049125,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 6.827025968560905,
+  "CenterPositionLat": 79.88071649601152
+ },
+ {
+  "ID": 539095532,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 6.877284103583976,
+  "CenterPositionLat": 79.89011735552653
+ },
+ {
+  "ID": 539095590,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 6.883230820126087,
+  "CenterPositionLat": 79.88713004933628
+ },
+ {
+  "ID": 539098162,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": 9.670274420660284,
+  "CenterPositionLat": 80.0376468002165
+ },
+ {
+  "ID": 539098163,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 9.669507161078576,
+  "CenterPositionLat": 80.03729308920775
+ },
+ {
+  "ID": 539477869,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 6.855086882517794,
+  "CenterPositionLat": 79.92061612424402
+ },
+ {
+  "ID": 540077223,
+  "Capacity": 13,
+  "Name": "Duracell Park",
+  "CenterPositionLon": 6.972865456045727,
+  "CenterPositionLat": 81.06397848299574
+ },
+ {
+  "ID": 540209646,
+  "Capacity": 5,
+  "Name": "fbfghdgh",
+  "CenterPositionLon": 8.592832314632437,
+  "CenterPositionLat": 81.1962506933736
+ },
+ {
+  "ID": 540220449,
+  "Capacity": 120,
+  "Name": "Mowao",
+  "CenterPositionLon": 7.482855035788276,
+  "CenterPositionLat": 80.34889984876622
+ },
+ {
+  "ID": 540220519,
+  "Capacity": 32,
+  "Name": "field",
+  "CenterPositionLon": 7.327887445970918,
+  "CenterPositionLat": 80.630069999121
+ },
+ {
+  "ID": 540887597,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 7.490255860890624,
+  "CenterPositionLat": 80.35812094663822
+ },
+ {
+  "ID": 540887598,
+  "Capacity": 204,
+  "Name": "",
+  "CenterPositionLon": 7.4902752859105295,
+  "CenterPositionLat": 80.35680809533916
+ },
+ {
+  "ID": 540887599,
+  "Capacity": 415,
+  "Name": "",
+  "CenterPositionLon": 7.489378837800576,
+  "CenterPositionLat": 80.35458721314039
+ },
+ {
+  "ID": 542246608,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 9.65264124810923,
+  "CenterPositionLat": 80.02050006382105
+ },
+ {
+  "ID": 542261195,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 9.69742516754736,
+  "CenterPositionLat": 80.01562175393019
+ },
+ {
+  "ID": 542635352,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 8.592176282595394,
+  "CenterPositionLat": 81.20901345893394
+ },
+ {
+  "ID": 543185516,
+  "Capacity": 1250,
+  "Name": "Bickay Nature Reserve",
+  "CenterPositionLon": 6.051674004551604,
+  "CenterPositionLat": 80.21250726522982
+ },
+ {
+  "ID": 543354016,
+  "Capacity": 111,
+  "Name": "Mati Waththa Playground",
+  "CenterPositionLon": 6.783459055386368,
+  "CenterPositionLat": 79.88866493198988
+ },
+ {
+  "ID": 543501671,
+  "Capacity": 180,
+  "Name": "",
+  "CenterPositionLon": 8.364252499545382,
+  "CenterPositionLat": 80.39053682558698
+ },
+ {
+  "ID": 544702631,
+  "Capacity": 375,
+  "Name": "Supuwath Arana",
+  "CenterPositionLon": 7.13106351675617,
+  "CenterPositionLat": 79.88679564082214
+ },
+ {
+  "ID": 544732331,
+  "Capacity": 16,
+  "Name": "Palm Grove children's park",
+  "CenterPositionLon": 6.81745811784945,
+  "CenterPositionLat": 79.8774020048725
+ },
+ {
+  "ID": 545810382,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 6.784338325582228,
+  "CenterPositionLat": 79.88806317957803
+ },
+ {
+  "ID": 545954483,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 6.876851520853366,
+  "CenterPositionLat": 79.89444762125521
+ },
+ {
+  "ID": 546860440,
+  "Capacity": 3575,
+  "Name": "University Of Sri Jayawardenapura Park",
+  "CenterPositionLon": 6.853380026378059,
+  "CenterPositionLat": 79.90406145188174
+ },
+ {
+  "ID": 546867224,
+  "Capacity": 702,
+  "Name": "Inner Park",
+  "CenterPositionLon": 6.853449259497819,
+  "CenterPositionLat": 79.90459669105596
+ },
+ {
+  "ID": 549923351,
+  "Capacity": 312,
+  "Name": "",
+  "CenterPositionLon": 7.306711216465026,
+  "CenterPositionLat": 80.63741036292285
+ },
+ {
+  "ID": 549927070,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 7.303891353470451,
+  "CenterPositionLat": 80.6359186710856
+ },
+ {
+  "ID": 551872051,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 6.887948927645072,
+  "CenterPositionLat": 79.99302219879522
+ },
+ {
+  "ID": 551872052,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 6.886825141442926,
+  "CenterPositionLat": 79.99330697574268
+ },
+ {
+  "ID": 553462483,
+  "Capacity": 699,
+  "Name": "Wayamba University Palyground",
+  "CenterPositionLon": 7.4624554464592485,
+  "CenterPositionLat": 80.01821160380958
+ },
+ {
+  "ID": 553805747,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 7.295574823183426,
+  "CenterPositionLat": 80.63700845859587
+ },
+ {
+  "ID": 557340625,
+  "Capacity": 6,
+  "Name": "John",
+  "CenterPositionLon": 6.875054650282685,
+  "CenterPositionLat": 79.89650256450119
+ },
+ {
+  "ID": 557341037,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 6.868924623874094,
+  "CenterPositionLat": 79.90124481406518
+ },
+ {
+  "ID": 557341039,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 6.868302224729695,
+  "CenterPositionLat": 79.90145217553727
+ },
+ {
+  "ID": 557341043,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 6.86912310473536,
+  "CenterPositionLat": 79.90207014156631
+ },
+ {
+  "ID": 557341044,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 6.868713066418606,
+  "CenterPositionLat": 79.9018880454627
+ },
+ {
+  "ID": 560558695,
+  "Capacity": 31,
+  "Name": "Agriculture Technology Park, Gannoruwa",
+  "CenterPositionLon": 7.2735610805154725,
+  "CenterPositionLat": 80.60212771134812
+ },
+ {
+  "ID": 561304367,
+  "Capacity": 123,
+  "Name": "Jinna Playground",
+  "CenterPositionLon": 8.597786784608651,
+  "CenterPositionLat": 81.21725527018023
+ },
+ {
+  "ID": 563016457,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 6.9174872999999995,
+  "CenterPositionLat": 79.87929865
+ },
+ {
+  "ID": 568456712,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 6.062451834310325,
+  "CenterPositionLat": 80.23904301831217
+ },
+ {
+  "ID": 568459530,
+  "Capacity": 0,
+  "Name": "verde",
+  "CenterPositionLon": 6.0746334760978655,
+  "CenterPositionLat": 80.23893417016274
+ },
+ {
+  "ID": 568472141,
+  "Capacity": 380,
+  "Name": "",
+  "CenterPositionLon": 6.090044466666667,
+  "CenterPositionLat": 80.20927640000001
+ },
+ {
+  "ID": 568482133,
+  "Capacity": 384,
+  "Name": "parque Miraflores",
+  "CenterPositionLon": 6.0932095028586355,
+  "CenterPositionLat": 80.21335441905653
+ },
+ {
+  "ID": 568486386,
+  "Capacity": 566,
+  "Name": "",
+  "CenterPositionLon": 6.054381755143945,
+  "CenterPositionLat": 80.24769310365106
+ },
+ {
+  "ID": 569174194,
+  "Capacity": 95,
+  "Name": "",
+  "CenterPositionLon": 9.659928011368839,
+  "CenterPositionLat": 80.00892438482266
+ },
+ {
+  "ID": 569222103,
+  "Capacity": 567,
+  "Name": "Pannai Park",
+  "CenterPositionLon": 9.662123982276519,
+  "CenterPositionLat": 80.00558170411581
+ },
+ {
+  "ID": 570019566,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 8.574758807386972,
+  "CenterPositionLat": 81.2332624341973
+ },
+ {
+  "ID": 570019571,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 8.574602849021192,
+  "CenterPositionLat": 81.23346034536371
+ },
+ {
+  "ID": 570019573,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 8.574347973007294,
+  "CenterPositionLat": 81.23304468601837
+ },
+ {
+  "ID": 570023391,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 8.57344046564985,
+  "CenterPositionLat": 81.23352647998439
+ },
+ {
+  "ID": 570023393,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 8.573473354549705,
+  "CenterPositionLat": 81.23379493051294
+ },
+ {
+  "ID": 570023395,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 8.572967915891438,
+  "CenterPositionLat": 81.23384068738748
+ },
+ {
+  "ID": 570023397,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 8.574190208414628,
+  "CenterPositionLat": 81.23362023428268
+ },
+ {
+  "ID": 570855950,
+  "Capacity": 25,
+  "Name": "Children Park",
+  "CenterPositionLon": 9.676468051689346,
+  "CenterPositionLat": 80.00133464647044
+ },
+ {
+  "ID": 572293450,
+  "Capacity": 709,
+  "Name": "",
+  "CenterPositionLon": 9.658793718117371,
+  "CenterPositionLat": 80.0291788019291
+ },
+ {
+  "ID": 575463853,
+  "Capacity": 31,
+  "Name": "Children Park",
+  "CenterPositionLon": 9.650571951312969,
+  "CenterPositionLat": 80.02219861169327
+ },
+ {
+  "ID": 575904445,
+  "Capacity": 26,
+  "Name": "Children Park-Kurunagar",
+  "CenterPositionLon": 9.651361902254793,
+  "CenterPositionLat": 80.01972506772934
+ },
+ {
+  "ID": 576844423,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 6.807550580036334,
+  "CenterPositionLat": 79.91583036090957
+ },
+ {
+  "ID": 576866315,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 7.327365718806614,
+  "CenterPositionLat": 80.6432536799246
+ },
+ {
+  "ID": 576866342,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 7.327707707654643,
+  "CenterPositionLat": 80.65226020856984
+ },
+ {
+  "ID": 576866389,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 7.330842729879757,
+  "CenterPositionLat": 80.6470240139891
+ },
+ {
+  "ID": 576873850,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 7.322879164264755,
+  "CenterPositionLat": 80.61799938544831
+ },
+ {
+  "ID": 576873851,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": 7.322268027154246,
+  "CenterPositionLat": 80.61884895777692
+ },
+ {
+  "ID": 576873907,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 7.31895885752894,
+  "CenterPositionLat": 80.61831097749051
+ },
+ {
+  "ID": 576873913,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 7.320255599732139,
+  "CenterPositionLat": 80.61953091694708
+ },
+ {
+  "ID": 576873928,
+  "Capacity": 272,
+  "Name": "",
+  "CenterPositionLon": 7.3287388216102425,
+  "CenterPositionLat": 80.6185982197658
+ },
+ {
+  "ID": 576873933,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 7.329704612014099,
+  "CenterPositionLat": 80.6186561245659
+ },
+ {
+  "ID": 576873949,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 7.324580214642225,
+  "CenterPositionLat": 80.62341384375281
+ },
+ {
+  "ID": 577295941,
+  "Capacity": 833,
+  "Name": "P1",
+  "CenterPositionLon": 6.8597611143130575,
+  "CenterPositionLat": 79.90204050824475
+ },
+ {
+  "ID": 577738864,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 6.813718001817537,
+  "CenterPositionLat": 79.87946957364511
+ },
+ {
+  "ID": 578834861,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": 7.298722827972522,
+  "CenterPositionLat": 80.65294009001724
+ },
+ {
+  "ID": 579314392,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 6.823542403908594,
+  "CenterPositionLat": 79.89299435363873
+ },
+ {
+  "ID": 580282160,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 6.872374243054606,
+  "CenterPositionLat": 79.90924750722415
+ },
+ {
+  "ID": 580282162,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 6.869117383209254,
+  "CenterPositionLat": 79.91332870114293
+ },
+ {
+  "ID": 580282163,
+  "Capacity": 282,
+  "Name": "",
+  "CenterPositionLon": 6.870807725419314,
+  "CenterPositionLat": 79.91391975604951
+ },
+ {
+  "ID": 580282167,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 6.871844250611666,
+  "CenterPositionLat": 79.9079831440443
+ },
+ {
+  "ID": 580282172,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": 6.874240862951219,
+  "CenterPositionLat": 79.90495431680351
+ },
+ {
+  "ID": 580282173,
+  "Capacity": 579,
+  "Name": "",
+  "CenterPositionLon": 6.8762205266651355,
+  "CenterPositionLat": 79.90720619639922
+ },
+ {
+  "ID": 580282174,
+  "Capacity": 445,
+  "Name": "",
+  "CenterPositionLon": 6.876983270516526,
+  "CenterPositionLat": 79.90444465088103
+ },
+ {
+  "ID": 580572939,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 6.827064344808155,
+  "CenterPositionLat": 79.90558147302997
+ },
+ {
+  "ID": 580583471,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 6.8698142,
+  "CenterPositionLat": 79.90205370000001
+ },
+ {
+  "ID": 581439579,
+  "Capacity": 33,
+  "Name": "Children park",
+  "CenterPositionLon": 9.655591748152135,
+  "CenterPositionLat": 80.01657276654632
+ },
+ {
+  "ID": 581775976,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 6.84597135,
+  "CenterPositionLat": 79.92898385
+ },
+ {
+  "ID": 581780997,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 6.846937618112018,
+  "CenterPositionLat": 79.92521301283615
+ },
+ {
+  "ID": 582020841,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 6.922745704707616,
+  "CenterPositionLat": 79.88295297129036
+ },
+ {
+  "ID": 582421041,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 6.877422931831757,
+  "CenterPositionLat": 79.92225010733868
+ },
+ {
+  "ID": 582797191,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 6.875174485277097,
+  "CenterPositionLat": 79.89299506128052
+ },
+ {
+  "ID": 582950925,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 6.834753763255135,
+  "CenterPositionLat": 79.90666508960626
+ },
+ {
+  "ID": 583174011,
+  "Capacity": 387,
+  "Name": "",
+  "CenterPositionLon": 6.8820613158119235,
+  "CenterPositionLat": 79.90206014752414
+ },
+ {
+  "ID": 583403114,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 6.8596699256913425,
+  "CenterPositionLat": 79.9212318325867
+ },
+ {
+  "ID": 583414432,
+  "Capacity": 291,
+  "Name": "",
+  "CenterPositionLon": 7.335913626732483,
+  "CenterPositionLat": 80.62467913888813
+ },
+ {
+  "ID": 583527345,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 6.828624520364217,
+  "CenterPositionLat": 79.88751487607031
+ },
+ {
+  "ID": 585559928,
+  "Capacity": 15,
+  "Name": "Temple Road Park",
+  "CenterPositionLon": 6.864465831280319,
+  "CenterPositionLat": 79.87537703529438
+ },
+ {
+  "ID": 587517488,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 6.867353609802757,
+  "CenterPositionLat": 79.91355104849701
+ },
+ {
+  "ID": 587519829,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": 6.835335065136287,
+  "CenterPositionLat": 79.88264995199066
+ },
+ {
+  "ID": 587522491,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 6.831280473000791,
+  "CenterPositionLat": 79.86997051353742
+ },
+ {
+  "ID": 587522492,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 6.834595734256661,
+  "CenterPositionLat": 79.87042446525588
+ },
+ {
+  "ID": 587522493,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": 6.82191009144128,
+  "CenterPositionLat": 79.86894425448922
+ },
+ {
+  "ID": 587522494,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 6.821493829401854,
+  "CenterPositionLat": 79.86920575649705
+ },
+ {
+  "ID": 587522495,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 6.821071318787274,
+  "CenterPositionLat": 79.86882503442689
+ },
+ {
+  "ID": 587522496,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 6.819375503184944,
+  "CenterPositionLat": 79.87019470025409
+ },
+ {
+  "ID": 588953435,
+  "Capacity": 514,
+  "Name": "Arcade Independence Square Park",
+  "CenterPositionLon": 6.902866272987585,
+  "CenterPositionLat": 79.86876749475881
+ },
+ {
+  "ID": 588968896,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 6.660755389300096,
+  "CenterPositionLat": 80.38581985523736
+ },
+ {
+  "ID": 588969980,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 6.84379485237102,
+  "CenterPositionLat": 79.92719160691952
+ },
+ {
+  "ID": 588969982,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 6.843176587186782,
+  "CenterPositionLat": 79.92665915409725
+ },
+ {
+  "ID": 588978235,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 6.870258563789595,
+  "CenterPositionLat": 79.90274481966175
+ },
+ {
+  "ID": 594531505,
+  "Capacity": 61,
+  "Name": "Weras Ganga Park",
+  "CenterPositionLon": 6.84157344315042,
+  "CenterPositionLat": 79.89407151661639
+ },
+ {
+  "ID": 594544146,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 6.842641017611861,
+  "CenterPositionLat": 79.89220959880058
+ },
+ {
+  "ID": 594544150,
+  "Capacity": 62,
+  "Name": "Bellanwila Park",
+  "CenterPositionLon": 6.844517175911048,
+  "CenterPositionLat": 79.89130889406353
+ },
+ {
+  "ID": 594544152,
+  "Capacity": 155,
+  "Name": "Bellanwila Park",
+  "CenterPositionLon": 6.8424642494805195,
+  "CenterPositionLat": 79.8925215450982
+ },
+ {
+  "ID": 594577504,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 6.844433678465848,
+  "CenterPositionLat": 79.89117914724577
+ },
+ {
+  "ID": 594624164,
+  "Capacity": 2123,
+  "Name": "",
+  "CenterPositionLon": 7.469849685412008,
+  "CenterPositionLat": 79.81761529243101
+ },
+ {
+  "ID": 595183542,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 7.273069549066618,
+  "CenterPositionLat": 80.58400964107786
+ },
+ {
+  "ID": 595183625,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 7.299714044708401,
+  "CenterPositionLat": 80.6655694629291
+ },
+ {
+  "ID": 595183626,
+  "Capacity": 267,
+  "Name": "",
+  "CenterPositionLon": 7.2975644399497375,
+  "CenterPositionLat": 80.6662102992546
+ },
+ {
+  "ID": 595183627,
+  "Capacity": 358,
+  "Name": "",
+  "CenterPositionLon": 7.296027203897908,
+  "CenterPositionLat": 80.66676029139677
+ },
+ {
+  "ID": 595183628,
+  "Capacity": 410,
+  "Name": "",
+  "CenterPositionLon": 7.293411398808069,
+  "CenterPositionLat": 80.6693685679474
+ },
+ {
+  "ID": 595183629,
+  "Capacity": 264,
+  "Name": "",
+  "CenterPositionLon": 7.290785159400023,
+  "CenterPositionLat": 80.67132956539845
+ },
+ {
+  "ID": 595183630,
+  "Capacity": 286,
+  "Name": "",
+  "CenterPositionLon": 7.288006818356621,
+  "CenterPositionLat": 80.67184269012976
+ },
+ {
+  "ID": 595183631,
+  "Capacity": 1865,
+  "Name": "",
+  "CenterPositionLon": 7.2853999093021775,
+  "CenterPositionLat": 80.67275056608185
+ },
+ {
+  "ID": 595185524,
+  "Capacity": 120,
+  "Name": "",
+  "CenterPositionLon": 7.314741334479776,
+  "CenterPositionLat": 80.65547100498516
+ },
+ {
+  "ID": 595185766,
+  "Capacity": 181,
+  "Name": "",
+  "CenterPositionLon": 7.313665916968428,
+  "CenterPositionLat": 80.65394430234262
+ },
+ {
+  "ID": 595286373,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 6.845768104362256,
+  "CenterPositionLat": 79.8914457740893
+ },
+ {
+  "ID": 599193767,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 6.846243694020733,
+  "CenterPositionLat": 79.89290895257938
+ },
+ {
+  "ID": 599459559,
+  "Capacity": 381,
+  "Name": "",
+  "CenterPositionLon": 7.344312122248895,
+  "CenterPositionLat": 80.02204884743018
+ },
+ {
+  "ID": 599459560,
+  "Capacity": 715,
+  "Name": "",
+  "CenterPositionLon": 7.345532428351285,
+  "CenterPositionLat": 80.02328117314296
+ },
+ {
+  "ID": 599459561,
+  "Capacity": 287,
+  "Name": "",
+  "CenterPositionLon": 7.3438391658106195,
+  "CenterPositionLat": 80.02384950056927
+ },
+ {
+  "ID": 600543412,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 6.846341092966236,
+  "CenterPositionLat": 79.89222821529472
+ },
+ {
+  "ID": 600545798,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 6.850585130896783,
+  "CenterPositionLat": 79.8910691450217
+ },
+ {
+  "ID": 600611147,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 6.845433276552756,
+  "CenterPositionLat": 79.89620719823394
+ },
+ {
+  "ID": 603326584,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 7.319703641331599,
+  "CenterPositionLat": 79.84536539435793
+ },
+ {
+  "ID": 604041437,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 7.340863955164539,
+  "CenterPositionLat": 79.84269223488594
+ },
+ {
+  "ID": 604043730,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 7.339120877332113,
+  "CenterPositionLat": 79.84256111936291
+ },
+ {
+  "ID": 605730093,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 7.376236982954586,
+  "CenterPositionLat": 79.9016995382875
+ },
+ {
+  "ID": 610395903,
+  "Capacity": 15,
+  "Name": "Childrens play ground",
+  "CenterPositionLon": 6.8367016551675235,
+  "CenterPositionLat": 79.89406090398494
+ },
+ {
+  "ID": 616437008,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 7.548323127639792,
+  "CenterPositionLat": 80.21597439460835
+ },
+ {
+  "ID": 616439890,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 7.537781927868931,
+  "CenterPositionLat": 80.23044941868096
+ },
+ {
+  "ID": 616439921,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 7.540372678715801,
+  "CenterPositionLat": 80.2296611433497
+ },
+ {
+  "ID": 621969483,
+  "Capacity": 1157,
+  "Name": "Beira Lake Linear Park",
+  "CenterPositionLon": 6.927341310914949,
+  "CenterPositionLat": 79.85741005460753
+ },
+ {
+  "ID": 625521668,
+  "Capacity": 43,
+  "Name": "Al Hidaya School Ground",
+  "CenterPositionLon": 7.901778430232677,
+  "CenterPositionLat": 81.52155845648366
+ },
+ {
+  "ID": 625525731,
+  "Capacity": 141,
+  "Name": "Play Ground",
+  "CenterPositionLon": 7.897920687609126,
+  "CenterPositionLat": 81.52680767520096
+ },
+ {
+  "ID": 626347683,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": 6.962105998248346,
+  "CenterPositionLat": 79.8750058839219
+ },
+ {
+  "ID": 626379079,
+  "Capacity": 8,
+  "Name": "Childrens play ground",
+  "CenterPositionLon": 6.822110911516343,
+  "CenterPositionLat": 79.89708339288447
+ },
+ {
+  "ID": 627889851,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 7.342907315327301,
+  "CenterPositionLat": 80.1490761905567
+ },
+ {
+  "ID": 627890074,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 7.343927096008645,
+  "CenterPositionLat": 80.14860473733691
+ },
+ {
+  "ID": 628194178,
+  "Capacity": 98,
+  "Name": "MPCS, Oddamavadi",
+  "CenterPositionLon": 7.91025343889433,
+  "CenterPositionLat": 81.52462741716357
+ },
+ {
+  "ID": 628556829,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 7.330258133422123,
+  "CenterPositionLat": 80.3159559591388
+ },
+ {
+  "ID": 628575972,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 7.440429978210184,
+  "CenterPositionLat": 80.22853421565881
+ },
+ {
+  "ID": 633183040,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 9.717053006770952,
+  "CenterPositionLat": 80.01901171309125
+ },
+ {
+  "ID": 661602200,
+  "Capacity": 367,
+  "Name": "",
+  "CenterPositionLon": 8.047929457352419,
+  "CenterPositionLat": 80.73999195410157
+ },
+ {
+  "ID": 669628774,
+  "Capacity": 2769,
+  "Name": "Beddagana Wetland park",
+  "CenterPositionLon": 6.890494149127891,
+  "CenterPositionLat": 79.90867932895152
+ },
+ {
+  "ID": 673824598,
+  "Capacity": 16,
+  "Name": "Green Paradise Children's Park",
+  "CenterPositionLon": 6.8176869033943746,
+  "CenterPositionLat": 79.94825172326381
+ },
+ {
+  "ID": 674580334,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 6.89468655,
+  "CenterPositionLat": 79.92914965
+ },
+ {
+  "ID": 676845308,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 6.8692159022351005,
+  "CenterPositionLat": 79.9033245078548
+ },
+ {
+  "ID": 676845309,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 6.870245578193557,
+  "CenterPositionLat": 79.90461904040446
+ },
+ {
+  "ID": 679988807,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 6.893721140840789,
+  "CenterPositionLat": 79.92805480551576
+ },
+ {
+  "ID": 697691051,
+  "Capacity": 6175,
+  "Name": "Diyasaru Park",
+  "CenterPositionLon": 6.880028257505695,
+  "CenterPositionLat": 79.93113246029962
+ },
+ {
+  "ID": 705966191,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 6.0970840276050495,
+  "CenterPositionLat": 80.13164135507367
+ },
+ {
+  "ID": 711257903,
+  "Capacity": 6133,
+  "Name": "Paradise Estate",
+  "CenterPositionLon": 6.737304930413104,
+  "CenterPositionLat": 79.94900095613744
+ },
+ {
+  "ID": 726512622,
+  "Capacity": 162,
+  "Name": "Aswedduma Playground",
+  "CenterPositionLon": 7.4937370219706,
+  "CenterPositionLat": 80.33791272317492
+ },
+ {
+  "ID": 741823188,
+  "Capacity": 1587,
+  "Name": "Crow Island Beach Park",
+  "CenterPositionLon": 6.97163758043046,
+  "CenterPositionLat": 79.86893188537739
+ },
+ {
+  "ID": 741824865,
+  "Capacity": 51,
+  "Name": "Lovers Park",
+  "CenterPositionLon": 6.842793617802446,
+  "CenterPositionLat": 79.91725746146507
+ },
+ {
+  "ID": 775451375,
+  "Capacity": 142,
+  "Name": "Sri Sunandarama Pirivena",
+  "CenterPositionLon": 7.090870504134916,
+  "CenterPositionLat": 79.99320754026142
+ }
+]

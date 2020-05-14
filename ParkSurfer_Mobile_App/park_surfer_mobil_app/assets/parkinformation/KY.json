@@ -1,0 +1,65 @@
+[
+ {
+  "ID": 55479004,
+  "Capacity": 209,
+  "Name": "Water Cay Park",
+  "CenterPositionLon": 19.35526715852514,
+  "CenterPositionLat": -81.27544779381807
+ },
+ {
+  "ID": 97593643,
+  "Capacity": 24,
+  "Name": "Heroes Square",
+  "CenterPositionLon": 19.296375067087954,
+  "CenterPositionLat": -81.38171883846351
+ },
+ {
+  "ID": 371896032,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 19.29509194350067,
+  "CenterPositionLat": -81.38134818593184
+ },
+ {
+  "ID": 372544052,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 19.294499653061596,
+  "CenterPositionLat": -81.38138399795808
+ },
+ {
+  "ID": 372664544,
+  "Capacity": 22,
+  "Name": "Fiddlers Park",
+  "CenterPositionLon": 19.29637247571733,
+  "CenterPositionLat": -81.1110020282812
+ },
+ {
+  "ID": 372796858,
+  "Capacity": 124,
+  "Name": "Scholars Park",
+  "CenterPositionLon": 19.38036296534174,
+  "CenterPositionLat": -81.40090067080044
+ },
+ {
+  "ID": 373717149,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 19.350744694543092,
+  "CenterPositionLat": -81.21268852098214
+ },
+ {
+  "ID": 488091028,
+  "Capacity": 349,
+  "Name": "Cayman Brac Community Park",
+  "CenterPositionLon": 19.688460770758123,
+  "CenterPositionLat": -79.8838919025099
+ },
+ {
+  "ID": 615434121,
+  "Capacity": 654,
+  "Name": "Public Beach",
+  "CenterPositionLon": 19.34885080685293,
+  "CenterPositionLat": -81.38294993323817
+ }
+]

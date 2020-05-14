@@ -1,0 +1,114 @@
+[
+ {
+  "ID": 384984931,
+  "Capacity": 6005,
+  "Name": "Botanical Gardens",
+  "CenterPositionLon": 13.166338894830892,
+  "CenterPositionLat": -61.22681753038707
+ },
+ {
+  "ID": 384984933,
+  "Capacity": 1459,
+  "Name": "Rawacou",
+  "CenterPositionLon": 13.149281553120524,
+  "CenterPositionLat": -61.14866274358786
+ },
+ {
+  "ID": 385029456,
+  "Capacity": 1700,
+  "Name": "Black Point Tunnel",
+  "CenterPositionLon": 13.261892041722502,
+  "CenterPositionLat": -61.11631497631665
+ },
+ {
+  "ID": 385029457,
+  "Capacity": 55497,
+  "Name": "Vermont Nature trail",
+  "CenterPositionLon": 13.213589294599629,
+  "CenterPositionLat": -61.21601608850198
+ },
+ {
+  "ID": 564726815,
+  "Capacity": 16,
+  "Name": "Hugh Mulzac Square",
+  "CenterPositionLon": 12.59681790698206,
+  "CenterPositionLat": -61.41734245946157
+ },
+ {
+  "ID": 570559938,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 13.141713161071515,
+  "CenterPositionLat": -61.210270108256225
+ },
+ {
+  "ID": 570583600,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 13.155395474919073,
+  "CenterPositionLat": -61.22261734089071
+ },
+ {
+  "ID": 572807868,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 13.029690209478314,
+  "CenterPositionLat": -61.22803679901771
+ },
+ {
+  "ID": 576434618,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 13.233479826942242,
+  "CenterPositionLat": -61.27221759091958
+ },
+ {
+  "ID": 576461401,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 13.233935004028803,
+  "CenterPositionLat": -61.27210016006753
+ },
+ {
+  "ID": 576531431,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 13.149302999652972,
+  "CenterPositionLat": -61.22322071094446
+ },
+ {
+  "ID": 667480572,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 13.143675627672746,
+  "CenterPositionLat": -61.217672754935236
+ },
+ {
+  "ID": 673631936,
+  "Capacity": 5,
+  "Name": "SusGren Bird Tower",
+  "CenterPositionLon": 12.590820805995344,
+  "CenterPositionLat": -61.432614257695725
+ },
+ {
+  "ID": 682434618,
+  "Capacity": 754,
+  "Name": "",
+  "CenterPositionLon": 13.171678114342704,
+  "CenterPositionLat": -61.246321661553694
+ },
+ {
+  "ID": 749835290,
+  "Capacity": 106,
+  "Name": "Back Yard Adventures",
+  "CenterPositionLon": 13.143193943840007,
+  "CenterPositionLat": -61.208480927521244
+ },
+ {
+  "ID": 749896927,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 13.145267937839618,
+  "CenterPositionLat": -61.21533193727412
+ }
+]

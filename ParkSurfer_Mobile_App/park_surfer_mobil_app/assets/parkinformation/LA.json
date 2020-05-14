@@ -1,0 +1,296 @@
+[
+ {
+  "ID": 36328552,
+  "Capacity": 561,
+  "Name": "Nouhak Phoumsavan Public Park",
+  "CenterPositionLon": 16.566732721146657,
+  "CenterPositionLat": 104.7458377091734
+ },
+ {
+  "ID": 39351983,
+  "Capacity": 531,
+  "Name": "",
+  "CenterPositionLon": 17.96850404635677,
+  "CenterPositionLat": 102.59569422486432
+ },
+ {
+  "ID": 39391836,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 17.95729002934819,
+  "CenterPositionLat": 102.61757851442803
+ },
+ {
+  "ID": 48178626,
+  "Capacity": 229,
+  "Name": "ສວນ 23 ສິງຫາ",
+  "CenterPositionLon": 17.95863007530546,
+  "CenterPositionLat": 102.62927219009414
+ },
+ {
+  "ID": 202129576,
+  "Capacity": 246,
+  "Name": "ສວນ ປະຕູໄຊ",
+  "CenterPositionLon": 17.972272210631694,
+  "CenterPositionLat": 102.62036866071489
+ },
+ {
+  "ID": 202129590,
+  "Capacity": 369,
+  "Name": "",
+  "CenterPositionLon": 17.970828060106065,
+  "CenterPositionLat": 102.61881864700322
+ },
+ {
+  "ID": 231045938,
+  "Capacity": 71,
+  "Name": "ເດີ່ນບານ ຟຟລ",
+  "CenterPositionLon": 18.472565647046665,
+  "CenterPositionLat": 102.48653347649311
+ },
+ {
+  "ID": 238984232,
+  "Capacity": 346,
+  "Name": "Nouhak Phoumsavan Memorial",
+  "CenterPositionLon": 16.566877745404277,
+  "CenterPositionLat": 104.7466215432118
+ },
+ {
+  "ID": 238984235,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 16.565348516807916,
+  "CenterPositionLat": 104.74673852271961
+ },
+ {
+  "ID": 238987182,
+  "Capacity": 291,
+  "Name": "Kaysone Phomvihan City Public Park",
+  "CenterPositionLon": 16.566424986027684,
+  "CenterPositionLat": 104.7448709203378
+ },
+ {
+  "ID": 239207377,
+  "Capacity": 74,
+  "Name": "Fountain Square",
+  "CenterPositionLon": 17.39490812082154,
+  "CenterPositionLat": 104.80381001864114
+ },
+ {
+  "ID": 249003917,
+  "Capacity": 749,
+  "Name": "Kaysone Memorial Park",
+  "CenterPositionLon": 14.808897192775005,
+  "CenterPositionLat": 106.82966798726036
+ },
+ {
+  "ID": 249930164,
+  "Capacity": 1691,
+  "Name": "Attapeu Public Park",
+  "CenterPositionLon": 14.810475649085934,
+  "CenterPositionLat": 106.82667355179397
+ },
+ {
+  "ID": 250938118,
+  "Capacity": 375,
+  "Name": "",
+  "CenterPositionLon": 19.63143814625443,
+  "CenterPositionLat": 103.55839762770661
+ },
+ {
+  "ID": 264101019,
+  "Capacity": 1099,
+  "Name": "",
+  "CenterPositionLon": 20.416358496981047,
+  "CenterPositionLat": 104.04508349991649
+ },
+ {
+  "ID": 335847679,
+  "Capacity": 389,
+  "Name": "ເດີ່ນຕີດອກ ປີກໄກ່ ມາໂນລັກ",
+  "CenterPositionLon": 17.98477872892655,
+  "CenterPositionLat": 102.62006208397042
+ },
+ {
+  "ID": 344182936,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 17.977416531945636,
+  "CenterPositionLat": 102.63146239878459
+ },
+ {
+  "ID": 344182937,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": 17.97767738871028,
+  "CenterPositionLat": 102.63231728633087
+ },
+ {
+  "ID": 344182938,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": 17.976906645127983,
+  "CenterPositionLat": 102.63251585642368
+ },
+ {
+  "ID": 344182939,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 17.976805377430814,
+  "CenterPositionLat": 102.63159368866621
+ },
+ {
+  "ID": 365093696,
+  "Capacity": 424,
+  "Name": "",
+  "CenterPositionLon": 15.173986957530449,
+  "CenterPositionLat": 106.24461982354786
+ },
+ {
+  "ID": 374233713,
+  "Capacity": 2199,
+  "Name": "",
+  "CenterPositionLon": 19.89058824511568,
+  "CenterPositionLat": 102.1373946482691
+ },
+ {
+  "ID": 402556219,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 19.89748925,
+  "CenterPositionLat": 102.14516125
+ },
+ {
+  "ID": 421114820,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 19.8923708432501,
+  "CenterPositionLat": 102.14641574688726
+ },
+ {
+  "ID": 421491915,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 19.891429560007477,
+  "CenterPositionLat": 102.14675309020778
+ },
+ {
+  "ID": 421491916,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": 19.89146814738203,
+  "CenterPositionLat": 102.1462037738802
+ },
+ {
+  "ID": 434703645,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 17.967669841156205,
+  "CenterPositionLat": 102.59089130240592
+ },
+ {
+  "ID": 505706311,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 19.886345800901847,
+  "CenterPositionLat": 102.13679636629345
+ },
+ {
+  "ID": 512923251,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 14.982806735483953,
+  "CenterPositionLat": 105.89877424787502
+ },
+ {
+  "ID": 513306670,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 15.713345992311595,
+  "CenterPositionLat": 106.41388029560935
+ },
+ {
+  "ID": 513306692,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 15.716341841304528,
+  "CenterPositionLat": 106.41729261839289
+ },
+ {
+  "ID": 514945934,
+  "Capacity": 346,
+  "Name": "",
+  "CenterPositionLon": 15.178959807660618,
+  "CenterPositionLat": 106.22929027427107
+ },
+ {
+  "ID": 627873924,
+  "Capacity": 1774,
+  "Name": "",
+  "CenterPositionLon": 17.88174275182038,
+  "CenterPositionLat": 102.70354445010535
+ },
+ {
+  "ID": 651007070,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 17.967974146624062,
+  "CenterPositionLat": 102.61256852913964
+ },
+ {
+  "ID": 685422336,
+  "Capacity": 88,
+  "Name": "ສວນແຄນ",
+  "CenterPositionLon": 15.711360988131753,
+  "CenterPositionLat": 106.41008144310038
+ },
+ {
+  "ID": 693598809,
+  "Capacity": 545,
+  "Name": "",
+  "CenterPositionLon": 15.715758000475207,
+  "CenterPositionLat": 106.38961632964468
+ },
+ {
+  "ID": 739715253,
+  "Capacity": 1556,
+  "Name": "ສວນຊ້າງ",
+  "CenterPositionLon": 19.261292778402673,
+  "CenterPositionLat": 101.7150967744304
+ },
+ {
+  "ID": 739715254,
+  "Capacity": 1650,
+  "Name": "",
+  "CenterPositionLon": 19.263488390577464,
+  "CenterPositionLat": 101.71714757271153
+ },
+ {
+  "ID": 754446005,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 16.597600323647963,
+  "CenterPositionLat": 104.77589783458859
+ },
+ {
+  "ID": 754446006,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 16.59709335046539,
+  "CenterPositionLat": 104.77709694506028
+ },
+ {
+  "ID": 760884863,
+  "Capacity": 843,
+  "Name": "Saysettha Public Park",
+  "CenterPositionLon": 17.97908378019074,
+  "CenterPositionLat": 102.63177986854423
+ },
+ {
+  "ID": 760884864,
+  "Capacity": 666,
+  "Name": "Saphang Lenh Public Park",
+  "CenterPositionLon": 17.975930038970446,
+  "CenterPositionLat": 102.63177898659988
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "ID": 363071670,
+  "Capacity": 41,
+  "Name": "Cyrus Wathey Square",
+  "CenterPositionLon": 18.023403859440148,
+  "CenterPositionLat": -63.04588534612328
+ },
+ {
+  "ID": 521455106,
+  "Capacity": 702,
+  "Name": "",
+  "CenterPositionLon": 18.034583747558138,
+  "CenterPositionLat": -63.05925357277803
+ },
+ {
+  "ID": 521455107,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 18.033305134030652,
+  "CenterPositionLat": -63.058113755965564
+ },
+ {
+  "ID": 521610325,
+  "Capacity": 234,
+  "Name": "",
+  "CenterPositionLon": 18.03486640905644,
+  "CenterPositionLat": -63.08180164374334
+ },
+ {
+  "ID": 522407960,
+  "Capacity": 1011,
+  "Name": "Emilio Wilson Park",
+  "CenterPositionLon": 18.042778633112885,
+  "CenterPositionLat": -63.064346070853844
+ },
+ {
+  "ID": 523269787,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 18.028882245757437,
+  "CenterPositionLat": -63.09489278222003
+ },
+ {
+  "ID": 524728734,
+  "Capacity": 990,
+  "Name": "",
+  "CenterPositionLon": 18.022752670051265,
+  "CenterPositionLat": -63.072001186795795
+ }
+]

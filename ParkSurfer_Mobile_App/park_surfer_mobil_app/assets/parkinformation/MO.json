@@ -1,0 +1,884 @@
+[
+ {
+  "ID": 168020944,
+  "Capacity": 105,
+  "Name": "柯邦迪前地 Praça de Ponte e Horta",
+  "CenterPositionLon": 22.19365278569866,
+  "CenterPositionLat": 113.53581196656756
+ },
+ {
+  "ID": 183840226,
+  "Capacity": 219,
+  "Name": "華士古達嘉馬花園 Jardim Vasco da Gama",
+  "CenterPositionLon": 22.196230758755174,
+  "CenterPositionLat": 113.54649761399939
+ },
+ {
+  "ID": 183972472,
+  "Capacity": 97,
+  "Name": "得勝花園 Jardim da Vitória",
+  "CenterPositionLon": 22.198705044545985,
+  "CenterPositionLat": 113.54874935796421
+ },
+ {
+  "ID": 192179902,
+  "Capacity": 838,
+  "Name": "宋玉生公園 Dr. Carlos D'Assumpcao Park",
+  "CenterPositionLon": 22.188728047708555,
+  "CenterPositionLat": 113.55087331724805
+ },
+ {
+  "ID": 192179903,
+  "Capacity": 281,
+  "Name": "何賢公園 Jardim Comendador Ho Yin",
+  "CenterPositionLon": 22.192727816979193,
+  "CenterPositionLat": 113.5490969126107
+ },
+ {
+  "ID": 192179904,
+  "Capacity": 371,
+  "Name": "何賢公園 Jardim Comendador Ho Yin",
+  "CenterPositionLon": 22.191813105945073,
+  "CenterPositionLat": 113.5494960739879
+ },
+ {
+  "ID": 192179905,
+  "Capacity": 190,
+  "Name": "宋玉生公園 Dr. Carlos D'Assumpcao Park",
+  "CenterPositionLon": 22.18710777017165,
+  "CenterPositionLat": 113.55155260376654
+ },
+ {
+  "ID": 192179907,
+  "Capacity": 444,
+  "Name": "金蓮花廣場 A Praça Flor de Lótus",
+  "CenterPositionLon": 22.194399150599754,
+  "CenterPositionLat": 113.55347185511118
+ },
+ {
+  "ID": 192182416,
+  "Capacity": 511,
+  "Name": "藝園 Jardim das Artes",
+  "CenterPositionLon": 22.189279024194224,
+  "CenterPositionLat": 113.5456027273404
+ },
+ {
+  "ID": 206105533,
+  "Capacity": 698,
+  "Name": "",
+  "CenterPositionLon": 22.15256133212584,
+  "CenterPositionLat": 113.55921897774309
+ },
+ {
+  "ID": 206109394,
+  "Capacity": 727,
+  "Name": "黑沙環公園 Jardim da Areia Preta",
+  "CenterPositionLon": 22.211801713512642,
+  "CenterPositionLat": 113.5543854700191
+ },
+ {
+  "ID": 206109395,
+  "Capacity": 473,
+  "Name": "黑沙環公園 Jardim da Areia Preta",
+  "CenterPositionLon": 22.20943265297459,
+  "CenterPositionLat": 113.55584809192378
+ },
+ {
+  "ID": 206109396,
+  "Capacity": 187,
+  "Name": "黑沙環公園 Jardim da Areia Preta",
+  "CenterPositionLon": 22.20812769592361,
+  "CenterPositionLat": 113.55745444503897
+ },
+ {
+  "ID": 206824154,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": 22.205660472158716,
+  "CenterPositionLat": 113.56037565927564
+ },
+ {
+  "ID": 229205164,
+  "Capacity": 2137,
+  "Name": "石排灣郊野公園 Parque de Seac Pai Van",
+  "CenterPositionLon": 22.126509089180026,
+  "CenterPositionLat": 113.55819730368826
+ },
+ {
+  "ID": 231345560,
+  "Capacity": 31,
+  "Name": "亞婆井前地 Largo do Lilau",
+  "CenterPositionLon": 22.188422121212838,
+  "CenterPositionLat": 113.53502230470897
+ },
+ {
+  "ID": 240650346,
+  "Capacity": 1389,
+  "Name": "氹仔中央公園 Parque Central da Taipa",
+  "CenterPositionLon": 22.159115460665447,
+  "CenterPositionLat": 113.55451016046037
+ },
+ {
+  "ID": 240650377,
+  "Capacity": 67,
+  "Name": "三角花園 Jardim Triangular",
+  "CenterPositionLon": 22.210455487143356,
+  "CenterPositionLat": 113.54845937905564
+ },
+ {
+  "ID": 240896376,
+  "Capacity": 310,
+  "Name": "花城公園 Jardim da Cidade das Flores",
+  "CenterPositionLon": 22.156454038423448,
+  "CenterPositionLat": 113.55700727692138
+ },
+ {
+  "ID": 243649470,
+  "Capacity": 588,
+  "Name": "",
+  "CenterPositionLon": 22.194092040012208,
+  "CenterPositionLat": 113.55479652772613
+ },
+ {
+  "ID": 244432442,
+  "Capacity": 217,
+  "Name": "運動場圓形地 Rotunda do Estádio",
+  "CenterPositionLon": 22.156203764613917,
+  "CenterPositionLat": 113.55337314583582
+ },
+ {
+  "ID": 244524327,
+  "Capacity": 608,
+  "Name": "亞馬喇前地 Praça de Ferreira do Amaral",
+  "CenterPositionLon": 22.188401494754963,
+  "CenterPositionLat": 113.54350572076159
+ },
+ {
+  "ID": 244930722,
+  "Capacity": 22,
+  "Name": "恩尼斯總統前地 Largo do Presidente António Ramalho Eanes",
+  "CenterPositionLon": 22.11799220388656,
+  "CenterPositionLat": 113.55172455131877
+ },
+ {
+  "ID": 265393199,
+  "Capacity": 538,
+  "Name": "螺絲山公園 Jardim Municpal da Mantanha Russa",
+  "CenterPositionLon": 22.204323712085753,
+  "CenterPositionLat": 113.55257430974578
+ },
+ {
+  "ID": 265433531,
+  "Capacity": 659,
+  "Name": "盧廉若公園 Jardim Lou Lim Ioc",
+  "CenterPositionLon": 22.200463062795617,
+  "CenterPositionLat": 113.5479444754705
+ },
+ {
+  "ID": 291592992,
+  "Capacity": 26,
+  "Name": "業興休憩區 Zona de Lazer Ip Heng",
+  "CenterPositionLon": 22.13009707671508,
+  "CenterPositionLat": 113.56442829855159
+ },
+ {
+  "ID": 296744889,
+  "Capacity": 114,
+  "Name": "啟航公園 Parque Náutico",
+  "CenterPositionLon": 22.125871154200837,
+  "CenterPositionLat": 113.54497370666485
+ },
+ {
+  "ID": 305387668,
+  "Capacity": 178,
+  "Name": "回歸公園 Jardim da Rua de Malaca",
+  "CenterPositionLon": 22.19602603930352,
+  "CenterPositionLat": 113.5533538910776
+ },
+ {
+  "ID": 307049831,
+  "Capacity": 886,
+  "Name": "文化中心廣場 Praça do Centro Cultural",
+  "CenterPositionLon": 22.190097673890214,
+  "CenterPositionLat": 113.554781423649
+ },
+ {
+  "ID": 322642517,
+  "Capacity": 1053,
+  "Name": "黑沙公園 Parque de Hac-Sá",
+  "CenterPositionLon": 22.11830805917555,
+  "CenterPositionLat": 113.56883557066804
+ },
+ {
+  "ID": 324146738,
+  "Capacity": 2876,
+  "Name": "紀念孫中山市政公園 Parque Municipal Dr. Sun Yat Sen",
+  "CenterPositionLon": 22.216082677349032,
+  "CenterPositionLat": 113.54496799378605
+ },
+ {
+  "ID": 333975811,
+  "Capacity": 49,
+  "Name": "路環兒童公園 Parque Infantil de Coloane",
+  "CenterPositionLon": 22.11507135755352,
+  "CenterPositionLat": 113.55061511764106
+ },
+ {
+  "ID": 346900281,
+  "Capacity": 267,
+  "Name": "區華利前地 Lazer de Praça de Jorge Álvares",
+  "CenterPositionLon": 22.19130791442185,
+  "CenterPositionLat": 113.53994258180374
+ },
+ {
+  "ID": 354086808,
+  "Capacity": 289,
+  "Name": "祐漢街市公園 Jardim Iao Hon",
+  "CenterPositionLon": 22.211107199160438,
+  "CenterPositionLat": 113.55227247080839
+ },
+ {
+  "ID": 377726099,
+  "Capacity": 14,
+  "Name": "高樓斜巷臨時休憩區",
+  "CenterPositionLon": 22.188918485620547,
+  "CenterPositionLat": 113.53697987337367
+ },
+ {
+  "ID": 377731896,
+  "Capacity": 76,
+  "Name": "燒灰爐公園 Parque Infantil do Chunambeiro",
+  "CenterPositionLon": 22.186811569112574,
+  "CenterPositionLat": 113.53721889006005
+ },
+ {
+  "ID": 377740839,
+  "Capacity": 4,
+  "Name": "何林圍休憩區",
+  "CenterPositionLon": 22.19976351374347,
+  "CenterPositionLat": 113.53841532107052
+ },
+ {
+  "ID": 380360765,
+  "Capacity": 20,
+  "Name": "山邊街周邊休憩區",
+  "CenterPositionLon": 22.194879404430793,
+  "CenterPositionLat": 113.54922125562959
+ },
+ {
+  "ID": 402108659,
+  "Capacity": 63,
+  "Name": "海擎天公園",
+  "CenterPositionLon": 22.20589627884807,
+  "CenterPositionLat": 113.54188761435651
+ },
+ {
+  "ID": 402108661,
+  "Capacity": 56,
+  "Name": "台山中街休憩區 Zona de Lazer da Rua Central de T'oi Sán",
+  "CenterPositionLon": 22.211214745056125,
+  "CenterPositionLat": 113.54716467326391
+ },
+ {
+  "ID": 402151743,
+  "Capacity": 352,
+  "Name": "藝園 Jardim das Artes",
+  "CenterPositionLon": 22.191363759635678,
+  "CenterPositionLat": 113.5514509410808
+ },
+ {
+  "ID": 402155652,
+  "Capacity": 951,
+  "Name": "黑沙環海濱公園 Parque Marginal da Areia Preta",
+  "CenterPositionLon": 22.211065662050416,
+  "CenterPositionLat": 113.55963009353562
+ },
+ {
+  "ID": 402304874,
+  "Capacity": 45,
+  "Name": "嘉路米耶圓形地 (三盞燈) Rotunda de Carlos da Maia",
+  "CenterPositionLon": 22.202886199018586,
+  "CenterPositionLat": 113.54596455710637
+ },
+ {
+  "ID": 404021073,
+  "Capacity": 173,
+  "Name": "西灣湖休憩區 Zona de Lazer do Lago Sai Van",
+  "CenterPositionLon": 22.179551367747717,
+  "CenterPositionLat": 113.53294298785238
+ },
+ {
+  "ID": 404515207,
+  "Capacity": 43,
+  "Name": "白朗古將軍大馬路休憩區 Zona de Lazer da Avenida do General Castelo Branco",
+  "CenterPositionLon": 22.210118233535162,
+  "CenterPositionLat": 113.54464096149935
+ },
+ {
+  "ID": 405237257,
+  "Capacity": 794,
+  "Name": "二龍喉公園",
+  "CenterPositionLon": 22.200205039019767,
+  "CenterPositionLat": 113.55123193970415
+ },
+ {
+  "ID": 405241315,
+  "Capacity": 100,
+  "Name": "白鴿巢前地 Praça de Luís de Camões",
+  "CenterPositionLon": 22.199507510449862,
+  "CenterPositionLat": 113.539513995581
+ },
+ {
+  "ID": 405411409,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 22.19259548622556,
+  "CenterPositionLat": 113.54388772024657
+ },
+ {
+  "ID": 405598230,
+  "Capacity": 2927,
+  "Name": "",
+  "CenterPositionLon": 22.12882010408311,
+  "CenterPositionLat": 113.54677310431039
+ },
+ {
+  "ID": 405602204,
+  "Capacity": 2667,
+  "Name": "",
+  "CenterPositionLon": 22.136454544058072,
+  "CenterPositionLat": 113.55202024679278
+ },
+ {
+  "ID": 405826614,
+  "Capacity": 4463,
+  "Name": "氹仔海濱休憩區 Zona de Lazer da Marginal da Taipa",
+  "CenterPositionLon": 22.161334103231756,
+  "CenterPositionLat": 113.54157279957376
+ },
+ {
+  "ID": 406156044,
+  "Capacity": 21,
+  "Name": "爹美刁施拿地馬路休憩區 Zona de Lazer da Avenida de Demétrio Cinatti",
+  "CenterPositionLon": 22.203154333379672,
+  "CenterPositionLat": 113.53771548118074
+ },
+ {
+  "ID": 406362576,
+  "Capacity": 205,
+  "Name": "加思欄花園 Jardim S. Francisco",
+  "CenterPositionLon": 22.192496060029015,
+  "CenterPositionLat": 113.54468742519516
+ },
+ {
+  "ID": 406362578,
+  "Capacity": 187,
+  "Name": "南澳花園休憩區 Zona de Lazer do jardim Nam Ou",
+  "CenterPositionLon": 22.206635288607874,
+  "CenterPositionLat": 113.55393717842796
+ },
+ {
+  "ID": 407603518,
+  "Capacity": 72,
+  "Name": "東北大馬路休憩區 Zona de Lazer da Avenida Nordeste",
+  "CenterPositionLon": 22.207803274067555,
+  "CenterPositionLat": 113.55639852287578
+ },
+ {
+  "ID": 407603519,
+  "Capacity": 51,
+  "Name": "東北大馬路休憩區 Zona de Lazer da Avenida Nordeste",
+  "CenterPositionLon": 22.206858793405427,
+  "CenterPositionLat": 113.55545421417523
+ },
+ {
+  "ID": 411049655,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 22.201847154529382,
+  "CenterPositionLat": 113.54558539241894
+ },
+ {
+  "ID": 411756716,
+  "Capacity": 167,
+  "Name": "林茂海邊馬路休憩區 Zona de Lazer da Avenida Marginal do Lam Mau",
+  "CenterPositionLon": 22.204632971698352,
+  "CenterPositionLat": 113.53943804772298
+ },
+ {
+  "ID": 413050733,
+  "Capacity": 36,
+  "Name": "李寶椿街休憩區 Zona de Lazer de Lei Pou Ch'ôn",
+  "CenterPositionLon": 22.212580950032784,
+  "CenterPositionLat": 113.54416036636393
+ },
+ {
+  "ID": 445896931,
+  "Capacity": 219,
+  "Name": "宏開宏建休憩區 Zona de Lazer contígua ao Ed. Wang Hoi e Wang Kin",
+  "CenterPositionLon": 22.208597910640755,
+  "CenterPositionLat": 113.5428021768686
+ },
+ {
+  "ID": 456076862,
+  "Capacity": 18,
+  "Name": "花地瑪教會街休憩區 Zona de Lazer da Rua da Missão de Fátima",
+  "CenterPositionLon": 22.21047606061144,
+  "CenterPositionLat": 113.54670032003922
+ },
+ {
+  "ID": 457467683,
+  "Capacity": 116,
+  "Name": "黑沙環中街臨時休憩區 Zona de Lazer da Rua Central da Areia Preta",
+  "CenterPositionLon": 22.211602280170997,
+  "CenterPositionLat": 113.5560766577265
+ },
+ {
+  "ID": 460960172,
+  "Capacity": 40,
+  "Name": "白朗古將軍大馬路休憩區 Zona de Lazer da Avenida do General Castelo Branco",
+  "CenterPositionLon": 22.208126757378533,
+  "CenterPositionLat": 113.54528760714103
+ },
+ {
+  "ID": 466962367,
+  "Capacity": 46,
+  "Name": "林茂塘臨時休憩區 Zona de Lazer Provisória do Lam Mau",
+  "CenterPositionLon": 22.204473989798547,
+  "CenterPositionLat": 113.54184828716437
+ },
+ {
+  "ID": 488185729,
+  "Capacity": 975,
+  "Name": "大炮台公園 Parque da Fortaleza do Monte",
+  "CenterPositionLon": 22.196994453608003,
+  "CenterPositionLat": 113.54208907683962
+ },
+ {
+  "ID": 497374154,
+  "Capacity": 33,
+  "Name": "台山平民新邨休憩區 Zona de Lazer do Bairro Social de Tamagnini Barbosa",
+  "CenterPositionLon": 22.211721035162316,
+  "CenterPositionLat": 113.54792457615265
+ },
+ {
+  "ID": 499896077,
+  "Capacity": 237,
+  "Name": "筷子基北灣休憩區 Zona de Lazer de Baícia Norte do Patane",
+  "CenterPositionLon": 22.209106732992765,
+  "CenterPositionLat": 113.54153343249972
+ },
+ {
+  "ID": 524982815,
+  "Capacity": 83,
+  "Name": "瑪利二世皇后眺望台 Miradouro de D.Maria II",
+  "CenterPositionLon": 22.2036390487082,
+  "CenterPositionLat": 113.55706064054651
+ },
+ {
+  "ID": 542097105,
+  "Capacity": 128,
+  "Name": "藝園 Jardim das Artes",
+  "CenterPositionLon": 22.189870623239145,
+  "CenterPositionLat": 113.54710041761142
+ },
+ {
+  "ID": 548518735,
+  "Capacity": 2287,
+  "Name": "巴黎人花園 Le Jardim",
+  "CenterPositionLon": 22.14352579379409,
+  "CenterPositionLat": 113.56630086779181
+ },
+ {
+  "ID": 558157009,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 22.194405150836012,
+  "CenterPositionLat": 113.5534681809781
+ },
+ {
+  "ID": 605315663,
+  "Capacity": 22,
+  "Name": "沙梨頭新街休憩區 Zona de lazer da Rua Nova do Patane",
+  "CenterPositionLon": 22.206964682089623,
+  "CenterPositionLat": 113.54382383421121
+ },
+ {
+  "ID": 605320814,
+  "Capacity": 26,
+  "Name": "黑沙環第四街休憩區 Zona de Lazer da Rua Quatro do bairro da Areia Preta",
+  "CenterPositionLon": 22.209524470002545,
+  "CenterPositionLat": 113.55025551601375
+ },
+ {
+  "ID": 608088617,
+  "Capacity": 280,
+  "Name": "棕櫚公園 Parque das Palmeiras",
+  "CenterPositionLon": 22.127456772893105,
+  "CenterPositionLat": 113.55683101579005
+ },
+ {
+  "ID": 615634799,
+  "Capacity": 137,
+  "Name": "氹仔市政花園 Jardim Municipal da Taipa",
+  "CenterPositionLon": 22.15418563564213,
+  "CenterPositionLat": 113.55945215153305
+ },
+ {
+  "ID": 622713981,
+  "Capacity": 182,
+  "Name": "湖畔公園 Jardim do Lago",
+  "CenterPositionLon": 22.158723139988332,
+  "CenterPositionLat": 113.56239097369088
+ },
+ {
+  "ID": 630864695,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": 22.161740013985664,
+  "CenterPositionLat": 113.5424954794874
+ },
+ {
+  "ID": 639869042,
+  "Capacity": 83,
+  "Name": "飛喇士街休憩二區 Zona de Lazer 2 da Rua do General Ivens Ferraz",
+  "CenterPositionLon": 22.20741644520082,
+  "CenterPositionLat": 113.54316558982134
+ },
+ {
+  "ID": 639869043,
+  "Capacity": 311,
+  "Name": "綠楊花園休憩區 Zona de Lazer do Edf. Lok Yeong Fa Yuen",
+  "CenterPositionLon": 22.206992426367993,
+  "CenterPositionLat": 113.54132568401577
+ },
+ {
+  "ID": 639876755,
+  "Capacity": 309,
+  "Name": "黑沙環重型停車場休憩區  Zona de Lazer do Silo dos Veículos Pesados da Areia Preta",
+  "CenterPositionLon": 22.20826073693192,
+  "CenterPositionLat": 113.55900064985772
+ },
+ {
+  "ID": 639880756,
+  "Capacity": 22,
+  "Name": "船廠街休憩區 Zona de Lazer da Rua dos Estaleiros",
+  "CenterPositionLon": 22.20602223377068,
+  "CenterPositionLat": 113.54464826987616
+ },
+ {
+  "ID": 639883574,
+  "Capacity": 108,
+  "Name": "青洲上街臨時休憩區 Zona de Lazer provisória da Estrada Marginal da Ilha Verde",
+  "CenterPositionLon": 22.2099701709266,
+  "CenterPositionLat": 113.53646945922466
+ },
+ {
+  "ID": 639900475,
+  "Capacity": 104,
+  "Name": "東方明珠街休憩區 Zona de Lazer da Rua da Pérola Oriental",
+  "CenterPositionLon": 22.21177255876009,
+  "CenterPositionLat": 113.55812527070422
+ },
+ {
+  "ID": 639900476,
+  "Capacity": 44,
+  "Name": "祐漢第八街休憩區 Zona de Lazer da Rua Oito do Bairro Iao Hon",
+  "CenterPositionLon": 22.212302127488208,
+  "CenterPositionLat": 113.55057524434336
+ },
+ {
+  "ID": 639900477,
+  "Capacity": 56,
+  "Name": "祐漢第四街休憩區 Zona de Lazer da Rua Quatro do Bairro Iao Hon",
+  "CenterPositionLon": 22.210993578620982,
+  "CenterPositionLat": 113.54983867542168
+ },
+ {
+  "ID": 640030873,
+  "Capacity": 47,
+  "Name": "海洋大馬路休憩區 Zona de Lazer da Avenida do Oceano",
+  "CenterPositionLon": 22.161640848981143,
+  "CenterPositionLat": 113.54148425296384
+ },
+ {
+  "ID": 640030874,
+  "Capacity": 109,
+  "Name": "碼頭花園 Jardim do Cais",
+  "CenterPositionLon": 22.15683576572086,
+  "CenterPositionLat": 113.542102204262
+ },
+ {
+  "ID": 640030875,
+  "Capacity": 35,
+  "Name": "奧林匹克大馬路休憩區 Zona de Lazer da Avenida Olímpica",
+  "CenterPositionLon": 22.155063572655855,
+  "CenterPositionLat": 113.5552341752524
+ },
+ {
+  "ID": 640030876,
+  "Capacity": 50,
+  "Name": "排角路休憩區 Zona de Lazer da Rua do Pai Kok",
+  "CenterPositionLon": 22.15269069361847,
+  "CenterPositionLat": 113.5514792695915
+ },
+ {
+  "ID": 640036844,
+  "Capacity": 254,
+  "Name": "西灣湖休憩區 Zona de Lazer do Lago Sai Van",
+  "CenterPositionLon": 22.180314762663905,
+  "CenterPositionLat": 113.53282055150686
+ },
+ {
+  "ID": 640036846,
+  "Capacity": 80,
+  "Name": "媽閣休憩區 Zona de Lazer da Barra",
+  "CenterPositionLon": 22.18636017998892,
+  "CenterPositionLat": 113.52987255072904
+ },
+ {
+  "ID": 640169193,
+  "Capacity": 83,
+  "Name": "海景花園休憩區 Zona de Lazer da Praceta de Miramar",
+  "CenterPositionLon": 22.192415473754618,
+  "CenterPositionLat": 113.55213995441736
+ },
+ {
+  "ID": 640169194,
+  "Capacity": 12,
+  "Name": "昆明街休憩區 Zona de Lazer da Rua de Kunming",
+  "CenterPositionLon": 22.1932358710611,
+  "CenterPositionLat": 113.54995097734496
+ },
+ {
+  "ID": 640169195,
+  "Capacity": 69,
+  "Name": "山邊街周邊休憩區",
+  "CenterPositionLon": 22.195501847207215,
+  "CenterPositionLat": 113.54892873305329
+ },
+ {
+  "ID": 641072652,
+  "Capacity": 86,
+  "Name": "紀念碑花園 Jardim do Monumento",
+  "CenterPositionLon": 22.157507538564275,
+  "CenterPositionLat": 113.54243235800696
+ },
+ {
+  "ID": 641072653,
+  "Capacity": 522,
+  "Name": "",
+  "CenterPositionLon": 22.15738046223785,
+  "CenterPositionLat": 113.5467294710536
+ },
+ {
+  "ID": 641079262,
+  "Capacity": 117,
+  "Name": "十字花園 (史劉蓮德博士眺望臺) Jardim da Dra. Laurinda Marques Esparteiro",
+  "CenterPositionLon": 22.15332776690538,
+  "CenterPositionLat": 113.55898733039201
+ },
+ {
+  "ID": 641246291,
+  "Capacity": 126,
+  "Name": "西望洋花園 Jardim da Penha",
+  "CenterPositionLon": 22.18489162763209,
+  "CenterPositionLat": 113.53337715466613
+ },
+ {
+  "ID": 641454818,
+  "Capacity": 21,
+  "Name": "電廠巷休憩區 Zona de Lazer da Travessa da Central Térmica",
+  "CenterPositionLon": 22.20479005005664,
+  "CenterPositionLat": 113.55559718201478
+ },
+ {
+  "ID": 641454820,
+  "Capacity": 117,
+  "Name": "勞動節巷休憩區 Zona de Lazer da Travessa de 1.º de Maio",
+  "CenterPositionLon": 22.205353150498034,
+  "CenterPositionLat": 113.55876256580795
+ },
+ {
+  "ID": 641455258,
+  "Capacity": 38,
+  "Name": "菜園涌邊街明愛側休憩區 Zona de Lazer da Rua Marginal do Canal das Hortas (ao lado das Cáritas)",
+  "CenterPositionLon": 22.213471170033372,
+  "CenterPositionLat": 113.54549236468091
+ },
+ {
+  "ID": 641455556,
+  "Capacity": 26,
+  "Name": "菜園路休憩區 Zona de Lazer da Rua dos Hortelãos",
+  "CenterPositionLon": 22.21428483144591,
+  "CenterPositionLat": 113.55042126844637
+ },
+ {
+  "ID": 641456076,
+  "Capacity": 30,
+  "Name": "黑沙環新巷休憩區 Zona de Lazer provisória da Travessa Nova da Areia Preta",
+  "CenterPositionLon": 22.208877892885837,
+  "CenterPositionLat": 113.54986069289652
+ },
+ {
+  "ID": 641456077,
+  "Capacity": 23,
+  "Name": "黑沙環新巷休憩區 Zona de Lazer provisória da Travessa Nova da Areia Preta",
+  "CenterPositionLon": 22.20870745776133,
+  "CenterPositionLat": 113.55040263977068
+ },
+ {
+  "ID": 641556726,
+  "Capacity": 79,
+  "Name": "馬場海邊馬路休憩區 Zona de Lazer da Estrada Marginal do Hipódromo",
+  "CenterPositionLon": 22.20901027349749,
+  "CenterPositionLat": 113.55262190259933
+ },
+ {
+  "ID": 643627010,
+  "Capacity": 203,
+  "Name": "馬交石炮台公園 Jardim da Colina de D. Maria II",
+  "CenterPositionLon": 22.20331470011208,
+  "CenterPositionLat": 113.55547394005308
+ },
+ {
+  "ID": 643633778,
+  "Capacity": 70,
+  "Name": "西望洋聖母眺望台 Miradouro de Nossa Senhora da Penha",
+  "CenterPositionLon": 22.18663419831266,
+  "CenterPositionLat": 113.53520445362437
+ },
+ {
+  "ID": 643633782,
+  "Capacity": 50,
+  "Name": "主教山眺望台 Miradouro da Penha",
+  "CenterPositionLon": 22.18706102722295,
+  "CenterPositionLat": 113.53445324020498
+ },
+ {
+  "ID": 644421217,
+  "Capacity": 49,
+  "Name": "巿政狗房花園 Jardim do Canil Municipal",
+  "CenterPositionLon": 22.20758841850168,
+  "CenterPositionLat": 113.54618910265825
+ },
+ {
+  "ID": 658226444,
+  "Capacity": 3,
+  "Name": "爛鬼樓巷臨時休憩區",
+  "CenterPositionLon": 22.197156173921012,
+  "CenterPositionLat": 113.53886485822652
+ },
+ {
+  "ID": 658226448,
+  "Capacity": 0,
+  "Name": "玫瑰里臨時休憩區",
+  "CenterPositionLon": 22.19688669117408,
+  "CenterPositionLat": 113.53868787375377
+ },
+ {
+  "ID": 665226934,
+  "Capacity": 1702,
+  "Name": "黑沙海灘公園 Parque da Praia de Hác-Sá",
+  "CenterPositionLon": 22.121549353420452,
+  "CenterPositionLat": 113.57064861434488
+ },
+ {
+  "ID": 667492602,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 22.187054089192458,
+  "CenterPositionLat": 113.53279473830337
+ },
+ {
+  "ID": 672806430,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 22.192564804644093,
+  "CenterPositionLat": 113.54197067681639
+ },
+ {
+  "ID": 676844384,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 22.187233993227075,
+  "CenterPositionLat": 113.53581701166867
+ },
+ {
+  "ID": 679546547,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 22.20593861770353,
+  "CenterPositionLat": 113.53708367467758
+ },
+ {
+  "ID": 680715503,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 22.1285786,
+  "CenterPositionLat": 113.56312
+ },
+ {
+  "ID": 688159563,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 22.214004849129065,
+  "CenterPositionLat": 113.55334071902467
+ },
+ {
+  "ID": 713110468,
+  "Capacity": 6,
+  "Name": "花王堂街臨時休憩區",
+  "CenterPositionLon": 22.198145115450025,
+  "CenterPositionLat": 113.53907125444863
+ },
+ {
+  "ID": 778305626,
+  "Capacity": 72,
+  "Name": "路環山頂公園 Parque de Merendas do Alto de Coloane",
+  "CenterPositionLon": 22.12253850285952,
+  "CenterPositionLat": 113.56419350338464
+ },
+ {
+  "ID": 783087990,
+  "Capacity": 1088,
+  "Name": "大潭山郊野公園",
+  "CenterPositionLon": 22.158682743200117,
+  "CenterPositionLat": 113.57130643962734
+ },
+ {
+  "ID": 783094095,
+  "Capacity": 49,
+  "Name": "寶鼎廣場",
+  "CenterPositionLon": 22.12330596447623,
+  "CenterPositionLat": 113.56308148301365
+ },
+ {
+  "ID": 783094097,
+  "Capacity": 210,
+  "Name": "大潭山觀景台",
+  "CenterPositionLon": 22.155463442932124,
+  "CenterPositionLat": 113.56150172447776
+ },
+ {
+  "ID": 783103738,
+  "Capacity": 46,
+  "Name": "小潭山遊樂場",
+  "CenterPositionLon": 22.159453888741538,
+  "CenterPositionLat": 113.54599792924881
+ },
+ {
+  "ID": 783552960,
+  "Capacity": 1466,
+  "Name": "望廈山市政公園 Parque Municipal da Colina de Mong Há",
+  "CenterPositionLon": 22.208058464530282,
+  "CenterPositionLat": 113.54798520989068
+ },
+ {
+  "ID": 788080464,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 22.211573669269175,
+  "CenterPositionLat": 113.54304534929697
+ }
+]

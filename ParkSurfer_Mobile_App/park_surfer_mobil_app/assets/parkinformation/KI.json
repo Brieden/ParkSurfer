@@ -1,0 +1,23 @@
+[
+ {
+  "ID": 223577425,
+  "Capacity": 194,
+  "Name": "Bairiki Square",
+  "CenterPositionLon": 1.3297349878365596,
+  "CenterPositionLat": 172.97874573312686
+ },
+ {
+  "ID": 496794321,
+  "Capacity": 5427,
+  "Name": "",
+  "CenterPositionLon": 1.347684773142721,
+  "CenterPositionLat": 172.949538263522
+ },
+ {
+  "ID": 788114502,
+  "Capacity": 886,
+  "Name": "Sports field",
+  "CenterPositionLon": 1.7140180566595342,
+  "CenterPositionLat": 173.00696197122292
+ }
+]

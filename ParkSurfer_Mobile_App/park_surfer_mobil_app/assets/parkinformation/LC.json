@@ -1,0 +1,184 @@
+[
+ {
+  "ID": 114732971,
+  "Capacity": 341,
+  "Name": "Derek Walcott Square",
+  "CenterPositionLon": 14.008853663504887,
+  "CenterPositionLat": -60.99082019416085
+ },
+ {
+  "ID": 255421198,
+  "Capacity": 62,
+  "Name": "Soufriere Town Square",
+  "CenterPositionLon": 13.854137383826183,
+  "CenterPositionLat": -61.05857398319551
+ },
+ {
+  "ID": 255587449,
+  "Capacity": 242,
+  "Name": "Sir Johm William Mallet Serenity Park",
+  "CenterPositionLon": 14.01597688549132,
+  "CenterPositionLat": -60.99115177631847
+ },
+ {
+  "ID": 257662855,
+  "Capacity": 267,
+  "Name": "Vieux-Fort Town Square",
+  "CenterPositionLon": 13.729703460446142,
+  "CenterPositionLat": -60.95353880266829
+ },
+ {
+  "ID": 352857112,
+  "Capacity": 34,
+  "Name": "La Clery Square",
+  "CenterPositionLon": 14.01807876536743,
+  "CenterPositionLat": -60.98293870535852
+ },
+ {
+  "ID": 352857801,
+  "Capacity": 20,
+  "Name": "Anse la raye Village Square",
+  "CenterPositionLon": 13.94018499282103,
+  "CenterPositionLat": -61.04318600164524
+ },
+ {
+  "ID": 352879950,
+  "Capacity": 674,
+  "Name": "Provost Park",
+  "CenterPositionLon": 14.000216683622744,
+  "CenterPositionLat": -60.99782453552891
+ },
+ {
+  "ID": 352880257,
+  "Capacity": 283,
+  "Name": "Apostle's Battery",
+  "CenterPositionLon": 13.999407908631284,
+  "CenterPositionLat": -61.00084461784032
+ },
+ {
+  "ID": 392411329,
+  "Capacity": 64,
+  "Name": "Beausejour Phase 2 - Assigned Green Space",
+  "CenterPositionLon": 14.07417135235101,
+  "CenterPositionLat": -60.927399018140754
+ },
+ {
+  "ID": 392697473,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 14.053374350710113,
+  "CenterPositionLat": -60.93096212865868
+ },
+ {
+  "ID": 392775194,
+  "Capacity": 51,
+  "Name": "Constitution Park",
+  "CenterPositionLon": 14.009990250000001,
+  "CenterPositionLat": -60.99004885
+ },
+ {
+  "ID": 394365721,
+  "Capacity": 105,
+  "Name": "Fond Benier Park",
+  "CenterPositionLon": 13.85797975,
+  "CenterPositionLat": -61.059896599999995
+ },
+ {
+  "ID": 395075832,
+  "Capacity": 216,
+  "Name": "Hewanorra Orchard Recreational Park",
+  "CenterPositionLon": 13.746020266666667,
+  "CenterPositionLat": -60.97284363333333
+ },
+ {
+  "ID": 396199496,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 13.9054658,
+  "CenterPositionLat": -61.0679413
+ },
+ {
+  "ID": 396463727,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 13.854329950000004,
+  "CenterPositionLat": -61.05969465
+ },
+ {
+  "ID": 396603583,
+  "Capacity": 114,
+  "Name": "Gros Islet Park",
+  "CenterPositionLon": 14.081676993029795,
+  "CenterPositionLat": -60.950823823582844
+ },
+ {
+  "ID": 397364269,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 13.809323250180007,
+  "CenterPositionLat": -60.914856778521376
+ },
+ {
+  "ID": 400199051,
+  "Capacity": 87,
+  "Name": "Rudy John Beach Park",
+  "CenterPositionLon": 13.752138330589089,
+  "CenterPositionLat": -61.00197090709981
+ },
+ {
+  "ID": 400211074,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 13.946508733264976,
+  "CenterPositionLat": -61.0382847987885
+ },
+ {
+  "ID": 400280547,
+  "Capacity": 92,
+  "Name": "Dennery Sea Food Fiesta",
+  "CenterPositionLon": 13.911377090090221,
+  "CenterPositionLat": -60.887795540731865
+ },
+ {
+  "ID": 400514196,
+  "Capacity": 4511,
+  "Name": "Balenbouche Estate",
+  "CenterPositionLon": 13.756920352546878,
+  "CenterPositionLat": -61.02683437848662
+ },
+ {
+  "ID": 451104898,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 14.001791480442893,
+  "CenterPositionLat": -60.98795895636973
+ },
+ {
+  "ID": 484060432,
+  "Capacity": 322,
+  "Name": "",
+  "CenterPositionLon": 14.030330184940688,
+  "CenterPositionLat": -60.97678685058041
+ },
+ {
+  "ID": 503294856,
+  "Capacity": 282,
+  "Name": "",
+  "CenterPositionLon": 14.06966474374427,
+  "CenterPositionLat": -60.94701092347499
+ },
+ {
+  "ID": 680609611,
+  "Capacity": 1965,
+  "Name": "Sable wiche sha beach park",
+  "CenterPositionLon": 13.780615289909672,
+  "CenterPositionLat": -61.05413362633907
+ },
+ {
+  "ID": 739925508,
+  "Capacity": 37,
+  "Name": "Place Bideau",
+  "CenterPositionLon": 14.010700973824108,
+  "CenterPositionLat": -60.99003211280629
+ }
+]

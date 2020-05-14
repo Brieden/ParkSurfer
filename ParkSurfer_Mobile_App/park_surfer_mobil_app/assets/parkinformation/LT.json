@@ -1,0 +1,3502 @@
+[
+ {
+  "ID": 4853623,
+  "Capacity": 1366,
+  "Name": "Vinco Kudirkos aikštė",
+  "CenterPositionLon": 54.68758069337345,
+  "CenterPositionLat": 25.280551887775147
+ },
+ {
+  "ID": 4870220,
+  "Capacity": 1168,
+  "Name": "Vokiečių g. skveras",
+  "CenterPositionLon": 54.679199817487344,
+  "CenterPositionLat": 25.284309721707196
+ },
+ {
+  "ID": 4872295,
+  "Capacity": 1590,
+  "Name": "Konstantino Sirvydo skveras",
+  "CenterPositionLon": 54.68124109710695,
+  "CenterPositionLat": 25.287653880088087
+ },
+ {
+  "ID": 5045837,
+  "Capacity": 1221,
+  "Name": "Eduardo Balsio skveras",
+  "CenterPositionLon": 54.689970112575644,
+  "CenterPositionLat": 25.257228285208793
+ },
+ {
+  "ID": 6855199,
+  "Capacity": 7914,
+  "Name": "Antakalnio Šilo miško parkas",
+  "CenterPositionLon": 54.695741005847076,
+  "CenterPositionLat": 25.31591887520074
+ },
+ {
+  "ID": 8018413,
+  "Capacity": 1152,
+  "Name": "Malkų turgaus skveras",
+  "CenterPositionLon": 54.67818251970943,
+  "CenterPositionLat": 25.2782448796185
+ },
+ {
+  "ID": 17506587,
+  "Capacity": 43544,
+  "Name": "Kalniečių parkas",
+  "CenterPositionLon": 54.92351071340341,
+  "CenterPositionLat": 23.949920272965187
+ },
+ {
+  "ID": 22908617,
+  "Capacity": 31446,
+  "Name": "Draugystės parkas",
+  "CenterPositionLon": 54.91575176978142,
+  "CenterPositionLat": 23.97087478786769
+ },
+ {
+  "ID": 23321911,
+  "Capacity": 96088,
+  "Name": "Užutrakio dvaro parkas",
+  "CenterPositionLon": 54.659470502309006,
+  "CenterPositionLat": 24.948153584748393
+ },
+ {
+  "ID": 24373694,
+  "Capacity": 43742,
+  "Name": "Trakų Vokės dvaro parkas",
+  "CenterPositionLon": 54.63146313010965,
+  "CenterPositionLat": 25.109173522729847
+ },
+ {
+  "ID": 24570956,
+  "Capacity": 5316,
+  "Name": "",
+  "CenterPositionLon": 54.62997301948233,
+  "CenterPositionLat": 25.102231707976255
+ },
+ {
+  "ID": 24598384,
+  "Capacity": 288,
+  "Name": "Prezidentūros skveras",
+  "CenterPositionLon": 54.68373900525458,
+  "CenterPositionLat": 25.28565935948974
+ },
+ {
+  "ID": 24598950,
+  "Capacity": 662,
+  "Name": "Odminių skveras",
+  "CenterPositionLon": 54.68562774525311,
+  "CenterPositionLat": 25.285422872985936
+ },
+ {
+  "ID": 24610695,
+  "Capacity": 5139,
+  "Name": "Reformatų parkas",
+  "CenterPositionLon": 54.681565036951035,
+  "CenterPositionLat": 25.27621854673614
+ },
+ {
+  "ID": 24713957,
+  "Capacity": 5232,
+  "Name": "Viršuliškių miško parkas",
+  "CenterPositionLon": 54.716347796978305,
+  "CenterPositionLat": 25.23513352621635
+ },
+ {
+  "ID": 25097379,
+  "Capacity": 5010,
+  "Name": "Šeškinės miško parkas",
+  "CenterPositionLon": 54.72475903971059,
+  "CenterPositionLat": 25.236216924595237
+ },
+ {
+  "ID": 25963457,
+  "Capacity": 534,
+  "Name": "Žemaitės skv.",
+  "CenterPositionLon": 54.68846721986714,
+  "CenterPositionLat": 25.274150742251397
+ },
+ {
+  "ID": 26282658,
+  "Capacity": 936,
+  "Name": "Šv. Juozapo a.",
+  "CenterPositionLon": 54.6756793267767,
+  "CenterPositionLat": 25.285629701955887
+ },
+ {
+  "ID": 27267934,
+  "Capacity": 1742,
+  "Name": "",
+  "CenterPositionLon": 54.698314520966214,
+  "CenterPositionLat": 25.252623229436608
+ },
+ {
+  "ID": 27429817,
+  "Capacity": 5332,
+  "Name": "Muziejaus parkas",
+  "CenterPositionLon": 55.08002492914725,
+  "CenterPositionLat": 23.278576711767105
+ },
+ {
+  "ID": 27430220,
+  "Capacity": 710,
+  "Name": "Ramybės kalnas - Veliuonos piliakalnis",
+  "CenterPositionLon": 55.07777114987066,
+  "CenterPositionLat": 23.279307100663218
+ },
+ {
+  "ID": 27433254,
+  "Capacity": 245,
+  "Name": "",
+  "CenterPositionLon": 55.0807827764156,
+  "CenterPositionLat": 23.274212688118315
+ },
+ {
+  "ID": 27827007,
+  "Capacity": 563,
+  "Name": "",
+  "CenterPositionLon": 54.69579978596275,
+  "CenterPositionLat": 25.256514408975885
+ },
+ {
+  "ID": 27827009,
+  "Capacity": 315,
+  "Name": "Džocharo Dudajevo skveras",
+  "CenterPositionLon": 54.695555452568485,
+  "CenterPositionLat": 25.2555088109097
+ },
+ {
+  "ID": 29128241,
+  "Capacity": 4944,
+  "Name": "Kovo 11-osios parkas",
+  "CenterPositionLon": 54.90620802819095,
+  "CenterPositionLat": 23.97276612135745
+ },
+ {
+  "ID": 29360548,
+  "Capacity": 320,
+  "Name": "S. Moniuškos skveras",
+  "CenterPositionLon": 54.68210611127554,
+  "CenterPositionLat": 25.28047190567633
+ },
+ {
+  "ID": 29490938,
+  "Capacity": 2847,
+  "Name": "",
+  "CenterPositionLon": 54.681695472503364,
+  "CenterPositionLat": 25.29287563882096
+ },
+ {
+  "ID": 29493864,
+  "Capacity": 372,
+  "Name": "Aukų g. skveras",
+  "CenterPositionLon": 54.688330310339296,
+  "CenterPositionLat": 25.270360913610787
+ },
+ {
+  "ID": 29496857,
+  "Capacity": 4619,
+  "Name": "Rimties parkas",
+  "CenterPositionLon": 54.698314160085026,
+  "CenterPositionLat": 25.302785499464516
+ },
+ {
+  "ID": 29500261,
+  "Capacity": 137,
+  "Name": "",
+  "CenterPositionLon": 54.683266542097286,
+  "CenterPositionLat": 25.29253050164912
+ },
+ {
+  "ID": 32314315,
+  "Capacity": 18110,
+  "Name": "Ramybės parkas",
+  "CenterPositionLon": 54.892382764078995,
+  "CenterPositionLat": 23.927024302802106
+ },
+ {
+  "ID": 33052751,
+  "Capacity": 2389,
+  "Name": "Muzikinio teatro sodelis",
+  "CenterPositionLon": 54.89702674420506,
+  "CenterPositionLat": 23.905762281208407
+ },
+ {
+  "ID": 33055459,
+  "Capacity": 17205,
+  "Name": "Vytauto parkas",
+  "CenterPositionLon": 54.89683888813307,
+  "CenterPositionLat": 23.93017082947743
+ },
+ {
+  "ID": 36870701,
+  "Capacity": 2221,
+  "Name": "Šimtmečio a.",
+  "CenterPositionLon": 55.96028142266406,
+  "CenterPositionLat": 25.590957666307855
+ },
+ {
+  "ID": 37638164,
+  "Capacity": 430,
+  "Name": "Juozo Lukšos - Daumanto skv.",
+  "CenterPositionLon": 54.67984823004588,
+  "CenterPositionLat": 25.25920115780767
+ },
+ {
+  "ID": 37642758,
+  "Capacity": 305,
+  "Name": "",
+  "CenterPositionLon": 54.682168081879,
+  "CenterPositionLat": 25.269387902016398
+ },
+ {
+  "ID": 39946974,
+  "Capacity": 13052,
+  "Name": "",
+  "CenterPositionLon": 55.80901072740172,
+  "CenterPositionLat": 23.54869421294083
+ },
+ {
+  "ID": 40220999,
+  "Capacity": 901,
+  "Name": "Vašingtono skveras",
+  "CenterPositionLon": 54.69193945440097,
+  "CenterPositionLat": 25.270597974078772
+ },
+ {
+  "ID": 52126079,
+  "Capacity": 9365,
+  "Name": "",
+  "CenterPositionLon": 54.89956178962927,
+  "CenterPositionLat": 23.92979573630194
+ },
+ {
+  "ID": 54753964,
+  "Capacity": 16118,
+  "Name": "Lentvario dvaro parkas",
+  "CenterPositionLon": 54.65975817036054,
+  "CenterPositionLat": 25.03968601080529
+ },
+ {
+  "ID": 55447436,
+  "Capacity": 551,
+  "Name": "Bazilijonų g. skveras",
+  "CenterPositionLon": 54.6736903734382,
+  "CenterPositionLat": 25.289001883784838
+ },
+ {
+  "ID": 55447893,
+  "Capacity": 238,
+  "Name": "Pranciškonų g. skveras",
+  "CenterPositionLon": 54.67987748980423,
+  "CenterPositionLat": 25.280529908743798
+ },
+ {
+  "ID": 55465345,
+  "Capacity": 1058,
+  "Name": "",
+  "CenterPositionLon": 55.92654747016402,
+  "CenterPositionLat": 23.311844368940953
+ },
+ {
+  "ID": 57649114,
+  "Capacity": 364,
+  "Name": "",
+  "CenterPositionLon": 54.78532646666667,
+  "CenterPositionLat": 24.7975054
+ },
+ {
+  "ID": 59563844,
+  "Capacity": 1980,
+  "Name": "",
+  "CenterPositionLon": 54.682476250168925,
+  "CenterPositionLat": 25.244203340122052
+ },
+ {
+  "ID": 60921141,
+  "Capacity": 745,
+  "Name": "",
+  "CenterPositionLon": 55.90165612526574,
+  "CenterPositionLat": 23.249980422888584
+ },
+ {
+  "ID": 61651216,
+  "Capacity": 226,
+  "Name": "L. Stuokos-Gucevičiaus skveras",
+  "CenterPositionLon": 54.68388020439427,
+  "CenterPositionLat": 25.284260047524487
+ },
+ {
+  "ID": 64442492,
+  "Capacity": 4567,
+  "Name": "",
+  "CenterPositionLon": 55.81745320147623,
+  "CenterPositionLat": 23.31792178208175
+ },
+ {
+  "ID": 67094089,
+  "Capacity": 56879,
+  "Name": "Dubravos arboretumas",
+  "CenterPositionLon": 54.847711725382254,
+  "CenterPositionLat": 24.039764247366673
+ },
+ {
+  "ID": 67743413,
+  "Capacity": 5152,
+  "Name": "Dauniškio ežero parkas",
+  "CenterPositionLon": 55.50591651419151,
+  "CenterPositionLat": 25.60308347982619
+ },
+ {
+  "ID": 67805989,
+  "Capacity": 7848,
+  "Name": "Melioratorių parkelis",
+  "CenterPositionLon": 56.3089515286647,
+  "CenterPositionLat": 22.321675163409516
+ },
+ {
+  "ID": 70121691,
+  "Capacity": 2024,
+  "Name": "Laisvės aikštės skveras",
+  "CenterPositionLon": 55.728052897028434,
+  "CenterPositionLat": 24.362457598156254
+ },
+ {
+  "ID": 70810206,
+  "Capacity": 5681,
+  "Name": "Utenos m. sodas",
+  "CenterPositionLon": 55.49869235341394,
+  "CenterPositionLat": 25.598642044304047
+ },
+ {
+  "ID": 73990415,
+  "Capacity": 1195,
+  "Name": "",
+  "CenterPositionLon": 54.671499605029005,
+  "CenterPositionLat": 25.284168157364988
+ },
+ {
+  "ID": 84225748,
+  "Capacity": 1317,
+  "Name": "",
+  "CenterPositionLon": 55.85734086119378,
+  "CenterPositionLat": 23.13921354958939
+ },
+ {
+  "ID": 84952715,
+  "Capacity": 2208,
+  "Name": "Stadiono parkas",
+  "CenterPositionLon": 54.644169759584486,
+  "CenterPositionLat": 23.954022438041505
+ },
+ {
+  "ID": 85694106,
+  "Capacity": 312,
+  "Name": "",
+  "CenterPositionLon": 55.922177149999996,
+  "CenterPositionLat": 23.31984425
+ },
+ {
+  "ID": 87789249,
+  "Capacity": 3805,
+  "Name": "",
+  "CenterPositionLon": 56.147930751448044,
+  "CenterPositionLat": 23.631520847771164
+ },
+ {
+  "ID": 88660598,
+  "Capacity": 6169,
+  "Name": "Ąžuolų giraitė",
+  "CenterPositionLon": 55.69847309753733,
+  "CenterPositionLat": 21.156241396654423
+ },
+ {
+  "ID": 89002151,
+  "Capacity": 69560,
+  "Name": "Jaunimo parkas",
+  "CenterPositionLon": 54.40468267601231,
+  "CenterPositionLat": 24.02949859811843
+ },
+ {
+  "ID": 90118949,
+  "Capacity": 20718,
+  "Name": "Skulptūrų parkas",
+  "CenterPositionLon": 55.716841859868474,
+  "CenterPositionLat": 21.139711512006404
+ },
+ {
+  "ID": 91798925,
+  "Capacity": 6950,
+  "Name": "Vytauto Didžiojo parkas",
+  "CenterPositionLon": 54.55255679636605,
+  "CenterPositionLat": 23.346476948001598
+ },
+ {
+  "ID": 93091735,
+  "Capacity": 171,
+  "Name": "",
+  "CenterPositionLon": 55.928906500000004,
+  "CenterPositionLat": 23.3161431
+ },
+ {
+  "ID": 93890762,
+  "Capacity": 2178,
+  "Name": "",
+  "CenterPositionLon": 54.92171770508902,
+  "CenterPositionLat": 23.894486952739133
+ },
+ {
+  "ID": 93894242,
+  "Capacity": 6179,
+  "Name": "Akmens skulptūrų parkas „Vilnoja“",
+  "CenterPositionLon": 54.78929294523886,
+  "CenterPositionLat": 25.080317458602018
+ },
+ {
+  "ID": 94571286,
+  "Capacity": 14468,
+  "Name": "Domeikavos fortas (S662)",
+  "CenterPositionLon": 54.96776925585296,
+  "CenterPositionLat": 23.90434385511623
+ },
+ {
+  "ID": 99159524,
+  "Capacity": 271,
+  "Name": "",
+  "CenterPositionLon": 55.54572996061593,
+  "CenterPositionLat": 24.09852229456309
+ },
+ {
+  "ID": 99246525,
+  "Capacity": 30019,
+  "Name": "Šiaulių parkas",
+  "CenterPositionLon": 55.93979714677949,
+  "CenterPositionLat": 23.31441137276589
+ },
+ {
+  "ID": 99549133,
+  "Capacity": 2648,
+  "Name": "",
+  "CenterPositionLon": 54.888859396593276,
+  "CenterPositionLat": 23.894065403860726
+ },
+ {
+  "ID": 99549136,
+  "Capacity": 2283,
+  "Name": "",
+  "CenterPositionLon": 54.88986684379948,
+  "CenterPositionLat": 23.895247523586864
+ },
+ {
+  "ID": 99786040,
+  "Capacity": 7707,
+  "Name": "Rėkyvos parkas",
+  "CenterPositionLon": 55.85600855118582,
+  "CenterPositionLat": 23.32705860388234
+ },
+ {
+  "ID": 101692970,
+  "Capacity": 289,
+  "Name": "",
+  "CenterPositionLon": 54.68254296520439,
+  "CenterPositionLat": 25.29161903219762
+ },
+ {
+  "ID": 101698627,
+  "Capacity": 7317,
+  "Name": "Perkūno parkas",
+  "CenterPositionLon": 54.89138496404666,
+  "CenterPositionLat": 23.93843645950861
+ },
+ {
+  "ID": 102585062,
+  "Capacity": 2485,
+  "Name": "",
+  "CenterPositionLon": 55.941665719344016,
+  "CenterPositionLat": 23.299237876428283
+ },
+ {
+  "ID": 103187295,
+  "Capacity": 1796,
+  "Name": "",
+  "CenterPositionLon": 55.94238122924081,
+  "CenterPositionLat": 23.309259625745415
+ },
+ {
+  "ID": 105400206,
+  "Capacity": 235,
+  "Name": "",
+  "CenterPositionLon": 54.6907667127757,
+  "CenterPositionLat": 25.270470949129304
+ },
+ {
+  "ID": 107478047,
+  "Capacity": 649,
+  "Name": "",
+  "CenterPositionLon": 54.68132552238352,
+  "CenterPositionLat": 25.299457779023232
+ },
+ {
+  "ID": 108686414,
+  "Capacity": 13052,
+  "Name": "L. Šepkos parkas",
+  "CenterPositionLon": 55.95422727461992,
+  "CenterPositionLat": 25.58306828907886
+ },
+ {
+  "ID": 112373064,
+  "Capacity": 2057,
+  "Name": "",
+  "CenterPositionLon": 54.68328112604053,
+  "CenterPositionLat": 25.28419799144372
+ },
+ {
+  "ID": 112958866,
+  "Capacity": 130,
+  "Name": "Ukrainos skv.",
+  "CenterPositionLon": 54.674603399479516,
+  "CenterPositionLat": 25.285712950177775
+ },
+ {
+  "ID": 114224668,
+  "Capacity": 8584,
+  "Name": "Didždvario parkas",
+  "CenterPositionLon": 55.93621376203422,
+  "CenterPositionLat": 23.315305487470315
+ },
+ {
+  "ID": 119509847,
+  "Capacity": 17197,
+  "Name": "Ozo parkas",
+  "CenterPositionLon": 54.718161114000836,
+  "CenterPositionLat": 25.281046261153072
+ },
+ {
+  "ID": 121879935,
+  "Capacity": 18068,
+  "Name": "Uošvės liežuvio dendroparkas",
+  "CenterPositionLon": 55.85566628768927,
+  "CenterPositionLat": 24.978659021749518
+ },
+ {
+  "ID": 123107418,
+  "Capacity": 5138,
+  "Name": "",
+  "CenterPositionLon": 55.95149574607856,
+  "CenterPositionLat": 25.58849382621977
+ },
+ {
+  "ID": 124882392,
+  "Capacity": 36238,
+  "Name": "K. Dineikos sveikatingumo parkas",
+  "CenterPositionLon": 54.00977875821797,
+  "CenterPositionLat": 23.98054704000118
+ },
+ {
+  "ID": 131910021,
+  "Capacity": 5441,
+  "Name": "Gričiupio parkas",
+  "CenterPositionLon": 54.90536131111862,
+  "CenterPositionLat": 23.95942318973546
+ },
+ {
+  "ID": 132435363,
+  "Capacity": 1684,
+  "Name": "Karo muziejaus sodelis",
+  "CenterPositionLon": 54.89944294141196,
+  "CenterPositionLat": 23.91160616495483
+ },
+ {
+  "ID": 141442538,
+  "Capacity": 768,
+  "Name": "",
+  "CenterPositionLon": 55.490909956390624,
+  "CenterPositionLat": 22.18183804053868
+ },
+ {
+  "ID": 141608478,
+  "Capacity": 2973,
+  "Name": "Jaunimo aikštė",
+  "CenterPositionLon": 54.91898160487441,
+  "CenterPositionLat": 23.93900095556183
+ },
+ {
+  "ID": 142433659,
+  "Capacity": 19712,
+  "Name": "",
+  "CenterPositionLon": 54.98519982594729,
+  "CenterPositionLat": 25.222971108997818
+ },
+ {
+  "ID": 142689427,
+  "Capacity": 7883,
+  "Name": "Sąjungos aikštė",
+  "CenterPositionLon": 54.910969875605296,
+  "CenterPositionLat": 23.89205200973724
+ },
+ {
+  "ID": 146931855,
+  "Capacity": 523,
+  "Name": "",
+  "CenterPositionLon": 54.723744214921574,
+  "CenterPositionLat": 24.054801857844623
+ },
+ {
+  "ID": 149661787,
+  "Capacity": 22192,
+  "Name": "Paežerių dvaro parkas",
+  "CenterPositionLon": 54.63950137212298,
+  "CenterPositionLat": 22.98132771335988
+ },
+ {
+  "ID": 151110070,
+  "Capacity": 21308,
+  "Name": "Žalgirio parkas",
+  "CenterPositionLon": 55.136446264027285,
+  "CenterPositionLat": 23.73218316478962
+ },
+ {
+  "ID": 151241491,
+  "Capacity": 423,
+  "Name": "",
+  "CenterPositionLon": 55.797505289694996,
+  "CenterPositionLat": 23.567965224163313
+ },
+ {
+  "ID": 151825195,
+  "Capacity": 47947,
+  "Name": "Nemuno salos parkas",
+  "CenterPositionLon": 54.892424200987605,
+  "CenterPositionLat": 23.908145224366255
+ },
+ {
+  "ID": 152095772,
+  "Capacity": 3927,
+  "Name": "Girstupio parkas",
+  "CenterPositionLon": 54.90346313782515,
+  "CenterPositionLat": 23.965390734382424
+ },
+ {
+  "ID": 154485591,
+  "Capacity": 1006,
+  "Name": "",
+  "CenterPositionLon": 55.121808829144875,
+  "CenterPositionLat": 25.354948871553525
+ },
+ {
+  "ID": 154494743,
+  "Capacity": 2135,
+  "Name": "",
+  "CenterPositionLon": 55.828008465491244,
+  "CenterPositionLat": 23.615064897392447
+ },
+ {
+  "ID": 158681005,
+  "Capacity": 3878,
+  "Name": "",
+  "CenterPositionLon": 55.25567722770943,
+  "CenterPositionLat": 23.491397732472755
+ },
+ {
+  "ID": 159043852,
+  "Capacity": 9101,
+  "Name": "Marijampolės poezijos parkas",
+  "CenterPositionLon": 54.55784847547408,
+  "CenterPositionLat": 23.34632364122066
+ },
+ {
+  "ID": 160565548,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": 54.60204138984366,
+  "CenterPositionLat": 24.02859392801399
+ },
+ {
+  "ID": 165025247,
+  "Capacity": 14461,
+  "Name": "Veisiejų dvaro parkas",
+  "CenterPositionLon": 54.09907764509253,
+  "CenterPositionLat": 23.691837428979333
+ },
+ {
+  "ID": 167054357,
+  "Capacity": 5137,
+  "Name": "",
+  "CenterPositionLon": 55.511746271239645,
+  "CenterPositionLat": 24.306003843754013
+ },
+ {
+  "ID": 167335815,
+  "Capacity": 13216,
+  "Name": "",
+  "CenterPositionLon": 54.21315086605578,
+  "CenterPositionLat": 24.57609530322401
+ },
+ {
+  "ID": 168138582,
+  "Capacity": 24756,
+  "Name": "",
+  "CenterPositionLon": 54.019065690002186,
+  "CenterPositionLat": 23.9784504145534
+ },
+ {
+  "ID": 169747211,
+  "Capacity": 3551,
+  "Name": "J. Kalvano parkas",
+  "CenterPositionLon": 55.25225576102484,
+  "CenterPositionLat": 22.291420981197355
+ },
+ {
+  "ID": 170352973,
+  "Capacity": 1125,
+  "Name": "Senamiesčio Skveras",
+  "CenterPositionLon": 55.2452465754749,
+  "CenterPositionLat": 22.288155740145605
+ },
+ {
+  "ID": 170673719,
+  "Capacity": 7970,
+  "Name": "Raseinių parkas",
+  "CenterPositionLon": 55.38383574255326,
+  "CenterPositionLat": 23.121737760289825
+ },
+ {
+  "ID": 170673752,
+  "Capacity": 1304,
+  "Name": "Žemaičio aikštė",
+  "CenterPositionLon": 55.38125116936181,
+  "CenterPositionLat": 23.11685815437877
+ },
+ {
+  "ID": 171713484,
+  "Capacity": 1994,
+  "Name": "Šakių miesto skveras",
+  "CenterPositionLon": 54.95274878060512,
+  "CenterPositionLat": 23.047785348630217
+ },
+ {
+  "ID": 171816228,
+  "Capacity": 3438,
+  "Name": "Juozo Lingio parkas",
+  "CenterPositionLon": 54.956648531356336,
+  "CenterPositionLat": 23.04535934890557
+ },
+ {
+  "ID": 175381285,
+  "Capacity": 698,
+  "Name": "",
+  "CenterPositionLon": 54.45445388757762,
+  "CenterPositionLat": 22.71062231234552
+ },
+ {
+  "ID": 176545733,
+  "Capacity": 26043,
+  "Name": "Baisogalos dvaro sodybos parkas",
+  "CenterPositionLon": 55.636210504042,
+  "CenterPositionLat": 23.71642764037268
+ },
+ {
+  "ID": 176710839,
+  "Capacity": 1202,
+  "Name": "",
+  "CenterPositionLon": 55.80991705187757,
+  "CenterPositionLat": 23.540021516703483
+ },
+ {
+  "ID": 177535492,
+  "Capacity": 671,
+  "Name": "",
+  "CenterPositionLon": 55.20875555522638,
+  "CenterPositionLat": 22.16477489329503
+ },
+ {
+  "ID": 178170660,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 55.91827847440316,
+  "CenterPositionLat": 23.340222348148224
+ },
+ {
+  "ID": 179085666,
+  "Capacity": 1666,
+  "Name": "",
+  "CenterPositionLon": 55.03864004449744,
+  "CenterPositionLat": 23.577873765616577
+ },
+ {
+  "ID": 179322202,
+  "Capacity": 1860,
+  "Name": "",
+  "CenterPositionLon": 55.91424785563422,
+  "CenterPositionLat": 21.063539740362863
+ },
+ {
+  "ID": 179483198,
+  "Capacity": 601,
+  "Name": "",
+  "CenterPositionLon": 55.252223814734045,
+  "CenterPositionLat": 22.26416566189186
+ },
+ {
+  "ID": 179661061,
+  "Capacity": 921,
+  "Name": "Bažnyčios skveras",
+  "CenterPositionLon": 55.24864331538862,
+  "CenterPositionLat": 22.28481184685141
+ },
+ {
+  "ID": 182017738,
+  "Capacity": 941,
+  "Name": "Nepriklausomybės a.",
+  "CenterPositionLon": 56.004319543045774,
+  "CenterPositionLat": 23.65528462495931
+ },
+ {
+  "ID": 182086428,
+  "Capacity": 14057,
+  "Name": "Pasvalio smegduobių parkas",
+  "CenterPositionLon": 56.05565706433112,
+  "CenterPositionLat": 24.397373948891346
+ },
+ {
+  "ID": 182140114,
+  "Capacity": 35695,
+  "Name": "Burbiškio dvaro sodybos parkas",
+  "CenterPositionLon": 55.78199238009014,
+  "CenterPositionLat": 23.89893076750274
+ },
+ {
+  "ID": 186495722,
+  "Capacity": 47762,
+  "Name": "Vyžuonos parkas",
+  "CenterPositionLon": 55.506591483941975,
+  "CenterPositionLat": 25.593671898206694
+ },
+ {
+  "ID": 186671706,
+  "Capacity": 169,
+  "Name": "Jurgos Ivanauskaitės skverelis",
+  "CenterPositionLon": 54.673797137660955,
+  "CenterPositionLat": 25.277356277010824
+ },
+ {
+  "ID": 187022802,
+  "Capacity": 888,
+  "Name": "",
+  "CenterPositionLon": 55.49514287894874,
+  "CenterPositionLat": 25.601412330318176
+ },
+ {
+  "ID": 187022807,
+  "Capacity": 549,
+  "Name": "",
+  "CenterPositionLon": 55.49798312108762,
+  "CenterPositionLat": 25.600910298030698
+ },
+ {
+  "ID": 187022808,
+  "Capacity": 531,
+  "Name": "",
+  "CenterPositionLon": 55.49747385887729,
+  "CenterPositionLat": 25.602189471189433
+ },
+ {
+  "ID": 187025399,
+  "Capacity": 2226,
+  "Name": "",
+  "CenterPositionLon": 55.49640275728794,
+  "CenterPositionLat": 25.60514939629733
+ },
+ {
+  "ID": 187025410,
+  "Capacity": 713,
+  "Name": "",
+  "CenterPositionLon": 55.494708557357065,
+  "CenterPositionLat": 25.6064543956812
+ },
+ {
+  "ID": 187025621,
+  "Capacity": 12102,
+  "Name": "",
+  "CenterPositionLon": 55.49103185806563,
+  "CenterPositionLat": 25.606360281757674
+ },
+ {
+  "ID": 187027561,
+  "Capacity": 298,
+  "Name": "",
+  "CenterPositionLon": 55.8207909,
+  "CenterPositionLat": 25.507554250000002
+ },
+ {
+  "ID": 187148405,
+  "Capacity": 847,
+  "Name": "",
+  "CenterPositionLon": 55.49880616857216,
+  "CenterPositionLat": 25.602090211228017
+ },
+ {
+  "ID": 187627877,
+  "Capacity": 6356,
+  "Name": "",
+  "CenterPositionLon": 55.50262096593009,
+  "CenterPositionLat": 25.581203851638637
+ },
+ {
+  "ID": 187633351,
+  "Capacity": 593,
+  "Name": "",
+  "CenterPositionLon": 56.106243268887724,
+  "CenterPositionLat": 23.501774647882772
+ },
+ {
+  "ID": 187653282,
+  "Capacity": 1618,
+  "Name": "",
+  "CenterPositionLon": 55.473338683479724,
+  "CenterPositionLat": 25.394817685245695
+ },
+ {
+  "ID": 189324067,
+  "Capacity": 27452,
+  "Name": "Krašuonos parkas",
+  "CenterPositionLon": 55.49394182964298,
+  "CenterPositionLat": 25.612112645458357
+ },
+ {
+  "ID": 189342733,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 55.6811566,
+  "CenterPositionLat": 25.364639733333334
+ },
+ {
+  "ID": 189630662,
+  "Capacity": 5356,
+  "Name": "",
+  "CenterPositionLon": 55.57742604835805,
+  "CenterPositionLat": 25.495098713916757
+ },
+ {
+  "ID": 189630682,
+  "Capacity": 1988,
+  "Name": "",
+  "CenterPositionLon": 55.58562103961534,
+  "CenterPositionLat": 25.494268931447596
+ },
+ {
+  "ID": 190547514,
+  "Capacity": 12683,
+  "Name": "Buvęs dvaro parkas",
+  "CenterPositionLon": 55.12102919107704,
+  "CenterPositionLat": 25.35746111517864
+ },
+ {
+  "ID": 190557939,
+  "Capacity": 1643,
+  "Name": "",
+  "CenterPositionLon": 55.47897698480432,
+  "CenterPositionLat": 25.388605533689148
+ },
+ {
+  "ID": 191030566,
+  "Capacity": 3685,
+  "Name": "",
+  "CenterPositionLon": 55.54807714114846,
+  "CenterPositionLat": 25.719091689265113
+ },
+ {
+  "ID": 191115099,
+  "Capacity": 593,
+  "Name": "",
+  "CenterPositionLon": 54.707828270894616,
+  "CenterPositionLat": 25.29268831856762
+ },
+ {
+  "ID": 191573354,
+  "Capacity": 215,
+  "Name": "",
+  "CenterPositionLon": 54.6902548033537,
+  "CenterPositionLat": 25.26328065128617
+ },
+ {
+  "ID": 191673168,
+  "Capacity": 837,
+  "Name": "",
+  "CenterPositionLon": 54.69592894297712,
+  "CenterPositionLat": 25.27354573555545
+ },
+ {
+  "ID": 191872786,
+  "Capacity": 16051,
+  "Name": "",
+  "CenterPositionLon": 55.49006351161815,
+  "CenterPositionLat": 25.593116346446266
+ },
+ {
+  "ID": 192629018,
+  "Capacity": 4639,
+  "Name": "",
+  "CenterPositionLon": 56.30880104893497,
+  "CenterPositionLat": 22.333611334470596
+ },
+ {
+  "ID": 192900917,
+  "Capacity": 2980,
+  "Name": "Molėtų skulptūrų parkas",
+  "CenterPositionLon": 55.231969510577294,
+  "CenterPositionLat": 25.42619079279866
+ },
+ {
+  "ID": 193388696,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 55.34441799937998,
+  "CenterPositionLat": 21.481227079949022
+ },
+ {
+  "ID": 193430049,
+  "Capacity": 479,
+  "Name": "",
+  "CenterPositionLon": 54.738132659155724,
+  "CenterPositionLat": 25.293435671216127
+ },
+ {
+  "ID": 200524977,
+  "Capacity": 646,
+  "Name": "Arvydų - Bezdonių dvaro parkas",
+  "CenterPositionLon": 54.79877730472726,
+  "CenterPositionLat": 25.519736872096384
+ },
+ {
+  "ID": 200883098,
+  "Capacity": 8002,
+  "Name": "Santaros parkas",
+  "CenterPositionLon": 54.92410197561106,
+  "CenterPositionLat": 23.879996989605385
+ },
+ {
+  "ID": 202066445,
+  "Capacity": 2955,
+  "Name": "",
+  "CenterPositionLon": 55.92609282623755,
+  "CenterPositionLat": 23.326582209804037
+ },
+ {
+  "ID": 203756178,
+  "Capacity": 524,
+  "Name": "",
+  "CenterPositionLon": 55.68174425,
+  "CenterPositionLat": 25.36811365
+ },
+ {
+  "ID": 206159100,
+  "Capacity": 3648,
+  "Name": "Ąžuolynas",
+  "CenterPositionLon": 54.53183527627704,
+  "CenterPositionLat": 25.627727560367077
+ },
+ {
+  "ID": 208880527,
+  "Capacity": 5982,
+  "Name": "",
+  "CenterPositionLon": 54.78560940431216,
+  "CenterPositionLat": 24.90991877048446
+ },
+ {
+  "ID": 210283435,
+  "Capacity": 304,
+  "Name": "",
+  "CenterPositionLon": 54.71310277392189,
+  "CenterPositionLat": 25.29498772970928
+ },
+ {
+  "ID": 210350065,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": 55.80798224943376,
+  "CenterPositionLat": 23.552148295374742
+ },
+ {
+  "ID": 210633009,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": 55.805753068660785,
+  "CenterPositionLat": 23.54834253678024
+ },
+ {
+  "ID": 214765063,
+  "Capacity": 748,
+  "Name": "",
+  "CenterPositionLon": 54.64341874583524,
+  "CenterPositionLat": 23.038128920648777
+ },
+ {
+  "ID": 216118610,
+  "Capacity": 1017,
+  "Name": "A. Sacharovo skv.",
+  "CenterPositionLon": 54.70302282085003,
+  "CenterPositionLat": 25.223324134573236
+ },
+ {
+  "ID": 217955140,
+  "Capacity": 1307,
+  "Name": "",
+  "CenterPositionLon": 54.500965797366305,
+  "CenterPositionLat": 24.252462078356828
+ },
+ {
+  "ID": 219525481,
+  "Capacity": 3362,
+  "Name": "",
+  "CenterPositionLon": 56.09294190993254,
+  "CenterPositionLat": 23.14598536168277
+ },
+ {
+  "ID": 221622400,
+  "Capacity": 4810,
+  "Name": "",
+  "CenterPositionLon": 55.98859161462992,
+  "CenterPositionLat": 22.24867587528828
+ },
+ {
+  "ID": 221896483,
+  "Capacity": 8599,
+  "Name": "Danės skveras",
+  "CenterPositionLon": 55.71151247987821,
+  "CenterPositionLat": 21.13728432453969
+ },
+ {
+  "ID": 223301783,
+  "Capacity": 6738,
+  "Name": "",
+  "CenterPositionLon": 55.07474264694496,
+  "CenterPositionLat": 22.581712510954777
+ },
+ {
+  "ID": 223619876,
+  "Capacity": 7529,
+  "Name": "Salų dvaro sodybos parkas",
+  "CenterPositionLon": 55.810840736228755,
+  "CenterPositionLat": 25.37079337393189
+ },
+ {
+  "ID": 223874322,
+  "Capacity": 4086,
+  "Name": "",
+  "CenterPositionLon": 56.087206131837426,
+  "CenterPositionLat": 25.605751043499467
+ },
+ {
+  "ID": 224111478,
+  "Capacity": 23655,
+  "Name": "Vašuokėnų dvaro parkas",
+  "CenterPositionLon": 55.63771760859048,
+  "CenterPositionLat": 24.880271807526203
+ },
+ {
+  "ID": 224605650,
+  "Capacity": 2010,
+  "Name": "Vilijos parkas",
+  "CenterPositionLon": 54.86669328156089,
+  "CenterPositionLat": 23.948363578643097
+ },
+ {
+  "ID": 225120113,
+  "Capacity": 612,
+  "Name": "A. Samulevičiaus-Samuolio skv.",
+  "CenterPositionLon": 54.91165742395757,
+  "CenterPositionLat": 23.919610464322773
+ },
+ {
+  "ID": 225917357,
+  "Capacity": 785,
+  "Name": "",
+  "CenterPositionLon": 54.65278079629898,
+  "CenterPositionLat": 23.037946314557328
+ },
+ {
+  "ID": 225917466,
+  "Capacity": 4958,
+  "Name": "Pilies parkas",
+  "CenterPositionLon": 55.248577917604344,
+  "CenterPositionLat": 24.764801827344257
+ },
+ {
+  "ID": 227359152,
+  "Capacity": 428,
+  "Name": "Dienovidžio skveras",
+  "CenterPositionLon": 55.70799203505292,
+  "CenterPositionLat": 21.13493587583219
+ },
+ {
+  "ID": 229040472,
+  "Capacity": 2898,
+  "Name": "Piliakalnio parkas",
+  "CenterPositionLon": 55.24997715695594,
+  "CenterPositionLat": 24.768461407472888
+ },
+ {
+  "ID": 229273418,
+  "Capacity": 1315,
+  "Name": "",
+  "CenterPositionLon": 55.63221025421986,
+  "CenterPositionLat": 22.937657649871873
+ },
+ {
+  "ID": 229413346,
+  "Capacity": 5505,
+  "Name": "",
+  "CenterPositionLon": 55.639926145985854,
+  "CenterPositionLat": 22.936847677704687
+ },
+ {
+  "ID": 233330715,
+  "Capacity": 5679,
+  "Name": "",
+  "CenterPositionLon": 54.85730688727004,
+  "CenterPositionLat": 23.16587252589933
+ },
+ {
+  "ID": 233411720,
+  "Capacity": 3721,
+  "Name": "Vytauto Parkas",
+  "CenterPositionLon": 55.083374283986785,
+  "CenterPositionLat": 22.766842804917744
+ },
+ {
+  "ID": 233486665,
+  "Capacity": 1051,
+  "Name": "",
+  "CenterPositionLon": 54.89598818182867,
+  "CenterPositionLat": 23.922867311831816
+ },
+ {
+  "ID": 234327013,
+  "Capacity": 520,
+  "Name": "",
+  "CenterPositionLon": 55.72760824291109,
+  "CenterPositionLat": 24.363486929701534
+ },
+ {
+  "ID": 234327014,
+  "Capacity": 888,
+  "Name": "",
+  "CenterPositionLon": 55.727027719366156,
+  "CenterPositionLat": 24.364780368079668
+ },
+ {
+  "ID": 235322061,
+  "Capacity": 2431,
+  "Name": "Jono Černiaus aikštė",
+  "CenterPositionLon": 55.834550206290025,
+  "CenterPositionLat": 24.98092542807714
+ },
+ {
+  "ID": 235323035,
+  "Capacity": 35076,
+  "Name": "Kazio Šimonio parkas",
+  "CenterPositionLon": 55.834187085096346,
+  "CenterPositionLat": 24.987380076989773
+ },
+ {
+  "ID": 236038701,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 55.80158723604022,
+  "CenterPositionLat": 24.893772819991216
+ },
+ {
+  "ID": 236839250,
+  "Capacity": 998,
+  "Name": "Prezidentūros sodelis",
+  "CenterPositionLon": 54.897190395527005,
+  "CenterPositionLat": 23.896846880528326
+ },
+ {
+  "ID": 237144711,
+  "Capacity": 3644,
+  "Name": "Kauno regiono kempingas",
+  "CenterPositionLon": 54.91600651607881,
+  "CenterPositionLat": 23.833382505783106
+ },
+ {
+  "ID": 238846063,
+  "Capacity": 1075,
+  "Name": "Jono Pauliaus II a.",
+  "CenterPositionLon": 54.693559697877,
+  "CenterPositionLat": 25.305452569382556
+ },
+ {
+  "ID": 238919614,
+  "Capacity": 6938,
+  "Name": "",
+  "CenterPositionLon": 54.68584338322742,
+  "CenterPositionLat": 25.29193002990739
+ },
+ {
+  "ID": 239206841,
+  "Capacity": 10170,
+  "Name": "",
+  "CenterPositionLon": 55.16853814469702,
+  "CenterPositionLat": 21.80935996662082
+ },
+ {
+  "ID": 239448571,
+  "Capacity": 446,
+  "Name": "",
+  "CenterPositionLon": 56.06237557467738,
+  "CenterPositionLat": 24.398600271972104
+ },
+ {
+  "ID": 240665480,
+  "Capacity": 6784,
+  "Name": "Joniškio miesto parkas",
+  "CenterPositionLon": 56.23993017174877,
+  "CenterPositionLat": 23.609881193135415
+ },
+ {
+  "ID": 241524800,
+  "Capacity": 2451,
+  "Name": "",
+  "CenterPositionLon": 55.73398141590317,
+  "CenterPositionLat": 24.357134610384584
+ },
+ {
+  "ID": 242454280,
+  "Capacity": 2182,
+  "Name": "Vaikystės sodas",
+  "CenterPositionLon": 54.10442079601448,
+  "CenterPositionLat": 23.6756545037213
+ },
+ {
+  "ID": 242622762,
+  "Capacity": 3715,
+  "Name": "",
+  "CenterPositionLon": 54.607260611737566,
+  "CenterPositionLat": 25.387640282932747
+ },
+ {
+  "ID": 243423523,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 55.73267033925652,
+  "CenterPositionLat": 24.357365485595434
+ },
+ {
+  "ID": 243423524,
+  "Capacity": 1600,
+  "Name": "",
+  "CenterPositionLon": 55.73210698704439,
+  "CenterPositionLat": 24.357487585500536
+ },
+ {
+  "ID": 243946859,
+  "Capacity": 2572,
+  "Name": "Vyskupo Skveras",
+  "CenterPositionLon": 55.52500139017232,
+  "CenterPositionLat": 25.101290793478267
+ },
+ {
+  "ID": 248783415,
+  "Capacity": 5938,
+  "Name": "Sveikatingumo parkas",
+  "CenterPositionLon": 55.98113186786139,
+  "CenterPositionLat": 23.850240545021585
+ },
+ {
+  "ID": 249337300,
+  "Capacity": 79478,
+  "Name": "Zyplių dvaro sodybos parkas",
+  "CenterPositionLon": 54.93635633582929,
+  "CenterPositionLat": 23.19300783077928
+ },
+ {
+  "ID": 251285294,
+  "Capacity": 11310,
+  "Name": "Lietuvos geologijos muziejaus teritorija",
+  "CenterPositionLon": 54.774960858353815,
+  "CenterPositionLat": 24.81597468406034
+ },
+ {
+  "ID": 251731381,
+  "Capacity": 14242,
+  "Name": "Liūdynės dvaro parkas",
+  "CenterPositionLon": 55.69168329264907,
+  "CenterPositionLat": 24.459355930704948
+ },
+ {
+  "ID": 252304962,
+  "Capacity": 2463,
+  "Name": "Lietuvai pagražinti draugijos 80-mečio parkas",
+  "CenterPositionLon": 55.83549422921463,
+  "CenterPositionLat": 24.985429534977293
+ },
+ {
+  "ID": 252951866,
+  "Capacity": 1587,
+  "Name": "",
+  "CenterPositionLon": 54.41449026831432,
+  "CenterPositionLat": 23.22691289724851
+ },
+ {
+  "ID": 253022647,
+  "Capacity": 1171,
+  "Name": "P. Vileišio a.",
+  "CenterPositionLon": 54.90561387892097,
+  "CenterPositionLat": 23.930156715678077
+ },
+ {
+  "ID": 256026564,
+  "Capacity": 2673,
+  "Name": "",
+  "CenterPositionLon": 55.35979730698297,
+  "CenterPositionLat": 21.706421878202573
+ },
+ {
+  "ID": 256129965,
+  "Capacity": 3055,
+  "Name": "Jūros parkas",
+  "CenterPositionLon": 55.25158979425096,
+  "CenterPositionLat": 22.280163287523774
+ },
+ {
+  "ID": 256270828,
+  "Capacity": 1765,
+  "Name": "",
+  "CenterPositionLon": 55.13527616666667,
+  "CenterPositionLat": 21.909897766666667
+ },
+ {
+  "ID": 257219749,
+  "Capacity": 13064,
+  "Name": "",
+  "CenterPositionLon": 55.59698337996365,
+  "CenterPositionLat": 24.35699303343317
+ },
+ {
+  "ID": 257921520,
+  "Capacity": 605,
+  "Name": "Nepriklausomybės a.",
+  "CenterPositionLon": 55.58700549274907,
+  "CenterPositionLat": 24.869784627161277
+ },
+ {
+  "ID": 258183924,
+  "Capacity": 2074,
+  "Name": "",
+  "CenterPositionLon": 54.55973488378673,
+  "CenterPositionLat": 23.36357876459044
+ },
+ {
+  "ID": 259323720,
+  "Capacity": 1724,
+  "Name": "",
+  "CenterPositionLon": 55.51047806553703,
+  "CenterPositionLat": 24.303210420984175
+ },
+ {
+  "ID": 259355483,
+  "Capacity": 635,
+  "Name": "",
+  "CenterPositionLon": 54.54649385294084,
+  "CenterPositionLat": 23.361202002665436
+ },
+ {
+  "ID": 259547797,
+  "Capacity": 894,
+  "Name": "",
+  "CenterPositionLon": 54.55213212671649,
+  "CenterPositionLat": 23.36672974135022
+ },
+ {
+  "ID": 260444297,
+  "Capacity": 1134,
+  "Name": "",
+  "CenterPositionLon": 55.72295764749618,
+  "CenterPositionLat": 21.9321691100339
+ },
+ {
+  "ID": 260666565,
+  "Capacity": 5860,
+  "Name": "",
+  "CenterPositionLon": 55.33762092620205,
+  "CenterPositionLat": 24.417907236704743
+ },
+ {
+  "ID": 262460048,
+  "Capacity": 695,
+  "Name": "",
+  "CenterPositionLon": 54.88886658738539,
+  "CenterPositionLat": 23.920208894573594
+ },
+ {
+  "ID": 262768544,
+  "Capacity": 510,
+  "Name": "",
+  "CenterPositionLon": 54.966981941696886,
+  "CenterPositionLat": 24.072050617219954
+ },
+ {
+  "ID": 263821310,
+  "Capacity": 1497,
+  "Name": "",
+  "CenterPositionLon": 54.021213177548745,
+  "CenterPositionLat": 23.971161643580036
+ },
+ {
+  "ID": 265596022,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 54.61705472864499,
+  "CenterPositionLat": 23.47571668527974
+ },
+ {
+  "ID": 266136912,
+  "Capacity": 2639,
+  "Name": "",
+  "CenterPositionLon": 55.362042931443206,
+  "CenterPositionLat": 24.396077360154198
+ },
+ {
+  "ID": 268224272,
+  "Capacity": 8106,
+  "Name": "",
+  "CenterPositionLon": 55.298678293413495,
+  "CenterPositionLat": 23.999070500058817
+ },
+ {
+  "ID": 268851884,
+  "Capacity": 48006,
+  "Name": "Neries krantinės parkas",
+  "CenterPositionLon": 54.90889456547486,
+  "CenterPositionLat": 23.897412589891218
+ },
+ {
+  "ID": 269328896,
+  "Capacity": 735,
+  "Name": "Knypavos Rinkos aikštė",
+  "CenterPositionLon": 55.28601076328056,
+  "CenterPositionLat": 23.974930425223175
+ },
+ {
+  "ID": 270047804,
+  "Capacity": 801,
+  "Name": "Geto Aukų a.",
+  "CenterPositionLon": 54.67680815454625,
+  "CenterPositionLat": 25.284213874298214
+ },
+ {
+  "ID": 270135104,
+  "Capacity": 125,
+  "Name": "Kryžių kalnelis",
+  "CenterPositionLon": 54.901540690734095,
+  "CenterPositionLat": 23.975556168490616
+ },
+ {
+  "ID": 271491912,
+  "Capacity": 1135,
+  "Name": "",
+  "CenterPositionLon": 55.28011655477097,
+  "CenterPositionLat": 24.25166215960123
+ },
+ {
+  "ID": 274812031,
+  "Capacity": 20003,
+  "Name": "Šumsko dvaro parkas",
+  "CenterPositionLon": 54.59415207296383,
+  "CenterPositionLat": 25.720350250729286
+ },
+ {
+  "ID": 275924284,
+  "Capacity": 2254,
+  "Name": "Pasaulio Teisuolių skv.",
+  "CenterPositionLon": 54.739633697751344,
+  "CenterPositionLat": 25.277519898485195
+ },
+ {
+  "ID": 278482501,
+  "Capacity": 10621,
+  "Name": "Kulvos dvaro parkas",
+  "CenterPositionLon": 55.10237388215562,
+  "CenterPositionLat": 24.17184890415617
+ },
+ {
+  "ID": 280173500,
+  "Capacity": 4452,
+  "Name": "",
+  "CenterPositionLon": 54.30955068951171,
+  "CenterPositionLat": 25.377456976305815
+ },
+ {
+  "ID": 284814372,
+  "Capacity": 1620,
+  "Name": "",
+  "CenterPositionLon": 55.71002331147541,
+  "CenterPositionLat": 21.131798217865587
+ },
+ {
+  "ID": 285977297,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 54.67876289196619,
+  "CenterPositionLat": 25.28640544013289
+ },
+ {
+  "ID": 289093320,
+  "Capacity": 1898,
+  "Name": "",
+  "CenterPositionLon": 56.236174829278404,
+  "CenterPositionLat": 22.40366543157717
+ },
+ {
+  "ID": 289104672,
+  "Capacity": 3677,
+  "Name": "Šilalės bendruomenių parkas",
+  "CenterPositionLon": 55.49364002253254,
+  "CenterPositionLat": 22.187444496286822
+ },
+ {
+  "ID": 289198511,
+  "Capacity": 3394,
+  "Name": "",
+  "CenterPositionLon": 55.74451140914978,
+  "CenterPositionLat": 25.840795763441022
+ },
+ {
+  "ID": 289267952,
+  "Capacity": 2599,
+  "Name": "",
+  "CenterPositionLon": 55.8870227548284,
+  "CenterPositionLat": 24.777404252786084
+ },
+ {
+  "ID": 292456499,
+  "Capacity": 2024,
+  "Name": "",
+  "CenterPositionLon": 55.462609683682196,
+  "CenterPositionLat": 21.910721712851647
+ },
+ {
+  "ID": 292519519,
+  "Capacity": 3746,
+  "Name": "Karališkas sodas",
+  "CenterPositionLon": 54.41134037788519,
+  "CenterPositionLat": 23.221215810706582
+ },
+ {
+  "ID": 292519569,
+  "Capacity": 1709,
+  "Name": "",
+  "CenterPositionLon": 54.41091492679056,
+  "CenterPositionLat": 23.22299495301802
+ },
+ {
+  "ID": 292686064,
+  "Capacity": 1379,
+  "Name": "",
+  "CenterPositionLon": 54.423424595576,
+  "CenterPositionLat": 23.227527934870675
+ },
+ {
+  "ID": 293726588,
+  "Capacity": 6360,
+  "Name": "Labirintų parkas",
+  "CenterPositionLon": 55.48020970624281,
+  "CenterPositionLat": 25.081137891344092
+ },
+ {
+  "ID": 296000440,
+  "Capacity": 31801,
+  "Name": "",
+  "CenterPositionLon": 54.56415952662613,
+  "CenterPositionLat": 23.34563122753041
+ },
+ {
+  "ID": 301306336,
+  "Capacity": 390,
+  "Name": "",
+  "CenterPositionLon": 54.593230557770575,
+  "CenterPositionLat": 25.342311980489967
+ },
+ {
+  "ID": 301669241,
+  "Capacity": 53495,
+  "Name": "Santakos parkas",
+  "CenterPositionLon": 54.89786168907994,
+  "CenterPositionLat": 23.880997246543814
+ },
+ {
+  "ID": 301700401,
+  "Capacity": 2055,
+  "Name": "",
+  "CenterPositionLon": 54.90173405823627,
+  "CenterPositionLat": 22.84357974809029
+ },
+ {
+  "ID": 303668632,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 54.119216104330256,
+  "CenterPositionLat": 23.59256975807467
+ },
+ {
+  "ID": 306120107,
+  "Capacity": 37232,
+  "Name": "",
+  "CenterPositionLon": 54.79241839674756,
+  "CenterPositionLat": 23.74804166956203
+ },
+ {
+  "ID": 311739458,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 54.680925485876585,
+  "CenterPositionLat": 25.26768374708817
+ },
+ {
+  "ID": 316906742,
+  "Capacity": 421,
+  "Name": "",
+  "CenterPositionLon": 55.71689840967711,
+  "CenterPositionLat": 21.39167398650956
+ },
+ {
+  "ID": 317716670,
+  "Capacity": 23188,
+  "Name": "",
+  "CenterPositionLon": 55.7138053480356,
+  "CenterPositionLat": 21.4059370523657
+ },
+ {
+  "ID": 318956027,
+  "Capacity": 1488,
+  "Name": "",
+  "CenterPositionLon": 54.38789917791151,
+  "CenterPositionLat": 24.06760522297394
+ },
+ {
+  "ID": 320848761,
+  "Capacity": 14199,
+  "Name": "Platelių dvaro sodybos parkas",
+  "CenterPositionLon": 56.03867144136128,
+  "CenterPositionLat": 21.81763633283972
+ },
+ {
+  "ID": 322514984,
+  "Capacity": 1891,
+  "Name": "",
+  "CenterPositionLon": 55.717392680864705,
+  "CenterPositionLat": 21.4077423353437
+ },
+ {
+  "ID": 324839552,
+  "Capacity": 1632,
+  "Name": "",
+  "CenterPositionLon": 54.98385493673325,
+  "CenterPositionLat": 25.77056577589769
+ },
+ {
+  "ID": 325195576,
+  "Capacity": 9355,
+  "Name": "Kulautuvos Parkas",
+  "CenterPositionLon": 54.9452261044385,
+  "CenterPositionLat": 23.63470519839747
+ },
+ {
+  "ID": 329422621,
+  "Capacity": 12329,
+  "Name": "",
+  "CenterPositionLon": 55.814995611355386,
+  "CenterPositionLat": 23.547434291533804
+ },
+ {
+  "ID": 334513917,
+  "Capacity": 543,
+  "Name": "",
+  "CenterPositionLon": 54.69924179080319,
+  "CenterPositionLat": 25.268685134639114
+ },
+ {
+  "ID": 337486258,
+  "Capacity": 977,
+  "Name": "Parkas",
+  "CenterPositionLon": 54.882008419936184,
+  "CenterPositionLat": 23.60604370186524
+ },
+ {
+  "ID": 339500381,
+  "Capacity": 734,
+  "Name": "",
+  "CenterPositionLon": 55.741857480382706,
+  "CenterPositionLat": 22.371748649308017
+ },
+ {
+  "ID": 340090092,
+  "Capacity": 5569,
+  "Name": "Jaunimo Parkas",
+  "CenterPositionLon": 55.245536517222625,
+  "CenterPositionLat": 22.313184379588378
+ },
+ {
+  "ID": 340202337,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 54.87684688009845,
+  "CenterPositionLat": 24.05535941832354
+ },
+ {
+  "ID": 341745852,
+  "Capacity": 23309,
+  "Name": "Marvos fortas",
+  "CenterPositionLon": 54.89209646596389,
+  "CenterPositionLat": 23.818319587778454
+ },
+ {
+  "ID": 343166337,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 55.250212526516,
+  "CenterPositionLat": 22.289420943371677
+ },
+ {
+  "ID": 346585288,
+  "Capacity": 1189,
+  "Name": "",
+  "CenterPositionLon": 55.115041814711624,
+  "CenterPositionLat": 22.259650419959907
+ },
+ {
+  "ID": 351126143,
+  "Capacity": 2317,
+  "Name": "Saugų Parkas",
+  "CenterPositionLon": 55.46391536658295,
+  "CenterPositionLat": 21.466009117359555
+ },
+ {
+  "ID": 351128184,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": 55.46388147223301,
+  "CenterPositionLat": 21.463701394754594
+ },
+ {
+  "ID": 351529854,
+  "Capacity": 395,
+  "Name": "",
+  "CenterPositionLon": 55.25545178060467,
+  "CenterPositionLat": 22.42349816151516
+ },
+ {
+  "ID": 351674297,
+  "Capacity": 3997,
+  "Name": "",
+  "CenterPositionLon": 55.73326540267145,
+  "CenterPositionLat": 21.133627756065415
+ },
+ {
+  "ID": 352345082,
+  "Capacity": 395,
+  "Name": "Batakių parkas",
+  "CenterPositionLon": 55.351729327152974,
+  "CenterPositionLat": 22.51280735727661
+ },
+ {
+  "ID": 367208109,
+  "Capacity": 2019,
+  "Name": "",
+  "CenterPositionLon": 55.982850087239406,
+  "CenterPositionLat": 22.24759223998152
+ },
+ {
+  "ID": 367409355,
+  "Capacity": 1190,
+  "Name": "Nepriklausomybės skveras",
+  "CenterPositionLon": 56.31231180008569,
+  "CenterPositionLat": 22.350861397415805
+ },
+ {
+  "ID": 367977814,
+  "Capacity": 306,
+  "Name": "V. Burbos skverelis",
+  "CenterPositionLon": 56.3141464,
+  "CenterPositionLat": 22.3441317
+ },
+ {
+  "ID": 369384296,
+  "Capacity": 2019,
+  "Name": "",
+  "CenterPositionLon": 55.77135820201803,
+  "CenterPositionLat": 23.731313524280935
+ },
+ {
+  "ID": 371131808,
+  "Capacity": 360,
+  "Name": "Meilelės vandens malūno parkas",
+  "CenterPositionLon": 55.336209930941436,
+  "CenterPositionLat": 25.330281453852734
+ },
+ {
+  "ID": 371131811,
+  "Capacity": 298,
+  "Name": "Meilelės vandens malūno parkas",
+  "CenterPositionLon": 55.33598847019477,
+  "CenterPositionLat": 25.3310803728518
+ },
+ {
+  "ID": 372970501,
+  "Capacity": 5963,
+  "Name": "Pajūrio dvaro sodybos fragmentų parko fragmentai",
+  "CenterPositionLon": 55.45241435667942,
+  "CenterPositionLat": 22.036225442382847
+ },
+ {
+  "ID": 373172786,
+  "Capacity": 2869,
+  "Name": "",
+  "CenterPositionLon": 55.55714438729336,
+  "CenterPositionLat": 21.318681203176023
+ },
+ {
+  "ID": 373727110,
+  "Capacity": 917,
+  "Name": "",
+  "CenterPositionLon": 55.44597018577011,
+  "CenterPositionLat": 22.024637140607272
+ },
+ {
+  "ID": 373772766,
+  "Capacity": 85,
+  "Name": "Supynių parkas",
+  "CenterPositionLon": 55.595072975141896,
+  "CenterPositionLat": 21.39680650434581
+ },
+ {
+  "ID": 374793512,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 54.570377870698664,
+  "CenterPositionLat": 25.56003839949426
+ },
+ {
+  "ID": 375282275,
+  "Capacity": 2960,
+  "Name": "",
+  "CenterPositionLon": 54.9487140409177,
+  "CenterPositionLat": 23.174070112880685
+ },
+ {
+  "ID": 375285437,
+  "Capacity": 3178,
+  "Name": "",
+  "CenterPositionLon": 54.94949349083182,
+  "CenterPositionLat": 23.176579905281
+ },
+ {
+  "ID": 375379018,
+  "Capacity": 1239,
+  "Name": "",
+  "CenterPositionLon": 55.34777256517474,
+  "CenterPositionLat": 25.811769310470048
+ },
+ {
+  "ID": 375427596,
+  "Capacity": 704,
+  "Name": "",
+  "CenterPositionLon": 54.92376147950205,
+  "CenterPositionLat": 23.644457752985684
+ },
+ {
+  "ID": 375681739,
+  "Capacity": 775,
+  "Name": "",
+  "CenterPositionLon": 54.7572740728322,
+  "CenterPositionLat": 23.49281945369272
+ },
+ {
+  "ID": 376047787,
+  "Capacity": 5468,
+  "Name": "Parkas",
+  "CenterPositionLon": 55.07720839044681,
+  "CenterPositionLat": 22.979775691161286
+ },
+ {
+  "ID": 376057191,
+  "Capacity": 307,
+  "Name": "",
+  "CenterPositionLon": 55.07215401291561,
+  "CenterPositionLat": 22.981462352317582
+ },
+ {
+  "ID": 376212271,
+  "Capacity": 629,
+  "Name": "Skveras",
+  "CenterPositionLon": 54.75196551856786,
+  "CenterPositionLat": 23.50018875190119
+ },
+ {
+  "ID": 378208949,
+  "Capacity": 1267,
+  "Name": "",
+  "CenterPositionLon": 55.58020435411224,
+  "CenterPositionLat": 26.1333217600146
+ },
+ {
+  "ID": 379902492,
+  "Capacity": 1419,
+  "Name": "",
+  "CenterPositionLon": 55.28678557030346,
+  "CenterPositionLat": 21.581765574778466
+ },
+ {
+  "ID": 379906685,
+  "Capacity": 994,
+  "Name": "",
+  "CenterPositionLon": 55.28838519723405,
+  "CenterPositionLat": 21.581177147084635
+ },
+ {
+  "ID": 381444732,
+  "Capacity": 1274,
+  "Name": "",
+  "CenterPositionLon": 55.35815734904831,
+  "CenterPositionLat": 21.711772939670762
+ },
+ {
+  "ID": 383463489,
+  "Capacity": 978,
+  "Name": "",
+  "CenterPositionLon": 55.52503138898331,
+  "CenterPositionLat": 25.10436124843754
+ },
+ {
+  "ID": 384159122,
+  "Capacity": 2163,
+  "Name": "",
+  "CenterPositionLon": 55.94880600021136,
+  "CenterPositionLat": 25.53155227889331
+ },
+ {
+  "ID": 384427295,
+  "Capacity": 543,
+  "Name": "",
+  "CenterPositionLon": 55.517641440514666,
+  "CenterPositionLat": 25.09169286918529
+ },
+ {
+  "ID": 385041303,
+  "Capacity": 714,
+  "Name": "",
+  "CenterPositionLon": 54.44295956135497,
+  "CenterPositionLat": 23.25182199539
+ },
+ {
+  "ID": 385041304,
+  "Capacity": 1206,
+  "Name": "",
+  "CenterPositionLon": 54.4421560289829,
+  "CenterPositionLat": 23.25312838198356
+ },
+ {
+  "ID": 386350060,
+  "Capacity": 2018,
+  "Name": "Ugnijos skveras",
+  "CenterPositionLon": 54.73025137880255,
+  "CenterPositionLat": 25.228251848970956
+ },
+ {
+  "ID": 387137438,
+  "Capacity": 1017,
+  "Name": "",
+  "CenterPositionLon": 55.50623289047911,
+  "CenterPositionLat": 25.22162501350128
+ },
+ {
+  "ID": 388825094,
+  "Capacity": 245,
+  "Name": "Obelių aikštė",
+  "CenterPositionLon": 55.940554312087784,
+  "CenterPositionLat": 25.79684198867686
+ },
+ {
+  "ID": 396356286,
+  "Capacity": 10365,
+  "Name": "Žalgiris 600",
+  "CenterPositionLon": 54.80132366573106,
+  "CenterPositionLat": 25.529261998292547
+ },
+ {
+  "ID": 398186349,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 54.68934358093356,
+  "CenterPositionLat": 25.275467316065843
+ },
+ {
+  "ID": 401186337,
+  "Capacity": 433,
+  "Name": "",
+  "CenterPositionLon": 55.942142458083076,
+  "CenterPositionLat": 25.79913221016966
+ },
+ {
+  "ID": 401933562,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 55.30933597340441,
+  "CenterPositionLat": 22.034242249575563
+ },
+ {
+  "ID": 402154137,
+  "Capacity": 749,
+  "Name": "",
+  "CenterPositionLon": 55.21175193424874,
+  "CenterPositionLat": 22.170051539901316
+ },
+ {
+  "ID": 402273020,
+  "Capacity": 900,
+  "Name": "",
+  "CenterPositionLon": 55.491743299332114,
+  "CenterPositionLat": 22.182079263203374
+ },
+ {
+  "ID": 402362396,
+  "Capacity": 790,
+  "Name": "",
+  "CenterPositionLon": 55.49581235569001,
+  "CenterPositionLat": 22.19508238675362
+ },
+ {
+  "ID": 402673922,
+  "Capacity": 1733,
+  "Name": "",
+  "CenterPositionLon": 55.40688307091156,
+  "CenterPositionLat": 22.579568223348478
+ },
+ {
+  "ID": 402901100,
+  "Capacity": 2815,
+  "Name": "",
+  "CenterPositionLon": 55.72972595821539,
+  "CenterPositionLat": 21.927146244975535
+ },
+ {
+  "ID": 402965940,
+  "Capacity": 2517,
+  "Name": "",
+  "CenterPositionLon": 54.687967632493866,
+  "CenterPositionLat": 25.251425728368023
+ },
+ {
+  "ID": 403885916,
+  "Capacity": 202,
+  "Name": "Tbilisio skveras",
+  "CenterPositionLon": 54.68983174164514,
+  "CenterPositionLat": 25.252189651117224
+ },
+ {
+  "ID": 404296931,
+  "Capacity": 456,
+  "Name": "Gegužės aikštė",
+  "CenterPositionLon": 54.16937435933314,
+  "CenterPositionLat": 24.995777031431608
+ },
+ {
+  "ID": 405563886,
+  "Capacity": 255,
+  "Name": "",
+  "CenterPositionLon": 55.72333817804452,
+  "CenterPositionLat": 21.933294502421592
+ },
+ {
+  "ID": 406606770,
+  "Capacity": 1038,
+  "Name": "",
+  "CenterPositionLon": 54.21594657958363,
+  "CenterPositionLat": 24.56067855403462
+ },
+ {
+  "ID": 407337462,
+  "Capacity": 256,
+  "Name": "",
+  "CenterPositionLon": 55.07285062259746,
+  "CenterPositionLat": 22.58048924545402
+ },
+ {
+  "ID": 407492458,
+  "Capacity": 1940,
+  "Name": "",
+  "CenterPositionLon": 55.07220704970518,
+  "CenterPositionLat": 22.581186351645233
+ },
+ {
+  "ID": 408886171,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 55.186236802831566,
+  "CenterPositionLat": 22.21464479573124
+ },
+ {
+  "ID": 409244248,
+  "Capacity": 1465,
+  "Name": "Bibliotekos Skveras",
+  "CenterPositionLon": 55.0806439861728,
+  "CenterPositionLat": 22.7635513956909
+ },
+ {
+  "ID": 417141382,
+  "Capacity": 2823,
+  "Name": "Atminties parkas",
+  "CenterPositionLon": 55.246510143393074,
+  "CenterPositionLat": 23.8374609890585
+ },
+ {
+  "ID": 420623242,
+  "Capacity": 3287,
+  "Name": "",
+  "CenterPositionLon": 55.77336842334972,
+  "CenterPositionLat": 23.34240925137911
+ },
+ {
+  "ID": 420718698,
+  "Capacity": 5632,
+  "Name": "",
+  "CenterPositionLon": 55.76582397966504,
+  "CenterPositionLat": 23.374168312129992
+ },
+ {
+  "ID": 429184040,
+  "Capacity": 1252,
+  "Name": "Parko fragmentai",
+  "CenterPositionLon": 55.117341787940966,
+  "CenterPositionLat": 22.130657764288244
+ },
+ {
+  "ID": 429329565,
+  "Capacity": 11768,
+  "Name": "Parko fragmentai",
+  "CenterPositionLon": 55.05267680787301,
+  "CenterPositionLat": 22.12332056405244
+ },
+ {
+  "ID": 430474097,
+  "Capacity": 211,
+  "Name": "",
+  "CenterPositionLon": 55.51693435379622,
+  "CenterPositionLat": 21.621731308765618
+ },
+ {
+  "ID": 430861278,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 54.69251525,
+  "CenterPositionLat": 25.2789754
+ },
+ {
+  "ID": 430861860,
+  "Capacity": 775,
+  "Name": "Jono Jablonskio skv.",
+  "CenterPositionLon": 54.69529270922265,
+  "CenterPositionLat": 25.280587267018277
+ },
+ {
+  "ID": 430862543,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 54.7081489231812,
+  "CenterPositionLat": 25.28508186071345
+ },
+ {
+  "ID": 432190341,
+  "Capacity": 1123,
+  "Name": "",
+  "CenterPositionLon": 54.82770564827473,
+  "CenterPositionLat": 25.28228742219809
+ },
+ {
+  "ID": 435964603,
+  "Capacity": 475,
+  "Name": "",
+  "CenterPositionLon": 54.652274377413804,
+  "CenterPositionLat": 23.085732715430762
+ },
+ {
+  "ID": 435964604,
+  "Capacity": 281,
+  "Name": "",
+  "CenterPositionLon": 54.647771281034,
+  "CenterPositionLat": 23.12353832936467
+ },
+ {
+  "ID": 436378741,
+  "Capacity": 1263,
+  "Name": "Joensū skv.",
+  "CenterPositionLon": 54.6884177612122,
+  "CenterPositionLat": 25.208872319360395
+ },
+ {
+  "ID": 436695934,
+  "Capacity": 1691,
+  "Name": "Jono Basanavičiaus a.",
+  "CenterPositionLon": 54.65016770290694,
+  "CenterPositionLat": 23.036050235183566
+ },
+ {
+  "ID": 440005559,
+  "Capacity": 2413,
+  "Name": "Obelių miesto parkas",
+  "CenterPositionLon": 55.94249201856572,
+  "CenterPositionLat": 25.79266143320796
+ },
+ {
+  "ID": 443353685,
+  "Capacity": 1310,
+  "Name": "",
+  "CenterPositionLon": 55.553397872666714,
+  "CenterPositionLat": 21.319228158698508
+ },
+ {
+  "ID": 443356891,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": 55.557953436441295,
+  "CenterPositionLat": 21.315018126302544
+ },
+ {
+  "ID": 443583652,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": 54.656380327618656,
+  "CenterPositionLat": 25.33901929335025
+ },
+ {
+  "ID": 445059706,
+  "Capacity": 2941,
+  "Name": "",
+  "CenterPositionLon": 55.137574787275895,
+  "CenterPositionLat": 21.908576007140276
+ },
+ {
+  "ID": 445073552,
+  "Capacity": 1605,
+  "Name": "",
+  "CenterPositionLon": 55.13135435652146,
+  "CenterPositionLat": 21.91350724092545
+ },
+ {
+  "ID": 445251899,
+  "Capacity": 5184,
+  "Name": "Tautų vienybės parkas",
+  "CenterPositionLon": 54.73053423197878,
+  "CenterPositionLat": 25.22423059175978
+ },
+ {
+  "ID": 445466345,
+  "Capacity": 524,
+  "Name": "",
+  "CenterPositionLon": 55.42895449464329,
+  "CenterPositionLat": 22.77694547328139
+ },
+ {
+  "ID": 447642170,
+  "Capacity": 3398,
+  "Name": "Lapgirių dvaro sodybos parkas",
+  "CenterPositionLon": 55.251780619979726,
+  "CenterPositionLat": 22.86911972808471
+ },
+ {
+  "ID": 448054269,
+  "Capacity": 1655,
+  "Name": "",
+  "CenterPositionLon": 55.16198084859661,
+  "CenterPositionLat": 22.797601163658268
+ },
+ {
+  "ID": 448054274,
+  "Capacity": 941,
+  "Name": "",
+  "CenterPositionLon": 55.16331452052334,
+  "CenterPositionLat": 22.79757311721633
+ },
+ {
+  "ID": 448483631,
+  "Capacity": 913,
+  "Name": "",
+  "CenterPositionLon": 55.34210262255026,
+  "CenterPositionLat": 21.499423525109453
+ },
+ {
+  "ID": 448491314,
+  "Capacity": 1391,
+  "Name": "",
+  "CenterPositionLon": 55.07432725041076,
+  "CenterPositionLat": 22.585240925677965
+ },
+ {
+  "ID": 454626257,
+  "Capacity": 6318,
+  "Name": "Šinkalaukio rekreacijos zona",
+  "CenterPositionLon": 54.586072066517694,
+  "CenterPositionLat": 25.571597289336406
+ },
+ {
+  "ID": 458502855,
+  "Capacity": 1286,
+  "Name": "",
+  "CenterPositionLon": 56.00228454647808,
+  "CenterPositionLat": 22.9374336280845
+ },
+ {
+  "ID": 458931979,
+  "Capacity": 546,
+  "Name": "Daugėlių pušyno estrada",
+  "CenterPositionLon": 55.98620363028887,
+  "CenterPositionLat": 22.94446610638909
+ },
+ {
+  "ID": 461301940,
+  "Capacity": 682,
+  "Name": "",
+  "CenterPositionLon": 55.74207189089968,
+  "CenterPositionLat": 26.24547936336664
+ },
+ {
+  "ID": 466701877,
+  "Capacity": 2686,
+  "Name": "",
+  "CenterPositionLon": 55.70056181900577,
+  "CenterPositionLat": 21.136596118978176
+ },
+ {
+  "ID": 466715924,
+  "Capacity": 6960,
+  "Name": "",
+  "CenterPositionLon": 55.229681250021116,
+  "CenterPositionLat": 24.361692251125646
+ },
+ {
+  "ID": 468153330,
+  "Capacity": 518,
+  "Name": "",
+  "CenterPositionLon": 55.36034952272442,
+  "CenterPositionLat": 24.39912107633819
+ },
+ {
+  "ID": 468153331,
+  "Capacity": 712,
+  "Name": "",
+  "CenterPositionLon": 55.36061691212232,
+  "CenterPositionLat": 24.40082001289112
+ },
+ {
+  "ID": 468153334,
+  "Capacity": 1214,
+  "Name": "",
+  "CenterPositionLon": 55.36155661036437,
+  "CenterPositionLat": 24.401819280876836
+ },
+ {
+  "ID": 468153335,
+  "Capacity": 607,
+  "Name": "",
+  "CenterPositionLon": 55.36201479219203,
+  "CenterPositionLat": 24.403868648953047
+ },
+ {
+  "ID": 468153336,
+  "Capacity": 840,
+  "Name": "",
+  "CenterPositionLon": 55.36357364577126,
+  "CenterPositionLat": 24.402913549571817
+ },
+ {
+  "ID": 468153339,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 55.36332198519706,
+  "CenterPositionLat": 24.40372470655112
+ },
+ {
+  "ID": 468153340,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 55.36277016220235,
+  "CenterPositionLat": 24.405047327171832
+ },
+ {
+  "ID": 468153341,
+  "Capacity": 1329,
+  "Name": "",
+  "CenterPositionLon": 55.36127699224802,
+  "CenterPositionLat": 24.403461321915632
+ },
+ {
+  "ID": 468153686,
+  "Capacity": 936,
+  "Name": "",
+  "CenterPositionLon": 55.36277100655948,
+  "CenterPositionLat": 24.399347855050586
+ },
+ {
+  "ID": 468153770,
+  "Capacity": 1500,
+  "Name": "",
+  "CenterPositionLon": 55.359114147585544,
+  "CenterPositionLat": 24.399128169075286
+ },
+ {
+  "ID": 468261124,
+  "Capacity": 1627,
+  "Name": "Petešos sodas",
+  "CenterPositionLon": 54.56510462445995,
+  "CenterPositionLat": 25.346627981514555
+ },
+ {
+  "ID": 469939667,
+  "Capacity": 13380,
+  "Name": "Universiteto parkelis",
+  "CenterPositionLon": 54.89265863951564,
+  "CenterPositionLat": 23.832943847550172
+ },
+ {
+  "ID": 469939778,
+  "Capacity": 5516,
+  "Name": "",
+  "CenterPositionLon": 54.89743904438949,
+  "CenterPositionLat": 23.820566739440967
+ },
+ {
+  "ID": 473596565,
+  "Capacity": 1269,
+  "Name": "",
+  "CenterPositionLon": 55.677144865888025,
+  "CenterPositionLat": 23.4007957025257
+ },
+ {
+  "ID": 482807512,
+  "Capacity": 6991,
+  "Name": "",
+  "CenterPositionLon": 55.86401762064722,
+  "CenterPositionLat": 23.808231981359455
+ },
+ {
+  "ID": 483161907,
+  "Capacity": 3545,
+  "Name": "",
+  "CenterPositionLon": 54.017269934475124,
+  "CenterPositionLat": 23.974657643149463
+ },
+ {
+  "ID": 485048824,
+  "Capacity": 4659,
+  "Name": "Stihl Virvių Parkas",
+  "CenterPositionLon": 54.745654119481614,
+  "CenterPositionLat": 23.496774589206645
+ },
+ {
+  "ID": 486441613,
+  "Capacity": 27561,
+  "Name": "Smėlynės parkas",
+  "CenterPositionLon": 55.501613478950055,
+  "CenterPositionLat": 25.622974321964048
+ },
+ {
+  "ID": 486718119,
+  "Capacity": 2634,
+  "Name": "",
+  "CenterPositionLon": 55.17985933589673,
+  "CenterPositionLat": 24.221786020662194
+ },
+ {
+  "ID": 487135883,
+  "Capacity": 3779,
+  "Name": "Č. Sugiharos sakurų parkas",
+  "CenterPositionLon": 54.695945328979185,
+  "CenterPositionLat": 25.271482627588533
+ },
+ {
+  "ID": 487913923,
+  "Capacity": 2272,
+  "Name": "Židikų parkas",
+  "CenterPositionLon": 56.318337613576055,
+  "CenterPositionLat": 22.014545012644096
+ },
+ {
+  "ID": 487915409,
+  "Capacity": 2916,
+  "Name": "Pirties parkas",
+  "CenterPositionLon": 56.32082185705928,
+  "CenterPositionLat": 22.015079547887556
+ },
+ {
+  "ID": 487916864,
+  "Capacity": 1596,
+  "Name": "Mokyklos parkas",
+  "CenterPositionLon": 56.32422821748711,
+  "CenterPositionLat": 22.010170865499074
+ },
+ {
+  "ID": 490954221,
+  "Capacity": 4486,
+  "Name": "",
+  "CenterPositionLon": 54.72008711177941,
+  "CenterPositionLat": 25.263366317690814
+ },
+ {
+  "ID": 493295095,
+  "Capacity": 1125,
+  "Name": "",
+  "CenterPositionLon": 55.91912066706574,
+  "CenterPositionLat": 23.29140237241589
+ },
+ {
+  "ID": 494145590,
+  "Capacity": 5005,
+  "Name": "Vėžaičių dvaro sodybos parkas",
+  "CenterPositionLon": 55.71518561990781,
+  "CenterPositionLat": 21.47539762250709
+ },
+ {
+  "ID": 494145613,
+  "Capacity": 2956,
+  "Name": "Biliūnų dvaro sodybos parkas",
+  "CenterPositionLon": 55.33271130736453,
+  "CenterPositionLat": 23.182760657628332
+ },
+ {
+  "ID": 494384965,
+  "Capacity": 8114,
+  "Name": "Dūkšto dvaro sodybos parkas",
+  "CenterPositionLon": 55.54448253073749,
+  "CenterPositionLat": 26.31802238217476
+ },
+ {
+  "ID": 495165030,
+  "Capacity": 3290,
+  "Name": "Šilutės dvaro sodybos parkas",
+  "CenterPositionLon": 55.33865832603415,
+  "CenterPositionLat": 21.461013193070773
+ },
+ {
+  "ID": 495172972,
+  "Capacity": 26850,
+  "Name": "Žagarės dvaro parkas",
+  "CenterPositionLon": 56.36148099941741,
+  "CenterPositionLat": 23.263253767186846
+ },
+ {
+  "ID": 495430917,
+  "Capacity": 16034,
+  "Name": "Lančiūnavos dvaro sodybos parkas",
+  "CenterPositionLon": 55.34907770537099,
+  "CenterPositionLat": 24.151763690029654
+ },
+ {
+  "ID": 495655395,
+  "Capacity": 16666,
+  "Name": "Naudvario dvaro parkas",
+  "CenterPositionLon": 55.74231484800226,
+  "CenterPositionLat": 24.103202759604837
+ },
+ {
+  "ID": 495693065,
+  "Capacity": 2252,
+  "Name": "",
+  "CenterPositionLon": 55.222163852062494,
+  "CenterPositionLat": 25.40249734044841
+ },
+ {
+  "ID": 496887103,
+  "Capacity": 10054,
+  "Name": "Antašavos dvaro parkas",
+  "CenterPositionLon": 55.90998264756197,
+  "CenterPositionLat": 24.80562099347279
+ },
+ {
+  "ID": 497648157,
+  "Capacity": 623,
+  "Name": "Dusetų skulptūrų parkas",
+  "CenterPositionLon": 55.74473285716471,
+  "CenterPositionLat": 25.837011038443194
+ },
+ {
+  "ID": 500312630,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 54.69057973290842,
+  "CenterPositionLat": 25.264642111899015
+ },
+ {
+  "ID": 500912958,
+  "Capacity": 46914,
+  "Name": "Pienionių dvaro sodybos parkas",
+  "CenterPositionLon": 55.46710934253967,
+  "CenterPositionLat": 24.89152207037369
+ },
+ {
+  "ID": 502853980,
+  "Capacity": 1764,
+  "Name": "Skaraitiškės dvaro parkas",
+  "CenterPositionLon": 55.472396719846,
+  "CenterPositionLat": 23.208712140519737
+ },
+ {
+  "ID": 503754015,
+  "Capacity": 14140,
+  "Name": "Raguvėlės dvaro sodybos parkas",
+  "CenterPositionLon": 55.65553607331623,
+  "CenterPositionLat": 24.66772062148047
+ },
+ {
+  "ID": 507423426,
+  "Capacity": 11486,
+  "Name": "",
+  "CenterPositionLon": 56.06946578529165,
+  "CenterPositionLat": 23.470956492270762
+ },
+ {
+  "ID": 509338040,
+  "Capacity": 344,
+  "Name": "",
+  "CenterPositionLon": 56.07400022502616,
+  "CenterPositionLat": 23.458229646889436
+ },
+ {
+  "ID": 510010186,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": 55.61922970745794,
+  "CenterPositionLat": 22.235164837861003
+ },
+ {
+  "ID": 512296653,
+  "Capacity": 5936,
+  "Name": "Sližių dvaro parkas",
+  "CenterPositionLon": 55.11466991175591,
+  "CenterPositionLat": 24.599403731001306
+ },
+ {
+  "ID": 513024450,
+  "Capacity": 4544,
+  "Name": "Lašmenpamūšio dvaro sodybos parkas",
+  "CenterPositionLon": 56.02662710114335,
+  "CenterPositionLat": 23.98690958078018
+ },
+ {
+  "ID": 513297313,
+  "Capacity": 169,
+  "Name": "",
+  "CenterPositionLon": 55.54462096210745,
+  "CenterPositionLat": 21.948221286836134
+ },
+ {
+  "ID": 513305079,
+  "Capacity": 191,
+  "Name": "",
+  "CenterPositionLon": 55.54484338968092,
+  "CenterPositionLat": 21.94747701215474
+ },
+ {
+  "ID": 514463268,
+  "Capacity": 6319,
+  "Name": "Šlapaberžės dvaro sodybos parkas",
+  "CenterPositionLon": 55.42127638453078,
+  "CenterPositionLat": 23.92249730591806
+ },
+ {
+  "ID": 514493992,
+  "Capacity": 3565,
+  "Name": "Atminimo parkas",
+  "CenterPositionLon": 55.07892770264792,
+  "CenterPositionLat": 24.28924247168361
+ },
+ {
+  "ID": 516388829,
+  "Capacity": 752,
+  "Name": "Amžių sandūros skulptūrų parkas",
+  "CenterPositionLon": 55.149080978161784,
+  "CenterPositionLat": 24.576572208653488
+ },
+ {
+  "ID": 521782440,
+  "Capacity": 13611,
+  "Name": "Škilinpamūšio dvaro sodybos parkas",
+  "CenterPositionLon": 56.26626866815851,
+  "CenterPositionLat": 24.367101414640626
+ },
+ {
+  "ID": 522451415,
+  "Capacity": 7322,
+  "Name": "Gornostajiškių parko fragmentai",
+  "CenterPositionLon": 54.17640476110427,
+  "CenterPositionLat": 25.037866521765515
+ },
+ {
+  "ID": 524895471,
+  "Capacity": 5413,
+  "Name": "Paširvinčio I dvaro sodybos fragmentų parkas",
+  "CenterPositionLon": 55.02744608976404,
+  "CenterPositionLat": 24.999794635296293
+ },
+ {
+  "ID": 526072991,
+  "Capacity": 5946,
+  "Name": "Baltų arena",
+  "CenterPositionLon": 56.020520310095435,
+  "CenterPositionLat": 23.508147052322897
+ },
+ {
+  "ID": 526136193,
+  "Capacity": 5492,
+  "Name": "Dabikinės dvaro parkas",
+  "CenterPositionLon": 56.248944959822595,
+  "CenterPositionLat": 22.789090437789337
+ },
+ {
+  "ID": 526306306,
+  "Capacity": 61848,
+  "Name": "Kėdainių centrinis parkas",
+  "CenterPositionLon": 55.30395793621905,
+  "CenterPositionLat": 23.977570032138185
+ },
+ {
+  "ID": 529645380,
+  "Capacity": 16052,
+  "Name": "Beržėnų dvaro sodybos parkas",
+  "CenterPositionLon": 55.825911865431635,
+  "CenterPositionLat": 22.81697943479346
+ },
+ {
+  "ID": 534326268,
+  "Capacity": 2600,
+  "Name": "Ablingos lurdas",
+  "CenterPositionLon": 55.73140875005298,
+  "CenterPositionLat": 21.696172267420167
+ },
+ {
+  "ID": 539181196,
+  "Capacity": 4646,
+  "Name": "Vyšnių sodas",
+  "CenterPositionLon": 56.36892705148959,
+  "CenterPositionLat": 23.26905598386923
+ },
+ {
+  "ID": 540383436,
+  "Capacity": 12589,
+  "Name": "Pandėlio dvaro sodybos fragmentų parkas",
+  "CenterPositionLon": 56.01859958743806,
+  "CenterPositionLat": 25.2250764169281
+ },
+ {
+  "ID": 541749487,
+  "Capacity": 503,
+  "Name": "Skulptūrų parkas",
+  "CenterPositionLon": 54.2468823,
+  "CenterPositionLat": 24.5522189
+ },
+ {
+  "ID": 542341342,
+  "Capacity": 140,
+  "Name": "Jaunimo skveras",
+  "CenterPositionLon": 55.840547848982425,
+  "CenterPositionLat": 24.97647654633115
+ },
+ {
+  "ID": 542780198,
+  "Capacity": 4282,
+  "Name": "",
+  "CenterPositionLon": 55.84424670959465,
+  "CenterPositionLat": 24.9855205816377
+ },
+ {
+  "ID": 543909381,
+  "Capacity": 2565,
+  "Name": "",
+  "CenterPositionLon": 54.67448587047985,
+  "CenterPositionLat": 25.082635554500314
+ },
+ {
+  "ID": 543962515,
+  "Capacity": 21690,
+  "Name": "Ąžuolų parkas",
+  "CenterPositionLon": 54.75326035897094,
+  "CenterPositionLat": 25.27531286038577
+ },
+ {
+  "ID": 543962516,
+  "Capacity": 661,
+  "Name": "",
+  "CenterPositionLon": 54.68895109268295,
+  "CenterPositionLat": 25.279436219058677
+ },
+ {
+  "ID": 554729562,
+  "Capacity": 794,
+  "Name": "",
+  "CenterPositionLon": 55.72527914399541,
+  "CenterPositionLat": 21.112090952341525
+ },
+ {
+  "ID": 556282627,
+  "Capacity": 1936,
+  "Name": "",
+  "CenterPositionLon": 55.717883545894885,
+  "CenterPositionLat": 21.130871430497923
+ },
+ {
+  "ID": 556282647,
+  "Capacity": 1209,
+  "Name": "",
+  "CenterPositionLon": 55.71407643897729,
+  "CenterPositionLat": 21.13806374025977
+ },
+ {
+  "ID": 556282691,
+  "Capacity": 707,
+  "Name": "",
+  "CenterPositionLon": 55.72143395490506,
+  "CenterPositionLat": 21.121709572560874
+ },
+ {
+  "ID": 558491869,
+  "Capacity": 168,
+  "Name": "Suomijos a.",
+  "CenterPositionLon": 54.7025914595638,
+  "CenterPositionLat": 25.21032516991051
+ },
+ {
+  "ID": 560139043,
+  "Capacity": 1803,
+  "Name": "",
+  "CenterPositionLon": 55.13928377452445,
+  "CenterPositionLat": 21.905200340922157
+ },
+ {
+  "ID": 568358180,
+  "Capacity": 863,
+  "Name": "",
+  "CenterPositionLon": 54.90142190288541,
+  "CenterPositionLat": 22.84576829595703
+ },
+ {
+  "ID": 572892733,
+  "Capacity": 506,
+  "Name": "",
+  "CenterPositionLon": 54.936858239946375,
+  "CenterPositionLat": 23.780948207470363
+ },
+ {
+  "ID": 576452168,
+  "Capacity": 411,
+  "Name": "",
+  "CenterPositionLon": 55.490068856148795,
+  "CenterPositionLat": 22.18739297579618
+ },
+ {
+  "ID": 580431591,
+  "Capacity": 55,
+  "Name": "Tibeto skv.",
+  "CenterPositionLon": 54.8962283,
+  "CenterPositionLat": 23.9276804
+ },
+ {
+  "ID": 581534617,
+  "Capacity": 387,
+  "Name": "Panerių skulptūrų parkas",
+  "CenterPositionLon": 54.63220880059543,
+  "CenterPositionLat": 25.14494180612569
+ },
+ {
+  "ID": 583139807,
+  "Capacity": 11907,
+  "Name": "Vytauto parkas",
+  "CenterPositionLon": 54.59788726474087,
+  "CenterPositionLat": 24.033593570009593
+ },
+ {
+  "ID": 583139808,
+  "Capacity": 1942,
+  "Name": "Kneipo parkas",
+  "CenterPositionLon": 54.60084221421501,
+  "CenterPositionLat": 24.034001166477623
+ },
+ {
+  "ID": 585911117,
+  "Capacity": 361,
+  "Name": "",
+  "CenterPositionLon": 55.597536676178336,
+  "CenterPositionLat": 21.59616042562908
+ },
+ {
+  "ID": 586730889,
+  "Capacity": 7235,
+  "Name": "",
+  "CenterPositionLon": 55.33682259694416,
+  "CenterPositionLat": 21.460359760208792
+ },
+ {
+  "ID": 591909358,
+  "Capacity": 2704,
+  "Name": "",
+  "CenterPositionLon": 55.2531744265302,
+  "CenterPositionLat": 22.28467722950082
+ },
+ {
+  "ID": 593918434,
+  "Capacity": 890,
+  "Name": "",
+  "CenterPositionLon": 55.25175331896631,
+  "CenterPositionLat": 22.28317495514912
+ },
+ {
+  "ID": 594314756,
+  "Capacity": 1086,
+  "Name": "",
+  "CenterPositionLon": 55.26001830356953,
+  "CenterPositionLat": 22.27656595830992
+ },
+ {
+  "ID": 600690191,
+  "Capacity": 265,
+  "Name": "Tbilisio skv.",
+  "CenterPositionLon": 54.689504992168295,
+  "CenterPositionLat": 25.290763471897133
+ },
+ {
+  "ID": 601244722,
+  "Capacity": 97,
+  "Name": "Japoniškas sodas „Sei Shin“",
+  "CenterPositionLon": 54.69207439121155,
+  "CenterPositionLat": 25.300104730457715
+ },
+ {
+  "ID": 602374440,
+  "Capacity": 11157,
+  "Name": "Miesto sodas",
+  "CenterPositionLon": 54.393919760508155,
+  "CenterPositionLat": 24.047818965085387
+ },
+ {
+  "ID": 604342286,
+  "Capacity": 10628,
+  "Name": "Beržynėlis",
+  "CenterPositionLon": 55.911387183523736,
+  "CenterPositionLat": 23.255380839179942
+ },
+ {
+  "ID": 604657959,
+  "Capacity": 578,
+  "Name": "",
+  "CenterPositionLon": 55.22889188548314,
+  "CenterPositionLat": 25.41143338600064
+ },
+ {
+  "ID": 604981643,
+  "Capacity": 74,
+  "Name": "",
+  "CenterPositionLon": 55.230306440312695,
+  "CenterPositionLat": 25.41637404372701
+ },
+ {
+  "ID": 604985232,
+  "Capacity": 672,
+  "Name": "",
+  "CenterPositionLon": 55.23146883021318,
+  "CenterPositionLat": 25.419387368118752
+ },
+ {
+  "ID": 605071579,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": 55.23447748467842,
+  "CenterPositionLat": 25.427114991616087
+ },
+ {
+  "ID": 605194071,
+  "Capacity": 639,
+  "Name": "",
+  "CenterPositionLon": 55.23074271651127,
+  "CenterPositionLat": 25.421963788104676
+ },
+ {
+  "ID": 605388357,
+  "Capacity": 589,
+  "Name": "",
+  "CenterPositionLon": 55.71331283416321,
+  "CenterPositionLat": 21.12487266825239
+ },
+ {
+  "ID": 606470771,
+  "Capacity": 3457,
+  "Name": "Visbutų Parkas",
+  "CenterPositionLon": 55.25877592879105,
+  "CenterPositionLat": 22.273266730099788
+ },
+ {
+  "ID": 607769639,
+  "Capacity": 2023,
+  "Name": "",
+  "CenterPositionLon": 55.25353116377034,
+  "CenterPositionLat": 22.278088816593844
+ },
+ {
+  "ID": 608079133,
+  "Capacity": 687,
+  "Name": "",
+  "CenterPositionLon": 55.25328630494392,
+  "CenterPositionLat": 22.2830271109875
+ },
+ {
+  "ID": 608733823,
+  "Capacity": 552,
+  "Name": "",
+  "CenterPositionLon": 55.159339721124624,
+  "CenterPositionLat": 25.56304157245459
+ },
+ {
+  "ID": 608733826,
+  "Capacity": 1741,
+  "Name": "",
+  "CenterPositionLon": 55.159291450511724,
+  "CenterPositionLat": 25.556046253402304
+ },
+ {
+  "ID": 613110403,
+  "Capacity": 748,
+  "Name": "Pilies Kiemelis",
+  "CenterPositionLon": 55.25264171628651,
+  "CenterPositionLat": 22.28420012134491
+ },
+ {
+  "ID": 614722279,
+  "Capacity": 537,
+  "Name": "Vydūno sodas",
+  "CenterPositionLon": 55.7119663,
+  "CenterPositionLat": 21.12790315
+ },
+ {
+  "ID": 615460430,
+  "Capacity": 1167,
+  "Name": "Gedimino Universiteto Parkas",
+  "CenterPositionLon": 54.720690067632916,
+  "CenterPositionLat": 25.339732496213593
+ },
+ {
+  "ID": 618684810,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 56.147375356737406,
+  "CenterPositionLat": 22.785719983194845
+ },
+ {
+  "ID": 619296771,
+  "Capacity": 18788,
+  "Name": "Kartų parkas",
+  "CenterPositionLon": 55.25340822984576,
+  "CenterPositionLat": 22.3074053370569
+ },
+ {
+  "ID": 619421678,
+  "Capacity": 1771,
+  "Name": "A. Baranausko aikštė",
+  "CenterPositionLon": 56.167090278077865,
+  "CenterPositionLat": 22.089601547053963
+ },
+ {
+  "ID": 619437913,
+  "Capacity": 530,
+  "Name": "Varduvos upės salelė",
+  "CenterPositionLon": 56.162246148421346,
+  "CenterPositionLat": 22.088023470708208
+ },
+ {
+  "ID": 620427755,
+  "Capacity": 1751,
+  "Name": "",
+  "CenterPositionLon": 55.92540917413309,
+  "CenterPositionLat": 23.34248527146806
+ },
+ {
+  "ID": 620589535,
+  "Capacity": 1408,
+  "Name": "",
+  "CenterPositionLon": 55.93215629751081,
+  "CenterPositionLat": 23.317897405685635
+ },
+ {
+  "ID": 621950905,
+  "Capacity": 607,
+  "Name": "",
+  "CenterPositionLon": 55.07375122759972,
+  "CenterPositionLat": 25.26263113223215
+ },
+ {
+  "ID": 628557025,
+  "Capacity": 179681,
+  "Name": "Kurorto parkas",
+  "CenterPositionLon": 54.39224894106388,
+  "CenterPositionLat": 24.0650631144711
+ },
+ {
+  "ID": 628564658,
+  "Capacity": 1927,
+  "Name": "Studentų skveras",
+  "CenterPositionLon": 54.39989317387845,
+  "CenterPositionLat": 24.069081815886978
+ },
+ {
+  "ID": 628566381,
+  "Capacity": 39952,
+  "Name": "Gulbynės parkas",
+  "CenterPositionLon": 54.41550245747231,
+  "CenterPositionLat": 24.01323528168622
+ },
+ {
+  "ID": 628566382,
+  "Capacity": 35838,
+  "Name": "Putinų parkas",
+  "CenterPositionLon": 54.4207704706717,
+  "CenterPositionLat": 24.025905579803375
+ },
+ {
+  "ID": 628569238,
+  "Capacity": 3221,
+  "Name": "Medinių skulptūrų parkas",
+  "CenterPositionLon": 54.39509357689521,
+  "CenterPositionLat": 24.035050998059564
+ },
+ {
+  "ID": 628608325,
+  "Capacity": 37538,
+  "Name": "Likiškių parkas",
+  "CenterPositionLon": 54.400878207184334,
+  "CenterPositionLat": 24.011688614133487
+ },
+ {
+  "ID": 629771571,
+  "Capacity": 1020,
+  "Name": "Senamiesčio skveras",
+  "CenterPositionLon": 54.3991336425997,
+  "CenterPositionLat": 24.048817793964584
+ },
+ {
+  "ID": 630753191,
+  "Capacity": 2700,
+  "Name": "Balsių „Mitologinis parkas“",
+  "CenterPositionLon": 54.78379932519123,
+  "CenterPositionLat": 25.3528501421186
+ },
+ {
+  "ID": 631357579,
+  "Capacity": 1137,
+  "Name": "",
+  "CenterPositionLon": 55.54634045988543,
+  "CenterPositionLat": 22.811559333340572
+ },
+ {
+  "ID": 631885237,
+  "Capacity": 1017,
+  "Name": "",
+  "CenterPositionLon": 55.677707551396296,
+  "CenterPositionLat": 24.536722129764673
+ },
+ {
+  "ID": 632392654,
+  "Capacity": 519,
+  "Name": "",
+  "CenterPositionLon": 54.59130072262585,
+  "CenterPositionLat": 24.322675185565625
+ },
+ {
+  "ID": 632558300,
+  "Capacity": 1907,
+  "Name": "",
+  "CenterPositionLon": 56.050096446551784,
+  "CenterPositionLat": 24.17787967993503
+ },
+ {
+  "ID": 635891245,
+  "Capacity": 802,
+  "Name": "",
+  "CenterPositionLon": 55.98241119223179,
+  "CenterPositionLat": 22.24263105931277
+ },
+ {
+  "ID": 636928111,
+  "Capacity": 8119,
+  "Name": "",
+  "CenterPositionLon": 56.03172093585551,
+  "CenterPositionLat": 21.186186811613418
+ },
+ {
+  "ID": 638897781,
+  "Capacity": 883,
+  "Name": "",
+  "CenterPositionLon": 55.192207525465854,
+  "CenterPositionLat": 21.788177737969576
+ },
+ {
+  "ID": 638987387,
+  "Capacity": 7967,
+  "Name": "",
+  "CenterPositionLon": 55.695133391516364,
+  "CenterPositionLat": 21.725377099827167
+ },
+ {
+  "ID": 639079666,
+  "Capacity": 808,
+  "Name": "",
+  "CenterPositionLon": 56.28165550214947,
+  "CenterPositionLat": 21.857367739770478
+ },
+ {
+  "ID": 642586840,
+  "Capacity": 13367,
+  "Name": "Matučio parkas",
+  "CenterPositionLon": 54.39641960318468,
+  "CenterPositionLat": 24.054432342225986
+ },
+ {
+  "ID": 643890785,
+  "Capacity": 284,
+  "Name": "",
+  "CenterPositionLon": 55.248041635961116,
+  "CenterPositionLat": 22.296134206290326
+ },
+ {
+  "ID": 669824694,
+  "Capacity": 1588,
+  "Name": "",
+  "CenterPositionLon": 55.66918729179223,
+  "CenterPositionLat": 21.192332522473052
+ },
+ {
+  "ID": 670701881,
+  "Capacity": 601,
+  "Name": "Pušynas pasodintas Lietuvos kariuomenei pagerbti",
+  "CenterPositionLon": 54.86388424995997,
+  "CenterPositionLat": 23.932001546162887
+ },
+ {
+  "ID": 686390826,
+  "Capacity": 7499,
+  "Name": "",
+  "CenterPositionLon": 56.245794939419085,
+  "CenterPositionLat": 23.54882664645122
+ },
+ {
+  "ID": 699755440,
+  "Capacity": 32599,
+  "Name": "Pajiešmenių parkas",
+  "CenterPositionLon": 56.10659170849739,
+  "CenterPositionLat": 24.495704505065458
+ },
+ {
+  "ID": 708825956,
+  "Capacity": 2586,
+  "Name": "Stadionas",
+  "CenterPositionLon": 54.58450562953151,
+  "CenterPositionLat": 25.29533408749202
+ },
+ {
+  "ID": 708995934,
+  "Capacity": 6051,
+  "Name": "Topolio parkas",
+  "CenterPositionLon": 55.89772214640199,
+  "CenterPositionLat": 25.126438995210936
+ },
+ {
+  "ID": 709194502,
+  "Capacity": 4625,
+  "Name": "Taurostos parkas",
+  "CenterPositionLon": 55.07078007839809,
+  "CenterPositionLat": 24.292323054926907
+ },
+ {
+  "ID": 729332286,
+  "Capacity": 7571,
+  "Name": "",
+  "CenterPositionLon": 54.705166715359994,
+  "CenterPositionLat": 22.96268058437912
+ },
+ {
+  "ID": 741578890,
+  "Capacity": 560,
+  "Name": "",
+  "CenterPositionLon": 55.24320327012929,
+  "CenterPositionLat": 22.292027261354765
+ },
+ {
+  "ID": 744113669,
+  "Capacity": 451,
+  "Name": "",
+  "CenterPositionLon": 55.25094850514433,
+  "CenterPositionLat": 22.3008197434268
+ },
+ {
+  "ID": 744115624,
+  "Capacity": 891,
+  "Name": "",
+  "CenterPositionLon": 55.25287456260903,
+  "CenterPositionLat": 22.301791627766857
+ },
+ {
+  "ID": 746717934,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 55.25552776707767,
+  "CenterPositionLat": 22.29124282163741
+ },
+ {
+  "ID": 748827027,
+  "Capacity": 219,
+  "Name": "Prisiminimų parkas",
+  "CenterPositionLon": 54.851022706017204,
+  "CenterPositionLat": 23.173357215245023
+ },
+ {
+  "ID": 751969148,
+  "Capacity": 2541,
+  "Name": "Miesto sodas",
+  "CenterPositionLon": 56.02551139009819,
+  "CenterPositionLat": 24.172149069588805
+ },
+ {
+  "ID": 759415565,
+  "Capacity": 2390,
+  "Name": "Jaunimo Parkas",
+  "CenterPositionLon": 55.081797418888755,
+  "CenterPositionLat": 22.774186914590654
+ },
+ {
+  "ID": 760458231,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 55.25036870499913,
+  "CenterPositionLat": 22.289670058431426
+ },
+ {
+  "ID": 791534544,
+  "Capacity": 826,
+  "Name": "Community Park",
+  "CenterPositionLon": 54.67093528206493,
+  "CenterPositionLat": 25.273863525949423
+ },
+ {
+  "ID": 797735995,
+  "Capacity": 3423,
+  "Name": "",
+  "CenterPositionLon": 54.84210017107646,
+  "CenterPositionLat": 24.044257587706706
+ },
+ {
+  "ID": 803473445,
+  "Capacity": 460,
+  "Name": "",
+  "CenterPositionLon": 54.94655075719574,
+  "CenterPositionLat": 23.24256634381767
+ }
+]

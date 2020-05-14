@@ -1,0 +1,828 @@
+[
+ {
+  "ID": 13787230,
+  "Capacity": 3621,
+  "Name": "Kwame Nkrumah Memorial Park",
+  "CenterPositionLon": 5.544532755947105,
+  "CenterPositionLat": -0.20291042214610636
+ },
+ {
+  "ID": 175996926,
+  "Capacity": 2143,
+  "Name": "",
+  "CenterPositionLon": 5.553941709106377,
+  "CenterPositionLat": -0.20313379478068935
+ },
+ {
+  "ID": 204593552,
+  "Capacity": 1655,
+  "Name": "",
+  "CenterPositionLon": 4.88603771816005,
+  "CenterPositionLat": -1.7559211152636025
+ },
+ {
+  "ID": 217417087,
+  "Capacity": 59368,
+  "Name": "Mole National Park Visitor Area",
+  "CenterPositionLon": 9.26224681104132,
+  "CenterPositionLat": -1.8532419183237294
+ },
+ {
+  "ID": 219431272,
+  "Capacity": 8460,
+  "Name": "",
+  "CenterPositionLon": 9.543529541048539,
+  "CenterPositionLat": -0.939204727634668
+ },
+ {
+  "ID": 256234769,
+  "Capacity": 2775,
+  "Name": "",
+  "CenterPositionLon": 5.55366494088776,
+  "CenterPositionLat": -0.2198715706090041
+ },
+ {
+  "ID": 287723574,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 7.409260163907767,
+  "CenterPositionLat": 0.4500117891976412
+ },
+ {
+  "ID": 290463705,
+  "Capacity": 1052,
+  "Name": "Effiduasi Methodist School Park",
+  "CenterPositionLon": 6.848684898886588,
+  "CenterPositionLat": -1.4009162856061945
+ },
+ {
+  "ID": 301638245,
+  "Capacity": 5465,
+  "Name": "Amakom Children's Park",
+  "CenterPositionLon": 6.690352028235632,
+  "CenterPositionLat": -1.6049878433203184
+ },
+ {
+  "ID": 318980742,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 6.671581652475285,
+  "CenterPositionLat": -1.654828652931013
+ },
+ {
+  "ID": 320093191,
+  "Capacity": 7588,
+  "Name": "Efua Sutherland Children's Park",
+  "CenterPositionLon": 5.555943610101915,
+  "CenterPositionLat": -0.19889272425567556
+ },
+ {
+  "ID": 334386186,
+  "Capacity": 72403,
+  "Name": "Aburi Botanic Gardens",
+  "CenterPositionLon": 5.854254560337567,
+  "CenterPositionLat": -0.17680332417896497
+ },
+ {
+  "ID": 335456879,
+  "Capacity": 113681,
+  "Name": "University of Ghana Botanical Gardens",
+  "CenterPositionLon": 5.661818317565807,
+  "CenterPositionLat": -0.18613578302286915
+ },
+ {
+  "ID": 346159429,
+  "Capacity": 1173,
+  "Name": "Methodist park",
+  "CenterPositionLon": 6.928998013428475,
+  "CenterPositionLat": -2.353275422432105
+ },
+ {
+  "ID": 363457993,
+  "Capacity": 502,
+  "Name": "Tony Park",
+  "CenterPositionLon": 5.557905107813169,
+  "CenterPositionLat": -0.25915888969266815
+ },
+ {
+  "ID": 388245641,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": 5.549733477400824,
+  "CenterPositionLat": -0.21086606951669362
+ },
+ {
+  "ID": 426163166,
+  "Capacity": 1098,
+  "Name": "Football Feild",
+  "CenterPositionLon": 5.7986229499999995,
+  "CenterPositionLat": -0.1249621
+ },
+ {
+  "ID": 441141484,
+  "Capacity": 168,
+  "Name": "",
+  "CenterPositionLon": 7.973126018277683,
+  "CenterPositionLat": -2.6227448251432195
+ },
+ {
+  "ID": 444321273,
+  "Capacity": 1303,
+  "Name": "Narnia FC Park",
+  "CenterPositionLon": 5.64591288822027,
+  "CenterPositionLat": -0.18223648003587734
+ },
+ {
+  "ID": 448959215,
+  "Capacity": 803,
+  "Name": "Futbol Field",
+  "CenterPositionLon": 7.179429852052669,
+  "CenterPositionLat": 0.004424475073362425
+ },
+ {
+  "ID": 452663931,
+  "Capacity": 406,
+  "Name": "Interact Square",
+  "CenterPositionLon": 5.5720632000000005,
+  "CenterPositionLat": -0.24299595
+ },
+ {
+  "ID": 452665806,
+  "Capacity": 2046,
+  "Name": "Astro",
+  "CenterPositionLon": 5.572057666955748,
+  "CenterPositionLat": -0.24531199158618372
+ },
+ {
+  "ID": 452908697,
+  "Capacity": 991,
+  "Name": "Football Field",
+  "CenterPositionLon": 9.634642255609915,
+  "CenterPositionLat": 0.24996592379072416
+ },
+ {
+  "ID": 463626704,
+  "Capacity": 432,
+  "Name": "",
+  "CenterPositionLon": 5.616936838753959,
+  "CenterPositionLat": -0.10632039581003276
+ },
+ {
+  "ID": 470169011,
+  "Capacity": 568,
+  "Name": "Lakeside Children play park",
+  "CenterPositionLon": 5.700354130477129,
+  "CenterPositionLat": -0.13670047359399917
+ },
+ {
+  "ID": 470171914,
+  "Capacity": 3974,
+  "Name": "Lakeside park",
+  "CenterPositionLon": 5.69901214192225,
+  "CenterPositionLat": -0.13643153069900496
+ },
+ {
+  "ID": 471496365,
+  "Capacity": 1864,
+  "Name": "Sunzunli Beach Resort",
+  "CenterPositionLon": 5.001708376586383,
+  "CenterPositionLat": -2.662917409117723
+ },
+ {
+  "ID": 471703381,
+  "Capacity": 64,
+  "Name": "Kundum Circle",
+  "CenterPositionLon": 4.999380883467614,
+  "CenterPositionLat": -2.6467533947674324
+ },
+ {
+  "ID": 478181207,
+  "Capacity": 115,
+  "Name": "Cafe Car Park",
+  "CenterPositionLon": 5.11741855,
+  "CenterPositionLat": -1.2854802
+ },
+ {
+  "ID": 483852534,
+  "Capacity": 1050,
+  "Name": "",
+  "CenterPositionLon": 7.370416335425634,
+  "CenterPositionLat": -2.3241164028540253
+ },
+ {
+  "ID": 500744460,
+  "Capacity": 446,
+  "Name": "Oshie Link Park",
+  "CenterPositionLon": 5.55858870298168,
+  "CenterPositionLat": -0.1703758040709934
+ },
+ {
+  "ID": 513304154,
+  "Capacity": 123,
+  "Name": "",
+  "CenterPositionLon": 5.600796061347618,
+  "CenterPositionLat": -0.10902158013749647
+ },
+ {
+  "ID": 518901466,
+  "Capacity": 2828,
+  "Name": "Gyamfi's Park",
+  "CenterPositionLon": 6.454868312918421,
+  "CenterPositionLat": -1.5678520412075696
+ },
+ {
+  "ID": 529518879,
+  "Capacity": 17527,
+  "Name": "Sankofa Mango Park",
+  "CenterPositionLon": 7.417000446872629,
+  "CenterPositionLat": -2.646239708389762
+ },
+ {
+  "ID": 536397854,
+  "Capacity": 866,
+  "Name": "Town Park",
+  "CenterPositionLon": 5.68651335,
+  "CenterPositionLat": -2.0237817
+ },
+ {
+  "ID": 536397856,
+  "Capacity": 279,
+  "Name": "",
+  "CenterPositionLon": 5.6846891,
+  "CenterPositionLat": -2.0233820500000004
+ },
+ {
+  "ID": 541092299,
+  "Capacity": 4058,
+  "Name": "",
+  "CenterPositionLon": 6.31053618625374,
+  "CenterPositionLat": 0.1375523910579705
+ },
+ {
+  "ID": 541092820,
+  "Capacity": 1014,
+  "Name": "",
+  "CenterPositionLon": 6.313221686052265,
+  "CenterPositionLat": 0.13421609924733574
+ },
+ {
+  "ID": 541092821,
+  "Capacity": 1712,
+  "Name": "",
+  "CenterPositionLon": 6.309291200990051,
+  "CenterPositionLat": 0.13494229492468768
+ },
+ {
+  "ID": 541092822,
+  "Capacity": 805,
+  "Name": "",
+  "CenterPositionLon": 6.312209836405461,
+  "CenterPositionLat": 0.13678067059325397
+ },
+ {
+  "ID": 541098321,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 6.2362290795855575,
+  "CenterPositionLat": 0.09582095994675802
+ },
+ {
+  "ID": 541441508,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 5.620105969407908,
+  "CenterPositionLat": -0.07805818758341
+ },
+ {
+  "ID": 541441509,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 5.620056924506213,
+  "CenterPositionLat": -0.07789475582770086
+ },
+ {
+  "ID": 547433591,
+  "Capacity": 1293,
+  "Name": "Childrens Park (Dansoman)",
+  "CenterPositionLon": 5.549162824932096,
+  "CenterPositionLat": -0.269264377109997
+ },
+ {
+  "ID": 552155418,
+  "Capacity": 2210,
+  "Name": "",
+  "CenterPositionLon": 5.610983040282759,
+  "CenterPositionLat": -0.20884071066180804
+ },
+ {
+  "ID": 567532922,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 5.590316544216683,
+  "CenterPositionLat": -0.09014094676649721
+ },
+ {
+  "ID": 567532927,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 5.590667050261378,
+  "CenterPositionLat": -0.09013540635783349
+ },
+ {
+  "ID": 567532930,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 5.590799649422453,
+  "CenterPositionLat": -0.09002504284533477
+ },
+ {
+  "ID": 583811903,
+  "Capacity": 1917,
+  "Name": "Nationalism Park",
+  "CenterPositionLon": 5.549717875390313,
+  "CenterPositionLat": -0.19190101249206892
+ },
+ {
+  "ID": 583812299,
+  "Capacity": 2697,
+  "Name": "Asomdwe Park",
+  "CenterPositionLon": 5.5476182323189445,
+  "CenterPositionLat": -0.18751567475655978
+ },
+ {
+  "ID": 587353243,
+  "Capacity": 783,
+  "Name": "Tadisco park",
+  "CenterPositionLon": 4.92118835219877,
+  "CenterPositionLat": -1.7745033527069665
+ },
+ {
+  "ID": 588247170,
+  "Capacity": 1146,
+  "Name": "Ministry of Information Park",
+  "CenterPositionLon": 5.5580916954083595,
+  "CenterPositionLat": -0.20741894649897252
+ },
+ {
+  "ID": 606329367,
+  "Capacity": 27,
+  "Name": "Playground",
+  "CenterPositionLon": 5.6975162450487264,
+  "CenterPositionLat": -0.13621245542360322
+ },
+ {
+  "ID": 606333581,
+  "Capacity": 43,
+  "Name": "Mini-golf course",
+  "CenterPositionLon": 5.697983562805532,
+  "CenterPositionLat": -0.13662676818050395
+ },
+ {
+  "ID": 606376409,
+  "Capacity": 66,
+  "Name": "lawn",
+  "CenterPositionLon": 5.697952189667685,
+  "CenterPositionLat": -0.13688636991775108
+ },
+ {
+  "ID": 606377143,
+  "Capacity": 88,
+  "Name": "lawn",
+  "CenterPositionLon": 5.69773057327736,
+  "CenterPositionLat": -0.1369607540295205
+ },
+ {
+  "ID": 606379544,
+  "Capacity": 33,
+  "Name": "lawn, sitting area",
+  "CenterPositionLon": 5.697685845413646,
+  "CenterPositionLat": -0.13673875439032285
+ },
+ {
+  "ID": 606380966,
+  "Capacity": 88,
+  "Name": "lawn",
+  "CenterPositionLon": 5.697771488679845,
+  "CenterPositionLat": -0.13661990849249242
+ },
+ {
+  "ID": 606381766,
+  "Capacity": 21,
+  "Name": "lawn",
+  "CenterPositionLon": 5.697606955358967,
+  "CenterPositionLat": -0.13665707135584385
+ },
+ {
+  "ID": 615303397,
+  "Capacity": 1741,
+  "Name": "Jubile Park,Koforidua",
+  "CenterPositionLon": 6.078931309734116,
+  "CenterPositionLat": -0.25223033194550687
+ },
+ {
+  "ID": 616296753,
+  "Capacity": 4972,
+  "Name": "Rattray Park",
+  "CenterPositionLon": 6.68053072031783,
+  "CenterPositionLat": -1.6247453813494543
+ },
+ {
+  "ID": 617510970,
+  "Capacity": 520,
+  "Name": "",
+  "CenterPositionLon": 5.53391298993862,
+  "CenterPositionLat": -0.21194170021400582
+ },
+ {
+  "ID": 627812314,
+  "Capacity": 551,
+  "Name": "Lakeside Gardens",
+  "CenterPositionLon": 5.698709088838775,
+  "CenterPositionLat": -0.13424474335041559
+ },
+ {
+  "ID": 644498684,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 5.595798803133336,
+  "CenterPositionLat": -0.21783029677697915
+ },
+ {
+  "ID": 665213234,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": 5.586185767450912,
+  "CenterPositionLat": -0.08962313590242085
+ },
+ {
+  "ID": 665213235,
+  "Capacity": 87,
+  "Name": "",
+  "CenterPositionLon": 5.587595576763066,
+  "CenterPositionLat": -0.09003379577101334
+ },
+ {
+  "ID": 665213236,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 5.586016409881185,
+  "CenterPositionLat": -0.08837747024895691
+ },
+ {
+  "ID": 665213237,
+  "Capacity": 65,
+  "Name": "",
+  "CenterPositionLon": 5.586181977045768,
+  "CenterPositionLat": -0.08876647130408988
+ },
+ {
+  "ID": 665213238,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 5.586677404793849,
+  "CenterPositionLat": -0.08931500368297826
+ },
+ {
+  "ID": 665213239,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 5.5864978400380325,
+  "CenterPositionLat": -0.08891984267915945
+ },
+ {
+  "ID": 665213241,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 5.58746224937672,
+  "CenterPositionLat": -0.09052510365239476
+ },
+ {
+  "ID": 670893724,
+  "Capacity": 60,
+  "Name": "VIP Park",
+  "CenterPositionLon": 4.923678392551624,
+  "CenterPositionLat": -1.7667363469387838
+ },
+ {
+  "ID": 673980799,
+  "Capacity": 741,
+  "Name": "Ofankor D/A Primary School Park",
+  "CenterPositionLon": 5.657314308368958,
+  "CenterPositionLat": -0.266874614230575
+ },
+ {
+  "ID": 674207714,
+  "Capacity": 1234,
+  "Name": "",
+  "CenterPositionLon": 5.562683428874564,
+  "CenterPositionLat": -0.1678216172411483
+ },
+ {
+  "ID": 674924305,
+  "Capacity": 622,
+  "Name": "Timboard School park",
+  "CenterPositionLon": 4.929891347336163,
+  "CenterPositionLat": -1.7718760812231904
+ },
+ {
+  "ID": 675484932,
+  "Capacity": 205,
+  "Name": "MacCarthy Hill School park",
+  "CenterPositionLon": 5.5860839282886,
+  "CenterPositionLat": -0.27837681111810136
+ },
+ {
+  "ID": 676607169,
+  "Capacity": 1137,
+  "Name": "",
+  "CenterPositionLon": 5.6113170892362545,
+  "CenterPositionLat": -1.5519088475547254
+ },
+ {
+  "ID": 676614048,
+  "Capacity": 1924,
+  "Name": "Main Market",
+  "CenterPositionLon": 5.598415749756546,
+  "CenterPositionLat": -1.543191198954022
+ },
+ {
+  "ID": 676614049,
+  "Capacity": 901,
+  "Name": "Main Market",
+  "CenterPositionLon": 5.599189038274656,
+  "CenterPositionLat": -1.5437932153278822
+ },
+ {
+  "ID": 676614051,
+  "Capacity": 2721,
+  "Name": "Main Market",
+  "CenterPositionLon": 5.597535206402719,
+  "CenterPositionLat": -1.5438301114862611
+ },
+ {
+  "ID": 676614076,
+  "Capacity": 1612,
+  "Name": "",
+  "CenterPositionLon": 5.597064373671527,
+  "CenterPositionLat": -1.5998705538719689
+ },
+ {
+  "ID": 676614081,
+  "Capacity": 1293,
+  "Name": "",
+  "CenterPositionLon": 5.6073249713778175,
+  "CenterPositionLat": -1.6273788762602572
+ },
+ {
+  "ID": 676614084,
+  "Capacity": 426,
+  "Name": "",
+  "CenterPositionLon": 5.563344542286578,
+  "CenterPositionLat": -1.602730536786994
+ },
+ {
+  "ID": 676696907,
+  "Capacity": 721,
+  "Name": "",
+  "CenterPositionLon": 5.461894570674604,
+  "CenterPositionLat": -1.5622845276875774
+ },
+ {
+  "ID": 676696908,
+  "Capacity": 511,
+  "Name": "",
+  "CenterPositionLon": 5.5136473253694565,
+  "CenterPositionLat": -1.4726354764453815
+ },
+ {
+  "ID": 680906717,
+  "Capacity": 385,
+  "Name": "Tangzu Tingan",
+  "CenterPositionLon": 10.477437037709395,
+  "CenterPositionLat": -2.858612960319389
+ },
+ {
+  "ID": 680906720,
+  "Capacity": 448,
+  "Name": "Tangzu Tingan",
+  "CenterPositionLon": 10.490988160779523,
+  "CenterPositionLat": -2.859957963923265
+ },
+ {
+  "ID": 700860064,
+  "Capacity": 696,
+  "Name": "",
+  "CenterPositionLon": 6.601797809545516,
+  "CenterPositionLat": 0.4735882938807376
+ },
+ {
+  "ID": 712076642,
+  "Capacity": 998,
+  "Name": "Town Park",
+  "CenterPositionLon": 6.213861240475426,
+  "CenterPositionLat": -0.8293879766045145
+ },
+ {
+  "ID": 715051478,
+  "Capacity": 715,
+  "Name": "Sarbah field",
+  "CenterPositionLon": 5.646330057660762,
+  "CenterPositionLat": -0.1886265245397523
+ },
+ {
+  "ID": 715051479,
+  "Capacity": 760,
+  "Name": "Sarbah field",
+  "CenterPositionLon": 5.6455751247448775,
+  "CenterPositionLat": -0.18861010850549856
+ },
+ {
+  "ID": 719059915,
+  "Capacity": 372,
+  "Name": "",
+  "CenterPositionLon": 5.663618172267659,
+  "CenterPositionLat": -0.18078576606546343
+ },
+ {
+  "ID": 720354808,
+  "Capacity": 437,
+  "Name": "",
+  "CenterPositionLon": 6.59787003032896,
+  "CenterPositionLat": 0.47390467022314897
+ },
+ {
+  "ID": 733712634,
+  "Capacity": 2100,
+  "Name": "PLAYING GROUND",
+  "CenterPositionLon": 5.0823198547430275,
+  "CenterPositionLat": -1.3735615730628365
+ },
+ {
+  "ID": 733750994,
+  "Capacity": 477,
+  "Name": "African Union Park",
+  "CenterPositionLon": 5.558766242438366,
+  "CenterPositionLat": -0.19709854738452623
+ },
+ {
+  "ID": 739548717,
+  "Capacity": 900,
+  "Name": "Cyanide Park",
+  "CenterPositionLon": 5.3091274380275095,
+  "CenterPositionLat": -1.9864069555397377
+ },
+ {
+  "ID": 743202070,
+  "Capacity": 108,
+  "Name": "Bush canteen",
+  "CenterPositionLon": 6.065659331544195,
+  "CenterPositionLat": -0.2657220119170472
+ },
+ {
+  "ID": 746432060,
+  "Capacity": 1480,
+  "Name": "Adenta Community Park",
+  "CenterPositionLon": 5.708330272904534,
+  "CenterPositionLat": -0.16015863376624298
+ },
+ {
+  "ID": 757451459,
+  "Capacity": 60743,
+  "Name": "Assin Praso Heritage Park",
+  "CenterPositionLon": 5.931557564956996,
+  "CenterPositionLat": -1.37353129567891
+ },
+ {
+  "ID": 758762125,
+  "Capacity": 500,
+  "Name": "john bitar school park",
+  "CenterPositionLon": 6.219448829644159,
+  "CenterPositionLat": -2.4795606258899756
+ },
+ {
+  "ID": 763291826,
+  "Capacity": 1223,
+  "Name": "",
+  "CenterPositionLon": 8.474847406117824,
+  "CenterPositionLat": -0.02710614565821206
+ },
+ {
+  "ID": 764483086,
+  "Capacity": 952,
+  "Name": "Kwame Nkumah Park",
+  "CenterPositionLon": 5.645335195164763,
+  "CenterPositionLat": -0.006148937489581343
+ },
+ {
+  "ID": 764483087,
+  "Capacity": 438,
+  "Name": "Tema Childrens' Park",
+  "CenterPositionLon": 5.641723040047642,
+  "CenterPositionLat": -0.009609435015013424
+ },
+ {
+  "ID": 765258734,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 5.637136063224059,
+  "CenterPositionLat": -0.18591879700269198
+ },
+ {
+  "ID": 765261443,
+  "Capacity": 81,
+  "Name": "games arena",
+  "CenterPositionLon": 5.63621786284644,
+  "CenterPositionLat": -0.18754927592238846
+ },
+ {
+  "ID": 769769921,
+  "Capacity": 1483,
+  "Name": "NTI Park",
+  "CenterPositionLon": 7.557564073447439,
+  "CenterPositionLat": -1.7139675747873477
+ },
+ {
+  "ID": 775929502,
+  "Capacity": 92,
+  "Name": "",
+  "CenterPositionLon": 5.545939265530135,
+  "CenterPositionLat": -0.20653833588456763
+ },
+ {
+  "ID": 775932893,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 5.5484572000000005,
+  "CenterPositionLat": -0.20384763333333333
+ },
+ {
+  "ID": 776163267,
+  "Capacity": 288,
+  "Name": "",
+  "CenterPositionLon": 5.545352782245254,
+  "CenterPositionLat": -0.20958391178724
+ },
+ {
+  "ID": 776452394,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 5.544742141665222,
+  "CenterPositionLat": -0.2131044630830161
+ },
+ {
+  "ID": 776662843,
+  "Capacity": 1892,
+  "Name": "Agona  Football Park",
+  "CenterPositionLon": 4.883674144102979,
+  "CenterPositionLat": -1.972118714206469
+ },
+ {
+  "ID": 776662852,
+  "Capacity": 1149,
+  "Name": "RECREATIONAL CENTER",
+  "CenterPositionLon": 4.8831910255356155,
+  "CenterPositionLat": -1.962977626537214
+ },
+ {
+  "ID": 776662853,
+  "Capacity": 33,
+  "Name": "tennis and basket ball field",
+  "CenterPositionLon": 4.88312143583418,
+  "CenterPositionLat": -1.9626440050628047
+ },
+ {
+  "ID": 776662854,
+  "Capacity": 32,
+  "Name": "volley",
+  "CenterPositionLon": 4.88283375,
+  "CenterPositionLat": -1.962942
+ },
+ {
+  "ID": 777280023,
+  "Capacity": 412,
+  "Name": "SCHOOL PARK",
+  "CenterPositionLon": 4.893835617012387,
+  "CenterPositionLat": -1.967078380913135
+ },
+ {
+  "ID": 783147827,
+  "Capacity": 473,
+  "Name": "",
+  "CenterPositionLon": 10.449825637837115,
+  "CenterPositionLat": -1.3085751168178932
+ },
+ {
+  "ID": 790907234,
+  "Capacity": 1214,
+  "Name": "Police Parade Ground",
+  "CenterPositionLon": 5.3304053,
+  "CenterPositionLat": -0.6341490499999999
+ },
+ {
+  "ID": 791972980,
+  "Capacity": 2984,
+  "Name": "Advance Park",
+  "CenterPositionLon": 5.34078547447004,
+  "CenterPositionLat": -0.6306411486506035
+ }
+]

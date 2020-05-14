@@ -1,0 +1,611 @@
+[
+ {
+  "ID": 27811247,
+  "Capacity": 1091,
+  "Name": "Place de l’Indépendance",
+  "CenterPositionLon": 14.669527946633997,
+  "CenterPositionLat": -17.432056716827148
+ },
+ {
+  "ID": 180067409,
+  "Capacity": 897,
+  "Name": "Jardin public de Rufisque",
+  "CenterPositionLon": 14.715142164517488,
+  "CenterPositionLat": -17.27164532287555
+ },
+ {
+  "ID": 182680636,
+  "Capacity": 5156,
+  "Name": "Place de l'Obélisque",
+  "CenterPositionLon": 14.694525038393984,
+  "CenterPositionLat": -17.448318001875627
+ },
+ {
+  "ID": 198501120,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 14.71244965,
+  "CenterPositionLat": -17.46369635
+ },
+ {
+  "ID": 199990501,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 16.061422333347963,
+  "CenterPositionLat": -16.42381897846586
+ },
+ {
+  "ID": 205786185,
+  "Capacity": 464,
+  "Name": "Jardin public",
+  "CenterPositionLon": 14.796395010797188,
+  "CenterPositionLat": -16.92957668160885
+ },
+ {
+  "ID": 206512324,
+  "Capacity": 99,
+  "Name": "Point à pitre",
+  "CenterPositionLon": 16.026254132120133,
+  "CenterPositionLat": -16.508726902096726
+ },
+ {
+  "ID": 207338796,
+  "Capacity": 210,
+  "Name": "Jardin public Fann Hock",
+  "CenterPositionLon": 14.679676801262266,
+  "CenterPositionLat": -17.46356263353156
+ },
+ {
+  "ID": 209413498,
+  "Capacity": 307,
+  "Name": "",
+  "CenterPositionLon": 14.7949731955327,
+  "CenterPositionLat": -16.91888564918431
+ },
+ {
+  "ID": 224178098,
+  "Capacity": 545,
+  "Name": "Place du Gouvernement",
+  "CenterPositionLon": 14.668009106059111,
+  "CenterPositionLat": -17.399289946584037
+ },
+ {
+  "ID": 224179634,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": 14.667490629651553,
+  "CenterPositionLat": -17.398035897284842
+ },
+ {
+  "ID": 228427440,
+  "Capacity": 591,
+  "Name": "Parc des laobes",
+  "CenterPositionLon": 14.772118066563415,
+  "CenterPositionLat": -17.389507784763445
+ },
+ {
+  "ID": 246022255,
+  "Capacity": 498,
+  "Name": "",
+  "CenterPositionLon": 14.708458041764935,
+  "CenterPositionLat": -17.48453377133459
+ },
+ {
+  "ID": 253106359,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 14.712248493424848,
+  "CenterPositionLat": -17.463936623066708
+ },
+ {
+  "ID": 255067511,
+  "Capacity": 320,
+  "Name": "",
+  "CenterPositionLon": 14.714200357959095,
+  "CenterPositionLat": -17.45503771073571
+ },
+ {
+  "ID": 256922308,
+  "Capacity": 67,
+  "Name": "Hyena",
+  "CenterPositionLon": 14.557897984961471,
+  "CenterPositionLat": -17.00946471281763
+ },
+ {
+  "ID": 256922309,
+  "Capacity": 481,
+  "Name": "Tortoise",
+  "CenterPositionLon": 14.558577639604028,
+  "CenterPositionLat": -17.008850170116045
+ },
+ {
+  "ID": 316582741,
+  "Capacity": 34443,
+  "Name": "Complexe El Hadji Djily Mbaye",
+  "CenterPositionLon": 15.633090806422086,
+  "CenterPositionLat": -16.23242261235323
+ },
+ {
+  "ID": 335585453,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 14.75593234295988,
+  "CenterPositionLat": -17.459427357401676
+ },
+ {
+  "ID": 335609129,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 13.158027429042782,
+  "CenterPositionLat": -14.121948105159246
+ },
+ {
+  "ID": 337113341,
+  "Capacity": 226,
+  "Name": "",
+  "CenterPositionLon": 14.735427881845524,
+  "CenterPositionLat": -17.423887207481336
+ },
+ {
+  "ID": 339555958,
+  "Capacity": 101,
+  "Name": "",
+  "CenterPositionLon": 14.782864973199453,
+  "CenterPositionLat": -17.385548034922746
+ },
+ {
+  "ID": 340134213,
+  "Capacity": 5747,
+  "Name": "",
+  "CenterPositionLon": 14.741207813976999,
+  "CenterPositionLat": -17.43895169415646
+ },
+ {
+  "ID": 340403571,
+  "Capacity": 7670,
+  "Name": "",
+  "CenterPositionLon": 14.803107962543244,
+  "CenterPositionLat": -16.92478929849585
+ },
+ {
+  "ID": 340867358,
+  "Capacity": 3321,
+  "Name": "",
+  "CenterPositionLon": 12.711400777999227,
+  "CenterPositionLat": -15.558183690530136
+ },
+ {
+  "ID": 340937092,
+  "Capacity": 4360,
+  "Name": "",
+  "CenterPositionLon": 12.570275817865754,
+  "CenterPositionLat": -15.875337806546346
+ },
+ {
+  "ID": 351675982,
+  "Capacity": 1048,
+  "Name": "Jardin Public",
+  "CenterPositionLon": 12.55559197400478,
+  "CenterPositionLat": -12.180041754132722
+ },
+ {
+  "ID": 357126218,
+  "Capacity": 253,
+  "Name": "jardin du pont",
+  "CenterPositionLon": 16.026059543324738,
+  "CenterPositionLat": -16.49847026965048
+ },
+ {
+  "ID": 357126219,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 16.025355885591487,
+  "CenterPositionLat": -16.49867759337962
+ },
+ {
+  "ID": 357218675,
+  "Capacity": 391,
+  "Name": "",
+  "CenterPositionLon": 16.03225651111018,
+  "CenterPositionLat": -16.50347662470995
+ },
+ {
+  "ID": 358038689,
+  "Capacity": 310,
+  "Name": "",
+  "CenterPositionLon": 16.02767328578594,
+  "CenterPositionLat": -16.489327464368134
+ },
+ {
+  "ID": 358058121,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": 16.03546218187717,
+  "CenterPositionLat": -16.50461350616024
+ },
+ {
+  "ID": 359527521,
+  "Capacity": 1899,
+  "Name": "",
+  "CenterPositionLon": 16.521097881691784,
+  "CenterPositionLat": -15.51022542752284
+ },
+ {
+  "ID": 359580082,
+  "Capacity": 1550,
+  "Name": "",
+  "CenterPositionLon": 16.45765650178157,
+  "CenterPositionLat": -15.66268481260282
+ },
+ {
+  "ID": 359580801,
+  "Capacity": 312,
+  "Name": "",
+  "CenterPositionLon": 16.45727299049366,
+  "CenterPositionLat": -15.664479782043827
+ },
+ {
+  "ID": 360707801,
+  "Capacity": 0,
+  "Name": "Place Faidherbe",
+  "CenterPositionLon": 16.02576495,
+  "CenterPositionLat": -16.504978899999998
+ },
+ {
+  "ID": 361896553,
+  "Capacity": 529,
+  "Name": "",
+  "CenterPositionLon": 14.747875088623362,
+  "CenterPositionLat": -17.490335612471924
+ },
+ {
+  "ID": 375536886,
+  "Capacity": 74,
+  "Name": "Parc Ilot Y Hann Maristes 2",
+  "CenterPositionLon": 14.740675843822151,
+  "CenterPositionLat": -17.43387914523979
+ },
+ {
+  "ID": 376083721,
+  "Capacity": 1137,
+  "Name": "",
+  "CenterPositionLon": 12.568426718277916,
+  "CenterPositionLat": -12.194348511946986
+ },
+ {
+  "ID": 376158158,
+  "Capacity": 7809,
+  "Name": "Hôtel Néma Kadior",
+  "CenterPositionLon": 12.56674914517439,
+  "CenterPositionLat": -16.27472982008058
+ },
+ {
+  "ID": 376251960,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 12.568430300000001,
+  "CenterPositionLat": -16.2891159
+ },
+ {
+  "ID": 380280921,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 12.607263450083964,
+  "CenterPositionLat": -12.126890846345438
+ },
+ {
+  "ID": 380284120,
+  "Capacity": 410,
+  "Name": "",
+  "CenterPositionLon": 12.607202242255244,
+  "CenterPositionLat": -12.129441391542043
+ },
+ {
+  "ID": 396677861,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 16.016921385396767,
+  "CenterPositionLat": -16.489316269718213
+ },
+ {
+  "ID": 397426197,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 16.04173021156517,
+  "CenterPositionLat": -16.43224673214426
+ },
+ {
+  "ID": 397431879,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 16.06185797855376,
+  "CenterPositionLat": -16.420958849572536
+ },
+ {
+  "ID": 397444482,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 16.068020900736276,
+  "CenterPositionLat": -16.423479332325776
+ },
+ {
+  "ID": 397444485,
+  "Capacity": 134,
+  "Name": "",
+  "CenterPositionLon": 16.06766545,
+  "CenterPositionLat": -16.42347355
+ },
+ {
+  "ID": 399333402,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 14.73817000019967,
+  "CenterPositionLat": -17.469755647098015
+ },
+ {
+  "ID": 422397105,
+  "Capacity": 814,
+  "Name": "Jardin Public à nos morts",
+  "CenterPositionLon": 13.777995822202971,
+  "CenterPositionLat": -13.67074705781569
+ },
+ {
+  "ID": 431692016,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 14.669563295930885,
+  "CenterPositionLat": -17.399717351585306
+ },
+ {
+  "ID": 476032702,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 14.6848854147552,
+  "CenterPositionLat": -17.443174425193984
+ },
+ {
+  "ID": 477226414,
+  "Capacity": 742,
+  "Name": "",
+  "CenterPositionLon": 14.693028237367281,
+  "CenterPositionLat": -17.434418667844678
+ },
+ {
+  "ID": 477863348,
+  "Capacity": 26,
+  "Name": "Direction des eaux et fôrets",
+  "CenterPositionLon": 14.73097663214832,
+  "CenterPositionLat": -17.432510165329774
+ },
+ {
+  "ID": 477863349,
+  "Capacity": 25,
+  "Name": "Direction des eaux et fôrets",
+  "CenterPositionLon": 14.730791985772488,
+  "CenterPositionLat": -17.43241325359719
+ },
+ {
+  "ID": 477863350,
+  "Capacity": 23,
+  "Name": "Direction des eaux et fôrets",
+  "CenterPositionLon": 14.731118338498181,
+  "CenterPositionLat": -17.43234509809868
+ },
+ {
+  "ID": 477863351,
+  "Capacity": 47,
+  "Name": "Direction des eaux et fôrets",
+  "CenterPositionLon": 14.73102267954654,
+  "CenterPositionLat": -17.432681401820314
+ },
+ {
+  "ID": 478147726,
+  "Capacity": 220,
+  "Name": "Jardin de la Cité Mixta",
+  "CenterPositionLon": 14.747664725279643,
+  "CenterPositionLat": -17.45572655403854
+ },
+ {
+  "ID": 489960111,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 14.735166078318178,
+  "CenterPositionLat": -17.46369767923364
+ },
+ {
+  "ID": 511678890,
+  "Capacity": 460,
+  "Name": "",
+  "CenterPositionLon": 14.716516240635633,
+  "CenterPositionLat": -17.455817844547415
+ },
+ {
+  "ID": 511678892,
+  "Capacity": 401,
+  "Name": "",
+  "CenterPositionLon": 14.715307110679797,
+  "CenterPositionLat": -17.45540547982887
+ },
+ {
+  "ID": 525998211,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 14.669512926845718,
+  "CenterPositionLat": -17.399925985991782
+ },
+ {
+  "ID": 571312203,
+  "Capacity": 196,
+  "Name": "",
+  "CenterPositionLon": 13.740945700152215,
+  "CenterPositionLat": -15.778107610118411
+ },
+ {
+  "ID": 617182012,
+  "Capacity": 167,
+  "Name": "PLACE PUBLIQUE PARCELLES ASSAINIES UNITE 14",
+  "CenterPositionLon": 14.77184191240939,
+  "CenterPositionLat": -17.334761619501002
+ },
+ {
+  "ID": 617653800,
+  "Capacity": 568218,
+  "Name": "RESERVE TOCC TOCC",
+  "CenterPositionLon": 16.343361958079825,
+  "CenterPositionLat": -15.836647023790155
+ },
+ {
+  "ID": 638665331,
+  "Capacity": 275,
+  "Name": "",
+  "CenterPositionLon": 15.99692692226611,
+  "CenterPositionLat": -16.48714699436111
+ },
+ {
+  "ID": 642264510,
+  "Capacity": 155,
+  "Name": "",
+  "CenterPositionLon": 12.55350145,
+  "CenterPositionLat": -12.1832146
+ },
+ {
+  "ID": 644480057,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 16.01115606594152,
+  "CenterPositionLat": -16.485820422011056
+ },
+ {
+  "ID": 644481394,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 16.0124027507843,
+  "CenterPositionLat": -16.485843482500893
+ },
+ {
+  "ID": 650213904,
+  "Capacity": 6496,
+  "Name": "",
+  "CenterPositionLon": 16.074559651379573,
+  "CenterPositionLat": -16.42708345117252
+ },
+ {
+  "ID": 653924367,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 16.270560471855298,
+  "CenterPositionLat": -14.06996663676231
+ },
+ {
+  "ID": 668620138,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 16.015057668079447,
+  "CenterPositionLat": -16.493845242419034
+ },
+ {
+  "ID": 668829389,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 16.0145016,
+  "CenterPositionLat": -16.49416055
+ },
+ {
+  "ID": 681393172,
+  "Capacity": 298,
+  "Name": "Courtyard",
+  "CenterPositionLon": 14.70463933098825,
+  "CenterPositionLat": -17.46848876451318
+ },
+ {
+  "ID": 686474087,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 12.789964070268525,
+  "CenterPositionLat": -16.2261758017758
+ },
+ {
+  "ID": 686474089,
+  "Capacity": 629,
+  "Name": "",
+  "CenterPositionLon": 12.806685216837886,
+  "CenterPositionLat": -16.22920774874675
+ },
+ {
+  "ID": 689394880,
+  "Capacity": 3457,
+  "Name": "Thiolom Fall Village Square",
+  "CenterPositionLon": 15.346512412086286,
+  "CenterPositionLat": -16.321471058559162
+ },
+ {
+  "ID": 696879610,
+  "Capacity": 148,
+  "Name": "",
+  "CenterPositionLon": 16.459711732179954,
+  "CenterPositionLat": -15.698671253814346
+ },
+ {
+  "ID": 745423295,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 15.927777118437357,
+  "CenterPositionLat": -16.32544182921664
+ },
+ {
+  "ID": 776448400,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 16.02638945826466,
+  "CenterPositionLat": -16.47901850653758
+ },
+ {
+  "ID": 776448401,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 16.026216462447074,
+  "CenterPositionLat": -16.478966823609994
+ },
+ {
+  "ID": 779951810,
+  "Capacity": 407,
+  "Name": "",
+  "CenterPositionLon": 14.389863689163835,
+  "CenterPositionLat": -16.468107303181288
+ },
+ {
+  "ID": 779951811,
+  "Capacity": 779,
+  "Name": "",
+  "CenterPositionLon": 14.390712252854499,
+  "CenterPositionLat": -16.46817606791632
+ },
+ {
+  "ID": 781540983,
+  "Capacity": 1699,
+  "Name": "",
+  "CenterPositionLon": 14.72179265494163,
+  "CenterPositionLat": -17.439410841228312
+ },
+ {
+  "ID": 784577265,
+  "Capacity": 4480,
+  "Name": "Magic Land",
+  "CenterPositionLon": 14.675806019439145,
+  "CenterPositionLat": -17.463586642612714
+ },
+ {
+  "ID": 798118773,
+  "Capacity": 280,
+  "Name": "",
+  "CenterPositionLon": 14.721688027590151,
+  "CenterPositionLat": -17.45654049300323
+ },
+ {
+  "ID": 800693964,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 14.73782572927381,
+  "CenterPositionLat": -17.473913084985277
+ }
+]

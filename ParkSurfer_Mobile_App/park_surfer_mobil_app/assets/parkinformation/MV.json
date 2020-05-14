@@ -1,0 +1,415 @@
+[
+ {
+  "ID": 61881622,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 4.1775361,
+  "CenterPositionLat": 73.50252016666666
+ },
+ {
+  "ID": 91986115,
+  "Capacity": 202,
+  "Name": "Kudakudhinge Bageecha",
+  "CenterPositionLon": 4.170702254280645,
+  "CenterPositionLat": 73.51438448214903
+ },
+ {
+  "ID": 108729522,
+  "Capacity": 366,
+  "Name": "",
+  "CenterPositionLon": 4.177443430911118,
+  "CenterPositionLat": 73.5108688349463
+ },
+ {
+  "ID": 115077063,
+  "Capacity": 60,
+  "Name": "Guraa Muli - Grill Terrace",
+  "CenterPositionLon": 3.4821643560212103,
+  "CenterPositionLat": 72.80152543028147
+ },
+ {
+  "ID": 151355353,
+  "Capacity": 7,
+  "Name": "Coconut Grove",
+  "CenterPositionLon": 3.9716985406832297,
+  "CenterPositionLat": 73.50656636853002
+ },
+ {
+  "ID": 249550591,
+  "Capacity": 1077,
+  "Name": "",
+  "CenterPositionLon": 3.57391221803247,
+  "CenterPositionLat": 72.91079597891449
+ },
+ {
+  "ID": 249550592,
+  "Capacity": 1292,
+  "Name": "",
+  "CenterPositionLon": 3.5786393394763745,
+  "CenterPositionLat": 72.9019783255718
+ },
+ {
+  "ID": 303223230,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": 3.2586038351227624,
+  "CenterPositionLat": 72.92879613435623
+ },
+ {
+  "ID": 328834977,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 4.172704876667431,
+  "CenterPositionLat": 73.4837193752114
+ },
+ {
+  "ID": 328834981,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": 4.17480781044877,
+  "CenterPositionLat": 73.48654628797146
+ },
+ {
+  "ID": 364976766,
+  "Capacity": 89,
+  "Name": "Children Park 02",
+  "CenterPositionLon": 1.8351439685452315,
+  "CenterPositionLat": 73.50135537670312
+ },
+ {
+  "ID": 364976768,
+  "Capacity": 84,
+  "Name": "Children Park 01",
+  "CenterPositionLon": 1.8346087275664267,
+  "CenterPositionLat": 73.50094020906427
+ },
+ {
+  "ID": 381736362,
+  "Capacity": 161,
+  "Name": "",
+  "CenterPositionLon": 4.215633892083405,
+  "CenterPositionLat": 73.54489042293828
+ },
+ {
+  "ID": 383750838,
+  "Capacity": 3106,
+  "Name": "Central Park",
+  "CenterPositionLon": 4.2169818513468345,
+  "CenterPositionLat": 73.54058241122395
+ },
+ {
+  "ID": 383750843,
+  "Capacity": 453,
+  "Name": "HDC Central Park",
+  "CenterPositionLon": 4.217649057902651,
+  "CenterPositionLat": 73.54368302936798
+ },
+ {
+  "ID": 420321909,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 4.174308,
+  "CenterPositionLat": 73.51796955
+ },
+ {
+  "ID": 436340587,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": 4.217669623079557,
+  "CenterPositionLat": 73.53784942978226
+ },
+ {
+  "ID": 436340588,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": 4.212220052562781,
+  "CenterPositionLat": 73.54385201954409
+ },
+ {
+  "ID": 436805451,
+  "Capacity": 311,
+  "Name": "Hulhumale' Park",
+  "CenterPositionLon": 4.22040805887768,
+  "CenterPositionLat": 73.54467771634731
+ },
+ {
+  "ID": 437134084,
+  "Capacity": 335,
+  "Name": "",
+  "CenterPositionLon": 4.208531467136534,
+  "CenterPositionLat": 73.54110448720697
+ },
+ {
+  "ID": 437135023,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 4.210154805476597,
+  "CenterPositionLat": 73.54065955183026
+ },
+ {
+  "ID": 437135024,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 4.2099184429924374,
+  "CenterPositionLat": 73.5414962487553
+ },
+ {
+  "ID": 437135025,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 4.209730054776774,
+  "CenterPositionLat": 73.54216659146898
+ },
+ {
+  "ID": 437135026,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 4.212037314677253,
+  "CenterPositionLat": 73.54116419147847
+ },
+ {
+  "ID": 437135027,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 4.211795144443363,
+  "CenterPositionLat": 73.54202454789895
+ },
+ {
+  "ID": 437135028,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 4.211596045554561,
+  "CenterPositionLat": 73.5427295505566
+ },
+ {
+  "ID": 437135029,
+  "Capacity": 61,
+  "Name": "Tree Tower Park",
+  "CenterPositionLon": 4.213861632120381,
+  "CenterPositionLat": 73.54190040270163
+ },
+ {
+  "ID": 437135030,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 4.214134691752959,
+  "CenterPositionLat": 73.54186933250533
+ },
+ {
+  "ID": 437135031,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 4.214632283176261,
+  "CenterPositionLat": 73.54154213552967
+ },
+ {
+  "ID": 437135032,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 4.213670789812074,
+  "CenterPositionLat": 73.54214990952292
+ },
+ {
+  "ID": 465265103,
+  "Capacity": 112,
+  "Name": "Playground",
+  "CenterPositionLon": 3.6057498439283933,
+  "CenterPositionLat": 72.95545357674825
+ },
+ {
+  "ID": 466877255,
+  "Capacity": 87,
+  "Name": "Bahaaru (Children's Park)",
+  "CenterPositionLon": 4.19305552764487,
+  "CenterPositionLat": 72.74729407754089
+ },
+ {
+  "ID": 469326066,
+  "Capacity": 14,
+  "Name": "Dhanaal Park",
+  "CenterPositionLon": 4.1701587358938195,
+  "CenterPositionLat": 73.50897598624655
+ },
+ {
+  "ID": 483721045,
+  "Capacity": 2412,
+  "Name": "",
+  "CenterPositionLon": 0.5055906038487901,
+  "CenterPositionLat": 73.45404754602318
+ },
+ {
+  "ID": 490471029,
+  "Capacity": 57,
+  "Name": "Fisherman's Park",
+  "CenterPositionLon": 4.178360067664717,
+  "CenterPositionLat": 73.51565307815581
+ },
+ {
+  "ID": 535156286,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 4.173889521064743,
+  "CenterPositionLat": 73.51823408334901
+ },
+ {
+  "ID": 549282849,
+  "Capacity": 50,
+  "Name": "Dhadimagu Children's Park",
+  "CenterPositionLon": -0.29054799122350977,
+  "CenterPositionLat": 73.41308156350551
+ },
+ {
+  "ID": 590297113,
+  "Capacity": 216,
+  "Name": "Sunset Beach Park",
+  "CenterPositionLon": 5.445104540012203,
+  "CenterPositionLat": 73.36261829258328
+ },
+ {
+  "ID": 590297115,
+  "Capacity": 45,
+  "Name": "Tiny Field Park",
+  "CenterPositionLon": 5.4409549772781665,
+  "CenterPositionLat": 73.36579140002078
+ },
+ {
+  "ID": 590297116,
+  "Capacity": 45,
+  "Name": "Go Green Park",
+  "CenterPositionLon": 5.447967993610794,
+  "CenterPositionLat": 73.36619997110982
+ },
+ {
+  "ID": 602727313,
+  "Capacity": 40,
+  "Name": "Thin Ruh Park",
+  "CenterPositionLon": 4.1715203265685865,
+  "CenterPositionLat": 73.50110501137382
+ },
+ {
+  "ID": 649440523,
+  "Capacity": 77,
+  "Name": "City Park",
+  "CenterPositionLon": 4.174364565956222,
+  "CenterPositionLat": 73.51147073011133
+ },
+ {
+  "ID": 649540159,
+  "Capacity": 22,
+  "Name": "Fini Park",
+  "CenterPositionLon": 4.175531551910548,
+  "CenterPositionLat": 73.50497725228459
+ },
+ {
+  "ID": 649540166,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 4.173021666666667,
+  "CenterPositionLat": 73.5048791
+ },
+ {
+  "ID": 651281016,
+  "Capacity": 776,
+  "Name": "Sports Park",
+  "CenterPositionLon": -0.29495333432242354,
+  "CenterPositionLat": 73.4206777710161
+ },
+ {
+  "ID": 656869995,
+  "Capacity": 3334,
+  "Name": "",
+  "CenterPositionLon": 3.6337458748100397,
+  "CenterPositionLat": 72.9584835138216
+ },
+ {
+  "ID": 671273497,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 4.439174710505859,
+  "CenterPositionLat": 72.96415866550049
+ },
+ {
+  "ID": 683081950,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 4.309143513684712,
+  "CenterPositionLat": 73.57004017422231
+ },
+ {
+  "ID": 683081953,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 4.309411096577272,
+  "CenterPositionLat": 73.56982556880418
+ },
+ {
+  "ID": 710588823,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -0.590346851255663,
+  "CenterPositionLat": 73.07757256414911
+ },
+ {
+  "ID": 710589729,
+  "Capacity": 29,
+  "Name": "Addu Nature Park visitor's centre",
+  "CenterPositionLon": -0.58936925,
+  "CenterPositionLat": 73.07838055
+ },
+ {
+  "ID": 715214254,
+  "Capacity": 249,
+  "Name": "Kudakudhinge park",
+  "CenterPositionLon": -0.5970984858571716,
+  "CenterPositionLat": 73.08448554535181
+ },
+ {
+  "ID": 715266569,
+  "Capacity": 45,
+  "Name": "Children's park",
+  "CenterPositionLon": -0.6000123526807591,
+  "CenterPositionLat": 73.08524401191723
+ },
+ {
+  "ID": 715637530,
+  "Capacity": 7,
+  "Name": "Children's Park",
+  "CenterPositionLon": -0.6042320003042647,
+  "CenterPositionLat": 73.09022061652719
+ },
+ {
+  "ID": 715658086,
+  "Capacity": 12,
+  "Name": "Children's Park",
+  "CenterPositionLon": -0.6079953966944593,
+  "CenterPositionLat": 73.0924779233598
+ },
+ {
+  "ID": 717074278,
+  "Capacity": 2,
+  "Name": "Maaveyo Maixan",
+  "CenterPositionLon": 4.175791806398068,
+  "CenterPositionLat": 73.50583405596134
+ },
+ {
+  "ID": 744604401,
+  "Capacity": 12,
+  "Name": "Raafalhaa",
+  "CenterPositionLon": -0.5801419347619126,
+  "CenterPositionLat": 73.22922959808963
+ },
+ {
+  "ID": 744604402,
+  "Capacity": 18,
+  "Name": "Kogannu Park",
+  "CenterPositionLon": -0.5802503855502115,
+  "CenterPositionLat": 73.22819893729785
+ },
+ {
+  "ID": 773624304,
+  "Capacity": 768,
+  "Name": "",
+  "CenterPositionLon": 4.171136678114788,
+  "CenterPositionLat": 73.51721885576258
+ }
+]

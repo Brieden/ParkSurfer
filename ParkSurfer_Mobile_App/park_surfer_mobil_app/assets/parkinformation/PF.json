@@ -1,0 +1,170 @@
+[
+ {
+  "ID": 22387283,
+  "Capacity": 23235,
+  "Name": "Motu Fare One",
+  "CenterPositionLon": -17.489887069434012,
+  "CenterPositionLat": -149.91750768399137
+ },
+ {
+  "ID": 22389648,
+  "Capacity": 12104,
+  "Name": "Motu Tiahura",
+  "CenterPositionLon": -17.487470882580197,
+  "CenterPositionLat": -149.91205103120623
+ },
+ {
+  "ID": 110280014,
+  "Capacity": 709,
+  "Name": "",
+  "CenterPositionLon": -16.730718510473643,
+  "CenterPositionLat": -151.44122355425412
+ },
+ {
+  "ID": 121298300,
+  "Capacity": 2436,
+  "Name": "Jardin municipale de Pirae",
+  "CenterPositionLon": -17.534874397635242,
+  "CenterPositionLat": -149.54764115471878
+ },
+ {
+  "ID": 146445631,
+  "Capacity": 1721,
+  "Name": "Domaine de l'Évêché",
+  "CenterPositionLon": -17.54063917534555,
+  "CenterPositionLat": -149.5610812926341
+ },
+ {
+  "ID": 160811277,
+  "Capacity": 434,
+  "Name": "Parc Communauté Chinoise du Temple",
+  "CenterPositionLon": -17.535053322345032,
+  "CenterPositionLat": -149.5571689600514
+ },
+ {
+  "ID": 210121826,
+  "Capacity": 1904,
+  "Name": "Tahua Hawaiki Nui",
+  "CenterPositionLon": -16.727254462221804,
+  "CenterPositionLat": -151.44374973054283
+ },
+ {
+  "ID": 213575062,
+  "Capacity": 4647,
+  "Name": "Tahua To’a huri nihi",
+  "CenterPositionLon": -16.723465829348374,
+  "CenterPositionLat": -151.44944379755327
+ },
+ {
+  "ID": 236303896,
+  "Capacity": 144,
+  "Name": "EV N.2",
+  "CenterPositionLon": -17.584700105019234,
+  "CenterPositionLat": -149.5938545125531
+ },
+ {
+  "ID": 236303897,
+  "Capacity": 53,
+  "Name": "EV N.3",
+  "CenterPositionLon": -17.584877747880835,
+  "CenterPositionLat": -149.59332801579498
+ },
+ {
+  "ID": 236303898,
+  "Capacity": 106,
+  "Name": "EV N.4",
+  "CenterPositionLon": -17.58531905358002,
+  "CenterPositionLat": -149.59329476528478
+ },
+ {
+  "ID": 236303899,
+  "Capacity": 68,
+  "Name": "EV N.1",
+  "CenterPositionLon": -17.5836262012721,
+  "CenterPositionLat": -149.5973044447672
+ },
+ {
+  "ID": 289788210,
+  "Capacity": 791,
+  "Name": "Place Jacques Chirac",
+  "CenterPositionLon": -17.540736505556996,
+  "CenterPositionLat": -149.57193889489318
+ },
+ {
+  "ID": 299285177,
+  "Capacity": 4930,
+  "Name": "Les Jardins de Pā'ōfa'i",
+  "CenterPositionLon": -17.542487967697582,
+  "CenterPositionLat": -149.5744984898716
+ },
+ {
+  "ID": 304830927,
+  "Capacity": 23823,
+  "Name": "",
+  "CenterPositionLon": -17.530603988377877,
+  "CenterPositionLat": -149.52690773100161
+ },
+ {
+  "ID": 313072206,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": -17.550421797265905,
+  "CenterPositionLat": -149.58093574604695
+ },
+ {
+  "ID": 393006349,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -17.506757031249045,
+  "CenterPositionLat": -149.49182192770274
+ },
+ {
+  "ID": 500293070,
+  "Capacity": 469,
+  "Name": "Parc Bougainville",
+  "CenterPositionLon": -17.54116379886146,
+  "CenterPositionLat": -149.5702532782383
+ },
+ {
+  "ID": 605120030,
+  "Capacity": 436,
+  "Name": "",
+  "CenterPositionLon": -17.76095025386131,
+  "CenterPositionLat": -149.39000275745485
+ },
+ {
+  "ID": 640211078,
+  "Capacity": 3693,
+  "Name": "",
+  "CenterPositionLon": -17.492186938334665,
+  "CenterPositionLat": -149.84964134192148
+ },
+ {
+  "ID": 640211079,
+  "Capacity": 1471,
+  "Name": "Parc plage publique de Ta'ahiamanu",
+  "CenterPositionLon": -17.491850231616798,
+  "CenterPositionLat": -149.8503323955867
+ },
+ {
+  "ID": 733763816,
+  "Capacity": 285,
+  "Name": "",
+  "CenterPositionLon": -17.548680831613492,
+  "CenterPositionLat": -149.59687945682106
+ },
+ {
+  "ID": 740863520,
+  "Capacity": 15334,
+  "Name": "Parc Vairai",
+  "CenterPositionLon": -17.57571711973008,
+  "CenterPositionLat": -149.61573991927705
+ },
+ {
+  "ID": 797674183,
+  "Capacity": 14225,
+  "Name": "Jardin Botanique Harrison Smith",
+  "CenterPositionLon": -17.75851209074412,
+  "CenterPositionLat": -149.3679225118668
+ }
+]

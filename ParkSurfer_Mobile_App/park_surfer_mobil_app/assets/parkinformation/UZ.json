@@ -1,0 +1,4846 @@
+[
+ {
+  "ID": 26992205,
+  "Capacity": 2333,
+  "Name": "",
+  "CenterPositionLon": 40.53480450051076,
+  "CenterPositionLat": 70.94976184151648
+ },
+ {
+  "ID": 26992211,
+  "Capacity": 10305,
+  "Name": "Городской Парк культуры и отдыха им. Мукими",
+  "CenterPositionLon": 40.53859944496227,
+  "CenterPositionLat": 70.93922855174552
+ },
+ {
+  "ID": 27035021,
+  "Capacity": 381,
+  "Name": "",
+  "CenterPositionLon": 41.00376274593938,
+  "CenterPositionLat": 71.67072553680312
+ },
+ {
+  "ID": 27035022,
+  "Capacity": 1283,
+  "Name": "",
+  "CenterPositionLon": 41.00141605770428,
+  "CenterPositionLat": 71.66438677101704
+ },
+ {
+  "ID": 27035037,
+  "Capacity": 5509,
+  "Name": "",
+  "CenterPositionLon": 41.00104275392677,
+  "CenterPositionLat": 71.65613934535507
+ },
+ {
+  "ID": 31955092,
+  "Capacity": 1297,
+  "Name": "Zulfiya Park",
+  "CenterPositionLon": 41.302474995796565,
+  "CenterPositionLat": 69.277386646624
+ },
+ {
+  "ID": 31961134,
+  "Capacity": 2761,
+  "Name": "",
+  "CenterPositionLon": 41.324303661590825,
+  "CenterPositionLat": 69.27111961703882
+ },
+ {
+  "ID": 31961159,
+  "Capacity": 3501,
+  "Name": "",
+  "CenterPositionLon": 41.320899087841134,
+  "CenterPositionLat": 69.27107732742428
+ },
+ {
+  "ID": 31962071,
+  "Capacity": 6815,
+  "Name": "Central Park",
+  "CenterPositionLon": 41.31258992914703,
+  "CenterPositionLat": 69.29817976590562
+ },
+ {
+  "ID": 31962330,
+  "Capacity": 737,
+  "Name": "Cад керамики",
+  "CenterPositionLon": 41.308803559652425,
+  "CenterPositionLat": 69.2733783040472
+ },
+ {
+  "ID": 31962455,
+  "Capacity": 3137,
+  "Name": "Bolajon bog‘i",
+  "CenterPositionLon": 41.30811798460327,
+  "CenterPositionLat": 69.28075172466046
+ },
+ {
+  "ID": 31963687,
+  "Capacity": 2923,
+  "Name": "Японский сад",
+  "CenterPositionLon": 41.34024994226802,
+  "CenterPositionLat": 69.28193738335943
+ },
+ {
+  "ID": 31970705,
+  "Capacity": 395,
+  "Name": "",
+  "CenterPositionLon": 41.30356070057831,
+  "CenterPositionLat": 69.27947880858216
+ },
+ {
+  "ID": 31972390,
+  "Capacity": 5614,
+  "Name": "",
+  "CenterPositionLon": 41.311492194878895,
+  "CenterPositionLat": 69.28514550299367
+ },
+ {
+  "ID": 31981608,
+  "Capacity": 9345,
+  "Name": "",
+  "CenterPositionLon": 41.30862833731635,
+  "CenterPositionLat": 69.26074541619634
+ },
+ {
+  "ID": 31981641,
+  "Capacity": 1683,
+  "Name": "",
+  "CenterPositionLon": 41.311319493526014,
+  "CenterPositionLat": 69.26576285661409
+ },
+ {
+  "ID": 31982153,
+  "Capacity": 3928,
+  "Name": "Hotiralar maydoni",
+  "CenterPositionLon": 41.317833798420125,
+  "CenterPositionLat": 69.26957101967677
+ },
+ {
+  "ID": 31982177,
+  "Capacity": 1831,
+  "Name": "",
+  "CenterPositionLon": 41.31372014861151,
+  "CenterPositionLat": 69.27327717789164
+ },
+ {
+  "ID": 31982187,
+  "Capacity": 1421,
+  "Name": "",
+  "CenterPositionLon": 41.31302384104155,
+  "CenterPositionLat": 69.27583183594864
+ },
+ {
+  "ID": 32014598,
+  "Capacity": 3988,
+  "Name": "",
+  "CenterPositionLon": 41.30641073347296,
+  "CenterPositionLat": 69.26749921628522
+ },
+ {
+  "ID": 32081945,
+  "Capacity": 2093,
+  "Name": "",
+  "CenterPositionLon": 41.29509313954505,
+  "CenterPositionLat": 69.28628577711149
+ },
+ {
+  "ID": 32642963,
+  "Capacity": 11429,
+  "Name": "Абдула Кодири",
+  "CenterPositionLon": 41.32849650242046,
+  "CenterPositionLat": 69.24299529888337
+ },
+ {
+  "ID": 33197774,
+  "Capacity": 4372,
+  "Name": "Lokomotiv Amusement Park",
+  "CenterPositionLon": 41.35371268464821,
+  "CenterPositionLat": 69.34501052550827
+ },
+ {
+  "ID": 34380034,
+  "Capacity": 2088,
+  "Name": "",
+  "CenterPositionLon": 41.30630049067805,
+  "CenterPositionLat": 69.25743075283455
+ },
+ {
+  "ID": 44926610,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 41.30708405443983,
+  "CenterPositionLat": 69.2751947154186
+ },
+ {
+  "ID": 68678018,
+  "Capacity": 34698,
+  "Name": "Shahrisabz",
+  "CenterPositionLon": 39.05679215345946,
+  "CenterPositionLat": 66.8296020260289
+ },
+ {
+  "ID": 82652270,
+  "Capacity": 153,
+  "Name": "",
+  "CenterPositionLon": 41.309121627402426,
+  "CenterPositionLat": 69.29608930555509
+ },
+ {
+  "ID": 83581459,
+  "Capacity": 1084,
+  "Name": "",
+  "CenterPositionLon": 41.309323718151255,
+  "CenterPositionLat": 69.28273436693853
+ },
+ {
+  "ID": 83775296,
+  "Capacity": 11104,
+  "Name": "Green park",
+  "CenterPositionLon": 41.19995574297497,
+  "CenterPositionLat": 69.23134013093788
+ },
+ {
+  "ID": 84617505,
+  "Capacity": 1128,
+  "Name": "",
+  "CenterPositionLon": 40.525541541824076,
+  "CenterPositionLat": 72.07216410015255
+ },
+ {
+  "ID": 84844736,
+  "Capacity": 459,
+  "Name": "",
+  "CenterPositionLon": 41.25272190195818,
+  "CenterPositionLat": 69.31202906855977
+ },
+ {
+  "ID": 84969065,
+  "Capacity": 6376,
+  "Name": "Central park",
+  "CenterPositionLon": 40.38814051402432,
+  "CenterPositionLat": 71.78144699136661
+ },
+ {
+  "ID": 95633765,
+  "Capacity": 3005,
+  "Name": "",
+  "CenterPositionLon": 41.32040900556843,
+  "CenterPositionLat": 69.31009935522684
+ },
+ {
+  "ID": 103024005,
+  "Capacity": 385,
+  "Name": "",
+  "CenterPositionLon": 41.30088922867103,
+  "CenterPositionLat": 69.31072045239064
+ },
+ {
+  "ID": 103024011,
+  "Capacity": 228,
+  "Name": "",
+  "CenterPositionLon": 41.30147584970707,
+  "CenterPositionLat": 69.31098465250236
+ },
+ {
+  "ID": 103128145,
+  "Capacity": 449,
+  "Name": "",
+  "CenterPositionLon": 41.30603771217834,
+  "CenterPositionLat": 69.30885250311499
+ },
+ {
+  "ID": 105821053,
+  "Capacity": 1445,
+  "Name": "",
+  "CenterPositionLon": 41.30904899402624,
+  "CenterPositionLat": 69.3007220277269
+ },
+ {
+  "ID": 106487936,
+  "Capacity": 1581,
+  "Name": "Сквер Мирзо Улугбека",
+  "CenterPositionLon": 41.33896899322343,
+  "CenterPositionLat": 69.33708210393829
+ },
+ {
+  "ID": 110266762,
+  "Capacity": 4135,
+  "Name": "Джалаладин",
+  "CenterPositionLon": 41.54462309464584,
+  "CenterPositionLat": 60.63394487346834
+ },
+ {
+  "ID": 110280635,
+  "Capacity": 14760,
+  "Name": "Samoniylar istirohat bog'i",
+  "CenterPositionLon": 39.77674458551671,
+  "CenterPositionLat": 64.4004864018778
+ },
+ {
+  "ID": 110310503,
+  "Capacity": 5958,
+  "Name": "Sogdiana Park",
+  "CenterPositionLon": 39.66059519087927,
+  "CenterPositionLat": 66.90772895482209
+ },
+ {
+  "ID": 112447477,
+  "Capacity": 1451,
+  "Name": "Парк",
+  "CenterPositionLon": 41.156497778673966,
+  "CenterPositionLat": 69.66687244613983
+ },
+ {
+  "ID": 113591067,
+  "Capacity": 1310,
+  "Name": "",
+  "CenterPositionLon": 39.77657106770671,
+  "CenterPositionLat": 64.4080842723348
+ },
+ {
+  "ID": 124552417,
+  "Capacity": 1939,
+  "Name": "A. S. Pushkin nomli bolalar bog'i",
+  "CenterPositionLon": 40.76540293757607,
+  "CenterPositionLat": 72.35826728461629
+ },
+ {
+  "ID": 127854725,
+  "Capacity": 14607,
+  "Name": "Северный",
+  "CenterPositionLon": 41.01589677720149,
+  "CenterPositionLat": 70.06950978835653
+ },
+ {
+  "ID": 136573420,
+  "Capacity": 2088,
+  "Name": "Акмаля Икрамова парк",
+  "CenterPositionLon": 41.29240733706382,
+  "CenterPositionLat": 69.18634681806722
+ },
+ {
+  "ID": 139056768,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 41.26868119316131,
+  "CenterPositionLat": 69.18513863466282
+ },
+ {
+  "ID": 139056769,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 41.26873847775284,
+  "CenterPositionLat": 69.18566042994156
+ },
+ {
+  "ID": 143274852,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 41.2779901357373,
+  "CenterPositionLat": 69.19337244851224
+ },
+ {
+  "ID": 146188174,
+  "Capacity": 218,
+  "Name": "",
+  "CenterPositionLon": 41.341877452892014,
+  "CenterPositionLat": 69.3387168471396
+ },
+ {
+  "ID": 146490155,
+  "Capacity": 1177,
+  "Name": "",
+  "CenterPositionLon": 40.09394023879601,
+  "CenterPositionLat": 65.37610126616208
+ },
+ {
+  "ID": 146490156,
+  "Capacity": 917,
+  "Name": "",
+  "CenterPositionLon": 40.09643227679637,
+  "CenterPositionLat": 65.37469668668095
+ },
+ {
+  "ID": 146490161,
+  "Capacity": 785,
+  "Name": "",
+  "CenterPositionLon": 40.095945827627645,
+  "CenterPositionLat": 65.37762917861015
+ },
+ {
+  "ID": 146498820,
+  "Capacity": 376,
+  "Name": "",
+  "CenterPositionLon": 40.09684726340358,
+  "CenterPositionLat": 65.37530429704138
+ },
+ {
+  "ID": 146498832,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 40.09738507963046,
+  "CenterPositionLat": 65.37631297568954
+ },
+ {
+  "ID": 146967802,
+  "Capacity": 4132,
+  "Name": "Химиков парк",
+  "CenterPositionLon": 41.46517361214216,
+  "CenterPositionLat": 69.58077140640775
+ },
+ {
+  "ID": 146970566,
+  "Capacity": 3056,
+  "Name": "Городской парк культуры и отдыха",
+  "CenterPositionLon": 41.479782565178496,
+  "CenterPositionLat": 69.59417457954521
+ },
+ {
+  "ID": 148483241,
+  "Capacity": 3866,
+  "Name": "Sitorabonu",
+  "CenterPositionLon": 39.78283693061534,
+  "CenterPositionLat": 64.42780938033107
+ },
+ {
+  "ID": 150054051,
+  "Capacity": 2959,
+  "Name": "",
+  "CenterPositionLon": 39.76446907178016,
+  "CenterPositionLat": 64.4229410022506
+ },
+ {
+  "ID": 152617611,
+  "Capacity": 2312,
+  "Name": "Гульшан",
+  "CenterPositionLon": 41.335533710162245,
+  "CenterPositionLat": 69.3571130072947
+ },
+ {
+  "ID": 155563437,
+  "Capacity": 2115,
+  "Name": "",
+  "CenterPositionLon": 38.48935357330519,
+  "CenterPositionLat": 65.65104781787888
+ },
+ {
+  "ID": 164886115,
+  "Capacity": 3041,
+  "Name": "Eco Park",
+  "CenterPositionLon": 41.28425310554105,
+  "CenterPositionLat": 69.16755733724929
+ },
+ {
+  "ID": 164950549,
+  "Capacity": 3094,
+  "Name": "\"Yoshlik\" dem aliw bag'i",
+  "CenterPositionLon": 41.550651273386876,
+  "CenterPositionLat": 61.00048190163496
+ },
+ {
+  "ID": 165066832,
+  "Capacity": 11787,
+  "Name": "",
+  "CenterPositionLon": 40.62560846130669,
+  "CenterPositionLat": 65.86527119101005
+ },
+ {
+  "ID": 165066837,
+  "Capacity": 12453,
+  "Name": "",
+  "CenterPositionLon": 40.61139905655185,
+  "CenterPositionLat": 65.88129335101772
+ },
+ {
+  "ID": 165527472,
+  "Capacity": 4732,
+  "Name": "Keshirmes Baba",
+  "CenterPositionLon": 41.71870759200628,
+  "CenterPositionLat": 60.99459215589456
+ },
+ {
+  "ID": 165844735,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 41.311369298878226,
+  "CenterPositionLat": 69.29865940309193
+ },
+ {
+  "ID": 166576741,
+  "Capacity": 45153,
+  "Name": "Amir Temur atindag'i botanika bag'i",
+  "CenterPositionLon": 41.85174139605572,
+  "CenterPositionLat": 60.90957348968112
+ },
+ {
+  "ID": 167293822,
+  "Capacity": 186,
+  "Name": "",
+  "CenterPositionLon": 39.65415729292397,
+  "CenterPositionLat": 66.966500164035
+ },
+ {
+  "ID": 167561008,
+  "Capacity": 4424,
+  "Name": "Alisher Navoiy nomli istirohat bog'i",
+  "CenterPositionLon": 39.90355671002302,
+  "CenterPositionLat": 66.25129987901103
+ },
+ {
+  "ID": 168345727,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 40.736143521305706,
+  "CenterPositionLat": 67.0784810876583
+ },
+ {
+  "ID": 168647992,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 40.67518092534281,
+  "CenterPositionLat": 67.1871549172991
+ },
+ {
+  "ID": 168734811,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.663429011117465,
+  "CenterPositionLat": 67.15542311133127
+ },
+ {
+  "ID": 168882697,
+  "Capacity": 983,
+  "Name": "",
+  "CenterPositionLon": 40.142100327255925,
+  "CenterPositionLat": 67.85601211036122
+ },
+ {
+  "ID": 169981032,
+  "Capacity": 1184,
+  "Name": "",
+  "CenterPositionLon": 40.492779744710006,
+  "CenterPositionLat": 68.77721526312178
+ },
+ {
+  "ID": 170123884,
+  "Capacity": 7642,
+  "Name": "Ёшлар",
+  "CenterPositionLon": 40.22765515003486,
+  "CenterPositionLat": 69.24032666550264
+ },
+ {
+  "ID": 170318777,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 41.61965336734066,
+  "CenterPositionLat": 70.04198967654855
+ },
+ {
+  "ID": 170318803,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 41.6197385784249,
+  "CenterPositionLat": 70.04262939296463
+ },
+ {
+  "ID": 170842048,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 41.26162645714005,
+  "CenterPositionLat": 69.22781620272782
+ },
+ {
+  "ID": 172485333,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 41.51917010298492,
+  "CenterPositionLat": 69.95201216441814
+ },
+ {
+  "ID": 172527986,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 41.496728611592914,
+  "CenterPositionLat": 69.97484494631868
+ },
+ {
+  "ID": 173038123,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 41.5736846378048,
+  "CenterPositionLat": 69.76455872006093
+ },
+ {
+  "ID": 173038145,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 41.573308744505105,
+  "CenterPositionLat": 69.76391653289257
+ },
+ {
+  "ID": 173162740,
+  "Capacity": 370,
+  "Name": "",
+  "CenterPositionLon": 41.62724061866746,
+  "CenterPositionLat": 69.96446279642409
+ },
+ {
+  "ID": 173796189,
+  "Capacity": 1376,
+  "Name": "",
+  "CenterPositionLon": 40.38537007254004,
+  "CenterPositionLat": 71.77986471075812
+ },
+ {
+  "ID": 173916370,
+  "Capacity": 421,
+  "Name": "",
+  "CenterPositionLon": 40.18908345923291,
+  "CenterPositionLat": 67.88600415068906
+ },
+ {
+  "ID": 173916380,
+  "Capacity": 969,
+  "Name": "",
+  "CenterPositionLon": 40.191941870489295,
+  "CenterPositionLat": 67.88088469109198
+ },
+ {
+  "ID": 173916391,
+  "Capacity": 350,
+  "Name": "",
+  "CenterPositionLon": 40.189493106319944,
+  "CenterPositionLat": 67.87766938649477
+ },
+ {
+  "ID": 173916393,
+  "Capacity": 251,
+  "Name": "",
+  "CenterPositionLon": 40.18907696047219,
+  "CenterPositionLat": 67.88050187707545
+ },
+ {
+  "ID": 173916395,
+  "Capacity": 14625,
+  "Name": "",
+  "CenterPositionLon": 40.19078730855548,
+  "CenterPositionLat": 67.88436266310012
+ },
+ {
+  "ID": 173928297,
+  "Capacity": 734,
+  "Name": "",
+  "CenterPositionLon": 40.2476931,
+  "CenterPositionLat": 67.98822193333332
+ },
+ {
+  "ID": 174201740,
+  "Capacity": 855,
+  "Name": "",
+  "CenterPositionLon": 39.76800664497444,
+  "CenterPositionLat": 64.42327972830311
+ },
+ {
+  "ID": 176256152,
+  "Capacity": 823,
+  "Name": "Abdurauf Fitrat",
+  "CenterPositionLon": 39.77285448138187,
+  "CenterPositionLat": 64.43931593355148
+ },
+ {
+  "ID": 178869973,
+  "Capacity": 9011,
+  "Name": "Локомотив Анхор",
+  "CenterPositionLon": 41.32701710350826,
+  "CenterPositionLat": 69.26692383912416
+ },
+ {
+  "ID": 179306352,
+  "Capacity": 5016,
+  "Name": "Парк отдыха",
+  "CenterPositionLon": 39.074937425055225,
+  "CenterPositionLat": 66.83485930942595
+ },
+ {
+  "ID": 180373853,
+  "Capacity": 338,
+  "Name": "",
+  "CenterPositionLon": 41.2719304856582,
+  "CenterPositionLat": 69.21026028450173
+ },
+ {
+  "ID": 180373854,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 41.27325503646366,
+  "CenterPositionLat": 69.20921754228841
+ },
+ {
+  "ID": 180373863,
+  "Capacity": 98,
+  "Name": "",
+  "CenterPositionLon": 41.272734381801826,
+  "CenterPositionLat": 69.20979428262918
+ },
+ {
+  "ID": 180373869,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 41.27366226637372,
+  "CenterPositionLat": 69.20947234639705
+ },
+ {
+  "ID": 180373880,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 41.27254475982125,
+  "CenterPositionLat": 69.20976582756333
+ },
+ {
+  "ID": 180373882,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 41.27345867327143,
+  "CenterPositionLat": 69.2093436293236
+ },
+ {
+  "ID": 180420601,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 41.27263411373537,
+  "CenterPositionLat": 69.21014164489159
+ },
+ {
+  "ID": 180422886,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 41.272453934763575,
+  "CenterPositionLat": 69.20854109166392
+ },
+ {
+  "ID": 181708768,
+  "Capacity": 4997,
+  "Name": "",
+  "CenterPositionLon": 41.33776884737301,
+  "CenterPositionLat": 69.27801466336189
+ },
+ {
+  "ID": 183065348,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 39.6955536457573,
+  "CenterPositionLat": 66.99082230100473
+ },
+ {
+  "ID": 183070537,
+  "Capacity": 658,
+  "Name": "",
+  "CenterPositionLon": 39.696206708888894,
+  "CenterPositionLat": 66.99269529710068
+ },
+ {
+  "ID": 183690367,
+  "Capacity": 229,
+  "Name": "",
+  "CenterPositionLon": 41.29621884923721,
+  "CenterPositionLat": 69.28597194062137
+ },
+ {
+  "ID": 186516109,
+  "Capacity": 5508,
+  "Name": "Xo'jai Jahon",
+  "CenterPositionLon": 40.10251082606523,
+  "CenterPositionLat": 64.6789499103636
+ },
+ {
+  "ID": 186735210,
+  "Capacity": 753,
+  "Name": "",
+  "CenterPositionLon": 38.49124605,
+  "CenterPositionLat": 65.6338753
+ },
+ {
+  "ID": 186869485,
+  "Capacity": 305,
+  "Name": "",
+  "CenterPositionLon": 38.49729475649842,
+  "CenterPositionLat": 65.65847543941673
+ },
+ {
+  "ID": 186869487,
+  "Capacity": 334,
+  "Name": "",
+  "CenterPositionLon": 38.4975267,
+  "CenterPositionLat": 65.6573482
+ },
+ {
+  "ID": 186869614,
+  "Capacity": 239,
+  "Name": "",
+  "CenterPositionLon": 38.49608151437469,
+  "CenterPositionLat": 65.65645226382804
+ },
+ {
+  "ID": 186870747,
+  "Capacity": 12763,
+  "Name": "",
+  "CenterPositionLon": 38.49506676063791,
+  "CenterPositionLat": 65.64350308431291
+ },
+ {
+  "ID": 187614547,
+  "Capacity": 1768,
+  "Name": "Парк неизвестного солдата",
+  "CenterPositionLon": 41.686013347580676,
+  "CenterPositionLat": 60.73460496207729
+ },
+ {
+  "ID": 189043414,
+  "Capacity": 2784,
+  "Name": "",
+  "CenterPositionLon": 40.925447975513734,
+  "CenterPositionLat": 69.354562111637
+ },
+ {
+  "ID": 189044282,
+  "Capacity": 2754,
+  "Name": "",
+  "CenterPositionLon": 40.927249388261885,
+  "CenterPositionLat": 69.35778312019211
+ },
+ {
+  "ID": 189084738,
+  "Capacity": 1045,
+  "Name": "",
+  "CenterPositionLon": 41.25384888853939,
+  "CenterPositionLat": 69.42596951388656
+ },
+ {
+  "ID": 189084749,
+  "Capacity": 144,
+  "Name": "",
+  "CenterPositionLon": 41.256725108324325,
+  "CenterPositionLat": 69.42714968168015
+ },
+ {
+  "ID": 189084751,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 41.25709630100144,
+  "CenterPositionLat": 69.42729607571768
+ },
+ {
+  "ID": 189084765,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 41.256459351982784,
+  "CenterPositionLat": 69.42834010933984
+ },
+ {
+  "ID": 189084776,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 41.25504890367377,
+  "CenterPositionLat": 69.42767578154665
+ },
+ {
+  "ID": 189084790,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 41.2566635226955,
+  "CenterPositionLat": 69.42674767269297
+ },
+ {
+  "ID": 189084792,
+  "Capacity": 1059,
+  "Name": "",
+  "CenterPositionLon": 41.255964524157214,
+  "CenterPositionLat": 69.4257928504838
+ },
+ {
+  "ID": 189084793,
+  "Capacity": 167,
+  "Name": "",
+  "CenterPositionLon": 41.25418223285588,
+  "CenterPositionLat": 69.42828762358587
+ },
+ {
+  "ID": 189789777,
+  "Capacity": 581,
+  "Name": "",
+  "CenterPositionLon": 41.02232600844726,
+  "CenterPositionLat": 69.2015115486141
+ },
+ {
+  "ID": 190028269,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 40.908176444207825,
+  "CenterPositionLat": 68.70081575078343
+ },
+ {
+  "ID": 190028273,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.90920022204324,
+  "CenterPositionLat": 68.70153696507107
+ },
+ {
+  "ID": 190028275,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 40.90852043331709,
+  "CenterPositionLat": 68.6995052344785
+ },
+ {
+  "ID": 190030422,
+  "Capacity": 107,
+  "Name": "",
+  "CenterPositionLon": 40.90751514185569,
+  "CenterPositionLat": 68.70081791857605
+ },
+ {
+  "ID": 190030424,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 40.90685610763391,
+  "CenterPositionLat": 68.70056085296378
+ },
+ {
+  "ID": 190030433,
+  "Capacity": 757,
+  "Name": "",
+  "CenterPositionLon": 40.908259061204596,
+  "CenterPositionLat": 68.70047018313993
+ },
+ {
+  "ID": 190030443,
+  "Capacity": 211,
+  "Name": "",
+  "CenterPositionLon": 40.9080729230282,
+  "CenterPositionLat": 68.70248875991386
+ },
+ {
+  "ID": 190030446,
+  "Capacity": 318,
+  "Name": "",
+  "CenterPositionLon": 40.90780116049309,
+  "CenterPositionLat": 68.70209003988323
+ },
+ {
+  "ID": 190051664,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.899440133333336,
+  "CenterPositionLat": 68.6940897
+ },
+ {
+  "ID": 190264665,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.915940166994815,
+  "CenterPositionLat": 68.70868132916422
+ },
+ {
+  "ID": 190264670,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 40.91545188044507,
+  "CenterPositionLat": 68.7081501894262
+ },
+ {
+  "ID": 190264671,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 40.915801271815226,
+  "CenterPositionLat": 68.70825387516581
+ },
+ {
+  "ID": 190384689,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 40.8699140365712,
+  "CenterPositionLat": 68.74286655272877
+ },
+ {
+  "ID": 190481499,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 40.95808441708755,
+  "CenterPositionLat": 68.75966907758941
+ },
+ {
+  "ID": 190481518,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.95824477110074,
+  "CenterPositionLat": 68.76001818684114
+ },
+ {
+  "ID": 190481520,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 40.958080449272146,
+  "CenterPositionLat": 68.75929499735304
+ },
+ {
+  "ID": 190561412,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": 40.9878647213124,
+  "CenterPositionLat": 68.80327886836328
+ },
+ {
+  "ID": 190569775,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.93818692128083,
+  "CenterPositionLat": 68.76364804237494
+ },
+ {
+  "ID": 190569785,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 40.93791126666667,
+  "CenterPositionLat": 68.76379773333333
+ },
+ {
+  "ID": 190577912,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 40.89089991642696,
+  "CenterPositionLat": 68.67552874866134
+ },
+ {
+  "ID": 190577917,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 40.800481521405224,
+  "CenterPositionLat": 68.59397717983045
+ },
+ {
+  "ID": 190577925,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 40.8908654016059,
+  "CenterPositionLat": 68.67523294005241
+ },
+ {
+  "ID": 190577935,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 40.800617342498136,
+  "CenterPositionLat": 68.59466087799822
+ },
+ {
+  "ID": 190577952,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 40.89155553563005,
+  "CenterPositionLat": 68.6744499971511
+ },
+ {
+  "ID": 190577999,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 40.89093234596542,
+  "CenterPositionLat": 68.6741347991341
+ },
+ {
+  "ID": 190581969,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.89671176666667,
+  "CenterPositionLat": 68.69130993333333
+ },
+ {
+  "ID": 190592861,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 41.02575233333334,
+  "CenterPositionLat": 68.8605797
+ },
+ {
+  "ID": 190592876,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 41.03252530974193,
+  "CenterPositionLat": 68.87012154301543
+ },
+ {
+  "ID": 190592885,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 41.03278925263771,
+  "CenterPositionLat": 68.86987617484735
+ },
+ {
+  "ID": 190592893,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 41.03113071804382,
+  "CenterPositionLat": 68.86741224547222
+ },
+ {
+  "ID": 190594677,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 41.05164035474494,
+  "CenterPositionLat": 68.89664175728281
+ },
+ {
+  "ID": 190596297,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 41.051438637538304,
+  "CenterPositionLat": 68.89942826716614
+ },
+ {
+  "ID": 190697331,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 41.08752924396798,
+  "CenterPositionLat": 68.94845068738351
+ },
+ {
+  "ID": 190702331,
+  "Capacity": 130,
+  "Name": "",
+  "CenterPositionLon": 41.13947342090925,
+  "CenterPositionLat": 69.02058968265328
+ },
+ {
+  "ID": 190702333,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 41.13905966580798,
+  "CenterPositionLat": 69.02008157134341
+ },
+ {
+  "ID": 190714089,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 41.146690223382386,
+  "CenterPositionLat": 69.03278395220372
+ },
+ {
+  "ID": 190714096,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 41.147884807391414,
+  "CenterPositionLat": 69.03348117500525
+ },
+ {
+  "ID": 190714105,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": 41.14724489119255,
+  "CenterPositionLat": 69.03278705203637
+ },
+ {
+  "ID": 190716536,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 41.14932176095078,
+  "CenterPositionLat": 69.03565640783211
+ },
+ {
+  "ID": 190716562,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 41.14930356666667,
+  "CenterPositionLat": 69.03545793333333
+ },
+ {
+  "ID": 190716577,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 41.14940336653973,
+  "CenterPositionLat": 69.0357126862712
+ },
+ {
+  "ID": 190717209,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 41.14951548230037,
+  "CenterPositionLat": 69.03598413373577
+ },
+ {
+  "ID": 190717231,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 41.14971387396718,
+  "CenterPositionLat": 69.03611941973172
+ },
+ {
+  "ID": 190792691,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 41.15682014238704,
+  "CenterPositionLat": 69.0476514892432
+ },
+ {
+  "ID": 190792692,
+  "Capacity": 59,
+  "Name": "",
+  "CenterPositionLon": 41.15671744141222,
+  "CenterPositionLat": 69.0467736199172
+ },
+ {
+  "ID": 190792694,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 41.15658471266955,
+  "CenterPositionLat": 69.04758011855915
+ },
+ {
+  "ID": 190795202,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 41.165014848507816,
+  "CenterPositionLat": 69.05781791982926
+ },
+ {
+  "ID": 190795224,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 41.16465655000773,
+  "CenterPositionLat": 69.05732694530373
+ },
+ {
+  "ID": 190795227,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 41.165100757602225,
+  "CenterPositionLat": 69.05814481818456
+ },
+ {
+  "ID": 190798734,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 41.17375244412007,
+  "CenterPositionLat": 69.06931377179974
+ },
+ {
+  "ID": 190798738,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 41.17381789254767,
+  "CenterPositionLat": 69.0690340701001
+ },
+ {
+  "ID": 190809389,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 41.20944123333334,
+  "CenterPositionLat": 69.12048593333333
+ },
+ {
+  "ID": 190809403,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.20901217231228,
+  "CenterPositionLat": 69.1197995905129
+ },
+ {
+  "ID": 190809404,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 41.20922510986283,
+  "CenterPositionLat": 69.12033947999603
+ },
+ {
+  "ID": 190883776,
+  "Capacity": 5878,
+  "Name": "Дендропарк",
+  "CenterPositionLon": 41.38980695295283,
+  "CenterPositionLat": 69.29061107840744
+ },
+ {
+  "ID": 190921971,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 41.23745928437655,
+  "CenterPositionLat": 69.1657514675699
+ },
+ {
+  "ID": 191045038,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 41.26993248034869,
+  "CenterPositionLat": 69.20264096701932
+ },
+ {
+  "ID": 191214949,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 41.27420965606068,
+  "CenterPositionLat": 69.22075436496372
+ },
+ {
+  "ID": 191439141,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 40.76118183856021,
+  "CenterPositionLat": 67.5965454406512
+ },
+ {
+  "ID": 191879576,
+  "Capacity": 491,
+  "Name": "",
+  "CenterPositionLon": 40.666511108552434,
+  "CenterPositionLat": 68.15655188998518
+ },
+ {
+  "ID": 191879579,
+  "Capacity": 606,
+  "Name": "",
+  "CenterPositionLon": 40.66416773336788,
+  "CenterPositionLat": 68.17167823184455
+ },
+ {
+  "ID": 192068385,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 40.960166055565146,
+  "CenterPositionLat": 68.73081897869562
+ },
+ {
+  "ID": 192068478,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 40.96031325038122,
+  "CenterPositionLat": 68.7311006714985
+ },
+ {
+  "ID": 192068503,
+  "Capacity": 38,
+  "Name": "",
+  "CenterPositionLon": 40.9598002574115,
+  "CenterPositionLat": 68.73205316031391
+ },
+ {
+  "ID": 192943766,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 41.1326651923328,
+  "CenterPositionLat": 69.06376165945284
+ },
+ {
+  "ID": 193124091,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 41.11494841160412,
+  "CenterPositionLat": 69.04639916222325
+ },
+ {
+  "ID": 193465128,
+  "Capacity": 454,
+  "Name": "",
+  "CenterPositionLon": 41.21551645566522,
+  "CenterPositionLat": 69.17571105134022
+ },
+ {
+  "ID": 193549901,
+  "Capacity": 5294,
+  "Name": "Спортивно-озоровительный комплекс СОКОЛ",
+  "CenterPositionLon": 42.153364887312435,
+  "CenterPositionLat": 63.55903856961465
+ },
+ {
+  "ID": 193551742,
+  "Capacity": 2988,
+  "Name": "",
+  "CenterPositionLon": 42.151255975780344,
+  "CenterPositionLat": 63.548565442929046
+ },
+ {
+  "ID": 193942101,
+  "Capacity": 464,
+  "Name": "",
+  "CenterPositionLon": 40.0862706,
+  "CenterPositionLat": 67.90016299999999
+ },
+ {
+  "ID": 193942128,
+  "Capacity": 269,
+  "Name": "",
+  "CenterPositionLon": 40.0863508,
+  "CenterPositionLat": 67.89776325
+ },
+ {
+  "ID": 193953762,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 40.096254208295896,
+  "CenterPositionLat": 67.875203638764
+ },
+ {
+  "ID": 193959862,
+  "Capacity": 298,
+  "Name": "",
+  "CenterPositionLon": 40.09565267927968,
+  "CenterPositionLat": 67.93281753191734
+ },
+ {
+  "ID": 193959890,
+  "Capacity": 143,
+  "Name": "",
+  "CenterPositionLon": 40.09563936509889,
+  "CenterPositionLat": 67.9316520073605
+ },
+ {
+  "ID": 196170773,
+  "Capacity": 3812,
+  "Name": "Iztirohat bog'i",
+  "CenterPositionLon": 38.820850525313,
+  "CenterPositionLat": 65.65115792136498
+ },
+ {
+  "ID": 196551689,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 39.70991891408132,
+  "CenterPositionLat": 66.66673302422875
+ },
+ {
+  "ID": 196557212,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 39.70946579065505,
+  "CenterPositionLat": 66.6671162394953
+ },
+ {
+  "ID": 196557218,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 39.70951226438007,
+  "CenterPositionLat": 66.66039033808443
+ },
+ {
+  "ID": 196557222,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 39.7093792,
+  "CenterPositionLat": 66.66064673333332
+ },
+ {
+  "ID": 196557267,
+  "Capacity": 2,
+  "Name": "",
+  "CenterPositionLon": 39.7097161,
+  "CenterPositionLat": 66.660486
+ },
+ {
+  "ID": 196557287,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": 39.70934843333333,
+  "CenterPositionLat": 66.6601895
+ },
+ {
+  "ID": 196575056,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 39.71141400821492,
+  "CenterPositionLat": 66.64203202933265
+ },
+ {
+  "ID": 196575095,
+  "Capacity": 255,
+  "Name": "",
+  "CenterPositionLon": 39.71107661430155,
+  "CenterPositionLat": 66.64275917122247
+ },
+ {
+  "ID": 196575107,
+  "Capacity": 529,
+  "Name": "",
+  "CenterPositionLon": 39.710318652730244,
+  "CenterPositionLat": 66.64201465040641
+ },
+ {
+  "ID": 196639491,
+  "Capacity": 3395,
+  "Name": "",
+  "CenterPositionLon": 39.71065552642211,
+  "CenterPositionLat": 66.66768894553341
+ },
+ {
+  "ID": 196669211,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 39.69568677342588,
+  "CenterPositionLat": 66.67431804550735
+ },
+ {
+  "ID": 196669212,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 39.695448740504624,
+  "CenterPositionLat": 66.67485134725945
+ },
+ {
+  "ID": 196669216,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 39.69687081923825,
+  "CenterPositionLat": 66.67192776159379
+ },
+ {
+  "ID": 198731200,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 39.70765541288184,
+  "CenterPositionLat": 66.65199785635217
+ },
+ {
+  "ID": 199292382,
+  "Capacity": 624,
+  "Name": "",
+  "CenterPositionLon": 41.632205456894354,
+  "CenterPositionLat": 69.96041016388995
+ },
+ {
+  "ID": 199292386,
+  "Capacity": 976,
+  "Name": "",
+  "CenterPositionLon": 41.63115322444466,
+  "CenterPositionLat": 69.95530491386178
+ },
+ {
+  "ID": 199292387,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 41.62371209956971,
+  "CenterPositionLat": 69.93701119043854
+ },
+ {
+  "ID": 199292388,
+  "Capacity": 958,
+  "Name": "",
+  "CenterPositionLon": 41.63173933276853,
+  "CenterPositionLat": 69.95946407122014
+ },
+ {
+  "ID": 199292389,
+  "Capacity": 609,
+  "Name": "",
+  "CenterPositionLon": 41.63129947315227,
+  "CenterPositionLat": 69.96126885093443
+ },
+ {
+  "ID": 199292400,
+  "Capacity": 269,
+  "Name": "",
+  "CenterPositionLon": 41.63003548507007,
+  "CenterPositionLat": 69.96225524655817
+ },
+ {
+  "ID": 199296747,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 41.312455279497804,
+  "CenterPositionLat": 69.25751147626595
+ },
+ {
+  "ID": 199452511,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 40.09547436580298,
+  "CenterPositionLat": 67.97636343123496
+ },
+ {
+  "ID": 199452560,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": 40.09542691347988,
+  "CenterPositionLat": 67.97514256756972
+ },
+ {
+  "ID": 199505528,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 40.21329739856577,
+  "CenterPositionLat": 67.90089020685923
+ },
+ {
+  "ID": 201094922,
+  "Capacity": 1721,
+  "Name": "",
+  "CenterPositionLon": 41.324523390171635,
+  "CenterPositionLat": 69.42867488836166
+ },
+ {
+  "ID": 201125252,
+  "Capacity": 348,
+  "Name": "",
+  "CenterPositionLon": 41.30908560370119,
+  "CenterPositionLat": 69.39885613907043
+ },
+ {
+  "ID": 201256144,
+  "Capacity": 162,
+  "Name": "",
+  "CenterPositionLon": 39.64756266067809,
+  "CenterPositionLat": 66.95970507098289
+ },
+ {
+  "ID": 201735910,
+  "Capacity": 139,
+  "Name": "",
+  "CenterPositionLon": 39.656117081869446,
+  "CenterPositionLat": 66.95077885765166
+ },
+ {
+  "ID": 201735952,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 39.656456343899066,
+  "CenterPositionLat": 66.94996173946105
+ },
+ {
+  "ID": 202071248,
+  "Capacity": 488,
+  "Name": "",
+  "CenterPositionLon": 41.54122704813875,
+  "CenterPositionLat": 69.6350335626658
+ },
+ {
+  "ID": 202155867,
+  "Capacity": 1357,
+  "Name": "",
+  "CenterPositionLon": 41.50947421293096,
+  "CenterPositionLat": 69.59070026971926
+ },
+ {
+  "ID": 202518776,
+  "Capacity": 1389,
+  "Name": "Бурхониддин Маргилоний хиёбони",
+  "CenterPositionLon": 40.44427035484405,
+  "CenterPositionLat": 71.71974027573864
+ },
+ {
+  "ID": 202539202,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 41.285971994507044,
+  "CenterPositionLat": 69.26974130318938
+ },
+ {
+  "ID": 202539205,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 41.28621679694882,
+  "CenterPositionLat": 69.27026726334573
+ },
+ {
+  "ID": 203547629,
+  "Capacity": 413,
+  "Name": "",
+  "CenterPositionLon": 39.64562176260883,
+  "CenterPositionLat": 66.95931642829682
+ },
+ {
+  "ID": 203548053,
+  "Capacity": 6214,
+  "Name": "Центральный парк им. Алишера Навои",
+  "CenterPositionLon": 39.649989242247564,
+  "CenterPositionLat": 66.95742847064729
+ },
+ {
+  "ID": 203571797,
+  "Capacity": 149,
+  "Name": "",
+  "CenterPositionLon": 39.65540060459111,
+  "CenterPositionLat": 66.94745869817345
+ },
+ {
+  "ID": 204054343,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 41.29328820827431,
+  "CenterPositionLat": 69.25245807521911
+ },
+ {
+  "ID": 207206334,
+  "Capacity": 66775,
+  "Name": "Mirzo Ulugʻbek bogʻi",
+  "CenterPositionLon": 39.796337702740175,
+  "CenterPositionLat": 64.42846022944312
+ },
+ {
+  "ID": 207494084,
+  "Capacity": 1461,
+  "Name": "",
+  "CenterPositionLon": 40.3905579833333,
+  "CenterPositionLat": 71.7765604991025
+ },
+ {
+  "ID": 207942536,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 40.439048598109764,
+  "CenterPositionLat": 71.76350707488155
+ },
+ {
+  "ID": 207942537,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": 40.4392585,
+  "CenterPositionLat": 71.7624065
+ },
+ {
+  "ID": 210908145,
+  "Capacity": 259,
+  "Name": "Afrasiab Square",
+  "CenterPositionLon": 39.65255638099494,
+  "CenterPositionLat": 66.96938220040553
+ },
+ {
+  "ID": 210918483,
+  "Capacity": 995,
+  "Name": "Tilla Kari Park",
+  "CenterPositionLon": 39.65593916885203,
+  "CenterPositionLat": 66.97628327772287
+ },
+ {
+  "ID": 211098785,
+  "Capacity": 2667,
+  "Name": "",
+  "CenterPositionLon": 39.65039231852294,
+  "CenterPositionLat": 66.96759097548775
+ },
+ {
+  "ID": 211105538,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 39.65220757352193,
+  "CenterPositionLat": 66.9678717541792
+ },
+ {
+  "ID": 211105818,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 39.65175000966276,
+  "CenterPositionLat": 66.96748323114304
+ },
+ {
+  "ID": 211106043,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 39.65218983333333,
+  "CenterPositionLat": 66.96854283333333
+ },
+ {
+  "ID": 211106360,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 39.65216129841393,
+  "CenterPositionLat": 66.96827020826882
+ },
+ {
+  "ID": 211598096,
+  "Capacity": 5124,
+  "Name": "Площадь Кук-Сарой",
+  "CenterPositionLon": 39.65392716057042,
+  "CenterPositionLat": 66.9638178140066
+ },
+ {
+  "ID": 212263299,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 39.65595060115819,
+  "CenterPositionLat": 66.96245927031097
+ },
+ {
+  "ID": 212679688,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 39.66437094120568,
+  "CenterPositionLat": 66.95098725572788
+ },
+ {
+  "ID": 221500026,
+  "Capacity": 19260,
+  "Name": "",
+  "CenterPositionLon": 40.37575466646124,
+  "CenterPositionLat": 71.80055886284396
+ },
+ {
+  "ID": 221976044,
+  "Capacity": 4752,
+  "Name": "Zumrad servise",
+  "CenterPositionLon": 41.60918279511611,
+  "CenterPositionLat": 70.009331293559
+ },
+ {
+  "ID": 224101107,
+  "Capacity": 3774,
+  "Name": "Jizzax parki",
+  "CenterPositionLon": 40.133053691319375,
+  "CenterPositionLat": 67.83473845252928
+ },
+ {
+  "ID": 224487769,
+  "Capacity": 446,
+  "Name": "",
+  "CenterPositionLon": 42.15956724617694,
+  "CenterPositionLat": 63.569722142151306
+ },
+ {
+  "ID": 224487770,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 42.15957798653286,
+  "CenterPositionLat": 63.559265450041885
+ },
+ {
+  "ID": 224487776,
+  "Capacity": 192,
+  "Name": "",
+  "CenterPositionLon": 42.1578249460211,
+  "CenterPositionLat": 63.5616778804694
+ },
+ {
+  "ID": 224487777,
+  "Capacity": 724,
+  "Name": "",
+  "CenterPositionLon": 42.16016342636262,
+  "CenterPositionLat": 63.560486395285885
+ },
+ {
+  "ID": 224487778,
+  "Capacity": 358,
+  "Name": "",
+  "CenterPositionLon": 42.15949087534363,
+  "CenterPositionLat": 63.56001274341396
+ },
+ {
+  "ID": 224487779,
+  "Capacity": 341,
+  "Name": "",
+  "CenterPositionLon": 42.15850723862328,
+  "CenterPositionLat": 63.562794888111604
+ },
+ {
+  "ID": 224487781,
+  "Capacity": 259,
+  "Name": "",
+  "CenterPositionLon": 42.1537615618128,
+  "CenterPositionLat": 63.558780894532276
+ },
+ {
+  "ID": 224607946,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 42.159423499999995,
+  "CenterPositionLat": 63.57700805
+ },
+ {
+  "ID": 224607947,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 42.159855966432765,
+  "CenterPositionLat": 63.577164722910254
+ },
+ {
+  "ID": 224607948,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 42.159978609325776,
+  "CenterPositionLat": 63.57661122140531
+ },
+ {
+  "ID": 224607949,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 42.15948306936363,
+  "CenterPositionLat": 63.57658944484108
+ },
+ {
+  "ID": 224607950,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 42.159753874978655,
+  "CenterPositionLat": 63.577162520869834
+ },
+ {
+  "ID": 224607951,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 42.1596845436405,
+  "CenterPositionLat": 63.5767834547883
+ },
+ {
+  "ID": 224607954,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 42.15981672096583,
+  "CenterPositionLat": 63.57680528712379
+ },
+ {
+  "ID": 224629842,
+  "Capacity": 1525,
+  "Name": "Парк Победы",
+  "CenterPositionLon": 42.15406808589711,
+  "CenterPositionLat": 63.55304911303913
+ },
+ {
+  "ID": 225079328,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 42.150894676953214,
+  "CenterPositionLat": 63.560819920156085
+ },
+ {
+  "ID": 225084022,
+  "Capacity": 232,
+  "Name": "",
+  "CenterPositionLon": 42.154770233234814,
+  "CenterPositionLat": 63.56047748890266
+ },
+ {
+  "ID": 227372147,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 41.27250202628143,
+  "CenterPositionLat": 69.20896136288317
+ },
+ {
+  "ID": 228662731,
+  "Capacity": 2748,
+  "Name": "ПКиО им. Маяковского",
+  "CenterPositionLon": 40.835827375522214,
+  "CenterPositionLat": 69.61820592148551
+ },
+ {
+  "ID": 228952369,
+  "Capacity": 990,
+  "Name": "Xamid Olimjon Parki",
+  "CenterPositionLon": 40.10963217739912,
+  "CenterPositionLat": 67.82311073413443
+ },
+ {
+  "ID": 229494017,
+  "Capacity": 4017,
+  "Name": "",
+  "CenterPositionLon": 38.8685151947565,
+  "CenterPositionLat": 65.80375736085178
+ },
+ {
+  "ID": 229494930,
+  "Capacity": 4568,
+  "Name": "Yoshlar bog'i",
+  "CenterPositionLon": 38.867887236818554,
+  "CenterPositionLat": 65.79981532584411
+ },
+ {
+  "ID": 230848607,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 39.69649182727463,
+  "CenterPositionLat": 66.67268667258203
+ },
+ {
+  "ID": 232483386,
+  "Capacity": 2765,
+  "Name": "",
+  "CenterPositionLon": 40.095064124500425,
+  "CenterPositionLat": 65.38258064013344
+ },
+ {
+  "ID": 240267738,
+  "Capacity": 886,
+  "Name": "",
+  "CenterPositionLon": 41.3216889328377,
+  "CenterPositionLat": 69.24043342866055
+ },
+ {
+  "ID": 241106498,
+  "Capacity": 111,
+  "Name": "",
+  "CenterPositionLon": 41.3494838354669,
+  "CenterPositionLat": 69.34941234082963
+ },
+ {
+  "ID": 241106502,
+  "Capacity": 398,
+  "Name": "",
+  "CenterPositionLon": 41.34867222750066,
+  "CenterPositionLat": 69.34655335707373
+ },
+ {
+  "ID": 241224388,
+  "Capacity": 360,
+  "Name": "",
+  "CenterPositionLon": 41.31557404077106,
+  "CenterPositionLat": 69.2352104212107
+ },
+ {
+  "ID": 241235725,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 41.32185759825481,
+  "CenterPositionLat": 69.2367121464112
+ },
+ {
+  "ID": 241235726,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 41.321557397879694,
+  "CenterPositionLat": 69.23656539266443
+ },
+ {
+  "ID": 244325031,
+  "Capacity": 3391,
+  "Name": "",
+  "CenterPositionLon": 40.22816162488653,
+  "CenterPositionLat": 69.13524725180106
+ },
+ {
+  "ID": 244651204,
+  "Capacity": 19893,
+  "Name": "имени Ахунбабаева",
+  "CenterPositionLon": 41.011012723507704,
+  "CenterPositionLat": 70.0734871803555
+ },
+ {
+  "ID": 245750467,
+  "Capacity": 2751,
+  "Name": "имени А. Навои",
+  "CenterPositionLon": 41.00216657757584,
+  "CenterPositionLat": 70.06355128745112
+ },
+ {
+  "ID": 257413708,
+  "Capacity": 6481,
+  "Name": "Строитель",
+  "CenterPositionLon": 40.84624469914568,
+  "CenterPositionLat": 69.59579509455969
+ },
+ {
+  "ID": 257416752,
+  "Capacity": 1906,
+  "Name": "Парк \"Алеся\"",
+  "CenterPositionLon": 40.84529616391097,
+  "CenterPositionLat": 69.60509985872922
+ },
+ {
+  "ID": 257416753,
+  "Capacity": 3916,
+  "Name": "Парк Молодежи",
+  "CenterPositionLon": 40.84643770000233,
+  "CenterPositionLat": 69.60234852248063
+ },
+ {
+  "ID": 257748353,
+  "Capacity": 1602,
+  "Name": "",
+  "CenterPositionLon": 40.87420629211736,
+  "CenterPositionLat": 69.59060118849347
+ },
+ {
+  "ID": 259697891,
+  "Capacity": 524,
+  "Name": "",
+  "CenterPositionLon": 39.6407626888642,
+  "CenterPositionLat": 66.96094290234787
+ },
+ {
+  "ID": 259871079,
+  "Capacity": 1278,
+  "Name": "",
+  "CenterPositionLon": 40.86861205345522,
+  "CenterPositionLat": 69.58976749859033
+ },
+ {
+  "ID": 260272920,
+  "Capacity": 729,
+  "Name": "Quloqtepa - Hasanboy Bog'i",
+  "CenterPositionLon": 41.378055876740525,
+  "CenterPositionLat": 69.26763102338373
+ },
+ {
+  "ID": 264199056,
+  "Capacity": 1625,
+  "Name": "Сквер",
+  "CenterPositionLon": 40.537057830650454,
+  "CenterPositionLat": 70.93568604973223
+ },
+ {
+  "ID": 264722680,
+  "Capacity": 150,
+  "Name": "Площадь Джами",
+  "CenterPositionLon": 41.35490715282265,
+  "CenterPositionLat": 69.25369375781449
+ },
+ {
+  "ID": 277983912,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": 39.6522534685969,
+  "CenterPositionLat": 66.97081374541622
+ },
+ {
+  "ID": 291156436,
+  "Capacity": 1645,
+  "Name": "Kamolot bog'i",
+  "CenterPositionLon": 40.99858032355927,
+  "CenterPositionLat": 71.59646448730128
+ },
+ {
+  "ID": 291364306,
+  "Capacity": 4411,
+  "Name": "",
+  "CenterPositionLon": 39.96304660270543,
+  "CenterPositionLat": 66.49593399438292
+ },
+ {
+  "ID": 295045031,
+  "Capacity": 872,
+  "Name": "",
+  "CenterPositionLon": 40.69846017337254,
+  "CenterPositionLat": 69.2223547316743
+ },
+ {
+  "ID": 298112522,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 40.103873166666666,
+  "CenterPositionLat": 67.8449451
+ },
+ {
+  "ID": 298112593,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 40.103820241747485,
+  "CenterPositionLat": 67.84537321994554
+ },
+ {
+  "ID": 298116701,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 40.10417085661883,
+  "CenterPositionLat": 67.84481781507462
+ },
+ {
+  "ID": 298121734,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 40.11280905271263,
+  "CenterPositionLat": 67.8424035724638
+ },
+ {
+  "ID": 298793719,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 40.10538210848232,
+  "CenterPositionLat": 67.8461643309493
+ },
+ {
+  "ID": 298794669,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 40.10902971869716,
+  "CenterPositionLat": 67.83908636886986
+ },
+ {
+  "ID": 299010119,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 40.10690964053915,
+  "CenterPositionLat": 67.84441060347743
+ },
+ {
+  "ID": 299010121,
+  "Capacity": 54,
+  "Name": "Madaniyat Mahalla Idorasi",
+  "CenterPositionLon": 40.10914832945624,
+  "CenterPositionLat": 67.84504855933055
+ },
+ {
+  "ID": 299014188,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 40.10455111074027,
+  "CenterPositionLat": 67.8462411123334
+ },
+ {
+  "ID": 299247474,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 40.11008560108255,
+  "CenterPositionLat": 67.84144148509678
+ },
+ {
+  "ID": 299250281,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 40.10945883282628,
+  "CenterPositionLat": 67.84105895748736
+ },
+ {
+  "ID": 299262535,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 40.113858673625366,
+  "CenterPositionLat": 67.84407382519339
+ },
+ {
+  "ID": 299473948,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 40.1157011260671,
+  "CenterPositionLat": 67.85093506232867
+ },
+ {
+  "ID": 299475448,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 40.116635170702494,
+  "CenterPositionLat": 67.8501691149044
+ },
+ {
+  "ID": 299618730,
+  "Capacity": 221,
+  "Name": "",
+  "CenterPositionLon": 40.106055134480115,
+  "CenterPositionLat": 67.84576204777902
+ },
+ {
+  "ID": 299642224,
+  "Capacity": 171,
+  "Name": "",
+  "CenterPositionLon": 40.12607235197934,
+  "CenterPositionLat": 67.8266692484753
+ },
+ {
+  "ID": 299654956,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 40.13759189257718,
+  "CenterPositionLat": 67.82318356314943
+ },
+ {
+  "ID": 299655020,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 40.13783799711476,
+  "CenterPositionLat": 67.82330328855741
+ },
+ {
+  "ID": 299655393,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 40.13729984437194,
+  "CenterPositionLat": 67.82350907120525
+ },
+ {
+  "ID": 299655422,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 40.13795580022727,
+  "CenterPositionLat": 67.82349825115348
+ },
+ {
+  "ID": 299655461,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 40.13783393858679,
+  "CenterPositionLat": 67.82355078990958
+ },
+ {
+  "ID": 299655847,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 40.13800579088182,
+  "CenterPositionLat": 67.82368858059762
+ },
+ {
+  "ID": 299655890,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.13787977535399,
+  "CenterPositionLat": 67.82373964034322
+ },
+ {
+  "ID": 299655900,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 40.13805330077243,
+  "CenterPositionLat": 67.82386526221886
+ },
+ {
+  "ID": 299655922,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 40.137925179822936,
+  "CenterPositionLat": 67.8239192461325
+ },
+ {
+  "ID": 299656765,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": 40.13615814185259,
+  "CenterPositionLat": 67.82311200049386
+ },
+ {
+  "ID": 299656822,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 40.135627404817036,
+  "CenterPositionLat": 67.82334438595791
+ },
+ {
+  "ID": 299656826,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 40.135152843125496,
+  "CenterPositionLat": 67.82353973926972
+ },
+ {
+  "ID": 299656844,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 40.13476003988583,
+  "CenterPositionLat": 67.8237072583835
+ },
+ {
+  "ID": 299656847,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 40.1343550090131,
+  "CenterPositionLat": 67.82386371785469
+ },
+ {
+  "ID": 299656883,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 40.13370791743548,
+  "CenterPositionLat": 67.824143256058
+ },
+ {
+  "ID": 299656905,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 40.13309432726711,
+  "CenterPositionLat": 67.82439865604492
+ },
+ {
+  "ID": 299656918,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 40.13263441713553,
+  "CenterPositionLat": 67.82458724982948
+ },
+ {
+  "ID": 299656941,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 40.132359633431236,
+  "CenterPositionLat": 67.82470340833845
+ },
+ {
+  "ID": 299657060,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 40.13210070906372,
+  "CenterPositionLat": 67.82481342642204
+ },
+ {
+  "ID": 299657062,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": 40.13149089115226,
+  "CenterPositionLat": 67.82508205138697
+ },
+ {
+  "ID": 299658326,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 40.134065676139336,
+  "CenterPositionLat": 67.82319589732435
+ },
+ {
+  "ID": 299658327,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 40.133914386448495,
+  "CenterPositionLat": 67.82278009192358
+ },
+ {
+  "ID": 299658356,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 40.13314308390419,
+  "CenterPositionLat": 67.8231115492708
+ },
+ {
+  "ID": 299816094,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 40.111915431854676,
+  "CenterPositionLat": 67.84167257009601
+ },
+ {
+  "ID": 299817408,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 40.111573554438266,
+  "CenterPositionLat": 67.84127004848621
+ },
+ {
+  "ID": 299818574,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": 40.11220197336397,
+  "CenterPositionLat": 67.84196720392815
+ },
+ {
+  "ID": 299827941,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 40.11066845,
+  "CenterPositionLat": 67.8380284
+ },
+ {
+  "ID": 300411091,
+  "Capacity": 185,
+  "Name": "",
+  "CenterPositionLon": 40.13332464449456,
+  "CenterPositionLat": 67.8254516080211
+ },
+ {
+  "ID": 300411092,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 40.13249195,
+  "CenterPositionLat": 67.8252807
+ },
+ {
+  "ID": 300411094,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 40.133907331524924,
+  "CenterPositionLat": 67.82519754387337
+ },
+ {
+  "ID": 300411095,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 40.13384295,
+  "CenterPositionLat": 67.82475135000001
+ },
+ {
+  "ID": 300411096,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 40.13323088864534,
+  "CenterPositionLat": 67.82501298024326
+ },
+ {
+  "ID": 300411097,
+  "Capacity": 64,
+  "Name": "",
+  "CenterPositionLon": 40.13153585,
+  "CenterPositionLat": 67.82566994999999
+ },
+ {
+  "ID": 300411098,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 40.13287689295587,
+  "CenterPositionLat": 67.82515082086155
+ },
+ {
+  "ID": 300412164,
+  "Capacity": 3982,
+  "Name": "",
+  "CenterPositionLon": 40.13115253099906,
+  "CenterPositionLat": 67.83079941474593
+ },
+ {
+  "ID": 300415223,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 40.1335850295895,
+  "CenterPositionLat": 67.82329285904581
+ },
+ {
+  "ID": 300415224,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 40.13282413117053,
+  "CenterPositionLat": 67.82360086271017
+ },
+ {
+  "ID": 300415225,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 40.13364152835095,
+  "CenterPositionLat": 67.82348376804688
+ },
+ {
+  "ID": 300415226,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 40.13286940418295,
+  "CenterPositionLat": 67.82379234345204
+ },
+ {
+  "ID": 300415227,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 40.132465249999996,
+  "CenterPositionLat": 67.82392734999999
+ },
+ {
+  "ID": 300415642,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 40.136224750000004,
+  "CenterPositionLat": 67.82374975
+ },
+ {
+  "ID": 300415643,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 40.13592811696214,
+  "CenterPositionLat": 67.82387964969544
+ },
+ {
+  "ID": 300415644,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 40.13499608610873,
+  "CenterPositionLat": 67.82425478437466
+ },
+ {
+  "ID": 300415645,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 40.13563715202437,
+  "CenterPositionLat": 67.82400503405314
+ },
+ {
+  "ID": 300415646,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 40.135344208899504,
+  "CenterPositionLat": 67.82412180299136
+ },
+ {
+  "ID": 300415647,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 40.13444495630828,
+  "CenterPositionLat": 67.8244855115035
+ },
+ {
+  "ID": 300415648,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 40.13651649972885,
+  "CenterPositionLat": 67.82362675356327
+ },
+ {
+  "ID": 300415983,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 40.13752565,
+  "CenterPositionLat": 67.82180805
+ },
+ {
+  "ID": 300420592,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 40.137322646628164,
+  "CenterPositionLat": 67.8227580824667
+ },
+ {
+  "ID": 300420593,
+  "Capacity": 10,
+  "Name": "",
+  "CenterPositionLon": 40.13759972475117,
+  "CenterPositionLat": 67.82259608897505
+ },
+ {
+  "ID": 300420848,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 40.13673381026468,
+  "CenterPositionLat": 67.82352077141125
+ },
+ {
+  "ID": 300463194,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 40.133524349999995,
+  "CenterPositionLat": 67.82889065
+ },
+ {
+  "ID": 300463195,
+  "Capacity": 314,
+  "Name": "",
+  "CenterPositionLon": 40.13244956635964,
+  "CenterPositionLat": 67.82681380497738
+ },
+ {
+  "ID": 300463196,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 40.13306154772636,
+  "CenterPositionLat": 67.8269832108943
+ },
+ {
+  "ID": 300463197,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 40.13400765866272,
+  "CenterPositionLat": 67.830819883234
+ },
+ {
+  "ID": 300464537,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 40.13277175,
+  "CenterPositionLat": 67.8270865
+ },
+ {
+  "ID": 300464538,
+  "Capacity": 122,
+  "Name": "",
+  "CenterPositionLon": 40.13325205,
+  "CenterPositionLat": 67.82900015
+ },
+ {
+  "ID": 300464539,
+  "Capacity": 113,
+  "Name": "",
+  "CenterPositionLon": 40.13371465,
+  "CenterPositionLat": 67.83091955
+ },
+ {
+  "ID": 300464740,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 40.13273679415634,
+  "CenterPositionLat": 67.82992783009102
+ },
+ {
+  "ID": 300466036,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 40.129107129367746,
+  "CenterPositionLat": 67.82680175557154
+ },
+ {
+  "ID": 300466037,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 40.130352,
+  "CenterPositionLat": 67.82612455
+ },
+ {
+  "ID": 300466038,
+  "Capacity": 315,
+  "Name": "",
+  "CenterPositionLon": 40.13092575,
+  "CenterPositionLat": 67.82816965
+ },
+ {
+  "ID": 300466040,
+  "Capacity": 201,
+  "Name": "",
+  "CenterPositionLon": 40.13128724444637,
+  "CenterPositionLat": 67.82447300670592
+ },
+ {
+  "ID": 300466041,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 40.129332647695456,
+  "CenterPositionLat": 67.82648788238077
+ },
+ {
+  "ID": 300466042,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 40.12967465,
+  "CenterPositionLat": 67.82637065
+ },
+ {
+  "ID": 300466043,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 40.13005316869779,
+  "CenterPositionLat": 67.82623891744848
+ },
+ {
+  "ID": 300466044,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 40.128946400000004,
+  "CenterPositionLat": 67.82662975000001
+ },
+ {
+  "ID": 300520339,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 40.137832861597886,
+  "CenterPositionLat": 67.82091327445943
+ },
+ {
+  "ID": 300520343,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 40.13798578487784,
+  "CenterPositionLat": 67.82107454976355
+ },
+ {
+  "ID": 300523409,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 40.11747741892853,
+  "CenterPositionLat": 67.84864561727036
+ },
+ {
+  "ID": 300523410,
+  "Capacity": 149,
+  "Name": "",
+  "CenterPositionLon": 40.116669636846005,
+  "CenterPositionLat": 67.84878989496697
+ },
+ {
+  "ID": 300523411,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 40.117322494338616,
+  "CenterPositionLat": 67.84831576322297
+ },
+ {
+  "ID": 300523412,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 40.11707501702951,
+  "CenterPositionLat": 67.84851660139462
+ },
+ {
+  "ID": 300523413,
+  "Capacity": 559,
+  "Name": "",
+  "CenterPositionLon": 40.11696042232947,
+  "CenterPositionLat": 67.84774954878614
+ },
+ {
+  "ID": 300523414,
+  "Capacity": 549,
+  "Name": "",
+  "CenterPositionLon": 40.11786995753934,
+  "CenterPositionLat": 67.8481483774263
+ },
+ {
+  "ID": 300523415,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 40.11682631937069,
+  "CenterPositionLat": 67.84907819761577
+ },
+ {
+  "ID": 300523416,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 40.117068539398716,
+  "CenterPositionLat": 67.8489583417516
+ },
+ {
+  "ID": 300523417,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 40.11732354900593,
+  "CenterPositionLat": 67.8490423001092
+ },
+ {
+  "ID": 300523950,
+  "Capacity": 195,
+  "Name": "",
+  "CenterPositionLon": 40.11779285622413,
+  "CenterPositionLat": 67.84911100438491
+ },
+ {
+  "ID": 300523951,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 40.11724223333333,
+  "CenterPositionLat": 67.8497809
+ },
+ {
+  "ID": 300523953,
+  "Capacity": 1,
+  "Name": "",
+  "CenterPositionLon": 40.11563748064361,
+  "CenterPositionLat": 67.84795115955046
+ },
+ {
+  "ID": 300523954,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": 40.11577546036078,
+  "CenterPositionLat": 67.84856435584416
+ },
+ {
+  "ID": 300523955,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 40.11550436576441,
+  "CenterPositionLat": 67.84780787965128
+ },
+ {
+  "ID": 300523956,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 40.11565111222935,
+  "CenterPositionLat": 67.84818749770974
+ },
+ {
+  "ID": 300602913,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 40.1383872,
+  "CenterPositionLat": 67.81654215
+ },
+ {
+  "ID": 300924018,
+  "Capacity": 1317,
+  "Name": "",
+  "CenterPositionLon": 40.1449243930209,
+  "CenterPositionLat": 67.8189764929349
+ },
+ {
+  "ID": 300924021,
+  "Capacity": 1430,
+  "Name": "",
+  "CenterPositionLon": 40.14568566879171,
+  "CenterPositionLat": 67.82072840051082
+ },
+ {
+  "ID": 300925804,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": 40.14332902924934,
+  "CenterPositionLat": 67.82058173412473
+ },
+ {
+  "ID": 300925806,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 40.14384970657968,
+  "CenterPositionLat": 67.82037858977293
+ },
+ {
+  "ID": 300925808,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 40.14280788680631,
+  "CenterPositionLat": 67.8207932703349
+ },
+ {
+  "ID": 300926445,
+  "Capacity": 39,
+  "Name": "",
+  "CenterPositionLon": 40.139083033314286,
+  "CenterPositionLat": 67.822287493592
+ },
+ {
+  "ID": 300926446,
+  "Capacity": 90,
+  "Name": "",
+  "CenterPositionLon": 40.1412126735278,
+  "CenterPositionLat": 67.82143055499188
+ },
+ {
+  "ID": 300926950,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": 40.136364137766144,
+  "CenterPositionLat": 67.8234012352347
+ },
+ {
+  "ID": 300927775,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": 40.13222538212521,
+  "CenterPositionLat": 67.82511297763749
+ },
+ {
+  "ID": 300927777,
+  "Capacity": 88,
+  "Name": "",
+  "CenterPositionLon": 40.127030618914596,
+  "CenterPositionLat": 67.82700308306937
+ },
+ {
+  "ID": 300929124,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 40.13902350625486,
+  "CenterPositionLat": 67.82277811691439
+ },
+ {
+  "ID": 300929125,
+  "Capacity": 105,
+  "Name": "",
+  "CenterPositionLon": 40.13912355261663,
+  "CenterPositionLat": 67.82253529627725
+ },
+ {
+  "ID": 300929126,
+  "Capacity": 116,
+  "Name": "",
+  "CenterPositionLon": 40.140612175305506,
+  "CenterPositionLat": 67.82193421571478
+ },
+ {
+  "ID": 300929127,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 40.13930190958005,
+  "CenterPositionLat": 67.82266701194877
+ },
+ {
+  "ID": 300930103,
+  "Capacity": 231,
+  "Name": "",
+  "CenterPositionLon": 40.14302643485337,
+  "CenterPositionLat": 67.82116237936314
+ },
+ {
+  "ID": 301048519,
+  "Capacity": 212,
+  "Name": "",
+  "CenterPositionLon": 41.26873827539649,
+  "CenterPositionLat": 69.25426543926768
+ },
+ {
+  "ID": 301052330,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": 41.273429393403106,
+  "CenterPositionLat": 69.25982285045592
+ },
+ {
+  "ID": 301152158,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 41.25455990144151,
+  "CenterPositionLat": 69.2488434160546
+ },
+ {
+  "ID": 301259503,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 41.26520537896001,
+  "CenterPositionLat": 69.27132847775411
+ },
+ {
+  "ID": 301372416,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 41.265336463715144,
+  "CenterPositionLat": 69.27212134105433
+ },
+ {
+  "ID": 301372451,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 41.26270418076444,
+  "CenterPositionLat": 69.26725482024179
+ },
+ {
+  "ID": 301885588,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 38.68332984617175,
+  "CenterPositionLat": 66.76020200305598
+ },
+ {
+  "ID": 302989823,
+  "Capacity": 2692,
+  "Name": "Khodja Doniyor",
+  "CenterPositionLon": 39.67337459137374,
+  "CenterPositionLat": 66.99608078472106
+ },
+ {
+  "ID": 304180071,
+  "Capacity": 136,
+  "Name": "",
+  "CenterPositionLon": 41.24353081809502,
+  "CenterPositionLat": 69.22724282086791
+ },
+ {
+  "ID": 304180081,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 41.243622761549645,
+  "CenterPositionLat": 69.22874902046186
+ },
+ {
+  "ID": 305155438,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": 39.773148062252524,
+  "CenterPositionLat": 64.42090059668601
+ },
+ {
+  "ID": 305558769,
+  "Capacity": 594,
+  "Name": "",
+  "CenterPositionLon": 41.25521976097278,
+  "CenterPositionLat": 69.43133839977467
+ },
+ {
+  "ID": 309556591,
+  "Capacity": 2250,
+  "Name": "Istiqlol bog'i",
+  "CenterPositionLon": 40.11702687928936,
+  "CenterPositionLat": 67.82282039686659
+ },
+ {
+  "ID": 310470974,
+  "Capacity": 2359,
+  "Name": "парк культуры и отдыха Ёшлик",
+  "CenterPositionLon": 40.143633321908545,
+  "CenterPositionLat": 65.36124792990495
+ },
+ {
+  "ID": 311689647,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 40.137898166926576,
+  "CenterPositionLat": 67.82069451443304
+ },
+ {
+  "ID": 311689648,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 40.13779089685715,
+  "CenterPositionLat": 67.82072403147853
+ },
+ {
+  "ID": 311689649,
+  "Capacity": 5,
+  "Name": "",
+  "CenterPositionLon": 40.13793869152737,
+  "CenterPositionLat": 67.82087729151041
+ },
+ {
+  "ID": 312023634,
+  "Capacity": 742,
+  "Name": "",
+  "CenterPositionLon": 40.11490561561812,
+  "CenterPositionLat": 67.8285304436218
+ },
+ {
+  "ID": 315606873,
+  "Capacity": 8,
+  "Name": "",
+  "CenterPositionLon": 40.108541179086075,
+  "CenterPositionLat": 67.82243042664801
+ },
+ {
+  "ID": 316905939,
+  "Capacity": 16591,
+  "Name": "Парк Культуры и отдыха им. Амра Темура",
+  "CenterPositionLon": 41.55786200677135,
+  "CenterPositionLat": 60.61651858775469
+ },
+ {
+  "ID": 325148139,
+  "Capacity": 1164,
+  "Name": "",
+  "CenterPositionLon": 41.30923006110053,
+  "CenterPositionLat": 69.25788960078742
+ },
+ {
+  "ID": 325148140,
+  "Capacity": 1928,
+  "Name": "",
+  "CenterPositionLon": 41.30894030773372,
+  "CenterPositionLat": 69.25555581244781
+ },
+ {
+  "ID": 327668758,
+  "Capacity": 6659,
+  "Name": "Avesto",
+  "CenterPositionLon": 41.547206771245754,
+  "CenterPositionLat": 60.62803792959655
+ },
+ {
+  "ID": 327754819,
+  "Capacity": 1079,
+  "Name": "Парк",
+  "CenterPositionLon": 39.72147362408797,
+  "CenterPositionLat": 64.52963546550542
+ },
+ {
+  "ID": 328003806,
+  "Capacity": 2577,
+  "Name": "Парк Железнодорожников",
+  "CenterPositionLon": 39.723723543983276,
+  "CenterPositionLat": 64.54528551301259
+ },
+ {
+  "ID": 328526775,
+  "Capacity": 1229,
+  "Name": "Парк",
+  "CenterPositionLon": 39.738785284968905,
+  "CenterPositionLat": 64.54443027701056
+ },
+ {
+  "ID": 329099355,
+  "Capacity": 1523,
+  "Name": "",
+  "CenterPositionLon": 39.718226586236774,
+  "CenterPositionLat": 64.55208295275521
+ },
+ {
+  "ID": 338834428,
+  "Capacity": 6143,
+  "Name": "Eko bogʻ",
+  "CenterPositionLon": 39.76886292537782,
+  "CenterPositionLat": 64.47165999236195
+ },
+ {
+  "ID": 340229091,
+  "Capacity": 648,
+  "Name": "Себзар",
+  "CenterPositionLon": 41.338871012253996,
+  "CenterPositionLat": 69.25604577003308
+ },
+ {
+  "ID": 340230836,
+  "Capacity": 3124,
+  "Name": "",
+  "CenterPositionLon": 41.33979873446488,
+  "CenterPositionLat": 69.27728890063878
+ },
+ {
+  "ID": 340611202,
+  "Capacity": 512,
+  "Name": "Сартепо парки",
+  "CenterPositionLon": 39.63621733266335,
+  "CenterPositionLat": 66.91867189649834
+ },
+ {
+  "ID": 341837519,
+  "Capacity": 394,
+  "Name": "Сеульский Парк",
+  "CenterPositionLon": 41.2897986306655,
+  "CenterPositionLat": 69.2526284155848
+ },
+ {
+  "ID": 351652585,
+  "Capacity": 1681,
+  "Name": "Шодлик парк",
+  "CenterPositionLon": 38.36664081175959,
+  "CenterPositionLat": 67.9982521076102
+ },
+ {
+  "ID": 351752891,
+  "Capacity": 261,
+  "Name": "Park",
+  "CenterPositionLon": 38.36571061063178,
+  "CenterPositionLat": 67.99980133121858
+ },
+ {
+  "ID": 353000228,
+  "Capacity": 663,
+  "Name": "",
+  "CenterPositionLon": 39.73867846097009,
+  "CenterPositionLat": 64.18187066859724
+ },
+ {
+  "ID": 353034331,
+  "Capacity": 3884,
+  "Name": "",
+  "CenterPositionLon": 40.11332686956715,
+  "CenterPositionLat": 65.36545357360313
+ },
+ {
+  "ID": 363479282,
+  "Capacity": 918,
+  "Name": "Rahimxoji akani dachasi",
+  "CenterPositionLon": 41.57307661356977,
+  "CenterPositionLat": 70.0820529341868
+ },
+ {
+  "ID": 367065967,
+  "Capacity": 6442,
+  "Name": "Парк города Навои",
+  "CenterPositionLon": 40.10347812423588,
+  "CenterPositionLat": 65.36939321210234
+ },
+ {
+  "ID": 367070009,
+  "Capacity": 239,
+  "Name": "Игровая плошадка",
+  "CenterPositionLon": 40.111984810470084,
+  "CenterPositionLat": 65.36269728205421
+ },
+ {
+  "ID": 367756444,
+  "Capacity": 7957,
+  "Name": "Amir Temur atindag'i park",
+  "CenterPositionLon": 42.44295982088444,
+  "CenterPositionLat": 59.64258618904428
+ },
+ {
+  "ID": 377822712,
+  "Capacity": 459,
+  "Name": "Shaboda",
+  "CenterPositionLon": 39.64408637968183,
+  "CenterPositionLat": 66.97317632342471
+ },
+ {
+  "ID": 378467254,
+  "Capacity": 573,
+  "Name": "",
+  "CenterPositionLon": 39.65601890677866,
+  "CenterPositionLat": 67.00224231948091
+ },
+ {
+  "ID": 378467255,
+  "Capacity": 535,
+  "Name": "",
+  "CenterPositionLon": 39.655919840979934,
+  "CenterPositionLat": 67.00496739315844
+ },
+ {
+  "ID": 378535942,
+  "Capacity": 2019,
+  "Name": "Чинор таги исторохат боги",
+  "CenterPositionLon": 40.1740863779624,
+  "CenterPositionLat": 71.72805007507091
+ },
+ {
+  "ID": 379961562,
+  "Capacity": 230,
+  "Name": "",
+  "CenterPositionLon": 39.65390470761642,
+  "CenterPositionLat": 66.97710774486035
+ },
+ {
+  "ID": 379961569,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 39.654951217937715,
+  "CenterPositionLat": 66.97727452794969
+ },
+ {
+  "ID": 379961571,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 39.654353949642726,
+  "CenterPositionLat": 66.97675785700135
+ },
+ {
+  "ID": 380415575,
+  "Capacity": 28,
+  "Name": "",
+  "CenterPositionLon": 41.3778544454392,
+  "CenterPositionLat": 60.357948196232904
+ },
+ {
+  "ID": 380709642,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 41.30896650530642,
+  "CenterPositionLat": 69.30715235209867
+ },
+ {
+  "ID": 380960986,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": 41.307018759180444,
+  "CenterPositionLat": 69.30975180560807
+ },
+ {
+  "ID": 383055812,
+  "Capacity": 1616,
+  "Name": "",
+  "CenterPositionLon": 40.5591168948446,
+  "CenterPositionLat": 65.68589416254795
+ },
+ {
+  "ID": 383932539,
+  "Capacity": 982,
+  "Name": "",
+  "CenterPositionLon": 40.864323859785,
+  "CenterPositionLat": 68.9368379193521
+ },
+ {
+  "ID": 390222970,
+  "Capacity": 1567,
+  "Name": "Ajiniyaz atindag'i park",
+  "CenterPositionLon": 42.33353346969322,
+  "CenterPositionLat": 59.57636214831741
+ },
+ {
+  "ID": 398217569,
+  "Capacity": 1951,
+  "Name": "",
+  "CenterPositionLon": 39.929377889028835,
+  "CenterPositionLat": 64.3806629780156
+ },
+ {
+  "ID": 399882283,
+  "Capacity": 3200,
+  "Name": "Chust bog'i",
+  "CenterPositionLon": 41.00105947045192,
+  "CenterPositionLat": 71.23492960326189
+ },
+ {
+  "ID": 399917915,
+  "Capacity": 27996,
+  "Name": "Afsonalar Bogi",
+  "CenterPositionLon": 41.00264658421667,
+  "CenterPositionLat": 71.61773785910111
+ },
+ {
+  "ID": 399917916,
+  "Capacity": 7908,
+  "Name": "Bobur bog'i",
+  "CenterPositionLon": 40.99729909025689,
+  "CenterPositionLat": 71.67195438130166
+ },
+ {
+  "ID": 412373047,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 39.653253348423775,
+  "CenterPositionLat": 66.98592885328618
+ },
+ {
+  "ID": 412373290,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 39.65343035278567,
+  "CenterPositionLat": 66.98694484855413
+ },
+ {
+  "ID": 412373437,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 39.65340145469248,
+  "CenterPositionLat": 66.98638529575656
+ },
+ {
+  "ID": 412375814,
+  "Capacity": 203,
+  "Name": "",
+  "CenterPositionLon": 39.64797905278782,
+  "CenterPositionLat": 66.98728822879836
+ },
+ {
+  "ID": 412637978,
+  "Capacity": 436,
+  "Name": "Bibi Xonim park",
+  "CenterPositionLon": 39.661489188511716,
+  "CenterPositionLat": 66.98207376769983
+ },
+ {
+  "ID": 412640286,
+  "Capacity": 1143,
+  "Name": "Shah-i-Zinda park",
+  "CenterPositionLon": 39.66181565194293,
+  "CenterPositionLat": 66.98435598729048
+ },
+ {
+  "ID": 412640472,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 39.660921950435586,
+  "CenterPositionLat": 66.98195872652498
+ },
+ {
+  "ID": 412643482,
+  "Capacity": 499,
+  "Name": "",
+  "CenterPositionLon": 39.662676658534856,
+  "CenterPositionLat": 66.98406011870532
+ },
+ {
+  "ID": 412643674,
+  "Capacity": 283,
+  "Name": "",
+  "CenterPositionLon": 39.66183958433247,
+  "CenterPositionLat": 66.98633826483015
+ },
+ {
+  "ID": 412643749,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 39.66222675889749,
+  "CenterPositionLat": 66.98480291942802
+ },
+ {
+  "ID": 412643900,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 39.661511682027296,
+  "CenterPositionLat": 66.98794135758929
+ },
+ {
+  "ID": 412914480,
+  "Capacity": 285,
+  "Name": "Kamaliddin Behzad Park",
+  "CenterPositionLon": 39.65664026610428,
+  "CenterPositionLat": 66.97755050579937
+ },
+ {
+  "ID": 412915562,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 39.65655390917196,
+  "CenterPositionLat": 66.97838792312179
+ },
+ {
+  "ID": 412915569,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 39.65649561892472,
+  "CenterPositionLat": 66.97809686419032
+ },
+ {
+  "ID": 412918772,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 39.656003140588496,
+  "CenterPositionLat": 66.97935658503293
+ },
+ {
+  "ID": 412919600,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 39.65601850796301,
+  "CenterPositionLat": 66.98008285286713
+ },
+ {
+  "ID": 412919775,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 39.6539219258302,
+  "CenterPositionLat": 66.98031880250511
+ },
+ {
+  "ID": 412921584,
+  "Capacity": 45,
+  "Name": "Marco Polo Square",
+  "CenterPositionLon": 39.652796775783294,
+  "CenterPositionLat": 66.97035565982407
+ },
+ {
+  "ID": 412942452,
+  "Capacity": 22,
+  "Name": "",
+  "CenterPositionLon": 39.66139851906674,
+  "CenterPositionLat": 66.9805372704967
+ },
+ {
+  "ID": 413136809,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 39.656386217523156,
+  "CenterPositionLat": 66.9715368403749
+ },
+ {
+  "ID": 413137035,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 39.655956934881445,
+  "CenterPositionLat": 66.97168159387711
+ },
+ {
+  "ID": 413138138,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 39.65588115611137,
+  "CenterPositionLat": 66.97200086906746
+ },
+ {
+  "ID": 413138231,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 39.65580765761507,
+  "CenterPositionLat": 66.9717288393823
+ },
+ {
+  "ID": 413138526,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 39.65259594130616,
+  "CenterPositionLat": 66.97775116226458
+ },
+ {
+  "ID": 413138587,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": 39.6529101244853,
+  "CenterPositionLat": 66.97773996825305
+ },
+ {
+  "ID": 413285822,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 39.649826418157915,
+  "CenterPositionLat": 66.9814862301086
+ },
+ {
+  "ID": 413285843,
+  "Capacity": 3,
+  "Name": "",
+  "CenterPositionLon": 39.64985017275408,
+  "CenterPositionLat": 66.9813202710935
+ },
+ {
+  "ID": 413638793,
+  "Capacity": 105,
+  "Name": "Botanical garden",
+  "CenterPositionLon": 39.64879208445447,
+  "CenterPositionLat": 66.96515725836989
+ },
+ {
+  "ID": 413645053,
+  "Capacity": 738,
+  "Name": "",
+  "CenterPositionLon": 39.67505069764799,
+  "CenterPositionLat": 67.00758070587604
+ },
+ {
+  "ID": 413647903,
+  "Capacity": 1984,
+  "Name": "",
+  "CenterPositionLon": 39.67457589154355,
+  "CenterPositionLat": 67.0140180332144
+ },
+ {
+  "ID": 413648590,
+  "Capacity": 1674,
+  "Name": "",
+  "CenterPositionLon": 39.67408043232619,
+  "CenterPositionLat": 67.0160900477003
+ },
+ {
+  "ID": 413649300,
+  "Capacity": 2084,
+  "Name": "",
+  "CenterPositionLon": 39.67278675387923,
+  "CenterPositionLat": 67.01646868974849
+ },
+ {
+  "ID": 416508713,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": 40.519432121693164,
+  "CenterPositionLat": 70.93799754671075
+ },
+ {
+  "ID": 416536702,
+  "Capacity": 610,
+  "Name": "Jalaliddin Rumi Park",
+  "CenterPositionLon": 39.684660579235,
+  "CenterPositionLat": 66.9291101772016
+ },
+ {
+  "ID": 416537166,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 39.68494724349926,
+  "CenterPositionLat": 66.92813659250139
+ },
+ {
+  "ID": 416538081,
+  "Capacity": 117,
+  "Name": "Behbudiy Park",
+  "CenterPositionLon": 39.68514046873698,
+  "CenterPositionLat": 66.92776755436299
+ },
+ {
+  "ID": 416705807,
+  "Capacity": 5997,
+  "Name": "Nókis rayonı Dem alıw baǵı",
+  "CenterPositionLon": 42.59608259060724,
+  "CenterPositionLat": 59.53409166244972
+ },
+ {
+  "ID": 418912149,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 41.31034103187842,
+  "CenterPositionLat": 69.23100860137238
+ },
+ {
+  "ID": 429113680,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 41.6085549,
+  "CenterPositionLat": 70.00636904999999
+ },
+ {
+  "ID": 429243541,
+  "Capacity": 2968,
+  "Name": "",
+  "CenterPositionLon": 41.35644877329108,
+  "CenterPositionLat": 60.81618108576439
+ },
+ {
+  "ID": 440589472,
+  "Capacity": 5677,
+  "Name": "Beruniy Istroxat bog'i",
+  "CenterPositionLon": 41.68264694158932,
+  "CenterPositionLat": 60.74041363873242
+ },
+ {
+  "ID": 440676293,
+  "Capacity": 5507,
+  "Name": "",
+  "CenterPositionLon": 40.80070726561554,
+  "CenterPositionLat": 72.98078902902765
+ },
+ {
+  "ID": 440911362,
+  "Capacity": 4007,
+  "Name": "",
+  "CenterPositionLon": 41.84093591973527,
+  "CenterPositionLat": 60.90984121021205
+ },
+ {
+  "ID": 442704719,
+  "Capacity": 10647,
+  "Name": "",
+  "CenterPositionLon": 42.1053459752592,
+  "CenterPositionLat": 60.05317024074784
+ },
+ {
+  "ID": 443766823,
+  "Capacity": 8091,
+  "Name": "Turan Dem Aliw Bag'i",
+  "CenterPositionLon": 42.41569306022183,
+  "CenterPositionLat": 59.4494258459016
+ },
+ {
+  "ID": 448632240,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 41.10979905,
+  "CenterPositionLat": 69.05201459999999
+ },
+ {
+  "ID": 449149797,
+  "Capacity": 850,
+  "Name": "Kamolot madaniyat va istirohat bog'i",
+  "CenterPositionLon": 40.29484410991007,
+  "CenterPositionLat": 71.98502622621876
+ },
+ {
+  "ID": 449316137,
+  "Capacity": 6030,
+  "Name": "Istirohat bog'i",
+  "CenterPositionLon": 40.46861687100749,
+  "CenterPositionLat": 71.71433274833366
+ },
+ {
+  "ID": 450767897,
+  "Capacity": 148373,
+  "Name": "Gazdagana Krateri",
+  "CenterPositionLon": 37.614718105183826,
+  "CenterPositionLat": 66.75238973159202
+ },
+ {
+  "ID": 451027759,
+  "Capacity": 666,
+  "Name": "",
+  "CenterPositionLon": 39.77084425573906,
+  "CenterPositionLat": 64.42416572208037
+ },
+ {
+  "ID": 451989513,
+  "Capacity": 551,
+  "Name": "Сквер Памяти и Почести",
+  "CenterPositionLon": 40.78470668731464,
+  "CenterPositionLat": 72.34941044432726
+ },
+ {
+  "ID": 456285169,
+  "Capacity": 8120,
+  "Name": "Парк Ал Хорезми",
+  "CenterPositionLon": 41.57973502137547,
+  "CenterPositionLat": 60.63202913398725
+ },
+ {
+  "ID": 458058323,
+  "Capacity": 4150,
+  "Name": "",
+  "CenterPositionLon": 41.21081956526831,
+  "CenterPositionLat": 69.33581233156947
+ },
+ {
+  "ID": 459008985,
+  "Capacity": 1491,
+  "Name": "",
+  "CenterPositionLon": 41.56079256065007,
+  "CenterPositionLat": 60.62451486803882
+ },
+ {
+  "ID": 459008995,
+  "Capacity": 1447,
+  "Name": "",
+  "CenterPositionLon": 41.55033415701379,
+  "CenterPositionLat": 60.632307137216785
+ },
+ {
+  "ID": 463196827,
+  "Capacity": 2293,
+  "Name": "",
+  "CenterPositionLon": 41.54687744650847,
+  "CenterPositionLat": 60.63313048071714
+ },
+ {
+  "ID": 463196851,
+  "Capacity": 719,
+  "Name": "",
+  "CenterPositionLon": 41.5439905197963,
+  "CenterPositionLat": 60.60992953808137
+ },
+ {
+  "ID": 463196852,
+  "Capacity": 6441,
+  "Name": "",
+  "CenterPositionLon": 41.542885324327514,
+  "CenterPositionLat": 60.60552397813769
+ },
+ {
+  "ID": 468597243,
+  "Capacity": 984,
+  "Name": "",
+  "CenterPositionLon": 40.21242141371178,
+  "CenterPositionLat": 69.2232616957911
+ },
+ {
+  "ID": 471542197,
+  "Capacity": 1157,
+  "Name": "Shan'araq bag'i",
+  "CenterPositionLon": 43.07269582936977,
+  "CenterPositionLat": 58.90313010848662
+ },
+ {
+  "ID": 471671642,
+  "Capacity": 780,
+  "Name": "",
+  "CenterPositionLon": 40.49733332301803,
+  "CenterPositionLat": 68.78405745974207
+ },
+ {
+  "ID": 472892885,
+  "Capacity": 921,
+  "Name": "",
+  "CenterPositionLon": 40.90474753964634,
+  "CenterPositionLat": 69.64051760382671
+ },
+ {
+  "ID": 472985054,
+  "Capacity": 857,
+  "Name": "",
+  "CenterPositionLon": 41.44513504231439,
+  "CenterPositionLat": 69.55826934786141
+ },
+ {
+  "ID": 472985060,
+  "Capacity": 907,
+  "Name": "",
+  "CenterPositionLon": 41.440293681819924,
+  "CenterPositionLat": 69.55361929144317
+ },
+ {
+  "ID": 472985068,
+  "Capacity": 702,
+  "Name": "",
+  "CenterPositionLon": 41.435046085288505,
+  "CenterPositionLat": 69.54345202702578
+ },
+ {
+  "ID": 474418965,
+  "Capacity": 2474,
+  "Name": "Парк памяти и почести",
+  "CenterPositionLon": 42.59272504962159,
+  "CenterPositionLat": 59.5457346481446
+ },
+ {
+  "ID": 474428222,
+  "Capacity": 11596,
+  "Name": "",
+  "CenterPositionLon": 41.68047199252789,
+  "CenterPositionLat": 60.72654145218118
+ },
+ {
+  "ID": 474824270,
+  "Capacity": 6645,
+  "Name": "",
+  "CenterPositionLon": 41.84290924626383,
+  "CenterPositionLat": 60.90826604193672
+ },
+ {
+  "ID": 480009559,
+  "Capacity": 133,
+  "Name": "Афганский парк",
+  "CenterPositionLon": 40.50449860700684,
+  "CenterPositionLat": 72.3328367774746
+ },
+ {
+  "ID": 480009560,
+  "Capacity": 698,
+  "Name": "Central Park of Markhamat",
+  "CenterPositionLon": 40.49853412201984,
+  "CenterPositionLat": 72.33120407947298
+ },
+ {
+  "ID": 480009562,
+  "Capacity": 2936,
+  "Name": "Amusement Park of Markhamat",
+  "CenterPositionLon": 40.494021232507144,
+  "CenterPositionLat": 72.33371375929065
+ },
+ {
+  "ID": 480009564,
+  "Capacity": 205,
+  "Name": "Парк у клуба",
+  "CenterPositionLon": 40.509982599999994,
+  "CenterPositionLat": 72.36107195000001
+ },
+ {
+  "ID": 483063097,
+  "Capacity": 749,
+  "Name": "",
+  "CenterPositionLon": 41.320616172681575,
+  "CenterPositionLat": 69.25588742934399
+ },
+ {
+  "ID": 486548233,
+  "Capacity": 5890,
+  "Name": "Парк культуры и отдыха имени Алишера Навои",
+  "CenterPositionLon": 40.78473535674728,
+  "CenterPositionLat": 72.35506875744137
+ },
+ {
+  "ID": 488151816,
+  "Capacity": 14,
+  "Name": "Парк отдыха",
+  "CenterPositionLon": 41.24535828477687,
+  "CenterPositionLat": 69.28459328199068
+ },
+ {
+  "ID": 489231301,
+  "Capacity": 849,
+  "Name": "Bog`",
+  "CenterPositionLon": 41.26197561844404,
+  "CenterPositionLat": 69.20261197826262
+ },
+ {
+  "ID": 497539362,
+  "Capacity": 677,
+  "Name": "Площадь Памяти и Почести",
+  "CenterPositionLon": 41.3863898617358,
+  "CenterPositionLat": 60.36239473613133
+ },
+ {
+  "ID": 497541285,
+  "Capacity": 1859,
+  "Name": "Аллея",
+  "CenterPositionLon": 41.38460274311282,
+  "CenterPositionLat": 60.36036023880925
+ },
+ {
+  "ID": 500315139,
+  "Capacity": 0,
+  "Name": "ЭКО Парк имени Бабура",
+  "CenterPositionLon": 41.307179000000005,
+  "CenterPositionLat": 69.29505689999999
+ },
+ {
+  "ID": 500573771,
+  "Capacity": 2948,
+  "Name": "Karusel parki",
+  "CenterPositionLon": 42.11834821736416,
+  "CenterPositionLat": 60.072190639049815
+ },
+ {
+  "ID": 507523094,
+  "Capacity": 875,
+  "Name": "",
+  "CenterPositionLon": 40.099042577468516,
+  "CenterPositionLat": 65.37541235314575
+ },
+ {
+  "ID": 508172570,
+  "Capacity": 895,
+  "Name": "",
+  "CenterPositionLon": 42.34153409092291,
+  "CenterPositionLat": 59.57778015961263
+ },
+ {
+  "ID": 508976412,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.6389563950694,
+  "CenterPositionLat": 69.89351662915607
+ },
+ {
+  "ID": 508976413,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.638957395069404,
+  "CenterPositionLat": 69.89372712915606
+ },
+ {
+  "ID": 508976414,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.638957402437676,
+  "CenterPositionLat": 69.89394710553718
+ },
+ {
+  "ID": 508976415,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.63895940203483,
+  "CenterPositionLat": 69.89417775516651
+ },
+ {
+  "ID": 508976416,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.6389613950694,
+  "CenterPositionLat": 69.89444062915607
+ },
+ {
+  "ID": 508976417,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.63873890243767,
+  "CenterPositionLat": 69.89351260553718
+ },
+ {
+  "ID": 508976418,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.6387468950694,
+  "CenterPositionLat": 69.89375932915607
+ },
+ {
+  "ID": 508976419,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.63875289506941,
+  "CenterPositionLat": 69.89401682915607
+ },
+ {
+  "ID": 508976420,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.63874690243768,
+  "CenterPositionLat": 69.89426360553718
+ },
+ {
+  "ID": 508976421,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 41.6387308950694,
+  "CenterPositionLat": 69.89450232915607
+ },
+ {
+  "ID": 514430896,
+  "Capacity": 393,
+  "Name": "",
+  "CenterPositionLon": 42.34038470037316,
+  "CenterPositionLat": 59.574579101382376
+ },
+ {
+  "ID": 516965013,
+  "Capacity": 1646,
+  "Name": "",
+  "CenterPositionLon": 41.550514452589454,
+  "CenterPositionLat": 60.63073085727993
+ },
+ {
+  "ID": 516965015,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 41.549553849999995,
+  "CenterPositionLat": 60.63175955
+ },
+ {
+  "ID": 516965016,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 41.55055035,
+  "CenterPositionLat": 60.6313418
+ },
+ {
+  "ID": 516965017,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 41.55056155,
+  "CenterPositionLat": 60.631704049999996
+ },
+ {
+  "ID": 518546965,
+  "Capacity": 1393,
+  "Name": "",
+  "CenterPositionLon": 41.46049249366386,
+  "CenterPositionLat": 69.563140891884
+ },
+ {
+  "ID": 519195004,
+  "Capacity": 2023,
+  "Name": "Парк УзКТЖМ",
+  "CenterPositionLon": 41.435284360672895,
+  "CenterPositionLat": 69.53783838497759
+ },
+ {
+  "ID": 523384401,
+  "Capacity": 8348,
+  "Name": "SHUMANAY ATRAKCION",
+  "CenterPositionLon": 42.6304256120387,
+  "CenterPositionLat": 58.920481216384054
+ },
+ {
+  "ID": 523420512,
+  "Capacity": 694,
+  "Name": "Balalar dem aliw bag'i",
+  "CenterPositionLon": 42.635598060099305,
+  "CenterPositionLat": 58.93608645349256
+ },
+ {
+  "ID": 524557455,
+  "Capacity": 3370,
+  "Name": "Eslew ha'm qa'dirlew bag'i",
+  "CenterPositionLon": 42.76202711948158,
+  "CenterPositionLat": 59.629014514058426
+ },
+ {
+  "ID": 528769216,
+  "Capacity": 719,
+  "Name": "",
+  "CenterPositionLon": 43.02608817480394,
+  "CenterPositionLat": 60.27941591430597
+ },
+ {
+  "ID": 529106791,
+  "Capacity": 127,
+  "Name": "",
+  "CenterPositionLon": 41.245422045204634,
+  "CenterPositionLat": 69.28583052179432
+ },
+ {
+  "ID": 531919685,
+  "Capacity": 76880,
+  "Name": "ПКиО им. Бабура",
+  "CenterPositionLon": 40.712842502111364,
+  "CenterPositionLat": 72.43699880412369
+ },
+ {
+  "ID": 532662024,
+  "Capacity": 556,
+  "Name": "Лагерь",
+  "CenterPositionLon": 40.90697025485975,
+  "CenterPositionLat": 72.48203058112506
+ },
+ {
+  "ID": 533128718,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 40.9301240445884,
+  "CenterPositionLat": 72.49492748085532
+ },
+ {
+  "ID": 533128719,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 40.93045623601325,
+  "CenterPositionLat": 72.49532675091857
+ },
+ {
+  "ID": 533128720,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 40.930725906236624,
+  "CenterPositionLat": 72.49566252541518
+ },
+ {
+  "ID": 533128723,
+  "Capacity": 1126,
+  "Name": "",
+  "CenterPositionLon": 40.93013906067362,
+  "CenterPositionLat": 72.4971158037012
+ },
+ {
+  "ID": 535951083,
+  "Capacity": 485,
+  "Name": "",
+  "CenterPositionLon": 40.41605482377332,
+  "CenterPositionLat": 67.18019381768437
+ },
+ {
+  "ID": 537050782,
+  "Capacity": 8434,
+  "Name": "Парк Ашхабад",
+  "CenterPositionLon": 41.304248887876625,
+  "CenterPositionLat": 69.30176331463238
+ },
+ {
+  "ID": 537340154,
+  "Capacity": 649,
+  "Name": "",
+  "CenterPositionLon": 41.54192417170767,
+  "CenterPositionLat": 60.999729014752205
+ },
+ {
+  "ID": 538663545,
+  "Capacity": 6015,
+  "Name": "Детский летний лагерь",
+  "CenterPositionLon": 40.34625027862328,
+  "CenterPositionLat": 67.19943740928693
+ },
+ {
+  "ID": 538726515,
+  "Capacity": 3280,
+  "Name": "Детский летний лагерь",
+  "CenterPositionLon": 40.33469869690356,
+  "CenterPositionLat": 67.22460013364852
+ },
+ {
+  "ID": 544952604,
+  "Capacity": 3965,
+  "Name": "",
+  "CenterPositionLon": 43.032314148620124,
+  "CenterPositionLat": 60.01187677647022
+ },
+ {
+  "ID": 548197234,
+  "Capacity": 998,
+  "Name": "",
+  "CenterPositionLon": 43.00598828508056,
+  "CenterPositionLat": 60.08865559728091
+ },
+ {
+  "ID": 549138018,
+  "Capacity": 235,
+  "Name": "Navro'z maydoni",
+  "CenterPositionLon": 41.30548919949899,
+  "CenterPositionLat": 69.30794491738722
+ },
+ {
+  "ID": 551021530,
+  "Capacity": 547,
+  "Name": "",
+  "CenterPositionLon": 41.339293111824055,
+  "CenterPositionLat": 69.16988097284012
+ },
+ {
+  "ID": 551598285,
+  "Capacity": 1633,
+  "Name": "ПКиО \"Богишамол\"",
+  "CenterPositionLon": 41.29654464786337,
+  "CenterPositionLat": 69.17704755114126
+ },
+ {
+  "ID": 554837924,
+  "Capacity": 1069,
+  "Name": "Истирохат боги",
+  "CenterPositionLon": 40.625689465838846,
+  "CenterPositionLat": 72.50215986918231
+ },
+ {
+  "ID": 560935062,
+  "Capacity": 574,
+  "Name": "",
+  "CenterPositionLon": 43.153715690875295,
+  "CenterPositionLat": 58.20982238009903
+ },
+ {
+  "ID": 563708591,
+  "Capacity": 35640,
+  "Name": "Orayliq bag'",
+  "CenterPositionLon": 42.46321946308724,
+  "CenterPositionLat": 59.60028731211821
+ },
+ {
+  "ID": 567883797,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 40.43515586666666,
+  "CenterPositionLat": 67.01718813333333
+ },
+ {
+  "ID": 567883976,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": 40.43485105440627,
+  "CenterPositionLat": 67.01682361222679
+ },
+ {
+  "ID": 573538888,
+  "Capacity": 1290,
+  "Name": "",
+  "CenterPositionLon": 41.55308876463782,
+  "CenterPositionLat": 60.63087204238514
+ },
+ {
+  "ID": 584836633,
+  "Capacity": 17978,
+  "Name": "Парк \"Mustaqillik Maydoni\"",
+  "CenterPositionLon": 38.84343864844352,
+  "CenterPositionLat": 65.78916200198098
+ },
+ {
+  "ID": 590345644,
+  "Capacity": 550,
+  "Name": "",
+  "CenterPositionLon": 40.443829948235404,
+  "CenterPositionLat": 71.72228676688073
+ },
+ {
+  "ID": 599919572,
+  "Capacity": 8329,
+  "Name": "Ibrayim Yusupov atindag'i dem aliw bag'i",
+  "CenterPositionLon": 42.91772779969285,
+  "CenterPositionLat": 59.771363538019564
+ },
+ {
+  "ID": 600949207,
+  "Capacity": 3314,
+  "Name": "\"Богишамол\" болалар оромгохи",
+  "CenterPositionLon": 40.73950901522197,
+  "CenterPositionLat": 72.48956552517346
+ },
+ {
+  "ID": 601222499,
+  "Capacity": 1016,
+  "Name": "Парк \"Бахытлы\"",
+  "CenterPositionLon": 42.837995790366875,
+  "CenterPositionLat": 59.01067456396488
+ },
+ {
+  "ID": 601999129,
+  "Capacity": 0,
+  "Name": "ЭКО Парк имени Бабура",
+  "CenterPositionLon": 41.30640301518954,
+  "CenterPositionLat": 69.29332357639207
+ },
+ {
+  "ID": 601999133,
+  "Capacity": 0,
+  "Name": "ЭКО Парк имени Бабура",
+  "CenterPositionLon": 41.30714305,
+  "CenterPositionLat": 69.2959438
+ },
+ {
+  "ID": 601999135,
+  "Capacity": 0,
+  "Name": "ЭКО Парк имени Бабура",
+  "CenterPositionLon": 41.3071441,
+  "CenterPositionLat": 69.29616
+ },
+ {
+  "ID": 603644585,
+  "Capacity": 115,
+  "Name": "",
+  "CenterPositionLon": 39.662269144754646,
+  "CenterPositionLat": 66.90906135298862
+ },
+ {
+  "ID": 612385079,
+  "Capacity": 188,
+  "Name": "Qahramon hoji bobo va Barchin hoji ona bog'lari",
+  "CenterPositionLon": 39.40763819387582,
+  "CenterPositionLat": 67.14899677580154
+ },
+ {
+  "ID": 614036968,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 39.64794092840542,
+  "CenterPositionLat": 66.97011193644396
+ },
+ {
+  "ID": 614041888,
+  "Capacity": 72,
+  "Name": "",
+  "CenterPositionLon": 39.66192191321726,
+  "CenterPositionLat": 66.99160936068442
+ },
+ {
+  "ID": 614041941,
+  "Capacity": 43,
+  "Name": "",
+  "CenterPositionLon": 39.661424080113996,
+  "CenterPositionLat": 66.99172314500198
+ },
+ {
+  "ID": 615443136,
+  "Capacity": 37,
+  "Name": "Panjab Sqauare",
+  "CenterPositionLon": 39.6432994519671,
+  "CenterPositionLat": 66.9292543513584
+ },
+ {
+  "ID": 615444189,
+  "Capacity": 490,
+  "Name": "Murad Avliya Park",
+  "CenterPositionLon": 39.667651608019305,
+  "CenterPositionLat": 66.92948731145744
+ },
+ {
+  "ID": 615457219,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": 39.652478611063906,
+  "CenterPositionLat": 66.97272392268657
+ },
+ {
+  "ID": 617652168,
+  "Capacity": 1042,
+  "Name": "",
+  "CenterPositionLon": 40.55770305315887,
+  "CenterPositionLat": 65.6801717718089
+ },
+ {
+  "ID": 619168186,
+  "Capacity": 1509,
+  "Name": "",
+  "CenterPositionLon": 42.62120011340872,
+  "CenterPositionLat": 58.99562525101405
+ },
+ {
+  "ID": 624310140,
+  "Capacity": 998,
+  "Name": "Сквер",
+  "CenterPositionLon": 41.69353770205215,
+  "CenterPositionLat": 60.742922593540854
+ },
+ {
+  "ID": 625610903,
+  "Capacity": 343,
+  "Name": "",
+  "CenterPositionLon": 39.40801505538321,
+  "CenterPositionLat": 67.14882726987139
+ },
+ {
+  "ID": 625610905,
+  "Capacity": 313,
+  "Name": "",
+  "CenterPositionLon": 39.40703795473914,
+  "CenterPositionLat": 67.14773203939119
+ },
+ {
+  "ID": 633854241,
+  "Capacity": 644,
+  "Name": "",
+  "CenterPositionLon": 41.31318581370867,
+  "CenterPositionLat": 69.2701128393931
+ },
+ {
+  "ID": 636356731,
+  "Capacity": 40,
+  "Name": "",
+  "CenterPositionLon": 39.66051772138103,
+  "CenterPositionLat": 66.90619047083183
+ },
+ {
+  "ID": 636356732,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 39.66061224239723,
+  "CenterPositionLat": 66.9059340046027
+ },
+ {
+  "ID": 636356734,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 39.66082603979529,
+  "CenterPositionLat": 66.90610089530948
+ },
+ {
+  "ID": 651015102,
+  "Capacity": 2686,
+  "Name": "",
+  "CenterPositionLon": 40.72538597902856,
+  "CenterPositionLat": 72.75816977992547
+ },
+ {
+  "ID": 658512594,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 40.52127000895131,
+  "CenterPositionLat": 66.80362327452116
+ },
+ {
+  "ID": 658514343,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": 40.420744766666665,
+  "CenterPositionLat": 67.17734826666667
+ },
+ {
+  "ID": 665677402,
+  "Capacity": 3151,
+  "Name": "",
+  "CenterPositionLon": 41.579671333569436,
+  "CenterPositionLat": 64.21172295401891
+ },
+ {
+  "ID": 666090893,
+  "Capacity": 797,
+  "Name": "",
+  "CenterPositionLon": 41.569896637723545,
+  "CenterPositionLat": 64.20149080757939
+ },
+ {
+  "ID": 667917015,
+  "Capacity": 262,
+  "Name": "",
+  "CenterPositionLon": 39.674882248107586,
+  "CenterPositionLat": 67.00404541180745
+ },
+ {
+  "ID": 671290386,
+  "Capacity": 1939,
+  "Name": "Istirohat bog'i",
+  "CenterPositionLon": 41.310216140042336,
+  "CenterPositionLat": 61.088364423672694
+ },
+ {
+  "ID": 672311060,
+  "Capacity": 622,
+  "Name": "",
+  "CenterPositionLon": 41.22092423168891,
+  "CenterPositionLat": 61.309668957631786
+ },
+ {
+  "ID": 672311082,
+  "Capacity": 10886,
+  "Name": "",
+  "CenterPositionLon": 41.22450179229101,
+  "CenterPositionLat": 61.310875307422926
+ },
+ {
+  "ID": 673294299,
+  "Capacity": 909,
+  "Name": "Аттракцион",
+  "CenterPositionLon": 40.799366048423764,
+  "CenterPositionLat": 72.98512736784683
+ },
+ {
+  "ID": 674586220,
+  "Capacity": 8854,
+  "Name": "",
+  "CenterPositionLon": 41.28178215897573,
+  "CenterPositionLat": 69.21653400690836
+ },
+ {
+  "ID": 677760673,
+  "Capacity": 100,
+  "Name": "Парк образцового порядка",
+  "CenterPositionLon": 41.32689901847091,
+  "CenterPositionLat": 69.30138003278267
+ },
+ {
+  "ID": 685743735,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": 41.323709287671925,
+  "CenterPositionLat": 69.2784028030357
+ },
+ {
+  "ID": 692781316,
+  "Capacity": 23154,
+  "Name": "Moynaq madeniyat ha'm dem aliw bag'i",
+  "CenterPositionLon": 43.78346939619177,
+  "CenterPositionLat": 59.022674464400644
+ },
+ {
+  "ID": 698179032,
+  "Capacity": 13113,
+  "Name": "Az-Zamaxshariy istirohat bog'i",
+  "CenterPositionLon": 41.52533115507466,
+  "CenterPositionLat": 60.35458354250107
+ },
+ {
+  "ID": 701692577,
+  "Capacity": 95,
+  "Name": "Детская площадка",
+  "CenterPositionLon": 41.30825063841528,
+  "CenterPositionLat": 69.30734539414483
+ },
+ {
+  "ID": 704274066,
+  "Capacity": 4232,
+  "Name": "Zomin istirohat bog'i",
+  "CenterPositionLon": 39.96042052483128,
+  "CenterPositionLat": 68.39425553391602
+ },
+ {
+  "ID": 705029252,
+  "Capacity": 5914,
+  "Name": "Парк Олтин Куль",
+  "CenterPositionLon": 42.150649831078375,
+  "CenterPositionLat": 63.562245450698256
+ },
+ {
+  "ID": 710513994,
+  "Capacity": 2507,
+  "Name": "Детский парк",
+  "CenterPositionLon": 40.84647885950579,
+  "CenterPositionLat": 69.60790401485636
+ },
+ {
+  "ID": 715648539,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 39.77559791984675,
+  "CenterPositionLat": 64.4111945979291
+ },
+ {
+  "ID": 717777667,
+  "Capacity": 931,
+  "Name": "Yangikurgan park",
+  "CenterPositionLon": 41.19042107867803,
+  "CenterPositionLat": 71.7230278856762
+ },
+ {
+  "ID": 717917803,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 39.76891287739184,
+  "CenterPositionLat": 64.41288553834998
+ },
+ {
+  "ID": 722096926,
+  "Capacity": 1099,
+  "Name": "",
+  "CenterPositionLon": 42.428011997952616,
+  "CenterPositionLat": 59.54668013949048
+ },
+ {
+  "ID": 722298463,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 39.65445540691813,
+  "CenterPositionLat": 66.9764188248081
+ },
+ {
+  "ID": 722298464,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 39.65452217887635,
+  "CenterPositionLat": 66.97685282647723
+ },
+ {
+  "ID": 722298465,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 39.6545672360548,
+  "CenterPositionLat": 66.97714792653318
+ },
+ {
+  "ID": 722298466,
+  "Capacity": 25,
+  "Name": "",
+  "CenterPositionLon": 39.65460781184907,
+  "CenterPositionLat": 66.97658985134336
+ },
+ {
+  "ID": 722298468,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 39.65511871698434,
+  "CenterPositionLat": 66.97700096424843
+ },
+ {
+  "ID": 722298469,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 39.65491788870766,
+  "CenterPositionLat": 66.97704900605069
+ },
+ {
+  "ID": 722298470,
+  "Capacity": 7,
+  "Name": "",
+  "CenterPositionLon": 39.65470719165868,
+  "CenterPositionLat": 66.97709918182247
+ },
+ {
+  "ID": 730823949,
+  "Capacity": 15,
+  "Name": "Jambulloff",
+  "CenterPositionLon": 41.306586162647655,
+  "CenterPositionLat": 69.2562366798915
+ },
+ {
+  "ID": 732839075,
+  "Capacity": 12,
+  "Name": "",
+  "CenterPositionLon": 39.64519863344914,
+  "CenterPositionLat": 66.94472785126557
+ },
+ {
+  "ID": 735049975,
+  "Capacity": 0,
+  "Name": "ЭКО Парк имени Бабура",
+  "CenterPositionLon": 41.30716421791592,
+  "CenterPositionLat": 69.29536908244317
+ },
+ {
+  "ID": 735049976,
+  "Capacity": 0,
+  "Name": "ЭКО Парк имени Бабура",
+  "CenterPositionLon": 41.3071444,
+  "CenterPositionLat": 69.29581665
+ },
+ {
+  "ID": 736944885,
+  "Capacity": 5366,
+  "Name": "ЦПКиО",
+  "CenterPositionLon": 39.41225768261439,
+  "CenterPositionLat": 63.80368693692499
+ },
+ {
+  "ID": 737066967,
+  "Capacity": 899,
+  "Name": "",
+  "CenterPositionLon": 40.52954010205504,
+  "CenterPositionLat": 69.03207437952473
+ },
+ {
+  "ID": 743129736,
+  "Capacity": 182,
+  "Name": "Аллея на улице Шевченко",
+  "CenterPositionLon": 41.29417455793949,
+  "CenterPositionLat": 69.2838125557529
+ },
+ {
+  "ID": 749136173,
+  "Capacity": 11044,
+  "Name": "Tashkent City Park",
+  "CenterPositionLon": 41.3165186368224,
+  "CenterPositionLat": 69.24839305856834
+ },
+ {
+  "ID": 758764779,
+  "Capacity": 4312,
+  "Name": "",
+  "CenterPositionLon": 40.27849299033353,
+  "CenterPositionLat": 65.13381409466261
+ },
+ {
+  "ID": 762046928,
+  "Capacity": 2456,
+  "Name": "",
+  "CenterPositionLon": 41.47182336342914,
+  "CenterPositionLat": 60.77371461625079
+ },
+ {
+  "ID": 762648249,
+  "Capacity": 6158,
+  "Name": "",
+  "CenterPositionLon": 41.357942440604546,
+  "CenterPositionLat": 60.80745124393617
+ },
+ {
+  "ID": 762666385,
+  "Capacity": 1637,
+  "Name": "",
+  "CenterPositionLon": 41.36419936367518,
+  "CenterPositionLat": 60.60202351971729
+ },
+ {
+  "ID": 762666418,
+  "Capacity": 8693,
+  "Name": "",
+  "CenterPositionLon": 41.365474220645204,
+  "CenterPositionLat": 60.6136421029191
+ },
+ {
+  "ID": 762775152,
+  "Capacity": 7206,
+  "Name": "",
+  "CenterPositionLon": 41.66064557212316,
+  "CenterPositionLat": 60.27872128789097
+ },
+ {
+  "ID": 763412363,
+  "Capacity": 1518,
+  "Name": "Yoshlar bog'i",
+  "CenterPositionLon": 40.52219812634379,
+  "CenterPositionLat": 68.03202022712946
+ },
+ {
+  "ID": 763440666,
+  "Capacity": 4388,
+  "Name": "",
+  "CenterPositionLon": 40.51754908245988,
+  "CenterPositionLat": 68.03455344881725
+ },
+ {
+  "ID": 765974795,
+  "Capacity": 4128,
+  "Name": "Канарбай ота",
+  "CenterPositionLon": 41.33230717881473,
+  "CenterPositionLat": 63.122197188422405
+ },
+ {
+  "ID": 767337394,
+  "Capacity": 11383,
+  "Name": "",
+  "CenterPositionLon": 39.01890465370754,
+  "CenterPositionLat": 65.07341598212803
+ },
+ {
+  "ID": 775013968,
+  "Capacity": 53,
+  "Name": "",
+  "CenterPositionLon": 40.46428940580211,
+  "CenterPositionLat": 71.72834902103953
+ },
+ {
+  "ID": 784999632,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 41.29330887024263,
+  "CenterPositionLat": 69.25216496729968
+ },
+ {
+  "ID": 784999633,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 41.29297559731423,
+  "CenterPositionLat": 69.25245752349026
+ },
+ {
+  "ID": 784999634,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 41.29295739433987,
+  "CenterPositionLat": 69.25216141290875
+ },
+ {
+  "ID": 785619018,
+  "Capacity": 2846,
+  "Name": "Khiva Amusement Park",
+  "CenterPositionLon": 41.38404358369798,
+  "CenterPositionLat": 60.35625584834008
+ },
+ {
+  "ID": 785632380,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": 41.383074555770776,
+  "CenterPositionLat": 60.35831023036803
+ },
+ {
+  "ID": 785714852,
+  "Capacity": 513,
+  "Name": "",
+  "CenterPositionLon": 41.38196249293461,
+  "CenterPositionLat": 60.35837862323795
+ },
+ {
+  "ID": 786294993,
+  "Capacity": 3269,
+  "Name": "",
+  "CenterPositionLon": 37.21854247660654,
+  "CenterPositionLat": 67.27089865715082
+ },
+ {
+  "ID": 786596999,
+  "Capacity": 3171,
+  "Name": "",
+  "CenterPositionLon": 38.27311161277204,
+  "CenterPositionLat": 67.90024695836092
+ },
+ {
+  "ID": 787190373,
+  "Capacity": 4217,
+  "Name": "",
+  "CenterPositionLon": 37.83889839500681,
+  "CenterPositionLat": 67.60354777439049
+ },
+ {
+  "ID": 788100389,
+  "Capacity": 1084,
+  "Name": "",
+  "CenterPositionLon": 37.51395004531479,
+  "CenterPositionLat": 67.42200180525944
+ },
+ {
+  "ID": 788106170,
+  "Capacity": 369,
+  "Name": "Jarqorg'onneft OAJga qarashli Yoshlar bo'gi",
+  "CenterPositionLon": 37.516768782756635,
+  "CenterPositionLat": 67.41517602576027
+ },
+ {
+  "ID": 789317938,
+  "Capacity": 454,
+  "Name": "",
+  "CenterPositionLon": 41.541858476781286,
+  "CenterPositionLat": 60.99822084008906
+ },
+ {
+  "ID": 791659236,
+  "Capacity": 2828,
+  "Name": "",
+  "CenterPositionLon": 41.431992491816324,
+  "CenterPositionLat": 69.57962233195592
+ },
+ {
+  "ID": 795727414,
+  "Capacity": 460,
+  "Name": "Jasarat bag'i",
+  "CenterPositionLon": 42.475894682741114,
+  "CenterPositionLat": 59.61842984397888
+ },
+ {
+  "ID": 796298340,
+  "Capacity": 364,
+  "Name": "Аллея Гагарина",
+  "CenterPositionLon": 41.282065893364624,
+  "CenterPositionLat": 69.2263036547377
+ },
+ {
+  "ID": 799153747,
+  "Capacity": 796,
+  "Name": "",
+  "CenterPositionLon": 41.6231802,
+  "CenterPositionLat": 60.89707395
+ },
+ {
+  "ID": 799613109,
+  "Capacity": 5480,
+  "Name": "",
+  "CenterPositionLon": 41.43331944556574,
+  "CenterPositionLat": 69.25874766253155
+ },
+ {
+  "ID": 802384567,
+  "Capacity": 3738,
+  "Name": "Сквер",
+  "CenterPositionLon": 41.31127166842979,
+  "CenterPositionLat": 69.27975438610238
+ }
+]

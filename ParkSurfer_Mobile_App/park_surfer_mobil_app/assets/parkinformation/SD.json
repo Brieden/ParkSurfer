@@ -1,0 +1,485 @@
+[
+ {
+  "ID": 5984360,
+  "Capacity": 1919,
+  "Name": "Garden Park",
+  "CenterPositionLon": 15.629099498072168,
+  "CenterPositionLat": 32.48975601545948
+ },
+ {
+  "ID": 5986064,
+  "Capacity": 5393,
+  "Name": "منتزه المقرن العائلي",
+  "CenterPositionLon": 15.612419426978908,
+  "CenterPositionLat": 32.49515333616359
+ },
+ {
+  "ID": 30816489,
+  "Capacity": 616,
+  "Name": "",
+  "CenterPositionLon": 15.593767258318172,
+  "CenterPositionLat": 32.564652907919566
+ },
+ {
+  "ID": 126428900,
+  "Capacity": 5361,
+  "Name": "Luna Park",
+  "CenterPositionLon": 19.615150041914916,
+  "CenterPositionLat": 37.22184213268412
+ },
+ {
+  "ID": 126428909,
+  "Capacity": 864,
+  "Name": "Alshaheed Park",
+  "CenterPositionLon": 19.61889277853731,
+  "CenterPositionLat": 37.214533480254886
+ },
+ {
+  "ID": 128937543,
+  "Capacity": 2355,
+  "Name": "منتزه بري العائلي",
+  "CenterPositionLon": 15.607197327421181,
+  "CenterPositionLat": 32.55580781461215
+ },
+ {
+  "ID": 163863554,
+  "Capacity": 2196,
+  "Name": "",
+  "CenterPositionLon": 15.608985821938472,
+  "CenterPositionLat": 32.52745235383404
+ },
+ {
+  "ID": 163863586,
+  "Capacity": 1664,
+  "Name": "",
+  "CenterPositionLon": 15.609940806961879,
+  "CenterPositionLat": 32.528855877916996
+ },
+ {
+  "ID": 163863603,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 15.608495759534247,
+  "CenterPositionLat": 32.528759848399936
+ },
+ {
+  "ID": 164057583,
+  "Capacity": 847,
+  "Name": "",
+  "CenterPositionLon": 15.60659489243295,
+  "CenterPositionLat": 32.51190446830391
+ },
+ {
+  "ID": 164057588,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 15.60648165,
+  "CenterPositionLat": 32.5110593
+ },
+ {
+  "ID": 164060401,
+  "Capacity": 2236,
+  "Name": "",
+  "CenterPositionLon": 15.607911775476852,
+  "CenterPositionLat": 32.50110283517012
+ },
+ {
+  "ID": 167276885,
+  "Capacity": 1144,
+  "Name": "",
+  "CenterPositionLon": 19.10562318608093,
+  "CenterPositionLat": 37.328357655933836
+ },
+ {
+  "ID": 176254136,
+  "Capacity": 4677,
+  "Name": "May Gardens",
+  "CenterPositionLon": 15.606342097605115,
+  "CenterPositionLat": 32.50586639092717
+ },
+ {
+  "ID": 181641725,
+  "Capacity": 730,
+  "Name": "",
+  "CenterPositionLon": 15.604753585721788,
+  "CenterPositionLat": 32.504580787728266
+ },
+ {
+  "ID": 197598418,
+  "Capacity": 212,
+  "Name": "حديقة الثورة الحارة الخامسة",
+  "CenterPositionLon": 15.68112105,
+  "CenterPositionLat": 32.486771600000004
+ },
+ {
+  "ID": 197978341,
+  "Capacity": 9697,
+  "Name": "Omdurman Alkobra",
+  "CenterPositionLon": 15.668055313068045,
+  "CenterPositionLat": 32.47892726531087
+ },
+ {
+  "ID": 203863110,
+  "Capacity": 911,
+  "Name": "حديقة الشهداء",
+  "CenterPositionLon": 15.60683688602204,
+  "CenterPositionLat": 32.528141908221734
+ },
+ {
+  "ID": 203863112,
+  "Capacity": 733,
+  "Name": "حديقة الشهداء",
+  "CenterPositionLon": 15.606697358967434,
+  "CenterPositionLat": 32.52727369093581
+ },
+ {
+  "ID": 218215122,
+  "Capacity": 1520,
+  "Name": "ميدان عقرب",
+  "CenterPositionLon": 15.629115227328864,
+  "CenterPositionLat": 32.53185017697837
+ },
+ {
+  "ID": 218221059,
+  "Capacity": 417,
+  "Name": "الزوادة",
+  "CenterPositionLon": 15.621748639556497,
+  "CenterPositionLat": 32.54186431259129
+ },
+ {
+  "ID": 218221200,
+  "Capacity": 942,
+  "Name": "Green Park",
+  "CenterPositionLon": 15.621812414720043,
+  "CenterPositionLat": 32.542576394434874
+ },
+ {
+  "ID": 218269301,
+  "Capacity": 954,
+  "Name": "Safia Park",
+  "CenterPositionLon": 15.653014323302004,
+  "CenterPositionLat": 32.532171210889636
+ },
+ {
+  "ID": 218436628,
+  "Capacity": 976,
+  "Name": "",
+  "CenterPositionLon": 15.676925185993898,
+  "CenterPositionLat": 32.54346764209108
+ },
+ {
+  "ID": 230274757,
+  "Capacity": 3554,
+  "Name": "",
+  "CenterPositionLon": 15.533519527436733,
+  "CenterPositionLat": 32.558897238163965
+ },
+ {
+  "ID": 239845077,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": 15.54111935,
+  "CenterPositionLat": 32.5839677
+ },
+ {
+  "ID": 240961077,
+  "Capacity": 147,
+  "Name": "",
+  "CenterPositionLon": 15.596063827957403,
+  "CenterPositionLat": 32.53520486394655
+ },
+ {
+  "ID": 285291726,
+  "Capacity": 784,
+  "Name": "منتره القنطره",
+  "CenterPositionLon": 15.621304073667291,
+  "CenterPositionLat": 32.57804246244738
+ },
+ {
+  "ID": 285297316,
+  "Capacity": 1027,
+  "Name": "Police parik دار الشرطة",
+  "CenterPositionLon": 15.609220412476601,
+  "CenterPositionLat": 32.55478545893495
+ },
+ {
+  "ID": 310626719,
+  "Capacity": 34,
+  "Name": "",
+  "CenterPositionLon": 15.593477509165963,
+  "CenterPositionLat": 32.574767673828525
+ },
+ {
+  "ID": 310626720,
+  "Capacity": 196,
+  "Name": "",
+  "CenterPositionLon": 15.592994256686492,
+  "CenterPositionLat": 32.57719692953954
+ },
+ {
+  "ID": 310626815,
+  "Capacity": 234,
+  "Name": "",
+  "CenterPositionLon": 15.601763773635902,
+  "CenterPositionLat": 32.58716901007211
+ },
+ {
+  "ID": 310657410,
+  "Capacity": 7298,
+  "Name": "Al Riyadh Family Park",
+  "CenterPositionLon": 15.573406323702887,
+  "CenterPositionLat": 32.5591285119335
+ },
+ {
+  "ID": 314116963,
+  "Capacity": 4301,
+  "Name": "منتزه الجزيرة السياحي",
+  "CenterPositionLon": 14.388645509955747,
+  "CenterPositionLat": 33.518687857578136
+ },
+ {
+  "ID": 315431436,
+  "Capacity": 150,
+  "Name": "",
+  "CenterPositionLon": 13.54952875,
+  "CenterPositionLat": 33.606703700000004
+ },
+ {
+  "ID": 320606370,
+  "Capacity": 506,
+  "Name": "منتزه المناقل",
+  "CenterPositionLon": 14.256320101852276,
+  "CenterPositionLat": 32.9956717952217
+ },
+ {
+  "ID": 331778812,
+  "Capacity": 85,
+  "Name": "شجرة المعاشين",
+  "CenterPositionLon": 15.5779034,
+  "CenterPositionLat": 32.5318015
+ },
+ {
+  "ID": 332691604,
+  "Capacity": 4087,
+  "Name": "منتزه الدوحة العائلي",
+  "CenterPositionLon": 15.52907578658546,
+  "CenterPositionLat": 32.50566926896263
+ },
+ {
+  "ID": 342012878,
+  "Capacity": 489,
+  "Name": "",
+  "CenterPositionLon": 15.530199022149226,
+  "CenterPositionLat": 32.53416044576177
+ },
+ {
+  "ID": 344072708,
+  "Capacity": 191,
+  "Name": "",
+  "CenterPositionLon": 15.536957253304026,
+  "CenterPositionLat": 32.54248767177405
+ },
+ {
+  "ID": 421649912,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 15.600833061276337,
+  "CenterPositionLat": 32.559233079164905
+ },
+ {
+  "ID": 421649921,
+  "Capacity": 1093,
+  "Name": "",
+  "CenterPositionLon": 15.588927504495912,
+  "CenterPositionLat": 32.56122996393706
+ },
+ {
+  "ID": 435305836,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 15.585262157756015,
+  "CenterPositionLat": 32.53251421833862
+ },
+ {
+  "ID": 435305837,
+  "Capacity": 158,
+  "Name": "",
+  "CenterPositionLon": 15.585753325010266,
+  "CenterPositionLat": 32.531874945450994
+ },
+ {
+  "ID": 435305839,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 15.58453289551395,
+  "CenterPositionLat": 32.531627278421745
+ },
+ {
+  "ID": 435305840,
+  "Capacity": 102,
+  "Name": "",
+  "CenterPositionLon": 15.585283747432074,
+  "CenterPositionLat": 32.532104934122025
+ },
+ {
+  "ID": 435305841,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 15.584574338012533,
+  "CenterPositionLat": 32.53185135989654
+ },
+ {
+  "ID": 435305843,
+  "Capacity": 220,
+  "Name": "",
+  "CenterPositionLon": 15.584285525830849,
+  "CenterPositionLat": 32.531448362303564
+ },
+ {
+  "ID": 435305844,
+  "Capacity": 163,
+  "Name": "",
+  "CenterPositionLon": 15.58492861691196,
+  "CenterPositionLat": 32.53218064843884
+ },
+ {
+  "ID": 435305845,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 15.585104470047332,
+  "CenterPositionLat": 32.531590005224345
+ },
+ {
+  "ID": 435305850,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": 15.585555324464277,
+  "CenterPositionLat": 32.53199914686495
+ },
+ {
+  "ID": 435305851,
+  "Capacity": 142,
+  "Name": "",
+  "CenterPositionLon": 15.585135652188875,
+  "CenterPositionLat": 32.530719659743696
+ },
+ {
+  "ID": 435944189,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 13.170241916026159,
+  "CenterPositionLat": 30.23651529080607
+ },
+ {
+  "ID": 486318507,
+  "Capacity": 4269,
+  "Name": "الغابة الجديدة",
+  "CenterPositionLon": 14.337104860637359,
+  "CenterPositionLat": 33.159850971797276
+ },
+ {
+  "ID": 486318510,
+  "Capacity": 67226,
+  "Name": "الغابة القديمة",
+  "CenterPositionLon": 14.344173117007337,
+  "CenterPositionLat": 33.1720962149854
+ },
+ {
+  "ID": 525846517,
+  "Capacity": 348,
+  "Name": "",
+  "CenterPositionLon": 15.60209060648278,
+  "CenterPositionLat": 32.516575241809335
+ },
+ {
+  "ID": 536360786,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 13.068235511569245,
+  "CenterPositionLat": 24.33271016402134
+ },
+ {
+  "ID": 590189834,
+  "Capacity": 3163,
+  "Name": "",
+  "CenterPositionLon": 15.589005158949554,
+  "CenterPositionLat": 32.558719905095565
+ },
+ {
+  "ID": 620148777,
+  "Capacity": 2642,
+  "Name": "",
+  "CenterPositionLon": 15.446479534615468,
+  "CenterPositionLat": 36.38260297988449
+ },
+ {
+  "ID": 626454328,
+  "Capacity": 1127,
+  "Name": "",
+  "CenterPositionLon": 15.517537957723063,
+  "CenterPositionLat": 32.64880174762231
+ },
+ {
+  "ID": 627179979,
+  "Capacity": 91,
+  "Name": "",
+  "CenterPositionLon": 12.018852505265848,
+  "CenterPositionLat": 24.894769415539177
+ },
+ {
+  "ID": 627179980,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 12.018667126756354,
+  "CenterPositionLat": 24.894774998355754
+ },
+ {
+  "ID": 627179981,
+  "Capacity": 402,
+  "Name": "",
+  "CenterPositionLon": 12.01819352411785,
+  "CenterPositionLat": 24.894727763026765
+ },
+ {
+  "ID": 627179982,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 12.019097913135555,
+  "CenterPositionLat": 24.893721831554597
+ },
+ {
+  "ID": 627179983,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 12.01793969942008,
+  "CenterPositionLat": 24.893606162695757
+ },
+ {
+  "ID": 642094278,
+  "Capacity": 966,
+  "Name": "",
+  "CenterPositionLon": 15.53279275668243,
+  "CenterPositionLat": 32.56118927266996
+ },
+ {
+  "ID": 668852950,
+  "Capacity": 261,
+  "Name": "حديقة بري اللاماب",
+  "CenterPositionLon": 15.604050125267444,
+  "CenterPositionLat": 32.577227957333214
+ },
+ {
+  "ID": 724615971,
+  "Capacity": 354,
+  "Name": "",
+  "CenterPositionLon": 15.627467616450227,
+  "CenterPositionLat": 32.561563031885285
+ },
+ {
+  "ID": 793638690,
+  "Capacity": 305,
+  "Name": "ساحة العيد",
+  "CenterPositionLon": 15.097378449638738,
+  "CenterPositionLat": 33.22418078219728
+ }
+]

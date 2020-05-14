@@ -1,0 +1,135 @@
+[
+ {
+  "ID": 45770042,
+  "Capacity": 25561,
+  "Name": "Parco Lajala",
+  "CenterPositionLon": 43.96532829229103,
+  "CenterPositionLat": 12.476167168980487
+ },
+ {
+  "ID": 46696058,
+  "Capacity": 9612,
+  "Name": "Parco Ausa",
+  "CenterPositionLon": 43.97878524179653,
+  "CenterPositionLat": 12.490676272939664
+ },
+ {
+  "ID": 199417555,
+  "Capacity": 271,
+  "Name": "Parco \"Don Elviro Cardelli\"",
+  "CenterPositionLon": 43.948135489336345,
+  "CenterPositionLat": 12.468776976818495
+ },
+ {
+  "ID": 300094942,
+  "Capacity": 566,
+  "Name": "",
+  "CenterPositionLon": 43.98140398340604,
+  "CenterPositionLat": 12.490680626293853
+ },
+ {
+  "ID": 404771843,
+  "Capacity": 99,
+  "Name": "",
+  "CenterPositionLon": 43.93709577398451,
+  "CenterPositionLat": 12.445998794019284
+ },
+ {
+  "ID": 404771848,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 43.93755155258401,
+  "CenterPositionLat": 12.445883453190879
+ },
+ {
+  "ID": 501660254,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 43.952164115705294,
+  "CenterPositionLat": 12.44043959248886
+ },
+ {
+  "ID": 614075300,
+  "Capacity": 3040,
+  "Name": "Parco Montelupo",
+  "CenterPositionLon": 43.95303769892239,
+  "CenterPositionLat": 12.505625597230532
+ },
+ {
+  "ID": 766048245,
+  "Capacity": 597,
+  "Name": "",
+  "CenterPositionLon": 43.916684256084416,
+  "CenterPositionLat": 12.443912150049867
+ },
+ {
+  "ID": 766506626,
+  "Capacity": 196,
+  "Name": "",
+  "CenterPositionLon": 43.93778808241196,
+  "CenterPositionLat": 12.445131339749437
+ },
+ {
+  "ID": 766510935,
+  "Capacity": 248,
+  "Name": "Giardino dei Liburni",
+  "CenterPositionLon": 43.936767001604544,
+  "CenterPositionLat": 12.445975158419929
+ },
+ {
+  "ID": 766528197,
+  "Capacity": 256,
+  "Name": "Parco Pasquella",
+  "CenterPositionLon": 43.93350808751894,
+  "CenterPositionLat": 12.447960431491222
+ },
+ {
+  "ID": 770370670,
+  "Capacity": 945,
+  "Name": "Parco delle Fontane Azzurre",
+  "CenterPositionLon": 43.95177549770827,
+  "CenterPositionLat": 12.407229601148309
+ },
+ {
+  "ID": 770493670,
+  "Capacity": 582,
+  "Name": "",
+  "CenterPositionLon": 43.94449530399993,
+  "CenterPositionLat": 12.430118800016194
+ },
+ {
+  "ID": 770736775,
+  "Capacity": 2036,
+  "Name": "",
+  "CenterPositionLon": 43.909447591110805,
+  "CenterPositionLat": 12.483312282547061
+ },
+ {
+  "ID": 770859630,
+  "Capacity": 429,
+  "Name": "Parco Marino Nicolini 1° Maestro",
+  "CenterPositionLon": 43.94530397399105,
+  "CenterPositionLat": 12.418408239943794
+ },
+ {
+  "ID": 770859631,
+  "Capacity": 291,
+  "Name": "Parco Marino Nicolini 1° Maestro",
+  "CenterPositionLon": 43.94540591870557,
+  "CenterPositionLat": 12.41903354476784
+ },
+ {
+  "ID": 785684266,
+  "Capacity": 1479,
+  "Name": "",
+  "CenterPositionLon": 43.95022090592402,
+  "CenterPositionLat": 12.452256592012414
+ },
+ {
+  "ID": 788058589,
+  "Capacity": 1553,
+  "Name": "Parco Robert Baden-Powell",
+  "CenterPositionLon": 43.944110234381654,
+  "CenterPositionLat": 12.450601679688647
+ }
+]

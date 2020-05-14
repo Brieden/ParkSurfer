@@ -1,0 +1,989 @@
+[
+ {
+  "ID": 35841687,
+  "Capacity": 13340,
+  "Name": "",
+  "CenterPositionLon": 23.583532264534565,
+  "CenterPositionLat": 58.38972526513165
+ },
+ {
+  "ID": 35980531,
+  "Capacity": 10452,
+  "Name": "",
+  "CenterPositionLon": 23.61607352357347,
+  "CenterPositionLat": 58.465522992134815
+ },
+ {
+  "ID": 35993003,
+  "Capacity": 2270,
+  "Name": "",
+  "CenterPositionLon": 23.628801484781004,
+  "CenterPositionLat": 58.48320204755782
+ },
+ {
+  "ID": 36068411,
+  "Capacity": 1781,
+  "Name": "",
+  "CenterPositionLon": 23.583782607640362,
+  "CenterPositionLat": 58.430804959358376
+ },
+ {
+  "ID": 36875168,
+  "Capacity": 3048,
+  "Name": "Ad Dahariz Park",
+  "CenterPositionLon": 17.012787861656253,
+  "CenterPositionLat": 54.17171782874164
+ },
+ {
+  "ID": 41445529,
+  "Capacity": 1138,
+  "Name": "",
+  "CenterPositionLon": 23.595849374953158,
+  "CenterPositionLat": 58.54987387675942
+ },
+ {
+  "ID": 42002900,
+  "Capacity": 1737,
+  "Name": "",
+  "CenterPositionLon": 23.616868766766327,
+  "CenterPositionLat": 58.51360976569703
+ },
+ {
+  "ID": 43524806,
+  "Capacity": 4482,
+  "Name": "",
+  "CenterPositionLon": 23.597616517261734,
+  "CenterPositionLat": 58.43169986030986
+ },
+ {
+  "ID": 46629743,
+  "Capacity": 2198,
+  "Name": "Riyam Park",
+  "CenterPositionLon": 23.621904635983064,
+  "CenterPositionLat": 58.57762957242946
+ },
+ {
+  "ID": 47322772,
+  "Capacity": 2317,
+  "Name": "",
+  "CenterPositionLon": 23.59074679046731,
+  "CenterPositionLat": 58.16219657700909
+ },
+ {
+  "ID": 47322858,
+  "Capacity": 858,
+  "Name": "",
+  "CenterPositionLon": 23.590800730849036,
+  "CenterPositionLat": 58.16420297719124
+ },
+ {
+  "ID": 66647557,
+  "Capacity": 1525,
+  "Name": "",
+  "CenterPositionLon": 23.61629723337247,
+  "CenterPositionLat": 58.594785807445284
+ },
+ {
+  "ID": 87739706,
+  "Capacity": 10585,
+  "Name": "Sallan Silver Jubilee Park",
+  "CenterPositionLon": 24.405659284137318,
+  "CenterPositionLat": 56.71549273323491
+ },
+ {
+  "ID": 87822088,
+  "Capacity": 850,
+  "Name": "",
+  "CenterPositionLon": 24.362613343006654,
+  "CenterPositionLat": 56.74892709761039
+ },
+ {
+  "ID": 89251035,
+  "Capacity": 39409,
+  "Name": "Khareef Festival Area",
+  "CenterPositionLon": 17.038501368576654,
+  "CenterPositionLat": 54.05618596607361
+ },
+ {
+  "ID": 92785608,
+  "Capacity": 209,
+  "Name": "",
+  "CenterPositionLon": 24.361947111937653,
+  "CenterPositionLat": 56.750823979942524
+ },
+ {
+  "ID": 119304774,
+  "Capacity": 1900,
+  "Name": "",
+  "CenterPositionLon": 23.600940250747612,
+  "CenterPositionLat": 58.40182850738895
+ },
+ {
+  "ID": 119304786,
+  "Capacity": 1311,
+  "Name": "",
+  "CenterPositionLon": 23.58814647546004,
+  "CenterPositionLat": 58.384840596568814
+ },
+ {
+  "ID": 128723736,
+  "Capacity": 934,
+  "Name": "",
+  "CenterPositionLon": 23.588726028173777,
+  "CenterPositionLat": 58.42929080982605
+ },
+ {
+  "ID": 129519784,
+  "Capacity": 2940,
+  "Name": "Wadi Kabir Park",
+  "CenterPositionLon": 23.583100842751847,
+  "CenterPositionLat": 58.56022481363022
+ },
+ {
+  "ID": 130277073,
+  "Capacity": 14947,
+  "Name": "Al Sahwa Park",
+  "CenterPositionLon": 23.591024887232635,
+  "CenterPositionLat": 58.248856469584936
+ },
+ {
+  "ID": 132783281,
+  "Capacity": 223,
+  "Name": "",
+  "CenterPositionLon": 23.58261185,
+  "CenterPositionLat": 58.43435905
+ },
+ {
+  "ID": 147641941,
+  "Capacity": 2401,
+  "Name": "منتزة الخوض",
+  "CenterPositionLon": 23.65352479556323,
+  "CenterPositionLat": 58.20424551774638
+ },
+ {
+  "ID": 160281653,
+  "Capacity": 1969,
+  "Name": "",
+  "CenterPositionLon": 23.61024199839963,
+  "CenterPositionLat": 58.49409128503546
+ },
+ {
+  "ID": 178311522,
+  "Capacity": 140,
+  "Name": "",
+  "CenterPositionLon": 23.596825350869786,
+  "CenterPositionLat": 58.544602116069385
+ },
+ {
+  "ID": 178436208,
+  "Capacity": 1101,
+  "Name": "",
+  "CenterPositionLon": 23.618814365191124,
+  "CenterPositionLat": 58.539424888297724
+ },
+ {
+  "ID": 180540491,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 23.59884850889833,
+  "CenterPositionLat": 58.42407216577427
+ },
+ {
+  "ID": 180540498,
+  "Capacity": 1691,
+  "Name": "",
+  "CenterPositionLon": 23.597544575765873,
+  "CenterPositionLat": 58.421450239019066
+ },
+ {
+  "ID": 199894881,
+  "Capacity": 108,
+  "Name": "",
+  "CenterPositionLon": 24.23647231047689,
+  "CenterPositionLat": 55.78904708935776
+ },
+ {
+  "ID": 199894980,
+  "Capacity": 32,
+  "Name": "",
+  "CenterPositionLon": 24.23621145171319,
+  "CenterPositionLat": 55.78974260377928
+ },
+ {
+  "ID": 199894991,
+  "Capacity": 211,
+  "Name": "",
+  "CenterPositionLon": 24.236905721956237,
+  "CenterPositionLat": 55.78954821616398
+ },
+ {
+  "ID": 199895003,
+  "Capacity": 49,
+  "Name": "",
+  "CenterPositionLon": 24.236829252748578,
+  "CenterPositionLat": 55.78972206234046
+ },
+ {
+  "ID": 200258509,
+  "Capacity": 2403,
+  "Name": "حديقة كلبه",
+  "CenterPositionLon": 23.62340224199862,
+  "CenterPositionLat": 58.585401374050896
+ },
+ {
+  "ID": 200258594,
+  "Capacity": 3606,
+  "Name": "Riyam Park",
+  "CenterPositionLon": 23.62300065528584,
+  "CenterPositionLat": 58.57912133291089
+ },
+ {
+  "ID": 202694522,
+  "Capacity": 290,
+  "Name": "",
+  "CenterPositionLon": 26.157330551519184,
+  "CenterPositionLat": 56.16745416075871
+ },
+ {
+  "ID": 202694531,
+  "Capacity": 646,
+  "Name": "",
+  "CenterPositionLon": 26.161756868434072,
+  "CenterPositionLat": 56.172356417525755
+ },
+ {
+  "ID": 202694535,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 26.1628749997318,
+  "CenterPositionLat": 56.17068445141395
+ },
+ {
+  "ID": 202694560,
+  "Capacity": 625,
+  "Name": "",
+  "CenterPositionLon": 26.157398907976198,
+  "CenterPositionLat": 56.169322657699475
+ },
+ {
+  "ID": 205344780,
+  "Capacity": 721,
+  "Name": "Ain Garziz Spring",
+  "CenterPositionLon": 17.10630791240967,
+  "CenterPositionLat": 54.07513041492679
+ },
+ {
+  "ID": 220563284,
+  "Capacity": 1593,
+  "Name": "حديقة الخابورة",
+  "CenterPositionLon": 23.975804403905375,
+  "CenterPositionLat": 57.09629342095248
+ },
+ {
+  "ID": 221154286,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": 23.603714487511887,
+  "CenterPositionLat": 58.224426077411664
+ },
+ {
+  "ID": 222264325,
+  "Capacity": 1791,
+  "Name": "Izki Park",
+  "CenterPositionLon": 22.919212796753627,
+  "CenterPositionLat": 57.769324430202865
+ },
+ {
+  "ID": 222340044,
+  "Capacity": 664,
+  "Name": "",
+  "CenterPositionLon": 23.594968881832276,
+  "CenterPositionLat": 58.436631205132834
+ },
+ {
+  "ID": 222520361,
+  "Capacity": 424,
+  "Name": "حديقة سمائل",
+  "CenterPositionLon": 23.292040316677877,
+  "CenterPositionLat": 57.962890276228514
+ },
+ {
+  "ID": 223138488,
+  "Capacity": 787,
+  "Name": "",
+  "CenterPositionLon": 22.943757858691846,
+  "CenterPositionLat": 57.75911974687258
+ },
+ {
+  "ID": 224449382,
+  "Capacity": 500,
+  "Name": "",
+  "CenterPositionLon": 23.596294939774648,
+  "CenterPositionLat": 58.42222484745707
+ },
+ {
+  "ID": 224458035,
+  "Capacity": 6323,
+  "Name": "حديقة صحار الترفيهية",
+  "CenterPositionLon": 24.33927185,
+  "CenterPositionLat": 56.684582
+ },
+ {
+  "ID": 232018391,
+  "Capacity": 104,
+  "Name": "",
+  "CenterPositionLon": 22.941948453014103,
+  "CenterPositionLat": 57.77787365001815
+ },
+ {
+  "ID": 238572756,
+  "Capacity": 78,
+  "Name": "",
+  "CenterPositionLon": 22.875172521176836,
+  "CenterPositionLat": 57.531986739891686
+ },
+ {
+  "ID": 240972507,
+  "Capacity": 5714,
+  "Name": "As Saadah Park",
+  "CenterPositionLon": 17.075832723200254,
+  "CenterPositionLat": 54.15329149856491
+ },
+ {
+  "ID": 241057959,
+  "Capacity": 524,
+  "Name": "",
+  "CenterPositionLon": 19.623500021069372,
+  "CenterPositionLat": 57.62951693712966
+ },
+ {
+  "ID": 242904688,
+  "Capacity": 835,
+  "Name": "",
+  "CenterPositionLon": 23.61266578213052,
+  "CenterPositionLat": 58.24735265778716
+ },
+ {
+  "ID": 249439291,
+  "Capacity": 1207,
+  "Name": "Athaiba Public Park",
+  "CenterPositionLon": 23.592140092866586,
+  "CenterPositionLat": 58.368516766435654
+ },
+ {
+  "ID": 250229433,
+  "Capacity": 748,
+  "Name": "",
+  "CenterPositionLon": 23.60121546784916,
+  "CenterPositionLat": 58.40727425325344
+ },
+ {
+  "ID": 257122236,
+  "Capacity": 5649,
+  "Name": "",
+  "CenterPositionLon": 23.255657473406487,
+  "CenterPositionLat": 58.91287477230318
+ },
+ {
+  "ID": 257266841,
+  "Capacity": 17615,
+  "Name": "حديقة القرم الطبيعية",
+  "CenterPositionLon": 23.61827997087086,
+  "CenterPositionLat": 58.48910221793046
+ },
+ {
+  "ID": 257634577,
+  "Capacity": 504,
+  "Name": "",
+  "CenterPositionLon": 23.56507585,
+  "CenterPositionLat": 58.33452425
+ },
+ {
+  "ID": 261060442,
+  "Capacity": 274,
+  "Name": "The Wave Beach Garden",
+  "CenterPositionLon": 23.625152866434306,
+  "CenterPositionLat": 58.274242212663964
+ },
+ {
+  "ID": 261060844,
+  "Capacity": 367,
+  "Name": "",
+  "CenterPositionLon": 23.623464023020027,
+  "CenterPositionLat": 58.27076511481404
+ },
+ {
+  "ID": 284803713,
+  "Capacity": 337,
+  "Name": "",
+  "CenterPositionLon": 23.495214802225586,
+  "CenterPositionLat": 58.50337006676204
+ },
+ {
+  "ID": 286423424,
+  "Capacity": 24523,
+  "Name": "Naseem Garden",
+  "CenterPositionLon": 23.69378871111085,
+  "CenterPositionLat": 58.04538320477725
+ },
+ {
+  "ID": 287310284,
+  "Capacity": 11402,
+  "Name": "Al Amerat Park",
+  "CenterPositionLon": 23.510308462830967,
+  "CenterPositionLat": 58.503375507770386
+ },
+ {
+  "ID": 295873464,
+  "Capacity": 1106,
+  "Name": "",
+  "CenterPositionLon": 19.962588002933657,
+  "CenterPositionLat": 56.28562031794302
+ },
+ {
+  "ID": 303402979,
+  "Capacity": 388,
+  "Name": "",
+  "CenterPositionLon": 22.54679043384062,
+  "CenterPositionLat": 59.48127776384604
+ },
+ {
+  "ID": 316802695,
+  "Capacity": 950,
+  "Name": "Falcon Park",
+  "CenterPositionLon": 22.325753211547227,
+  "CenterPositionLat": 56.49603461849637
+ },
+ {
+  "ID": 319480000,
+  "Capacity": 2473,
+  "Name": "Park",
+  "CenterPositionLon": 23.581037865575087,
+  "CenterPositionLat": 58.60277412223753
+ },
+ {
+  "ID": 326922459,
+  "Capacity": 14667,
+  "Name": "Taqah Public Garden",
+  "CenterPositionLon": 17.0577573022966,
+  "CenterPositionLat": 54.397315130349284
+ },
+ {
+  "ID": 327824676,
+  "Capacity": 12345,
+  "Name": "حديقة البريمي العامة",
+  "CenterPositionLon": 24.26150373350467,
+  "CenterPositionLat": 55.807268380804565
+ },
+ {
+  "ID": 328762513,
+  "Capacity": 1586,
+  "Name": "",
+  "CenterPositionLon": 22.6093966399584,
+  "CenterPositionLat": 59.4426037707495
+ },
+ {
+  "ID": 344195445,
+  "Capacity": 309,
+  "Name": "مزارع",
+  "CenterPositionLon": 17.062453502035144,
+  "CenterPositionLat": 54.150881038181076
+ },
+ {
+  "ID": 344219874,
+  "Capacity": 11128,
+  "Name": "حديقة صلالة العامة",
+  "CenterPositionLon": 17.012536514402555,
+  "CenterPositionLat": 54.07099751327865
+ },
+ {
+  "ID": 344636042,
+  "Capacity": 337,
+  "Name": "مزرعة",
+  "CenterPositionLon": 17.0593095,
+  "CenterPositionLat": 54.1518248
+ },
+ {
+  "ID": 344935352,
+  "Capacity": 725,
+  "Name": "شليم",
+  "CenterPositionLon": 18.10035411398003,
+  "CenterPositionLat": 55.64020571973384
+ },
+ {
+  "ID": 344935439,
+  "Capacity": 2759,
+  "Name": "مزرعة",
+  "CenterPositionLon": 17.098700149838464,
+  "CenterPositionLat": 54.22991536664083
+ },
+ {
+  "ID": 348657075,
+  "Capacity": 5119,
+  "Name": "Mirbat Public Garden",
+  "CenterPositionLon": 16.98826684648354,
+  "CenterPositionLat": 54.70444094168513
+ },
+ {
+  "ID": 364856048,
+  "Capacity": 622,
+  "Name": "حديقة البلدية",
+  "CenterPositionLon": 23.209969343491693,
+  "CenterPositionLat": 56.52455422717389
+ },
+ {
+  "ID": 364886302,
+  "Capacity": 1927,
+  "Name": "منتزة حي العقبة",
+  "CenterPositionLon": 23.22956170783353,
+  "CenterPositionLat": 56.522522201198
+ },
+ {
+  "ID": 367372217,
+  "Capacity": 698,
+  "Name": "حديقة نزوى",
+  "CenterPositionLon": 22.97194569441266,
+  "CenterPositionLat": 57.54926274192996
+ },
+ {
+  "ID": 370547936,
+  "Capacity": 577,
+  "Name": "",
+  "CenterPositionLon": 22.9168846335371,
+  "CenterPositionLat": 57.255528977672974
+ },
+ {
+  "ID": 370547937,
+  "Capacity": 2345,
+  "Name": "مزرعة بهلا",
+  "CenterPositionLon": 22.989403856442337,
+  "CenterPositionLat": 57.30977825437373
+ },
+ {
+  "ID": 372749185,
+  "Capacity": 633,
+  "Name": "",
+  "CenterPositionLon": 23.55038392924276,
+  "CenterPositionLat": 56.24484729470765
+ },
+ {
+  "ID": 377851538,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 23.67193404264812,
+  "CenterPositionLat": 58.20782336228969
+ },
+ {
+  "ID": 377851539,
+  "Capacity": 56,
+  "Name": "",
+  "CenterPositionLon": 23.67169983796813,
+  "CenterPositionLat": 58.208120785982004
+ },
+ {
+  "ID": 444286377,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 23.60322067106749,
+  "CenterPositionLat": 58.46859476024515
+ },
+ {
+  "ID": 444286379,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 23.60329444338007,
+  "CenterPositionLat": 58.46921837115432
+ },
+ {
+  "ID": 444286380,
+  "Capacity": 131,
+  "Name": "",
+  "CenterPositionLon": 23.603368150509443,
+  "CenterPositionLat": 58.4679885655105
+ },
+ {
+  "ID": 444287333,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 23.60154161524245,
+  "CenterPositionLat": 58.477287394105126
+ },
+ {
+  "ID": 451502868,
+  "Capacity": 266,
+  "Name": "",
+  "CenterPositionLon": 23.61306802260786,
+  "CenterPositionLat": 58.59146534530706
+ },
+ {
+  "ID": 451502873,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 23.612432062740318,
+  "CenterPositionLat": 58.592775493156935
+ },
+ {
+  "ID": 454448098,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 23.622588588760674,
+  "CenterPositionLat": 58.572904070522576
+ },
+ {
+  "ID": 454448100,
+  "Capacity": 126,
+  "Name": "",
+  "CenterPositionLon": 23.6223864317595,
+  "CenterPositionLat": 58.573927446236304
+ },
+ {
+  "ID": 455887695,
+  "Capacity": 369,
+  "Name": "",
+  "CenterPositionLon": 23.576453992682808,
+  "CenterPositionLat": 58.603785124599106
+ },
+ {
+  "ID": 455949339,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 23.614211417513065,
+  "CenterPositionLat": 58.594921120397274
+ },
+ {
+  "ID": 455949340,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 23.614120631743496,
+  "CenterPositionLat": 58.59543012014209
+ },
+ {
+  "ID": 457369496,
+  "Capacity": 1547,
+  "Name": "",
+  "CenterPositionLon": 23.621839147336285,
+  "CenterPositionLat": 58.5733423031642
+ },
+ {
+  "ID": 458158947,
+  "Capacity": 424575,
+  "Name": "Duqm Rock Garden",
+  "CenterPositionLon": 19.64145660654691,
+  "CenterPositionLat": 57.65653426618856
+ },
+ {
+  "ID": 463181091,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 17.674171767569504,
+  "CenterPositionLat": 54.0384004004144
+ },
+ {
+  "ID": 463181092,
+  "Capacity": 216,
+  "Name": "",
+  "CenterPositionLon": 17.674480198164435,
+  "CenterPositionLat": 54.03834783607401
+ },
+ {
+  "ID": 463181691,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 17.67312865,
+  "CenterPositionLat": 54.03491525
+ },
+ {
+  "ID": 469274207,
+  "Capacity": 104,
+  "Name": "Al nitin park",
+  "CenterPositionLon": 23.592935505481485,
+  "CenterPositionLat": 58.422591998614216
+ },
+ {
+  "ID": 480054816,
+  "Capacity": 172,
+  "Name": "Marsa Plaza",
+  "CenterPositionLon": 23.630421098884394,
+  "CenterPositionLat": 58.26710931888721
+ },
+ {
+  "ID": 486630721,
+  "Capacity": 922,
+  "Name": "",
+  "CenterPositionLon": 24.20027989184338,
+  "CenterPositionLat": 56.84536511536774
+ },
+ {
+  "ID": 496961335,
+  "Capacity": 1002,
+  "Name": "",
+  "CenterPositionLon": 16.70851030955755,
+  "CenterPositionLat": 53.26138153490101
+ },
+ {
+  "ID": 498162206,
+  "Capacity": 1258,
+  "Name": "",
+  "CenterPositionLon": 22.99943806915832,
+  "CenterPositionLat": 57.14793313687463
+ },
+ {
+  "ID": 505303129,
+  "Capacity": 872,
+  "Name": "منتزه رخيوت",
+  "CenterPositionLon": 16.748434565654208,
+  "CenterPositionLat": 53.42194404767376
+ },
+ {
+  "ID": 506741551,
+  "Capacity": 358,
+  "Name": "",
+  "CenterPositionLon": 23.57887928976264,
+  "CenterPositionLat": 58.404666048605705
+ },
+ {
+  "ID": 508318099,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 17.0101139293638,
+  "CenterPositionLat": 54.09454032194725
+ },
+ {
+  "ID": 508318101,
+  "Capacity": 291,
+  "Name": "",
+  "CenterPositionLon": 17.009975010893726,
+  "CenterPositionLat": 54.095272840228425
+ },
+ {
+  "ID": 526504770,
+  "Capacity": 1977,
+  "Name": "Firqat al-Arabi",
+  "CenterPositionLon": 22.780873244981784,
+  "CenterPositionLat": 57.583065399490046
+ },
+ {
+  "ID": 526504772,
+  "Capacity": 0,
+  "Name": "Tanur",
+  "CenterPositionLon": 22.781974892678797,
+  "CenterPositionLat": 57.59214408606146
+ },
+ {
+  "ID": 539906370,
+  "Capacity": 10950,
+  "Name": "",
+  "CenterPositionLon": 23.035917212862067,
+  "CenterPositionLat": 59.07196787390609
+ },
+ {
+  "ID": 547412850,
+  "Capacity": 553,
+  "Name": "Hilton Salalah",
+  "CenterPositionLon": 16.98097058460661,
+  "CenterPositionLat": 54.015650399143354
+ },
+ {
+  "ID": 547963323,
+  "Capacity": 12092,
+  "Name": "",
+  "CenterPositionLon": 17.070034708627823,
+  "CenterPositionLat": 54.06497569018933
+ },
+ {
+  "ID": 547963330,
+  "Capacity": 4617,
+  "Name": "",
+  "CenterPositionLon": 17.06503978841039,
+  "CenterPositionLat": 54.067292470646926
+ },
+ {
+  "ID": 548584188,
+  "Capacity": 321,
+  "Name": "",
+  "CenterPositionLon": 17.008863880436905,
+  "CenterPositionLat": 54.13504144705555
+ },
+ {
+  "ID": 548584190,
+  "Capacity": 151,
+  "Name": "",
+  "CenterPositionLon": 17.00912686770022,
+  "CenterPositionLat": 54.135340161574106
+ },
+ {
+  "ID": 548584203,
+  "Capacity": 271,
+  "Name": "",
+  "CenterPositionLon": 17.0088875198442,
+  "CenterPositionLat": 54.136184653267094
+ },
+ {
+  "ID": 549509942,
+  "Capacity": 560,
+  "Name": "",
+  "CenterPositionLon": 23.619427370175334,
+  "CenterPositionLat": 58.094287925643535
+ },
+ {
+  "ID": 550058798,
+  "Capacity": 326,
+  "Name": "",
+  "CenterPositionLon": 23.611954173263403,
+  "CenterPositionLat": 58.11494268227469
+ },
+ {
+  "ID": 550058799,
+  "Capacity": 1046,
+  "Name": "",
+  "CenterPositionLon": 23.613688785918804,
+  "CenterPositionLat": 58.1290676260045
+ },
+ {
+  "ID": 550058801,
+  "Capacity": 423,
+  "Name": "",
+  "CenterPositionLon": 23.62464263090186,
+  "CenterPositionLat": 58.11425083634965
+ },
+ {
+  "ID": 550376324,
+  "Capacity": 121,
+  "Name": "",
+  "CenterPositionLon": 23.655451454118705,
+  "CenterPositionLat": 58.12587183894298
+ },
+ {
+  "ID": 551986584,
+  "Capacity": 733,
+  "Name": "",
+  "CenterPositionLon": 23.21662747443863,
+  "CenterPositionLat": 58.88359346471575
+ },
+ {
+  "ID": 555113153,
+  "Capacity": 798,
+  "Name": "",
+  "CenterPositionLon": 17.022260702608534,
+  "CenterPositionLat": 54.07722447966941
+ },
+ {
+  "ID": 565166625,
+  "Capacity": 489,
+  "Name": "",
+  "CenterPositionLon": 24.2506818,
+  "CenterPositionLat": 56.6832355
+ },
+ {
+  "ID": 565166627,
+  "Capacity": 471,
+  "Name": "",
+  "CenterPositionLon": 24.25687202451137,
+  "CenterPositionLat": 56.686990033403006
+ },
+ {
+  "ID": 566691932,
+  "Capacity": 2503,
+  "Name": "",
+  "CenterPositionLon": 23.603320494756925,
+  "CenterPositionLat": 58.404806465524636
+ },
+ {
+  "ID": 567465507,
+  "Capacity": 344,
+  "Name": "",
+  "CenterPositionLon": 22.494744056061908,
+  "CenterPositionLat": 58.93683242676438
+ },
+ {
+  "ID": 569707903,
+  "Capacity": 1831,
+  "Name": "حديقة مرتفعات الانصب",
+  "CenterPositionLon": 23.55272046987235,
+  "CenterPositionLat": 58.34524077374529
+ },
+ {
+  "ID": 572397355,
+  "Capacity": 3771,
+  "Name": "Rustaq Garden",
+  "CenterPositionLon": 23.43989717639707,
+  "CenterPositionLat": 57.41266910670915
+ },
+ {
+  "ID": 572409258,
+  "Capacity": 11046,
+  "Name": "Ibra Park",
+  "CenterPositionLon": 22.773383412819225,
+  "CenterPositionLat": 58.496439445830056
+ },
+ {
+  "ID": 585036420,
+  "Capacity": 437,
+  "Name": "Bawshar Heights Park",
+  "CenterPositionLon": 23.561923191206784,
+  "CenterPositionLat": 58.38394639823406
+ },
+ {
+  "ID": 664887795,
+  "Capacity": 2066,
+  "Name": "",
+  "CenterPositionLon": 22.513165380140695,
+  "CenterPositionLat": 58.9468404100198
+ },
+ {
+  "ID": 695592123,
+  "Capacity": 263,
+  "Name": "",
+  "CenterPositionLon": 23.089103844769756,
+  "CenterPositionLat": 58.85053568757693
+ },
+ {
+  "ID": 696898447,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 23.61483256004451,
+  "CenterPositionLat": 58.594078050317336
+ },
+ {
+  "ID": 696898451,
+  "Capacity": 70,
+  "Name": "",
+  "CenterPositionLon": 23.61462583849402,
+  "CenterPositionLat": 58.594883215645616
+ },
+ {
+  "ID": 696898453,
+  "Capacity": 33,
+  "Name": "",
+  "CenterPositionLon": 23.614525211048743,
+  "CenterPositionLat": 58.59384130506489
+ },
+ {
+  "ID": 709610469,
+  "Capacity": 199,
+  "Name": "",
+  "CenterPositionLon": 23.57466166512574,
+  "CenterPositionLat": 58.396421298154024
+ },
+ {
+  "ID": 710098911,
+  "Capacity": 2780,
+  "Name": "",
+  "CenterPositionLon": 24.436466851653837,
+  "CenterPositionLat": 56.61591024109011
+ },
+ {
+  "ID": 791143671,
+  "Capacity": 7440,
+  "Name": "",
+  "CenterPositionLon": 22.304770097919068,
+  "CenterPositionLat": 57.498755118749735
+ },
+ {
+  "ID": 798501800,
+  "Capacity": 4831,
+  "Name": "",
+  "CenterPositionLon": 19.5540563326206,
+  "CenterPositionLat": 57.623990021383314
+ }
+]

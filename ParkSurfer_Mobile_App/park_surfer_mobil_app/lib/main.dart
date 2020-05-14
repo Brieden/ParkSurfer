@@ -15,7 +15,6 @@ import 'package:geolocator/geolocator.dart';
 class Park {
   final int id;
   final int capacity;
-  int demand;
   final String name;
   final num centerPositionLon;
   final num centerPositionLat;
@@ -23,7 +22,6 @@ class Park {
   Park(
       {this.id,
       this.capacity,
-      this.demand,
       this.centerPositionLat,
       this.centerPositionLon,
       this.name});
@@ -32,7 +30,6 @@ class Park {
     return Park(
       id: json['ID'] as int,
       capacity: json['Capacity'] as int,
-      demand: json['Demand'] as int,
       name: json['Name'] as String,
       centerPositionLat: json['CenterPositionLat'] as num,
       centerPositionLon: json['CenterPositionLon'] as num,
@@ -45,8 +42,6 @@ List<Park> parseParks(String responseBody) {
 
   return parsed.map<Park>((json) => Park.fromJson(json)).toList();
 }
-
-var path = "assets/CR.json";
 
 Future<String> _loadAParkAsset(path) async {
   return await rootBundle.loadString(path);
@@ -147,16 +142,14 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
           ),
           onTap: () {
             print("Booked");
-            einPark.demand += 1;
             _scaffoldKey.currentState.hideCurrentSnackBar();
             newSnackBar(einPark, distanceForName);
           },
           title: einPark.name.isEmpty ? Text('Park') : Text(einPark.name),
-          subtitle: Text("Demand: " +
-              einPark.demand.toString() +
-              "/" +
+          subtitle: Text("capacity: " +
               einPark.capacity.toString() +
-              " Distance: " +
+              "웃"
+                  " Distance: " +
               distanceForName +
               "\nClick to Book"),
           isThreeLine: true,
@@ -175,7 +168,7 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
         width: 50.0,
         height: 50.0,
         point: LatLng(einPark.centerPositionLon, einPark.centerPositionLat),
-        anchorPos: AnchorPos.align(AnchorAlign.top),
+//        anchorPos: AnchorPos.align(AnchorAlign.top),
         builder: (ctx) => Container(
             child: GestureDetector(
           onTap: () {
@@ -198,12 +191,15 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
             }
           },
           child: Icon(
-            Icons.person_pin_circle,
+            Icons.nature,
             size: 50.0,
             color: Colors.green.withOpacity(0.7),
           ),
         )),
       ));
+    }
+    if (currentPosition.hashCode != 2011) {
+      setUserMarker(currentPosition);
     }
   }
 
@@ -378,8 +374,13 @@ class MapPageState extends State<MapPage> with TickerProviderStateMixin {
     List<Placemark> placemark = await Geolocator()
         .placemarkFromCoordinates(position.latitude, position.longitude);
     var geoCode = placemark.first.isoCountryCode;
-    setUserMarker(position);
     _scaffoldKey.currentState.hideCurrentSnackBar();
+    _loadPark("assets/parkinformation/" + geoCode + ".json").then((value) {
+      _addMarkerFromList(value);
+      setState(() {
+        markers = List.from(markers);
+      });
+    });
     return LatLng(position.latitude, position.longitude);
   }
 

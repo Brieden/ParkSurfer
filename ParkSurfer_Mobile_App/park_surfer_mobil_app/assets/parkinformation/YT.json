@@ -1,0 +1,23 @@
+[
+ {
+  "ID": 170889282,
+  "Capacity": 13342,
+  "Name": "Parc Aménagé \"Pointe Mahabou\"",
+  "CenterPositionLon": -12.783532070607878,
+  "CenterPositionLat": 45.23659643312218
+ },
+ {
+  "ID": 249526937,
+  "Capacity": 2010,
+  "Name": "Jardin Botanique de Coconi",
+  "CenterPositionLon": -12.834513328475094,
+  "CenterPositionLat": 45.13424870854538
+ },
+ {
+  "ID": 643122385,
+  "Capacity": 5087,
+  "Name": "Parc forestier de Coconi",
+  "CenterPositionLon": -12.83232652364111,
+  "CenterPositionLat": 45.13699835362695
+ }
+]

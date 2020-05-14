@@ -1,0 +1,5707 @@
+[
+ {
+  "ID": 4394231,
+  "Capacity": 689,
+  "Name": "Vašingtona laukums",
+  "CenterPositionLon": 56.96224509915931,
+  "CenterPositionLat": 24.09932055966995
+ },
+ {
+  "ID": 4394232,
+  "Capacity": 14225,
+  "Name": "Viesturdārzs",
+  "CenterPositionLon": 56.96367741050602,
+  "CenterPositionLat": 24.100933169375523
+ },
+ {
+  "ID": 4394233,
+  "Capacity": 25124,
+  "Name": "Kronvalda parks",
+  "CenterPositionLon": 56.956460365240034,
+  "CenterPositionLat": 24.104674644034827
+ },
+ {
+  "ID": 4411857,
+  "Capacity": 7934,
+  "Name": "",
+  "CenterPositionLon": 56.95007085907318,
+  "CenterPositionLat": 24.114431093076337
+ },
+ {
+  "ID": 4469063,
+  "Capacity": 36566,
+  "Name": "Rīgas Zooloģiskais dārzs",
+  "CenterPositionLon": 57.0079861919422,
+  "CenterPositionLat": 24.16157134289967
+ },
+ {
+  "ID": 4643267,
+  "Capacity": 1520,
+  "Name": "",
+  "CenterPositionLon": 56.95879864322115,
+  "CenterPositionLat": 24.099059977899003
+ },
+ {
+  "ID": 5168942,
+  "Capacity": 3423,
+  "Name": "",
+  "CenterPositionLon": 56.94797325363576,
+  "CenterPositionLat": 24.117070916250107
+ },
+ {
+  "ID": 8085767,
+  "Capacity": 13149,
+  "Name": "",
+  "CenterPositionLon": 56.95240276053226,
+  "CenterPositionLat": 24.110041415854617
+ },
+ {
+  "ID": 8096374,
+  "Capacity": 485,
+  "Name": "",
+  "CenterPositionLon": 57.39230866546468,
+  "CenterPositionLat": 21.56383737036175
+ },
+ {
+  "ID": 8096375,
+  "Capacity": 2263,
+  "Name": "Jaunpilsētas laukums",
+  "CenterPositionLon": 57.39052951412005,
+  "CenterPositionLat": 21.563604141683992
+ },
+ {
+  "ID": 8096376,
+  "Capacity": 6120,
+  "Name": "Lielais laukums",
+  "CenterPositionLon": 57.38853661818418,
+  "CenterPositionLat": 21.56369180696694
+ },
+ {
+  "ID": 10212346,
+  "Capacity": 2116,
+  "Name": "",
+  "CenterPositionLon": 57.39016115981859,
+  "CenterPositionLat": 21.545739880117054
+ },
+ {
+  "ID": 12994960,
+  "Capacity": 21909,
+  "Name": "Grīziņkalns",
+  "CenterPositionLon": 56.95834390227581,
+  "CenterPositionLat": 24.154949642828562
+ },
+ {
+  "ID": 23002915,
+  "Capacity": 26690,
+  "Name": "Reņķa dārzs",
+  "CenterPositionLon": 57.38441074926834,
+  "CenterPositionLat": 21.571363873315818
+ },
+ {
+  "ID": 23258294,
+  "Capacity": 2819,
+  "Name": "",
+  "CenterPositionLon": 57.397229482852154,
+  "CenterPositionLat": 21.592130998657005
+ },
+ {
+  "ID": 23359003,
+  "Capacity": 792,
+  "Name": "Amatnieku laukums",
+  "CenterPositionLon": 57.39522567498422,
+  "CenterPositionLat": 21.564721567206323
+ },
+ {
+  "ID": 23360771,
+  "Capacity": 2328,
+  "Name": "",
+  "CenterPositionLon": 57.39625038869259,
+  "CenterPositionLat": 21.55894129366388
+ },
+ {
+  "ID": 23360824,
+  "Capacity": 539,
+  "Name": "",
+  "CenterPositionLon": 57.39709382679655,
+  "CenterPositionLat": 21.562383173394192
+ },
+ {
+  "ID": 23360943,
+  "Capacity": 532,
+  "Name": "Tirgoņu dārzs",
+  "CenterPositionLon": 57.398444780889186,
+  "CenterPositionLat": 21.568545787415413
+ },
+ {
+  "ID": 23361145,
+  "Capacity": 1671,
+  "Name": "Dzirnavu laukums",
+  "CenterPositionLon": 57.39252627214581,
+  "CenterPositionLat": 21.5629714285652
+ },
+ {
+  "ID": 23361822,
+  "Capacity": 513,
+  "Name": "",
+  "CenterPositionLon": 57.394467964356274,
+  "CenterPositionLat": 21.552038113649736
+ },
+ {
+  "ID": 23640452,
+  "Capacity": 24677,
+  "Name": "",
+  "CenterPositionLon": 55.899635497055854,
+  "CenterPositionLat": 27.159871667718694
+ },
+ {
+  "ID": 23705291,
+  "Capacity": 1829,
+  "Name": "",
+  "CenterPositionLon": 57.3869021978439,
+  "CenterPositionLat": 21.566896685984815
+ },
+ {
+  "ID": 23903974,
+  "Capacity": 87051,
+  "Name": "Uzvaras parks",
+  "CenterPositionLon": 56.93874494408208,
+  "CenterPositionLat": 24.085152836288845
+ },
+ {
+  "ID": 24008513,
+  "Capacity": 14619,
+  "Name": "Arkādijas parks",
+  "CenterPositionLon": 56.932008025949195,
+  "CenterPositionLat": 24.085527767773026
+ },
+ {
+  "ID": 24008955,
+  "Capacity": 2838,
+  "Name": "Jaunatnes dārzs",
+  "CenterPositionLon": 56.94031658703493,
+  "CenterPositionLat": 24.069128618841766
+ },
+ {
+  "ID": 24537981,
+  "Capacity": 872,
+  "Name": "",
+  "CenterPositionLon": 56.94963487988938,
+  "CenterPositionLat": 24.091155851868205
+ },
+ {
+  "ID": 24594356,
+  "Capacity": 1811,
+  "Name": "Neatkarības laukums",
+  "CenterPositionLon": 56.952279747434204,
+  "CenterPositionLat": 24.104405118119235
+ },
+ {
+  "ID": 25064646,
+  "Capacity": 6592,
+  "Name": "",
+  "CenterPositionLon": 56.85043637932313,
+  "CenterPositionLat": 26.21087798939727
+ },
+ {
+  "ID": 26458972,
+  "Capacity": 1331,
+  "Name": "Līvu laukums",
+  "CenterPositionLon": 56.949525293728364,
+  "CenterPositionLat": 24.109269477329185
+ },
+ {
+  "ID": 26747169,
+  "Capacity": 8310,
+  "Name": "Klusais dārzs",
+  "CenterPositionLon": 56.942849691900825,
+  "CenterPositionLat": 24.138899342448056
+ },
+ {
+  "ID": 27078690,
+  "Capacity": 14548,
+  "Name": "Centrālais parks",
+  "CenterPositionLon": 55.870667594776684,
+  "CenterPositionLat": 26.528030823370482
+ },
+ {
+  "ID": 27078691,
+  "Capacity": 6242,
+  "Name": "Dubrovina parks",
+  "CenterPositionLon": 55.869622456798446,
+  "CenterPositionLat": 26.510853839032468
+ },
+ {
+  "ID": 27435834,
+  "Capacity": 1601,
+  "Name": "",
+  "CenterPositionLon": 57.400608216995586,
+  "CenterPositionLat": 21.604299248567266
+ },
+ {
+  "ID": 27494905,
+  "Capacity": 7040,
+  "Name": "Esplanāde",
+  "CenterPositionLon": 57.39278652657049,
+  "CenterPositionLat": 21.55298650793828
+ },
+ {
+  "ID": 27509924,
+  "Capacity": 20596,
+  "Name": "Ēbeļmuižas parks",
+  "CenterPositionLon": 56.90615250365072,
+  "CenterPositionLat": 24.097078324595273
+ },
+ {
+  "ID": 27938988,
+  "Capacity": 598,
+  "Name": "",
+  "CenterPositionLon": 56.964771034957856,
+  "CenterPositionLat": 24.12830853566251
+ },
+ {
+  "ID": 28296571,
+  "Capacity": 11988,
+  "Name": "Maskavas dārzs",
+  "CenterPositionLon": 56.93635156921909,
+  "CenterPositionLat": 24.151528827581267
+ },
+ {
+  "ID": 28296889,
+  "Capacity": 2674,
+  "Name": "800 – gades parks",
+  "CenterPositionLon": 56.833114156415405,
+  "CenterPositionLat": 24.499596611393052
+ },
+ {
+  "ID": 28723554,
+  "Capacity": 1124,
+  "Name": "",
+  "CenterPositionLon": 56.96444401316779,
+  "CenterPositionLat": 24.129980239473184
+ },
+ {
+  "ID": 29046345,
+  "Capacity": 5193,
+  "Name": "Gulbīšu parks",
+  "CenterPositionLon": 57.17471434519485,
+  "CenterPositionLat": 26.759287179253548
+ },
+ {
+  "ID": 29233099,
+  "Capacity": 2013,
+  "Name": "Centrālais parks",
+  "CenterPositionLon": 57.17256878567629,
+  "CenterPositionLat": 26.76119425900323
+ },
+ {
+  "ID": 30195704,
+  "Capacity": 1112,
+  "Name": "Spieķu parks",
+  "CenterPositionLon": 57.16185227129055,
+  "CenterPositionLat": 24.84949810661951
+ },
+ {
+  "ID": 30913453,
+  "Capacity": 744,
+  "Name": "",
+  "CenterPositionLon": 56.40557233624759,
+  "CenterPositionLat": 24.18646510917917
+ },
+ {
+  "ID": 30914582,
+  "Capacity": 5531,
+  "Name": "Korfa dārzs",
+  "CenterPositionLon": 56.410154629777026,
+  "CenterPositionLat": 24.197852627542034
+ },
+ {
+  "ID": 31824191,
+  "Capacity": 25516,
+  "Name": "Pilskalna parks",
+  "CenterPositionLon": 56.40362930786857,
+  "CenterPositionLat": 24.172819319795373
+ },
+ {
+  "ID": 34370984,
+  "Capacity": 236060,
+  "Name": "Dabas parka zona",
+  "CenterPositionLon": 56.64924445345203,
+  "CenterPositionLat": 26.407937838229294
+ },
+ {
+  "ID": 37976650,
+  "Capacity": 5641,
+  "Name": "Bijušie ebreju kapi",
+  "CenterPositionLon": 56.93876996863601,
+  "CenterPositionLat": 24.153705552842887
+ },
+ {
+  "ID": 38053989,
+  "Capacity": 6332,
+  "Name": "",
+  "CenterPositionLon": 56.506395139421414,
+  "CenterPositionLat": 27.331882471713254
+ },
+ {
+  "ID": 38067795,
+  "Capacity": 52241,
+  "Name": "Rīgas Lielie kapi",
+  "CenterPositionLon": 56.971307432501256,
+  "CenterPositionLat": 24.14475287508544
+ },
+ {
+  "ID": 38155107,
+  "Capacity": 1226,
+  "Name": "",
+  "CenterPositionLon": 56.95813199311209,
+  "CenterPositionLat": 24.174751052842286
+ },
+ {
+  "ID": 38163276,
+  "Capacity": 2212,
+  "Name": "Horna dārzs",
+  "CenterPositionLon": 56.97307734232758,
+  "CenterPositionLat": 23.798850861853555
+ },
+ {
+  "ID": 38317384,
+  "Capacity": 6468,
+  "Name": "Zilo Kalnu dabas parks",
+  "CenterPositionLon": 56.82574709362582,
+  "CenterPositionLat": 24.597233731715548
+ },
+ {
+  "ID": 38419839,
+  "Capacity": 15792,
+  "Name": "Medumu Parks",
+  "CenterPositionLon": 55.78380420267575,
+  "CenterPositionLat": 26.34755787557783
+ },
+ {
+  "ID": 38499087,
+  "Capacity": 2984,
+  "Name": "",
+  "CenterPositionLon": 56.83715008437955,
+  "CenterPositionLat": 24.492099449326357
+ },
+ {
+  "ID": 38682674,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 56.963038512855135,
+  "CenterPositionLat": 24.125465931912085
+ },
+ {
+  "ID": 38749778,
+  "Capacity": 3387,
+  "Name": "Maija parks",
+  "CenterPositionLon": 57.314642562943035,
+  "CenterPositionLat": 25.273933139915638
+ },
+ {
+  "ID": 39813656,
+  "Capacity": 26007,
+  "Name": "Dzintaru mežaparks",
+  "CenterPositionLon": 56.97594571902941,
+  "CenterPositionLat": 23.819105270899637
+ },
+ {
+  "ID": 39979389,
+  "Capacity": 19089,
+  "Name": "Jaunsventes parks",
+  "CenterPositionLon": 55.90241696916233,
+  "CenterPositionLat": 26.376703925647067
+ },
+ {
+  "ID": 40162646,
+  "Capacity": 1739,
+  "Name": "",
+  "CenterPositionLon": 57.53846729999085,
+  "CenterPositionLat": 25.42245507575524
+ },
+ {
+  "ID": 40286483,
+  "Capacity": 11276,
+  "Name": "Dendroloģiskais parks Lazdukalni",
+  "CenterPositionLon": 56.80245353807182,
+  "CenterPositionLat": 24.635170858476037
+ },
+ {
+  "ID": 41213127,
+  "Capacity": 24415,
+  "Name": "Māras dārzs",
+  "CenterPositionLon": 56.93027173610286,
+  "CenterPositionLat": 24.07891562593454
+ },
+ {
+  "ID": 45018608,
+  "Capacity": 999,
+  "Name": "Pils laukums",
+  "CenterPositionLon": 56.95130990912088,
+  "CenterPositionLat": 24.101841380464457
+ },
+ {
+  "ID": 45558652,
+  "Capacity": 980,
+  "Name": "Pils laukums",
+  "CenterPositionLon": 56.95197335240653,
+  "CenterPositionLat": 24.10145507142171
+ },
+ {
+  "ID": 51289570,
+  "Capacity": 21266,
+  "Name": "Ruckas parks",
+  "CenterPositionLon": 57.30930490543348,
+  "CenterPositionLat": 25.281633099590877
+ },
+ {
+  "ID": 51438165,
+  "Capacity": 13055,
+  "Name": "Cēsu pils parks",
+  "CenterPositionLon": 57.314665878048935,
+  "CenterPositionLat": 25.268708281589223
+ },
+ {
+  "ID": 60792592,
+  "Capacity": 11289,
+  "Name": "Daliņa stadions",
+  "CenterPositionLon": 57.54080608607144,
+  "CenterPositionLat": 25.440237990223928
+ },
+ {
+  "ID": 62931577,
+  "Capacity": 13501,
+  "Name": "Vaboles parks",
+  "CenterPositionLon": 56.026230558009644,
+  "CenterPositionLat": 26.46407535670824
+ },
+ {
+  "ID": 70766160,
+  "Capacity": 14498,
+  "Name": "Burtnieku muižas parks",
+  "CenterPositionLon": 57.697512256489645,
+  "CenterPositionLat": 25.27906776796925
+ },
+ {
+  "ID": 70817519,
+  "Capacity": 9880,
+  "Name": "",
+  "CenterPositionLon": 57.522599951672795,
+  "CenterPositionLat": 25.432994007000428
+ },
+ {
+  "ID": 71834691,
+  "Capacity": 615,
+  "Name": "Stacijas dārzs",
+  "CenterPositionLon": 57.506570657645725,
+  "CenterPositionLat": 22.34736869892881
+ },
+ {
+  "ID": 74848223,
+  "Capacity": 15704,
+  "Name": "Juzefovas parks",
+  "CenterPositionLon": 55.92949451882321,
+  "CenterPositionLat": 26.71412585600677
+ },
+ {
+  "ID": 74995298,
+  "Capacity": 972,
+  "Name": "",
+  "CenterPositionLon": 57.15216974365572,
+  "CenterPositionLat": 24.84532139593949
+ },
+ {
+  "ID": 75376573,
+  "Capacity": 83530,
+  "Name": "",
+  "CenterPositionLon": 56.50674254753469,
+  "CenterPositionLat": 20.99417857541223
+ },
+ {
+  "ID": 75502908,
+  "Capacity": 997,
+  "Name": "Rožu laukums",
+  "CenterPositionLon": 56.508225966666664,
+  "CenterPositionLat": 21.011584266666667
+ },
+ {
+  "ID": 76017508,
+  "Capacity": 30307,
+  "Name": "Raiņa parks",
+  "CenterPositionLon": 56.5195442888178,
+  "CenterPositionLat": 21.021297040486065
+ },
+ {
+  "ID": 76239322,
+  "Capacity": 2893,
+  "Name": "Jāņa Čakstes laukums",
+  "CenterPositionLon": 56.50357677289769,
+  "CenterPositionLat": 21.00561837551346
+ },
+ {
+  "ID": 79213634,
+  "Capacity": 2191,
+  "Name": "",
+  "CenterPositionLon": 57.14800425774734,
+  "CenterPositionLat": 24.893135637165965
+ },
+ {
+  "ID": 82450393,
+  "Capacity": 14589,
+  "Name": "",
+  "CenterPositionLon": 57.540984817454536,
+  "CenterPositionLat": 25.43330795551715
+ },
+ {
+  "ID": 82592178,
+  "Capacity": 5364,
+  "Name": "Krimuldas baznīcas parks",
+  "CenterPositionLon": 57.16284403830347,
+  "CenterPositionLat": 24.767394199289882
+ },
+ {
+  "ID": 82603401,
+  "Capacity": 849,
+  "Name": "",
+  "CenterPositionLon": 57.17992999274875,
+  "CenterPositionLat": 24.70224637917708
+ },
+ {
+  "ID": 82603473,
+  "Capacity": 3030,
+  "Name": "",
+  "CenterPositionLon": 57.18082003675454,
+  "CenterPositionLat": 24.697875976850117
+ },
+ {
+  "ID": 82603490,
+  "Capacity": 3869,
+  "Name": "",
+  "CenterPositionLon": 57.181482421498494,
+  "CenterPositionLat": 24.70494878628717
+ },
+ {
+  "ID": 82603587,
+  "Capacity": 1370,
+  "Name": "",
+  "CenterPositionLon": 57.18198890231232,
+  "CenterPositionLat": 24.70273043692316
+ },
+ {
+  "ID": 85385166,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 56.94626755762887,
+  "CenterPositionLat": 24.113240769870615
+ },
+ {
+  "ID": 85472179,
+  "Capacity": 1506,
+  "Name": "",
+  "CenterPositionLon": 56.91528580961132,
+  "CenterPositionLat": 24.09202031372281
+ },
+ {
+  "ID": 88326540,
+  "Capacity": 488,
+  "Name": "Zemitāna laukums",
+  "CenterPositionLon": 56.97839878026861,
+  "CenterPositionLat": 24.18529085197668
+ },
+ {
+  "ID": 88828032,
+  "Capacity": 247,
+  "Name": "",
+  "CenterPositionLon": 56.53263899055065,
+  "CenterPositionLat": 21.00990667342119
+ },
+ {
+  "ID": 89390875,
+  "Capacity": 14009,
+  "Name": "",
+  "CenterPositionLon": 56.91621462660644,
+  "CenterPositionLat": 24.05469895165805
+ },
+ {
+  "ID": 90274288,
+  "Capacity": 3070,
+  "Name": "Kojusalas dārzs",
+  "CenterPositionLon": 56.93322261930686,
+  "CenterPositionLat": 24.154802782598193
+ },
+ {
+  "ID": 91892416,
+  "Capacity": 4956,
+  "Name": "",
+  "CenterPositionLon": 56.995316931701986,
+  "CenterPositionLat": 24.264380691029235
+ },
+ {
+  "ID": 92014762,
+  "Capacity": 3351,
+  "Name": "Sudrabkalniņa skvērs",
+  "CenterPositionLon": 56.9612291065199,
+  "CenterPositionLat": 24.032465975900003
+ },
+ {
+  "ID": 92054273,
+  "Capacity": 1375,
+  "Name": "",
+  "CenterPositionLon": 56.943693825736986,
+  "CenterPositionLat": 24.120907326106572
+ },
+ {
+  "ID": 93731281,
+  "Capacity": 25762,
+  "Name": "Lielplatones muižas parks",
+  "CenterPositionLon": 56.45241421368671,
+  "CenterPositionLat": 23.661326679101734
+ },
+ {
+  "ID": 97771305,
+  "Capacity": 5206,
+  "Name": "Mellužu parks",
+  "CenterPositionLon": 56.96248662359289,
+  "CenterPositionLat": 23.727894014724182
+ },
+ {
+  "ID": 98108645,
+  "Capacity": 9250,
+  "Name": "",
+  "CenterPositionLon": 56.94632922477842,
+  "CenterPositionLat": 23.501951406913424
+ },
+ {
+  "ID": 98108650,
+  "Capacity": 32674,
+  "Name": "",
+  "CenterPositionLon": 56.946963847742154,
+  "CenterPositionLat": 23.49760571678323
+ },
+ {
+  "ID": 98750447,
+  "Capacity": 6253,
+  "Name": "",
+  "CenterPositionLon": 56.98447226516047,
+  "CenterPositionLat": 23.84629357548116
+ },
+ {
+  "ID": 98977311,
+  "Capacity": 6222,
+  "Name": "Raiņa parks",
+  "CenterPositionLon": 56.64763042711077,
+  "CenterPositionLat": 23.723395161474382
+ },
+ {
+  "ID": 103709438,
+  "Capacity": 374,
+  "Name": "",
+  "CenterPositionLon": 57.2546435403928,
+  "CenterPositionLat": 25.04503461013477
+ },
+ {
+  "ID": 104736278,
+  "Capacity": 7902,
+  "Name": "Ziemeļblāzmas parks",
+  "CenterPositionLon": 57.036825911670356,
+  "CenterPositionLat": 24.102238140427513
+ },
+ {
+  "ID": 105463132,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": 56.948092924527856,
+  "CenterPositionLat": 23.496051167781133
+ },
+ {
+  "ID": 105508224,
+  "Capacity": 1402,
+  "Name": "",
+  "CenterPositionLon": 56.980782717369216,
+  "CenterPositionLat": 23.838393069042798
+ },
+ {
+  "ID": 106671442,
+  "Capacity": 3876,
+  "Name": "",
+  "CenterPositionLon": 57.89701812545268,
+  "CenterPositionLat": 25.327272334455646
+ },
+ {
+  "ID": 106671445,
+  "Capacity": 5749,
+  "Name": "",
+  "CenterPositionLon": 57.900606334657716,
+  "CenterPositionLat": 25.341466816342113
+ },
+ {
+  "ID": 106671543,
+  "Capacity": 3625,
+  "Name": "",
+  "CenterPositionLon": 57.901917529611,
+  "CenterPositionLat": 25.344234082604874
+ },
+ {
+  "ID": 106671565,
+  "Capacity": 11217,
+  "Name": "",
+  "CenterPositionLon": 57.89811967129414,
+  "CenterPositionLat": 25.329880697286814
+ },
+ {
+  "ID": 107826018,
+  "Capacity": 896,
+  "Name": "",
+  "CenterPositionLon": 56.58292316806052,
+  "CenterPositionLat": 23.554762064545553
+ },
+ {
+  "ID": 107826021,
+  "Capacity": 51,
+  "Name": "",
+  "CenterPositionLon": 56.58325157722319,
+  "CenterPositionLat": 23.55566940206427
+ },
+ {
+  "ID": 108277610,
+  "Capacity": 44294,
+  "Name": "Tautas parks",
+  "CenterPositionLon": 57.165275126198274,
+  "CenterPositionLat": 24.856270405188457
+ },
+ {
+  "ID": 108757290,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 56.97636795091127,
+  "CenterPositionLat": 23.797723601875802
+ },
+ {
+  "ID": 109602396,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": 56.968640296924924,
+  "CenterPositionLat": 23.773928629114284
+ },
+ {
+  "ID": 110378203,
+  "Capacity": 3032,
+  "Name": "",
+  "CenterPositionLon": 56.6540841624022,
+  "CenterPositionLat": 23.72203977665247
+ },
+ {
+  "ID": 110378919,
+  "Capacity": 4464,
+  "Name": "Uzvaras parks",
+  "CenterPositionLon": 56.65903967117867,
+  "CenterPositionLat": 23.717700788323175
+ },
+ {
+  "ID": 110420812,
+  "Capacity": 175,
+  "Name": "",
+  "CenterPositionLon": 57.03422664708399,
+  "CenterPositionLat": 22.780678015058697
+ },
+ {
+  "ID": 111733983,
+  "Capacity": 43038,
+  "Name": "Iecavas parks",
+  "CenterPositionLon": 56.59373374489218,
+  "CenterPositionLat": 24.19862807376777
+ },
+ {
+  "ID": 111738435,
+  "Capacity": 1350,
+  "Name": "",
+  "CenterPositionLon": 57.09002912041062,
+  "CenterPositionLat": 24.54601204643188
+ },
+ {
+  "ID": 111738436,
+  "Capacity": 729,
+  "Name": "",
+  "CenterPositionLon": 57.090422662492934,
+  "CenterPositionLat": 24.551826573921517
+ },
+ {
+  "ID": 111738437,
+  "Capacity": 3846,
+  "Name": "",
+  "CenterPositionLon": 57.08963641760345,
+  "CenterPositionLat": 24.55039844915873
+ },
+ {
+  "ID": 111741463,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 57.09274485,
+  "CenterPositionLat": 24.5463704
+ },
+ {
+  "ID": 111781689,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 57.09468713333333,
+  "CenterPositionLat": 24.545702733333332
+ },
+ {
+  "ID": 111781854,
+  "Capacity": 1744,
+  "Name": "",
+  "CenterPositionLon": 57.092847076446446,
+  "CenterPositionLat": 24.55065969568704
+ },
+ {
+  "ID": 111781858,
+  "Capacity": 1130,
+  "Name": "",
+  "CenterPositionLon": 57.09338003462174,
+  "CenterPositionLat": 24.55111365104317
+ },
+ {
+  "ID": 112172684,
+  "Capacity": 2033,
+  "Name": "",
+  "CenterPositionLon": 57.155160740103774,
+  "CenterPositionLat": 24.85120885212424
+ },
+ {
+  "ID": 112477156,
+  "Capacity": 3569,
+  "Name": "Saules stūris",
+  "CenterPositionLon": 57.38085015796086,
+  "CenterPositionLat": 21.550603366622095
+ },
+ {
+  "ID": 112485196,
+  "Capacity": 240,
+  "Name": "Vecpilsētas laukums",
+  "CenterPositionLon": 57.396360995257176,
+  "CenterPositionLat": 21.566230267972983
+ },
+ {
+  "ID": 113514761,
+  "Capacity": 37068,
+  "Name": "Skriveru dendroloģiskais parks",
+  "CenterPositionLon": 56.61664673418973,
+  "CenterPositionLat": 25.057954318134996
+ },
+ {
+  "ID": 114250878,
+  "Capacity": 3741,
+  "Name": "",
+  "CenterPositionLon": 57.19879174342173,
+  "CenterPositionLat": 25.035073588313956
+ },
+ {
+  "ID": 114403959,
+  "Capacity": 445,
+  "Name": "",
+  "CenterPositionLon": 57.03655334686977,
+  "CenterPositionLat": 24.098435428176437
+ },
+ {
+  "ID": 114403967,
+  "Capacity": 337,
+  "Name": "",
+  "CenterPositionLon": 57.03332163750901,
+  "CenterPositionLat": 24.11250407689722
+ },
+ {
+  "ID": 114449921,
+  "Capacity": 2605,
+  "Name": "",
+  "CenterPositionLon": 56.867285034098295,
+  "CenterPositionLat": 24.254843600908977
+ },
+ {
+  "ID": 116595782,
+  "Capacity": 3015,
+  "Name": "",
+  "CenterPositionLon": 55.88648914285005,
+  "CenterPositionLat": 26.494847484199294
+ },
+ {
+  "ID": 116883928,
+  "Capacity": 2457,
+  "Name": "Nītaures muižas parks",
+  "CenterPositionLon": 57.06780539330434,
+  "CenterPositionLat": 25.185205488685146
+ },
+ {
+  "ID": 117978355,
+  "Capacity": 5043,
+  "Name": "",
+  "CenterPositionLon": 57.14971576331388,
+  "CenterPositionLat": 24.889128498604357
+ },
+ {
+  "ID": 118075469,
+  "Capacity": 31746,
+  "Name": "Likteņdārzs",
+  "CenterPositionLon": 56.635696111429056,
+  "CenterPositionLat": 25.437932815676657
+ },
+ {
+  "ID": 119073583,
+  "Capacity": 25905,
+  "Name": "Kokneses dabas parks",
+  "CenterPositionLon": 56.64062727412537,
+  "CenterPositionLat": 25.418915009704968
+ },
+ {
+  "ID": 119073612,
+  "Capacity": 4917,
+  "Name": "Vīgantes parks",
+  "CenterPositionLon": 56.574188820580325,
+  "CenterPositionLat": 25.49649176446569
+ },
+ {
+  "ID": 122463345,
+  "Capacity": 4910,
+  "Name": "",
+  "CenterPositionLon": 57.03717181618889,
+  "CenterPositionLat": 22.77257453368701
+ },
+ {
+  "ID": 122463351,
+  "Capacity": 1003,
+  "Name": "",
+  "CenterPositionLon": 57.037017614548986,
+  "CenterPositionLat": 22.774820961670482
+ },
+ {
+  "ID": 123080915,
+  "Capacity": 4362,
+  "Name": "",
+  "CenterPositionLon": 56.6608255218343,
+  "CenterPositionLat": 23.739448357928683
+ },
+ {
+  "ID": 123391349,
+  "Capacity": 1,
+  "Name": "Vienkoču parks",
+  "CenterPositionLon": 57.1916766481119,
+  "CenterPositionLat": 25.05234524331339
+ },
+ {
+  "ID": 123705705,
+  "Capacity": 2063,
+  "Name": "",
+  "CenterPositionLon": 57.15263824755358,
+  "CenterPositionLat": 24.849302355398102
+ },
+ {
+  "ID": 123705712,
+  "Capacity": 4178,
+  "Name": "",
+  "CenterPositionLon": 57.154018160443854,
+  "CenterPositionLat": 24.857293819083004
+ },
+ {
+  "ID": 123705716,
+  "Capacity": 949,
+  "Name": "",
+  "CenterPositionLon": 57.15687554613239,
+  "CenterPositionLat": 24.851881259625237
+ },
+ {
+  "ID": 123705731,
+  "Capacity": 1886,
+  "Name": "",
+  "CenterPositionLon": 57.1531193171029,
+  "CenterPositionLat": 24.852173315217673
+ },
+ {
+  "ID": 123705748,
+  "Capacity": 10538,
+  "Name": "Raiņa parks",
+  "CenterPositionLon": 57.15564765091736,
+  "CenterPositionLat": 24.856079313044766
+ },
+ {
+  "ID": 123705755,
+  "Capacity": 2806,
+  "Name": "",
+  "CenterPositionLon": 57.15736641965312,
+  "CenterPositionLat": 24.853124896272956
+ },
+ {
+  "ID": 123705770,
+  "Capacity": 5143,
+  "Name": "",
+  "CenterPositionLon": 57.16242657331324,
+  "CenterPositionLat": 24.852470808925077
+ },
+ {
+  "ID": 123705774,
+  "Capacity": 5668,
+  "Name": "",
+  "CenterPositionLon": 57.157886367413745,
+  "CenterPositionLat": 24.855061178966718
+ },
+ {
+  "ID": 124352273,
+  "Capacity": 2459,
+  "Name": "",
+  "CenterPositionLon": 56.858833127595425,
+  "CenterPositionLat": 26.219834463040613
+ },
+ {
+  "ID": 124353014,
+  "Capacity": 217,
+  "Name": "",
+  "CenterPositionLon": 56.85339363209691,
+  "CenterPositionLat": 26.216955874451294
+ },
+ {
+  "ID": 124359683,
+  "Capacity": 707,
+  "Name": "",
+  "CenterPositionLon": 56.85253541042366,
+  "CenterPositionLat": 26.217222502845516
+ },
+ {
+  "ID": 124360664,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 56.852152068759494,
+  "CenterPositionLat": 26.212329381284654
+ },
+ {
+  "ID": 124871980,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 56.86690976259525,
+  "CenterPositionLat": 24.256303836876402
+ },
+ {
+  "ID": 125603850,
+  "Capacity": 354,
+  "Name": "",
+  "CenterPositionLon": 56.858149599641294,
+  "CenterPositionLat": 26.218244743795037
+ },
+ {
+  "ID": 125604764,
+  "Capacity": 627,
+  "Name": "",
+  "CenterPositionLon": 56.85732427629925,
+  "CenterPositionLat": 26.218277116241353
+ },
+ {
+  "ID": 125605626,
+  "Capacity": 714,
+  "Name": "",
+  "CenterPositionLon": 56.857343839321764,
+  "CenterPositionLat": 26.219284914188826
+ },
+ {
+  "ID": 125625141,
+  "Capacity": 159,
+  "Name": "",
+  "CenterPositionLon": 56.86068128029769,
+  "CenterPositionLat": 26.2166597964736
+ },
+ {
+  "ID": 125625145,
+  "Capacity": 50,
+  "Name": "",
+  "CenterPositionLon": 56.860791848502586,
+  "CenterPositionLat": 26.217966480346973
+ },
+ {
+  "ID": 125625148,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 56.86025180859266,
+  "CenterPositionLat": 26.216429803288403
+ },
+ {
+  "ID": 125625919,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": 56.86123557246703,
+  "CenterPositionLat": 26.217845311759227
+ },
+ {
+  "ID": 125625920,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": 56.861174572965126,
+  "CenterPositionLat": 26.217423572767927
+ },
+ {
+  "ID": 125625921,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": 56.86090537222419,
+  "CenterPositionLat": 26.21726061342835
+ },
+ {
+  "ID": 125625923,
+  "Capacity": 57,
+  "Name": "",
+  "CenterPositionLon": 56.861571887979004,
+  "CenterPositionLat": 26.21811688505466
+ },
+ {
+  "ID": 125625924,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": 56.86106192384127,
+  "CenterPositionLat": 26.217982900773073
+ },
+ {
+  "ID": 126509089,
+  "Capacity": 9070,
+  "Name": "Stacijas Parks",
+  "CenterPositionLon": 56.64248386947589,
+  "CenterPositionLat": 23.73014596867216
+ },
+ {
+  "ID": 127603400,
+  "Capacity": 1944,
+  "Name": "",
+  "CenterPositionLon": 56.65299881748028,
+  "CenterPositionLat": 23.72429842359596
+ },
+ {
+  "ID": 127964394,
+  "Capacity": 2576,
+  "Name": "Andreja Pumpura skvērs",
+  "CenterPositionLon": 55.86972565603837,
+  "CenterPositionLat": 26.51761958648588
+ },
+ {
+  "ID": 128079897,
+  "Capacity": 3578,
+  "Name": "Hoftenbergas Parks",
+  "CenterPositionLon": 55.90854931178546,
+  "CenterPositionLat": 26.655406494775107
+ },
+ {
+  "ID": 128227437,
+  "Capacity": 806,
+  "Name": "Jēkaba laukums",
+  "CenterPositionLon": 57.15324949564021,
+  "CenterPositionLat": 24.876025000058046
+ },
+ {
+  "ID": 128738313,
+  "Capacity": 1024,
+  "Name": "",
+  "CenterPositionLon": 57.15193571488695,
+  "CenterPositionLat": 24.852839241305634
+ },
+ {
+  "ID": 129575372,
+  "Capacity": 14595,
+  "Name": "Nordeķu parks",
+  "CenterPositionLon": 56.96299742699543,
+  "CenterPositionLat": 24.057623660043575
+ },
+ {
+  "ID": 130904648,
+  "Capacity": 3222,
+  "Name": "",
+  "CenterPositionLon": 57.049772836150616,
+  "CenterPositionLat": 24.432952977429522
+ },
+ {
+  "ID": 131469495,
+  "Capacity": 5842,
+  "Name": "Pils parks",
+  "CenterPositionLon": 56.6545501780112,
+  "CenterPositionLat": 23.73203498766013
+ },
+ {
+  "ID": 132155318,
+  "Capacity": 38375,
+  "Name": "Līgutu parks",
+  "CenterPositionLon": 56.611130663693466,
+  "CenterPositionLat": 21.365163881144515
+ },
+ {
+  "ID": 132623307,
+  "Capacity": 2743,
+  "Name": "Mercendarbes muižas parks",
+  "CenterPositionLon": 56.765156307971644,
+  "CenterPositionLat": 24.43042967758324
+ },
+ {
+  "ID": 132922426,
+  "Capacity": 584,
+  "Name": "",
+  "CenterPositionLon": 56.64972957047397,
+  "CenterPositionLat": 23.720982286785382
+ },
+ {
+  "ID": 133321023,
+  "Capacity": 1983,
+  "Name": "",
+  "CenterPositionLon": 57.04240021551121,
+  "CenterPositionLat": 22.75905409198994
+ },
+ {
+  "ID": 133857880,
+  "Capacity": 14698,
+  "Name": "Strazdmuižas parks",
+  "CenterPositionLon": 56.98782147100167,
+  "CenterPositionLat": 24.25044828269836
+ },
+ {
+  "ID": 134904211,
+  "Capacity": 3178,
+  "Name": "Ozolskvērs",
+  "CenterPositionLon": 56.649118886302425,
+  "CenterPositionLat": 23.712637955899492
+ },
+ {
+  "ID": 135466085,
+  "Capacity": 869,
+  "Name": "",
+  "CenterPositionLon": 56.95160324608905,
+  "CenterPositionLat": 24.100040587119807
+ },
+ {
+  "ID": 137437122,
+  "Capacity": 7107,
+  "Name": "Carnikavas parks",
+  "CenterPositionLon": 57.130526544279185,
+  "CenterPositionLat": 24.274400944383117
+ },
+ {
+  "ID": 138226262,
+  "Capacity": 13393,
+  "Name": "Grēbnera parks",
+  "CenterPositionLon": 56.638222543515795,
+  "CenterPositionLat": 23.71482494744744
+ },
+ {
+  "ID": 138710203,
+  "Capacity": 588,
+  "Name": "",
+  "CenterPositionLon": 57.744558889815494,
+  "CenterPositionLat": 25.434191182022772
+ },
+ {
+  "ID": 139130230,
+  "Capacity": 5080,
+  "Name": "Vecpuišu parks",
+  "CenterPositionLon": 57.53686876636607,
+  "CenterPositionLat": 25.417775955490807
+ },
+ {
+  "ID": 139130247,
+  "Capacity": 2370,
+  "Name": "",
+  "CenterPositionLon": 57.53679769700442,
+  "CenterPositionLat": 25.406427992772468
+ },
+ {
+  "ID": 139139421,
+  "Capacity": 1119,
+  "Name": "",
+  "CenterPositionLon": 57.53664261469488,
+  "CenterPositionLat": 25.410481406811204
+ },
+ {
+  "ID": 139430426,
+  "Capacity": 1901,
+  "Name": "Lucas skvērs",
+  "CenterPositionLon": 57.54248636123287,
+  "CenterPositionLat": 25.427595105051335
+ },
+ {
+  "ID": 140574518,
+  "Capacity": 1931,
+  "Name": "Vīgantes parks",
+  "CenterPositionLon": 56.57926111055399,
+  "CenterPositionLat": 25.48134749089382
+ },
+ {
+  "ID": 140892576,
+  "Capacity": 2758,
+  "Name": "",
+  "CenterPositionLon": 56.61726968568978,
+  "CenterPositionLat": 25.081035871235137
+ },
+ {
+  "ID": 141021335,
+  "Capacity": 40649,
+  "Name": "Varakļānu pils parks",
+  "CenterPositionLon": 56.60987358118643,
+  "CenterPositionLat": 26.774850864988448
+ },
+ {
+  "ID": 142796394,
+  "Capacity": 5239,
+  "Name": "Pils parks",
+  "CenterPositionLon": 56.96855042584048,
+  "CenterPositionLat": 21.975189494468825
+ },
+ {
+  "ID": 143413134,
+  "Capacity": 6655,
+  "Name": "",
+  "CenterPositionLon": 57.53471804609309,
+  "CenterPositionLat": 25.398937229727732
+ },
+ {
+  "ID": 144929917,
+  "Capacity": 635,
+  "Name": "Prūšu skvērs",
+  "CenterPositionLon": 56.914746508781576,
+  "CenterPositionLat": 24.17633191342678
+ },
+ {
+  "ID": 145477476,
+  "Capacity": 2535,
+  "Name": "Mazais Arkādijas dārzs",
+  "CenterPositionLon": 56.93323350885525,
+  "CenterPositionLat": 24.081076864197463
+ },
+ {
+  "ID": 149696781,
+  "Capacity": 179,
+  "Name": "",
+  "CenterPositionLon": 56.35379475831242,
+  "CenterPositionLat": 27.15407425115329
+ },
+ {
+  "ID": 151853304,
+  "Capacity": 7798,
+  "Name": "",
+  "CenterPositionLon": 56.90160919837295,
+  "CenterPositionLat": 24.197172524255876
+ },
+ {
+  "ID": 152565354,
+  "Capacity": 2410,
+  "Name": "",
+  "CenterPositionLon": 56.96044950175561,
+  "CenterPositionLat": 24.036030917939236
+ },
+ {
+  "ID": 152711461,
+  "Capacity": 1229,
+  "Name": "",
+  "CenterPositionLon": 56.94880148672509,
+  "CenterPositionLat": 23.74914765138077
+ },
+ {
+  "ID": 154129543,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 56.86044937993834,
+  "CenterPositionLat": 26.224886372324338
+ },
+ {
+  "ID": 154129577,
+  "Capacity": 146,
+  "Name": "",
+  "CenterPositionLon": 56.860579200135675,
+  "CenterPositionLat": 26.223828906109276
+ },
+ {
+  "ID": 154129579,
+  "Capacity": 118,
+  "Name": "",
+  "CenterPositionLon": 56.86112472157059,
+  "CenterPositionLat": 26.221577857200362
+ },
+ {
+  "ID": 154129593,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": 56.85982784146433,
+  "CenterPositionLat": 26.22240051385512
+ },
+ {
+  "ID": 154134180,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 56.860183462703255,
+  "CenterPositionLat": 26.226623917257328
+ },
+ {
+  "ID": 154134525,
+  "Capacity": 17,
+  "Name": "",
+  "CenterPositionLon": 56.858547346869514,
+  "CenterPositionLat": 26.22488418006377
+ },
+ {
+  "ID": 154134527,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 56.85890606569736,
+  "CenterPositionLat": 26.22390884199711
+ },
+ {
+  "ID": 154134528,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 56.85839577894951,
+  "CenterPositionLat": 26.22578383056912
+ },
+ {
+  "ID": 154134529,
+  "Capacity": 55,
+  "Name": "",
+  "CenterPositionLon": 56.85873867610984,
+  "CenterPositionLat": 26.225215032749368
+ },
+ {
+  "ID": 154346133,
+  "Capacity": 264107,
+  "Name": "Salaspils Botāniskais dārzs",
+  "CenterPositionLon": 56.867181922810126,
+  "CenterPositionLat": 24.361461178092274
+ },
+ {
+  "ID": 154361031,
+  "Capacity": 915,
+  "Name": "",
+  "CenterPositionLon": 56.93849632767019,
+  "CenterPositionLat": 24.15949832510094
+ },
+ {
+  "ID": 154361033,
+  "Capacity": 835,
+  "Name": "",
+  "CenterPositionLon": 56.93791126555417,
+  "CenterPositionLat": 24.15807393469104
+ },
+ {
+  "ID": 155581734,
+  "Capacity": 5815,
+  "Name": "",
+  "CenterPositionLon": 56.830590890328914,
+  "CenterPositionLat": 24.49168391103941
+ },
+ {
+  "ID": 156384531,
+  "Capacity": 188,
+  "Name": "",
+  "CenterPositionLon": 56.96311143378563,
+  "CenterPositionLat": 24.135319188571323
+ },
+ {
+  "ID": 157394719,
+  "Capacity": 12254,
+  "Name": "",
+  "CenterPositionLon": 56.84790083845432,
+  "CenterPositionLat": 26.205980002146035
+ },
+ {
+  "ID": 157506359,
+  "Capacity": 1129,
+  "Name": "",
+  "CenterPositionLon": 56.78817430990011,
+  "CenterPositionLat": 23.939841131078992
+ },
+ {
+  "ID": 157506360,
+  "Capacity": 15578,
+  "Name": "Mežaparks",
+  "CenterPositionLon": 56.78434310448645,
+  "CenterPositionLat": 23.932580429679618
+ },
+ {
+  "ID": 157513460,
+  "Capacity": 9909,
+  "Name": "",
+  "CenterPositionLon": 57.236749429441296,
+  "CenterPositionLat": 25.206386984280584
+ },
+ {
+  "ID": 158209418,
+  "Capacity": 3620,
+  "Name": "The Old Apple Trees in the Orchard",
+  "CenterPositionLon": 57.240246329618,
+  "CenterPositionLat": 25.21259019839687
+ },
+ {
+  "ID": 158210092,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 57.23989558232764,
+  "CenterPositionLat": 25.211510860623836
+ },
+ {
+  "ID": 159394429,
+  "Capacity": 3665,
+  "Name": "E. Šneidera laukums",
+  "CenterPositionLon": 56.890115268536974,
+  "CenterPositionLat": 21.17957693147746
+ },
+ {
+  "ID": 159478090,
+  "Capacity": 3529,
+  "Name": "",
+  "CenterPositionLon": 56.88848954325845,
+  "CenterPositionLat": 21.182337067287616
+ },
+ {
+  "ID": 159676335,
+  "Capacity": 11779,
+  "Name": "Dabas parks (Jaunmārupe)",
+  "CenterPositionLon": 56.8785814060825,
+  "CenterPositionLat": 23.942885461595264
+ },
+ {
+  "ID": 160574700,
+  "Capacity": 1151,
+  "Name": "",
+  "CenterPositionLon": 56.97201590708838,
+  "CenterPositionLat": 23.796968868887205
+ },
+ {
+  "ID": 160708382,
+  "Capacity": 255,
+  "Name": "",
+  "CenterPositionLon": 56.83607042446181,
+  "CenterPositionLat": 24.496173836012037
+ },
+ {
+  "ID": 161282661,
+  "Capacity": 7622,
+  "Name": "",
+  "CenterPositionLon": 56.945147413655036,
+  "CenterPositionLat": 24.13824887075599
+ },
+ {
+  "ID": 161652191,
+  "Capacity": 2263,
+  "Name": "",
+  "CenterPositionLon": 55.87710728025038,
+  "CenterPositionLat": 26.522862761815144
+ },
+ {
+  "ID": 163849081,
+  "Capacity": 281,
+  "Name": "",
+  "CenterPositionLon": 56.6534537422124,
+  "CenterPositionLat": 23.71977463987341
+ },
+ {
+  "ID": 163849092,
+  "Capacity": 294,
+  "Name": "",
+  "CenterPositionLon": 56.652912147391476,
+  "CenterPositionLat": 23.71785620089546
+ },
+ {
+  "ID": 163849098,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 56.65382838537259,
+  "CenterPositionLat": 23.719857463122565
+ },
+ {
+  "ID": 164679331,
+  "Capacity": 716,
+  "Name": "",
+  "CenterPositionLon": 56.65152018618598,
+  "CenterPositionLat": 23.71533808997323
+ },
+ {
+  "ID": 164679346,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": 56.65235388114789,
+  "CenterPositionLat": 23.713790317019264
+ },
+ {
+  "ID": 164679520,
+  "Capacity": 907,
+  "Name": "",
+  "CenterPositionLon": 56.650639908681136,
+  "CenterPositionLat": 23.709503555090368
+ },
+ {
+  "ID": 164982301,
+  "Capacity": 103,
+  "Name": "",
+  "CenterPositionLon": 56.95630785721001,
+  "CenterPositionLat": 24.13204493286995
+ },
+ {
+  "ID": 165402085,
+  "Capacity": 6201,
+  "Name": "",
+  "CenterPositionLon": 56.95462489111121,
+  "CenterPositionLat": 23.945278361463195
+ },
+ {
+  "ID": 165402086,
+  "Capacity": 2258,
+  "Name": "",
+  "CenterPositionLon": 56.9553261757338,
+  "CenterPositionLat": 23.943364365890034
+ },
+ {
+  "ID": 169107278,
+  "Capacity": 1099,
+  "Name": "",
+  "CenterPositionLon": 56.95699519324712,
+  "CenterPositionLat": 24.175099558974136
+ },
+ {
+  "ID": 171926523,
+  "Capacity": 562,
+  "Name": "Egle",
+  "CenterPositionLon": 56.9484053228761,
+  "CenterPositionLat": 24.107001004754835
+ },
+ {
+  "ID": 172806390,
+  "Capacity": 2848,
+  "Name": "",
+  "CenterPositionLon": 56.829115945313106,
+  "CenterPositionLat": 24.48777350808636
+ },
+ {
+  "ID": 179008095,
+  "Capacity": 970,
+  "Name": "",
+  "CenterPositionLon": 55.86233273373725,
+  "CenterPositionLat": 26.51364800400525
+ },
+ {
+  "ID": 179977939,
+  "Capacity": 2793,
+  "Name": "",
+  "CenterPositionLon": 56.90642690553548,
+  "CenterPositionLat": 26.714679554927578
+ },
+ {
+  "ID": 180110495,
+  "Capacity": 278,
+  "Name": "",
+  "CenterPositionLon": 56.65116465,
+  "CenterPositionLat": 23.728211849999997
+ },
+ {
+  "ID": 180240718,
+  "Capacity": 1167,
+  "Name": "",
+  "CenterPositionLon": 57.02824646367605,
+  "CenterPositionLat": 24.101297753390316
+ },
+ {
+  "ID": 181802671,
+  "Capacity": 1677,
+  "Name": "",
+  "CenterPositionLon": 56.53563506089607,
+  "CenterPositionLat": 21.164171282199955
+ },
+ {
+  "ID": 182557010,
+  "Capacity": 232,
+  "Name": "",
+  "CenterPositionLon": 56.965800941542895,
+  "CenterPositionLat": 24.154258754334357
+ },
+ {
+  "ID": 183048934,
+  "Capacity": 1589,
+  "Name": "",
+  "CenterPositionLon": 56.97767476509039,
+  "CenterPositionLat": 22.85895724722592
+ },
+ {
+  "ID": 183188094,
+  "Capacity": 2797,
+  "Name": "",
+  "CenterPositionLon": 56.740577497562484,
+  "CenterPositionLat": 23.2523985711857
+ },
+ {
+  "ID": 183706538,
+  "Capacity": 1716,
+  "Name": "",
+  "CenterPositionLon": 57.685344786299694,
+  "CenterPositionLat": 24.36571924521208
+ },
+ {
+  "ID": 183744251,
+  "Capacity": 1350,
+  "Name": "",
+  "CenterPositionLon": 56.904260658780636,
+  "CenterPositionLat": 24.14507258179895
+ },
+ {
+  "ID": 183744257,
+  "Capacity": 635,
+  "Name": "",
+  "CenterPositionLon": 56.90178126005078,
+  "CenterPositionLat": 24.14469377375507
+ },
+ {
+  "ID": 191028066,
+  "Capacity": 3403,
+  "Name": "",
+  "CenterPositionLon": 56.56885733296398,
+  "CenterPositionLat": 23.37829830620687
+ },
+ {
+  "ID": 191028689,
+  "Capacity": 418,
+  "Name": "",
+  "CenterPositionLon": 56.57112526489695,
+  "CenterPositionLat": 23.37762208811971
+ },
+ {
+  "ID": 191576880,
+  "Capacity": 184,
+  "Name": "",
+  "CenterPositionLon": 56.96909079654489,
+  "CenterPositionLat": 24.153889994060858
+ },
+ {
+  "ID": 191681801,
+  "Capacity": 1020,
+  "Name": "",
+  "CenterPositionLon": 55.864877546164124,
+  "CenterPositionLat": 26.52956902142393
+ },
+ {
+  "ID": 192420433,
+  "Capacity": 1171,
+  "Name": "",
+  "CenterPositionLon": 56.83501818636656,
+  "CenterPositionLat": 24.492002351881155
+ },
+ {
+  "ID": 193467430,
+  "Capacity": 4723,
+  "Name": "",
+  "CenterPositionLon": 56.64415491686749,
+  "CenterPositionLat": 23.72578131169682
+ },
+ {
+  "ID": 194522648,
+  "Capacity": 822,
+  "Name": "",
+  "CenterPositionLon": 56.74257935309352,
+  "CenterPositionLat": 24.39435787452084
+ },
+ {
+  "ID": 194785090,
+  "Capacity": 4496,
+  "Name": "Bruņinieku pilskalns",
+  "CenterPositionLon": 57.03507254905585,
+  "CenterPositionLat": 22.778989523941842
+ },
+ {
+  "ID": 194873915,
+  "Capacity": 957,
+  "Name": "",
+  "CenterPositionLon": 56.82398406528291,
+  "CenterPositionLat": 24.601989345361126
+ },
+ {
+  "ID": 197054573,
+  "Capacity": 261,
+  "Name": "",
+  "CenterPositionLon": 56.527985727664664,
+  "CenterPositionLat": 23.51247373518683
+ },
+ {
+  "ID": 197901382,
+  "Capacity": 3212,
+  "Name": "",
+  "CenterPositionLon": 57.13153440390505,
+  "CenterPositionLat": 27.26477643886382
+ },
+ {
+  "ID": 197901566,
+  "Capacity": 446,
+  "Name": "",
+  "CenterPositionLon": 57.13273525202326,
+  "CenterPositionLat": 27.26328669242606
+ },
+ {
+  "ID": 197901836,
+  "Capacity": 12019,
+  "Name": "",
+  "CenterPositionLon": 57.13289246033602,
+  "CenterPositionLat": 27.26015910023119
+ },
+ {
+  "ID": 197904193,
+  "Capacity": 1882,
+  "Name": "",
+  "CenterPositionLon": 57.129492808157735,
+  "CenterPositionLat": 27.264905437871597
+ },
+ {
+  "ID": 197938351,
+  "Capacity": 1572,
+  "Name": "",
+  "CenterPositionLon": 57.126390716633956,
+  "CenterPositionLat": 27.262342827426394
+ },
+ {
+  "ID": 197938503,
+  "Capacity": 7536,
+  "Name": "Lāča Darzs",
+  "CenterPositionLon": 57.13035868826181,
+  "CenterPositionLat": 27.259335080772782
+ },
+ {
+  "ID": 197940053,
+  "Capacity": 983,
+  "Name": "",
+  "CenterPositionLon": 57.13292385612789,
+  "CenterPositionLat": 27.273957857812768
+ },
+ {
+  "ID": 199209997,
+  "Capacity": 12489,
+  "Name": "Rembates parks",
+  "CenterPositionLon": 56.719069597004136,
+  "CenterPositionLat": 24.801447621339538
+ },
+ {
+  "ID": 199434252,
+  "Capacity": 1447,
+  "Name": "",
+  "CenterPositionLon": 57.42367708784013,
+  "CenterPositionLat": 25.905111343917802
+ },
+ {
+  "ID": 199748045,
+  "Capacity": 1284,
+  "Name": "",
+  "CenterPositionLon": 56.982661840188136,
+  "CenterPositionLat": 24.25205905919033
+ },
+ {
+  "ID": 199748046,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 56.98199606276463,
+  "CenterPositionLat": 24.252697924509505
+ },
+ {
+  "ID": 199965068,
+  "Capacity": 1096,
+  "Name": "",
+  "CenterPositionLon": 56.42451021868962,
+  "CenterPositionLat": 23.819752105112613
+ },
+ {
+  "ID": 200021156,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": 56.42525683415937,
+  "CenterPositionLat": 23.819814920301912
+ },
+ {
+  "ID": 200021167,
+  "Capacity": 172,
+  "Name": "",
+  "CenterPositionLon": 56.42566083133701,
+  "CenterPositionLat": 23.81927758582105
+ },
+ {
+  "ID": 200021171,
+  "Capacity": 76,
+  "Name": "",
+  "CenterPositionLon": 56.42564722783539,
+  "CenterPositionLat": 23.81857151261423
+ },
+ {
+  "ID": 200129427,
+  "Capacity": 702,
+  "Name": "",
+  "CenterPositionLon": 57.18082710437291,
+  "CenterPositionLat": 24.703421632618547
+ },
+ {
+  "ID": 200129542,
+  "Capacity": 564,
+  "Name": "",
+  "CenterPositionLon": 57.18187394163648,
+  "CenterPositionLat": 24.701261541886463
+ },
+ {
+  "ID": 200674441,
+  "Capacity": 255,
+  "Name": "",
+  "CenterPositionLon": 57.17972207975909,
+  "CenterPositionLat": 24.700990212246126
+ },
+ {
+  "ID": 200716940,
+  "Capacity": 323,
+  "Name": "",
+  "CenterPositionLon": 57.18192765138253,
+  "CenterPositionLat": 24.69881723054122
+ },
+ {
+  "ID": 201154042,
+  "Capacity": 191,
+  "Name": "",
+  "CenterPositionLon": 56.660938923298694,
+  "CenterPositionLat": 23.753760469270983
+ },
+ {
+  "ID": 201158175,
+  "Capacity": 3768,
+  "Name": "",
+  "CenterPositionLon": 56.66154251163789,
+  "CenterPositionLat": 23.750722692727212
+ },
+ {
+  "ID": 201311046,
+  "Capacity": 850,
+  "Name": "",
+  "CenterPositionLon": 56.6525082533946,
+  "CenterPositionLat": 23.722713716291363
+ },
+ {
+  "ID": 202089192,
+  "Capacity": 589,
+  "Name": "",
+  "CenterPositionLon": 56.965018464309956,
+  "CenterPositionLat": 23.75913058523728
+ },
+ {
+  "ID": 204549288,
+  "Capacity": 2715,
+  "Name": "",
+  "CenterPositionLon": 56.96655188851452,
+  "CenterPositionLat": 23.761124737485982
+ },
+ {
+  "ID": 204637041,
+  "Capacity": 4164,
+  "Name": "",
+  "CenterPositionLon": 56.97018471008953,
+  "CenterPositionLat": 23.774985216586177
+ },
+ {
+  "ID": 204638390,
+  "Capacity": 359,
+  "Name": "",
+  "CenterPositionLon": 56.9677949965975,
+  "CenterPositionLat": 23.770772358819375
+ },
+ {
+  "ID": 204672716,
+  "Capacity": 5548,
+  "Name": "Majoru muižas parks",
+  "CenterPositionLon": 56.96544226940807,
+  "CenterPositionLat": 23.812446149561158
+ },
+ {
+  "ID": 204799061,
+  "Capacity": 2641,
+  "Name": "Hikšteina parks",
+  "CenterPositionLon": 56.49725578890902,
+  "CenterPositionLat": 25.87278887164098
+ },
+ {
+  "ID": 205224497,
+  "Capacity": 4677,
+  "Name": "Krustpils Pilsētas Parks",
+  "CenterPositionLon": 56.50586418922698,
+  "CenterPositionLat": 25.862728050040364
+ },
+ {
+  "ID": 205239256,
+  "Capacity": 1753,
+  "Name": "",
+  "CenterPositionLon": 56.505875165502566,
+  "CenterPositionLat": 25.889403054520894
+ },
+ {
+  "ID": 205241271,
+  "Capacity": 3035,
+  "Name": "Strūves Parks",
+  "CenterPositionLon": 56.50140493258237,
+  "CenterPositionLat": 25.856236249737236
+ },
+ {
+  "ID": 205305962,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": 56.888407646616045,
+  "CenterPositionLat": 23.988574247582058
+ },
+ {
+  "ID": 206271510,
+  "Capacity": 3810,
+  "Name": "",
+  "CenterPositionLon": 56.505154070067114,
+  "CenterPositionLat": 25.871817863823612
+ },
+ {
+  "ID": 206275678,
+  "Capacity": 64365,
+  "Name": "Meža parks",
+  "CenterPositionLon": 56.48297894943877,
+  "CenterPositionLat": 25.858947864232103
+ },
+ {
+  "ID": 206368015,
+  "Capacity": 3237,
+  "Name": "",
+  "CenterPositionLon": 57.13134032064131,
+  "CenterPositionLat": 27.269413404041355
+ },
+ {
+  "ID": 206369399,
+  "Capacity": 557,
+  "Name": "",
+  "CenterPositionLon": 57.13153601700372,
+  "CenterPositionLat": 27.266685459022348
+ },
+ {
+  "ID": 206516361,
+  "Capacity": 509,
+  "Name": "",
+  "CenterPositionLon": 57.23587053502683,
+  "CenterPositionLat": 27.372997387548505
+ },
+ {
+  "ID": 206975329,
+  "Capacity": 8557,
+  "Name": "Kena parks",
+  "CenterPositionLon": 56.4946132638662,
+  "CenterPositionLat": 25.87439588406706
+ },
+ {
+  "ID": 206975338,
+  "Capacity": 712,
+  "Name": "",
+  "CenterPositionLon": 56.500129089545055,
+  "CenterPositionLat": 25.859137823399692
+ },
+ {
+  "ID": 207087010,
+  "Capacity": 960,
+  "Name": "Mārupes skvērs",
+  "CenterPositionLon": 56.904954535918776,
+  "CenterPositionLat": 24.057348788071103
+ },
+ {
+  "ID": 207837739,
+  "Capacity": 2477,
+  "Name": "",
+  "CenterPositionLon": 56.93020089961982,
+  "CenterPositionLat": 24.082229716611767
+ },
+ {
+  "ID": 208058534,
+  "Capacity": 2185,
+  "Name": "",
+  "CenterPositionLon": 57.13908174759089,
+  "CenterPositionLat": 27.245487604718882
+ },
+ {
+  "ID": 208058595,
+  "Capacity": 1132,
+  "Name": "",
+  "CenterPositionLon": 57.13856251568411,
+  "CenterPositionLat": 27.245950859313837
+ },
+ {
+  "ID": 208089976,
+  "Capacity": 200,
+  "Name": "Old Water tower park",
+  "CenterPositionLon": 56.96752853618219,
+  "CenterPositionLat": 23.15638443943608
+ },
+ {
+  "ID": 208099086,
+  "Capacity": 578,
+  "Name": "",
+  "CenterPositionLon": 56.96635799991784,
+  "CenterPositionLat": 23.154309136613286
+ },
+ {
+  "ID": 208176407,
+  "Capacity": 2694,
+  "Name": "",
+  "CenterPositionLon": 56.965199643300714,
+  "CenterPositionLat": 23.171008801668833
+ },
+ {
+  "ID": 208179883,
+  "Capacity": 17982,
+  "Name": "",
+  "CenterPositionLon": 56.95907182972647,
+  "CenterPositionLat": 23.172367486870613
+ },
+ {
+  "ID": 208182922,
+  "Capacity": 1526,
+  "Name": "",
+  "CenterPositionLon": 56.95575569438986,
+  "CenterPositionLat": 23.17979788049467
+ },
+ {
+  "ID": 208183931,
+  "Capacity": 1325,
+  "Name": "",
+  "CenterPositionLon": 56.95677261975249,
+  "CenterPositionLat": 23.182157465533976
+ },
+ {
+  "ID": 208184900,
+  "Capacity": 978,
+  "Name": "",
+  "CenterPositionLon": 56.95725894956339,
+  "CenterPositionLat": 23.18289409468536
+ },
+ {
+  "ID": 208185839,
+  "Capacity": 1142,
+  "Name": "",
+  "CenterPositionLon": 56.95651837585165,
+  "CenterPositionLat": 23.18068843567031
+ },
+ {
+  "ID": 208261346,
+  "Capacity": 3168,
+  "Name": "Piemiņas Parks",
+  "CenterPositionLon": 56.790576361788084,
+  "CenterPositionLat": 23.24403637050079
+ },
+ {
+  "ID": 208517950,
+  "Capacity": 7553,
+  "Name": "Tukuma Parks",
+  "CenterPositionLon": 56.96313821775564,
+  "CenterPositionLat": 23.141499500336437
+ },
+ {
+  "ID": 210609580,
+  "Capacity": 746,
+  "Name": "",
+  "CenterPositionLon": 56.788519010932646,
+  "CenterPositionLat": 23.245791031993154
+ },
+ {
+  "ID": 210955781,
+  "Capacity": 5165,
+  "Name": "",
+  "CenterPositionLon": 56.57228920122125,
+  "CenterPositionLat": 23.96205340613083
+ },
+ {
+  "ID": 216505049,
+  "Capacity": 170,
+  "Name": "",
+  "CenterPositionLon": 57.036658547530635,
+  "CenterPositionLat": 22.77629607234118
+ },
+ {
+  "ID": 216509816,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": 57.03809080928822,
+  "CenterPositionLat": 22.777084673039
+ },
+ {
+  "ID": 217310724,
+  "Capacity": 3317,
+  "Name": "Saules parks",
+  "CenterPositionLon": 57.147156100999425,
+  "CenterPositionLat": 24.83945885566275
+ },
+ {
+  "ID": 217341540,
+  "Capacity": 56,
+  "Name": "Berlīnes krustojums",
+  "CenterPositionLon": 56.855142699999995,
+  "CenterPositionLat": 24.802483133333332
+ },
+ {
+  "ID": 217398570,
+  "Capacity": 17934,
+  "Name": "",
+  "CenterPositionLon": 56.54266128051518,
+  "CenterPositionLat": 27.72345776315965
+ },
+ {
+  "ID": 217476477,
+  "Capacity": 1985,
+  "Name": "",
+  "CenterPositionLon": 56.67990220725178,
+  "CenterPositionLat": 22.56767235455313
+ },
+ {
+  "ID": 217693359,
+  "Capacity": 579,
+  "Name": "",
+  "CenterPositionLon": 56.52273325171943,
+  "CenterPositionLat": 23.517796781615043
+ },
+ {
+  "ID": 218505674,
+  "Capacity": 941,
+  "Name": "",
+  "CenterPositionLon": 56.68064158041353,
+  "CenterPositionLat": 22.571419120583105
+ },
+ {
+  "ID": 219433139,
+  "Capacity": 1782,
+  "Name": "",
+  "CenterPositionLon": 56.80701345899045,
+  "CenterPositionLat": 24.61108827820557
+ },
+ {
+  "ID": 219627907,
+  "Capacity": 1677,
+  "Name": "",
+  "CenterPositionLon": 56.48297040194858,
+  "CenterPositionLat": 23.071946924692696
+ },
+ {
+  "ID": 219735640,
+  "Capacity": 23740,
+  "Name": "Lucavsalas atpūtas zona",
+  "CenterPositionLon": 56.93010952833953,
+  "CenterPositionLat": 24.111258449173473
+ },
+ {
+  "ID": 221236016,
+  "Capacity": 28647,
+  "Name": "",
+  "CenterPositionLon": 56.826816019083054,
+  "CenterPositionLat": 24.234317639414144
+ },
+ {
+  "ID": 221611352,
+  "Capacity": 6964,
+  "Name": "",
+  "CenterPositionLon": 56.849209484205915,
+  "CenterPositionLat": 24.227118885550258
+ },
+ {
+  "ID": 222643969,
+  "Capacity": 635,
+  "Name": "",
+  "CenterPositionLon": 56.794430347285065,
+  "CenterPositionLat": 23.245443272824527
+ },
+ {
+  "ID": 222652034,
+  "Capacity": 4365,
+  "Name": "",
+  "CenterPositionLon": 56.774169324296764,
+  "CenterPositionLat": 23.14026931095978
+ },
+ {
+  "ID": 222669216,
+  "Capacity": 4011,
+  "Name": "",
+  "CenterPositionLon": 57.03982829113665,
+  "CenterPositionLat": 24.030015182793584
+ },
+ {
+  "ID": 222990734,
+  "Capacity": 3410,
+  "Name": "",
+  "CenterPositionLon": 56.62384601338174,
+  "CenterPositionLat": 23.28150257276171
+ },
+ {
+  "ID": 223114740,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": 56.510582119149404,
+  "CenterPositionLat": 21.005676537206835
+ },
+ {
+  "ID": 223139413,
+  "Capacity": 48356,
+  "Name": "Durbes pils ainavu parks",
+  "CenterPositionLon": 56.964295901845915,
+  "CenterPositionLat": 23.1900597973827
+ },
+ {
+  "ID": 223181511,
+  "Capacity": 6443,
+  "Name": "",
+  "CenterPositionLon": 57.03529417806734,
+  "CenterPositionLat": 22.77229482847121
+ },
+ {
+  "ID": 223181653,
+  "Capacity": 2032,
+  "Name": "",
+  "CenterPositionLon": 57.03616710737178,
+  "CenterPositionLat": 22.770079871866688
+ },
+ {
+  "ID": 223250859,
+  "Capacity": 4501,
+  "Name": "",
+  "CenterPositionLon": 57.035575529156716,
+  "CenterPositionLat": 22.795029947285084
+ },
+ {
+  "ID": 223491245,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": 56.8238119697207,
+  "CenterPositionLat": 24.229594617571223
+ },
+ {
+  "ID": 223491697,
+  "Capacity": 1280,
+  "Name": "",
+  "CenterPositionLon": 56.823164320706816,
+  "CenterPositionLat": 24.228772290969726
+ },
+ {
+  "ID": 223901879,
+  "Capacity": 15651,
+  "Name": "Bebrenes muižas parks",
+  "CenterPositionLon": 56.06927562712574,
+  "CenterPositionLat": 26.132843118733952
+ },
+ {
+  "ID": 224084785,
+  "Capacity": 741,
+  "Name": "",
+  "CenterPositionLon": 56.61999809612122,
+  "CenterPositionLat": 23.275396985788827
+ },
+ {
+  "ID": 224086098,
+  "Capacity": 2721,
+  "Name": "",
+  "CenterPositionLon": 56.62335090106122,
+  "CenterPositionLat": 23.271000869688365
+ },
+ {
+  "ID": 224337187,
+  "Capacity": 21883,
+  "Name": "Salienas Parks",
+  "CenterPositionLon": 56.951695088337495,
+  "CenterPositionLat": 23.90443896190485
+ },
+ {
+  "ID": 225453826,
+  "Capacity": 13919,
+  "Name": "",
+  "CenterPositionLon": 56.4848067851901,
+  "CenterPositionLat": 23.393750365049165
+ },
+ {
+  "ID": 225537267,
+  "Capacity": 4873,
+  "Name": "",
+  "CenterPositionLon": 56.531245650520674,
+  "CenterPositionLat": 23.508240255970055
+ },
+ {
+  "ID": 225538291,
+  "Capacity": 815,
+  "Name": "",
+  "CenterPositionLon": 56.52718955031194,
+  "CenterPositionLat": 23.507617794296397
+ },
+ {
+  "ID": 225665475,
+  "Capacity": 652,
+  "Name": "",
+  "CenterPositionLon": 57.138940747247496,
+  "CenterPositionLat": 27.258915261268772
+ },
+ {
+  "ID": 226240914,
+  "Capacity": 2393,
+  "Name": "",
+  "CenterPositionLon": 57.12893294870912,
+  "CenterPositionLat": 24.274768659817727
+ },
+ {
+  "ID": 226412508,
+  "Capacity": 1479,
+  "Name": "",
+  "CenterPositionLon": 57.03918346827647,
+  "CenterPositionLat": 22.771947962569374
+ },
+ {
+  "ID": 226671599,
+  "Capacity": 1705,
+  "Name": "",
+  "CenterPositionLon": 57.1076445921842,
+  "CenterPositionLat": 22.868287115301246
+ },
+ {
+  "ID": 226947210,
+  "Capacity": 1442,
+  "Name": "",
+  "CenterPositionLon": 56.92805752020725,
+  "CenterPositionLat": 22.79492789091086
+ },
+ {
+  "ID": 226949298,
+  "Capacity": 1190,
+  "Name": "Atmiņu parks",
+  "CenterPositionLon": 56.836624644855995,
+  "CenterPositionLat": 22.73588695077623
+ },
+ {
+  "ID": 228415485,
+  "Capacity": 6269,
+  "Name": "",
+  "CenterPositionLon": 57.16870543957999,
+  "CenterPositionLat": 24.828989480364225
+ },
+ {
+  "ID": 228424494,
+  "Capacity": 4684,
+  "Name": "",
+  "CenterPositionLon": 57.0769552097548,
+  "CenterPositionLat": 24.32577023626891
+ },
+ {
+  "ID": 228503258,
+  "Capacity": 3751,
+  "Name": "",
+  "CenterPositionLon": 56.38603547835847,
+  "CenterPositionLat": 28.12445217862498
+ },
+ {
+  "ID": 228551410,
+  "Capacity": 1730,
+  "Name": "",
+  "CenterPositionLon": 56.666834574200145,
+  "CenterPositionLat": 22.49051268605131
+ },
+ {
+  "ID": 228638321,
+  "Capacity": 3179,
+  "Name": "",
+  "CenterPositionLon": 57.31741188271245,
+  "CenterPositionLat": 24.415099601471496
+ },
+ {
+  "ID": 228653956,
+  "Capacity": 1097,
+  "Name": "",
+  "CenterPositionLon": 56.97316026390315,
+  "CenterPositionLat": 22.930573852668434
+ },
+ {
+  "ID": 228653959,
+  "Capacity": 3987,
+  "Name": "",
+  "CenterPositionLon": 56.97463339724666,
+  "CenterPositionLat": 22.931172462201125
+ },
+ {
+  "ID": 230057278,
+  "Capacity": 2068,
+  "Name": "",
+  "CenterPositionLon": 56.92231513935365,
+  "CenterPositionLat": 22.5631992331662
+ },
+ {
+  "ID": 230323981,
+  "Capacity": 15122,
+  "Name": "",
+  "CenterPositionLon": 56.92848616425396,
+  "CenterPositionLat": 24.380303795939643
+ },
+ {
+  "ID": 231680424,
+  "Capacity": 21315,
+  "Name": "Aizupes Muiža",
+  "CenterPositionLon": 56.92053509132847,
+  "CenterPositionLat": 22.587000262225448
+ },
+ {
+  "ID": 232344398,
+  "Capacity": 69496,
+  "Name": "Cesvaines  parks",
+  "CenterPositionLon": 56.97205520792332,
+  "CenterPositionLat": 26.31631705185214
+ },
+ {
+  "ID": 232344416,
+  "Capacity": 1587,
+  "Name": "",
+  "CenterPositionLon": 56.96794203843467,
+  "CenterPositionLat": 26.310000951399992
+ },
+ {
+  "ID": 232571355,
+  "Capacity": 5600,
+  "Name": "Jēkaba kapi",
+  "CenterPositionLon": 56.96945724373341,
+  "CenterPositionLat": 24.137961298490314
+ },
+ {
+  "ID": 232701023,
+  "Capacity": 7516,
+  "Name": "",
+  "CenterPositionLon": 56.53269723471253,
+  "CenterPositionLat": 23.239336195025846
+ },
+ {
+  "ID": 232754793,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": 56.60521123122758,
+  "CenterPositionLat": 24.2084087226145
+ },
+ {
+  "ID": 233089011,
+  "Capacity": 406,
+  "Name": "Skrundas muižas sala",
+  "CenterPositionLon": 56.67191758765197,
+  "CenterPositionLat": 22.022225239581637
+ },
+ {
+  "ID": 234009592,
+  "Capacity": 641,
+  "Name": "",
+  "CenterPositionLon": 56.844760569200524,
+  "CenterPositionLat": 24.49317225661745
+ },
+ {
+  "ID": 235350317,
+  "Capacity": 336,
+  "Name": "",
+  "CenterPositionLon": 56.53496491634204,
+  "CenterPositionLat": 21.1689551698936
+ },
+ {
+  "ID": 235531620,
+  "Capacity": 479,
+  "Name": "",
+  "CenterPositionLon": 56.5339717980123,
+  "CenterPositionLat": 21.158180274292405
+ },
+ {
+  "ID": 236625950,
+  "Capacity": 9658,
+  "Name": "",
+  "CenterPositionLon": 56.97165002913881,
+  "CenterPositionLat": 21.96407490305494
+ },
+ {
+  "ID": 237911708,
+  "Capacity": 1768,
+  "Name": "",
+  "CenterPositionLon": 56.97543190166377,
+  "CenterPositionLat": 21.95218928662107
+ },
+ {
+  "ID": 238298310,
+  "Capacity": 3805,
+  "Name": "",
+  "CenterPositionLon": 55.90250587937038,
+  "CenterPositionLat": 26.52823577937857
+ },
+ {
+  "ID": 238401856,
+  "Capacity": 3938,
+  "Name": "1905. gada parks",
+  "CenterPositionLon": 56.96980933534089,
+  "CenterPositionLat": 21.96985378817175
+ },
+ {
+  "ID": 240089915,
+  "Capacity": 22715,
+  "Name": "Jaunmokas Manor estate",
+  "CenterPositionLon": 56.98142568491676,
+  "CenterPositionLat": 23.05439740324873
+ },
+ {
+  "ID": 240633911,
+  "Capacity": 1466,
+  "Name": "",
+  "CenterPositionLon": 56.943928084614846,
+  "CenterPositionLat": 23.91165808717226
+ },
+ {
+  "ID": 244015323,
+  "Capacity": 850,
+  "Name": "",
+  "CenterPositionLon": 55.79688149159465,
+  "CenterPositionLat": 27.445260680912583
+ },
+ {
+  "ID": 244033251,
+  "Capacity": 804,
+  "Name": "Kalpaka laukums",
+  "CenterPositionLon": 56.665990909588416,
+  "CenterPositionLat": 22.493164023441825
+ },
+ {
+  "ID": 245171248,
+  "Capacity": 8569,
+  "Name": "",
+  "CenterPositionLon": 57.03438852331005,
+  "CenterPositionLat": 22.905505862209267
+ },
+ {
+  "ID": 245490869,
+  "Capacity": 589,
+  "Name": "Zīmuļu parks",
+  "CenterPositionLon": 56.95517385854986,
+  "CenterPositionLat": 23.60505490828185
+ },
+ {
+  "ID": 245838667,
+  "Capacity": 1899,
+  "Name": "Kocēnu parks",
+  "CenterPositionLon": 57.52186397564041,
+  "CenterPositionLat": 25.333320858847728
+ },
+ {
+  "ID": 246775758,
+  "Capacity": 737,
+  "Name": "",
+  "CenterPositionLon": 57.045022036133,
+  "CenterPositionLat": 22.572124972395024
+ },
+ {
+  "ID": 246902813,
+  "Capacity": 7287,
+  "Name": "Abgunstes muižas parks",
+  "CenterPositionLon": 56.47769449081092,
+  "CenterPositionLat": 23.48845536827818
+ },
+ {
+  "ID": 247190255,
+  "Capacity": 1921,
+  "Name": "",
+  "CenterPositionLon": 56.62101051025495,
+  "CenterPositionLat": 23.411669813797797
+ },
+ {
+  "ID": 247190271,
+  "Capacity": 695,
+  "Name": "",
+  "CenterPositionLon": 56.623123311597475,
+  "CenterPositionLat": 23.41316499002341
+ },
+ {
+  "ID": 247923432,
+  "Capacity": 3221,
+  "Name": "Saules parks",
+  "CenterPositionLon": 57.3118046895735,
+  "CenterPositionLat": 25.354099071152742
+ },
+ {
+  "ID": 248351089,
+  "Capacity": 3496,
+  "Name": "",
+  "CenterPositionLon": 56.62724326558384,
+  "CenterPositionLat": 23.285146293352547
+ },
+ {
+  "ID": 248351125,
+  "Capacity": 1266,
+  "Name": "",
+  "CenterPositionLon": 56.606396272514395,
+  "CenterPositionLat": 23.282947972188584
+ },
+ {
+  "ID": 248351134,
+  "Capacity": 1768,
+  "Name": "",
+  "CenterPositionLon": 56.63132205322272,
+  "CenterPositionLat": 23.286067068372578
+ },
+ {
+  "ID": 248594131,
+  "Capacity": 11952,
+  "Name": "",
+  "CenterPositionLon": 56.54939184858229,
+  "CenterPositionLat": 21.00900289385118
+ },
+ {
+  "ID": 249161095,
+  "Capacity": 244,
+  "Name": "Alekša skvērs",
+  "CenterPositionLon": 56.99394257387141,
+  "CenterPositionLat": 24.12467980046031
+ },
+ {
+  "ID": 250219816,
+  "Capacity": 1807,
+  "Name": "",
+  "CenterPositionLon": 56.73037295112481,
+  "CenterPositionLat": 23.021517265243332
+ },
+ {
+  "ID": 251780994,
+  "Capacity": 2705,
+  "Name": "",
+  "CenterPositionLon": 56.72671532343659,
+  "CenterPositionLat": 24.713896163812375
+ },
+ {
+  "ID": 251976585,
+  "Capacity": 2679,
+  "Name": "",
+  "CenterPositionLon": 56.66703557558526,
+  "CenterPositionLat": 22.491128243693737
+ },
+ {
+  "ID": 252349887,
+  "Capacity": 5003,
+  "Name": "Vienības parks",
+  "CenterPositionLon": 57.51185235779824,
+  "CenterPositionLat": 24.714285912251597
+ },
+ {
+  "ID": 252686516,
+  "Capacity": 4208,
+  "Name": "",
+  "CenterPositionLon": 57.50412943797239,
+  "CenterPositionLat": 24.70531183774759
+ },
+ {
+  "ID": 252978752,
+  "Capacity": 6663,
+  "Name": "",
+  "CenterPositionLon": 56.47956886813603,
+  "CenterPositionLat": 21.01937853049464
+ },
+ {
+  "ID": 254632636,
+  "Capacity": 6654,
+  "Name": "",
+  "CenterPositionLon": 56.51692693070418,
+  "CenterPositionLat": 26.89907826502801
+ },
+ {
+  "ID": 255145380,
+  "Capacity": 10681,
+  "Name": "",
+  "CenterPositionLon": 57.775409993056236,
+  "CenterPositionLat": 26.014946280690364
+ },
+ {
+  "ID": 255998063,
+  "Capacity": 287,
+  "Name": "",
+  "CenterPositionLon": 56.95790122257492,
+  "CenterPositionLat": 24.05329554954465
+ },
+ {
+  "ID": 256909630,
+  "Capacity": 862,
+  "Name": "",
+  "CenterPositionLon": 57.27524744077662,
+  "CenterPositionLat": 24.417276694094024
+ },
+ {
+  "ID": 257162686,
+  "Capacity": 8966,
+  "Name": "",
+  "CenterPositionLon": 56.77651832948823,
+  "CenterPositionLat": 27.72261705428388
+ },
+ {
+  "ID": 257618989,
+  "Capacity": 1282,
+  "Name": "",
+  "CenterPositionLon": 56.942018286182645,
+  "CenterPositionLat": 24.097351563715627
+ },
+ {
+  "ID": 268562878,
+  "Capacity": 2371,
+  "Name": "",
+  "CenterPositionLon": 57.425159915724834,
+  "CenterPositionLat": 27.04857669712795
+ },
+ {
+  "ID": 268562885,
+  "Capacity": 2034,
+  "Name": "",
+  "CenterPositionLon": 57.426270459772475,
+  "CenterPositionLat": 27.051368635681385
+ },
+ {
+  "ID": 268562888,
+  "Capacity": 1266,
+  "Name": "",
+  "CenterPositionLon": 57.42284419581833,
+  "CenterPositionLat": 27.05019543440994
+ },
+ {
+  "ID": 268562895,
+  "Capacity": 11025,
+  "Name": "",
+  "CenterPositionLon": 57.43277853461044,
+  "CenterPositionLat": 27.03629248783322
+ },
+ {
+  "ID": 271882646,
+  "Capacity": 432,
+  "Name": "",
+  "CenterPositionLon": 56.995543783069785,
+  "CenterPositionLat": 24.345294066647185
+ },
+ {
+  "ID": 277767795,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 56.49290520838112,
+  "CenterPositionLat": 21.004009998645373
+ },
+ {
+  "ID": 278082563,
+  "Capacity": 471,
+  "Name": "",
+  "CenterPositionLon": 56.49076158919114,
+  "CenterPositionLat": 21.00270837766903
+ },
+ {
+  "ID": 278082565,
+  "Capacity": 178,
+  "Name": "",
+  "CenterPositionLon": 56.490997916133594,
+  "CenterPositionLat": 21.000862735281792
+ },
+ {
+  "ID": 278616824,
+  "Capacity": 5410,
+  "Name": "Mācītāju dārzs",
+  "CenterPositionLon": 56.51274995303631,
+  "CenterPositionLat": 25.85626242714269
+ },
+ {
+  "ID": 279980117,
+  "Capacity": 538,
+  "Name": "",
+  "CenterPositionLon": 56.63514696389287,
+  "CenterPositionLat": 25.43561368429846
+ },
+ {
+  "ID": 279980118,
+  "Capacity": 428,
+  "Name": "",
+  "CenterPositionLon": 56.63478893390585,
+  "CenterPositionLat": 25.436342838078502
+ },
+ {
+  "ID": 283070896,
+  "Capacity": 12862,
+  "Name": "",
+  "CenterPositionLon": 57.44495629844594,
+  "CenterPositionLat": 26.934915645180226
+ },
+ {
+  "ID": 284388175,
+  "Capacity": 308,
+  "Name": "",
+  "CenterPositionLon": 56.94863355005031,
+  "CenterPositionLat": 24.07165244801548
+ },
+ {
+  "ID": 288163069,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": 57.058927759068055,
+  "CenterPositionLat": 25.80909621024674
+ },
+ {
+  "ID": 288230572,
+  "Capacity": 474,
+  "Name": "",
+  "CenterPositionLon": 57.063664107102696,
+  "CenterPositionLat": 25.80799502866274
+ },
+ {
+  "ID": 299449596,
+  "Capacity": 1421,
+  "Name": "",
+  "CenterPositionLon": 56.9838199974961,
+  "CenterPositionLat": 24.200739009028293
+ },
+ {
+  "ID": 299894448,
+  "Capacity": 573,
+  "Name": "",
+  "CenterPositionLon": 56.96750723725125,
+  "CenterPositionLat": 26.314805484035862
+ },
+ {
+  "ID": 303026315,
+  "Capacity": 1063,
+  "Name": "",
+  "CenterPositionLon": 57.43661701568466,
+  "CenterPositionLat": 25.778865233423545
+ },
+ {
+  "ID": 307851714,
+  "Capacity": 9164,
+  "Name": "Pils parks",
+  "CenterPositionLon": 56.51082849929812,
+  "CenterPositionLat": 25.86031430933418
+ },
+ {
+  "ID": 312550352,
+  "Capacity": 7305,
+  "Name": "",
+  "CenterPositionLon": 56.94393679890293,
+  "CenterPositionLat": 24.20780632311355
+ },
+ {
+  "ID": 312601262,
+  "Capacity": 4153,
+  "Name": "",
+  "CenterPositionLon": 56.396324603629125,
+  "CenterPositionLat": 20.986405331878757
+ },
+ {
+  "ID": 314816608,
+  "Capacity": 578,
+  "Name": "",
+  "CenterPositionLon": 56.97388780939309,
+  "CenterPositionLat": 24.07640203564331
+ },
+ {
+  "ID": 315118523,
+  "Capacity": 2388,
+  "Name": "SIA \"Pik-nik\"",
+  "CenterPositionLon": 56.95084684125295,
+  "CenterPositionLat": 24.004204471645192
+ },
+ {
+  "ID": 319857919,
+  "Capacity": 729,
+  "Name": "Māra Čaklā skvērs",
+  "CenterPositionLon": 56.6640699328895,
+  "CenterPositionLat": 22.492423681590154
+ },
+ {
+  "ID": 319857963,
+  "Capacity": 2090,
+  "Name": "",
+  "CenterPositionLon": 56.665053342574936,
+  "CenterPositionLat": 22.49071692548823
+ },
+ {
+  "ID": 320629576,
+  "Capacity": 297,
+  "Name": "",
+  "CenterPositionLon": 56.55509907671411,
+  "CenterPositionLat": 21.097811119688263
+ },
+ {
+  "ID": 320629578,
+  "Capacity": 58,
+  "Name": "",
+  "CenterPositionLon": 56.554789922424,
+  "CenterPositionLat": 21.098030287786653
+ },
+ {
+  "ID": 323224223,
+  "Capacity": 3389,
+  "Name": "",
+  "CenterPositionLon": 56.34420427026988,
+  "CenterPositionLat": 21.351443485409344
+ },
+ {
+  "ID": 323609204,
+  "Capacity": 212,
+  "Name": "",
+  "CenterPositionLon": 56.94379220853857,
+  "CenterPositionLat": 24.27880459928271
+ },
+ {
+  "ID": 323630806,
+  "Capacity": 10828,
+  "Name": "",
+  "CenterPositionLon": 56.938425898966045,
+  "CenterPositionLat": 24.28919554702272
+ },
+ {
+  "ID": 324043150,
+  "Capacity": 4074,
+  "Name": "Aleksandra parks",
+  "CenterPositionLon": 57.10047289094329,
+  "CenterPositionLat": 24.683436055344323
+ },
+ {
+  "ID": 324076711,
+  "Capacity": 4664,
+  "Name": "",
+  "CenterPositionLon": 56.35191053011913,
+  "CenterPositionLat": 21.3246963590866
+ },
+ {
+  "ID": 324076717,
+  "Capacity": 4608,
+  "Name": "",
+  "CenterPositionLon": 56.3500233125071,
+  "CenterPositionLat": 21.321703936030765
+ },
+ {
+  "ID": 324078155,
+  "Capacity": 5662,
+  "Name": "",
+  "CenterPositionLon": 56.350949908291376,
+  "CenterPositionLat": 21.331867958765407
+ },
+ {
+  "ID": 324429833,
+  "Capacity": 2825,
+  "Name": "",
+  "CenterPositionLon": 56.346248015350966,
+  "CenterPositionLat": 21.35797484231871
+ },
+ {
+  "ID": 326739921,
+  "Capacity": 1863,
+  "Name": "",
+  "CenterPositionLon": 56.952743478048525,
+  "CenterPositionLat": 24.00397300982923
+ },
+ {
+  "ID": 329248096,
+  "Capacity": 5565,
+  "Name": "",
+  "CenterPositionLon": 57.22340826540497,
+  "CenterPositionLat": 21.678713435499258
+ },
+ {
+  "ID": 329248097,
+  "Capacity": 1058,
+  "Name": "",
+  "CenterPositionLon": 57.22418179071686,
+  "CenterPositionLat": 21.67546083316044
+ },
+ {
+  "ID": 329424468,
+  "Capacity": 461,
+  "Name": "",
+  "CenterPositionLon": 57.230062830208695,
+  "CenterPositionLat": 21.667332523339955
+ },
+ {
+  "ID": 329520584,
+  "Capacity": 1149,
+  "Name": "",
+  "CenterPositionLon": 57.22815733820462,
+  "CenterPositionLat": 21.67146309940271
+ },
+ {
+  "ID": 330555788,
+  "Capacity": 4309,
+  "Name": "Tārgales parks",
+  "CenterPositionLon": 57.3319993486803,
+  "CenterPositionLat": 21.64462431637738
+ },
+ {
+  "ID": 330750429,
+  "Capacity": 1649,
+  "Name": "",
+  "CenterPositionLon": 57.3323117415051,
+  "CenterPositionLat": 21.640719325318877
+ },
+ {
+  "ID": 330945881,
+  "Capacity": 243,
+  "Name": "",
+  "CenterPositionLon": 57.25405055739075,
+  "CenterPositionLat": 21.608934452719367
+ },
+ {
+  "ID": 331085047,
+  "Capacity": 3420,
+  "Name": "",
+  "CenterPositionLon": 57.22731195343721,
+  "CenterPositionLat": 21.605709065659592
+ },
+ {
+  "ID": 331188198,
+  "Capacity": 30,
+  "Name": "",
+  "CenterPositionLon": 56.361804933451204,
+  "CenterPositionLat": 21.47464748914217
+ },
+ {
+  "ID": 331216704,
+  "Capacity": 15682,
+  "Name": "Zūru muižas parks",
+  "CenterPositionLon": 57.25293507721777,
+  "CenterPositionLat": 21.609586462035175
+ },
+ {
+  "ID": 331866493,
+  "Capacity": 1445,
+  "Name": "Skrundas pilsētas skvērs",
+  "CenterPositionLon": 56.67579437744143,
+  "CenterPositionLat": 22.01529010080061
+ },
+ {
+  "ID": 331866494,
+  "Capacity": 418,
+  "Name": "Oskara Kalpaka parks",
+  "CenterPositionLon": 56.67608751846592,
+  "CenterPositionLat": 22.016560943365583
+ },
+ {
+  "ID": 331996057,
+  "Capacity": 2411,
+  "Name": "Estrāde",
+  "CenterPositionLon": 57.228444663200506,
+  "CenterPositionLat": 21.452836281689915
+ },
+ {
+  "ID": 331996059,
+  "Capacity": 2310,
+  "Name": "",
+  "CenterPositionLon": 57.2290617392102,
+  "CenterPositionLat": 21.453897764937846
+ },
+ {
+  "ID": 332145598,
+  "Capacity": 3064,
+  "Name": "",
+  "CenterPositionLon": 57.22795371904726,
+  "CenterPositionLat": 21.454798546378576
+ },
+ {
+  "ID": 332402576,
+  "Capacity": 1967,
+  "Name": "",
+  "CenterPositionLon": 57.22259596321635,
+  "CenterPositionLat": 21.672161352945686
+ },
+ {
+  "ID": 332404303,
+  "Capacity": 1615,
+  "Name": "",
+  "CenterPositionLon": 57.22255708163886,
+  "CenterPositionLat": 21.670133175768623
+ },
+ {
+  "ID": 332404310,
+  "Capacity": 6540,
+  "Name": "",
+  "CenterPositionLon": 57.22490381747217,
+  "CenterPositionLat": 21.671239523568325
+ },
+ {
+  "ID": 334176044,
+  "Capacity": 236,
+  "Name": "",
+  "CenterPositionLon": 57.22557492057355,
+  "CenterPositionLat": 21.67594108093946
+ },
+ {
+  "ID": 337598466,
+  "Capacity": 1203,
+  "Name": "",
+  "CenterPositionLon": 57.54356644483722,
+  "CenterPositionLat": 25.710357097550936
+ },
+ {
+  "ID": 337598467,
+  "Capacity": 867,
+  "Name": "",
+  "CenterPositionLon": 57.54433672341853,
+  "CenterPositionLat": 25.710975580080913
+ },
+ {
+  "ID": 342327105,
+  "Capacity": 25064,
+  "Name": "Dundagas parks",
+  "CenterPositionLon": 57.50712177024518,
+  "CenterPositionLat": 22.358602658259272
+ },
+ {
+  "ID": 342389266,
+  "Capacity": 3821,
+  "Name": "",
+  "CenterPositionLon": 57.126815234582764,
+  "CenterPositionLat": 24.27635428085427
+ },
+ {
+  "ID": 342389271,
+  "Capacity": 859,
+  "Name": "",
+  "CenterPositionLon": 57.129480071562,
+  "CenterPositionLat": 24.27676508066108
+ },
+ {
+  "ID": 342389272,
+  "Capacity": 387,
+  "Name": "",
+  "CenterPositionLon": 57.129418870900956,
+  "CenterPositionLat": 24.27548194366848
+ },
+ {
+  "ID": 342389276,
+  "Capacity": 614,
+  "Name": "",
+  "CenterPositionLon": 57.12861839563581,
+  "CenterPositionLat": 24.277297438383485
+ },
+ {
+  "ID": 344599306,
+  "Capacity": 2420,
+  "Name": "Valdekas pils parks",
+  "CenterPositionLon": 56.662417455396294,
+  "CenterPositionLat": 23.751632450750076
+ },
+ {
+  "ID": 346332189,
+  "Capacity": 1713,
+  "Name": "",
+  "CenterPositionLon": 56.96886583172456,
+  "CenterPositionLat": 24.48447381244376
+ },
+ {
+  "ID": 346332191,
+  "Capacity": 343,
+  "Name": "",
+  "CenterPositionLon": 56.96934997425244,
+  "CenterPositionLat": 24.482883864433376
+ },
+ {
+  "ID": 346470895,
+  "Capacity": 23707,
+  "Name": "Vipingas meža parks",
+  "CenterPositionLon": 56.50704097128339,
+  "CenterPositionLat": 27.36372455753164
+ },
+ {
+  "ID": 346475461,
+  "Capacity": 4559,
+  "Name": "",
+  "CenterPositionLon": 56.5043565828022,
+  "CenterPositionLat": 27.328145222128708
+ },
+ {
+  "ID": 346476820,
+  "Capacity": 4991,
+  "Name": "Kultūras un atpūtas parks",
+  "CenterPositionLon": 56.51243045457927,
+  "CenterPositionLat": 27.33891195949562
+ },
+ {
+  "ID": 347320244,
+  "Capacity": 2198,
+  "Name": "",
+  "CenterPositionLon": 57.48915193665754,
+  "CenterPositionLat": 24.382625006163096
+ },
+ {
+  "ID": 347366298,
+  "Capacity": 1371,
+  "Name": "",
+  "CenterPositionLon": 57.4916366847347,
+  "CenterPositionLat": 24.38220926663909
+ },
+ {
+  "ID": 352086411,
+  "Capacity": 2098,
+  "Name": "",
+  "CenterPositionLon": 56.3462086183807,
+  "CenterPositionLat": 21.06361624139461
+ },
+ {
+  "ID": 356857418,
+  "Capacity": 3116,
+  "Name": "Pilsētas parks",
+  "CenterPositionLon": 56.66270631228575,
+  "CenterPositionLat": 22.4851205487726
+ },
+ {
+  "ID": 356857420,
+  "Capacity": 2340,
+  "Name": "",
+  "CenterPositionLon": 56.66651314910019,
+  "CenterPositionLat": 22.47535885847156
+ },
+ {
+  "ID": 356937695,
+  "Capacity": 1369,
+  "Name": "",
+  "CenterPositionLon": 56.41797738638364,
+  "CenterPositionLat": 21.85668306312872
+ },
+ {
+  "ID": 356983246,
+  "Capacity": 3705,
+  "Name": "",
+  "CenterPositionLon": 56.953405799391085,
+  "CenterPositionLat": 24.057645721357652
+ },
+ {
+  "ID": 357503555,
+  "Capacity": 3377,
+  "Name": "",
+  "CenterPositionLon": 56.95786004825056,
+  "CenterPositionLat": 24.3817474151375
+ },
+ {
+  "ID": 357503556,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 56.958884776456806,
+  "CenterPositionLat": 24.37960906923617
+ },
+ {
+  "ID": 357503557,
+  "Capacity": 561,
+  "Name": "",
+  "CenterPositionLon": 56.95854217563938,
+  "CenterPositionLat": 24.380193414256578
+ },
+ {
+  "ID": 358651209,
+  "Capacity": 27366,
+  "Name": "Mazmežotnes muižas parks",
+  "CenterPositionLon": 56.430980950257144,
+  "CenterPositionLat": 24.047504977509387
+ },
+ {
+  "ID": 360842634,
+  "Capacity": 14888,
+  "Name": "Skrundas muiža",
+  "CenterPositionLon": 56.6714343847128,
+  "CenterPositionLat": 22.022754315772538
+ },
+ {
+  "ID": 360928579,
+  "Capacity": 1070,
+  "Name": "",
+  "CenterPositionLon": 56.67692934848922,
+  "CenterPositionLat": 22.0155072301294
+ },
+ {
+  "ID": 362073357,
+  "Capacity": 1690,
+  "Name": "",
+  "CenterPositionLon": 56.530567402195615,
+  "CenterPositionLat": 21.0133552431204
+ },
+ {
+  "ID": 362297022,
+  "Capacity": 352,
+  "Name": "",
+  "CenterPositionLon": 56.50824089296051,
+  "CenterPositionLat": 21.006731775774234
+ },
+ {
+  "ID": 362892443,
+  "Capacity": 1066,
+  "Name": "",
+  "CenterPositionLon": 57.31140037809194,
+  "CenterPositionLat": 25.351875302685652
+ },
+ {
+  "ID": 362892444,
+  "Capacity": 4120,
+  "Name": "",
+  "CenterPositionLon": 57.309633594613814,
+  "CenterPositionLat": 25.352424278846623
+ },
+ {
+  "ID": 364462021,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 57.54409328097383,
+  "CenterPositionLat": 25.709330957827667
+ },
+ {
+  "ID": 364462022,
+  "Capacity": 63,
+  "Name": "",
+  "CenterPositionLon": 57.543995494953556,
+  "CenterPositionLat": 25.709576611325573
+ },
+ {
+  "ID": 364462023,
+  "Capacity": 45,
+  "Name": "",
+  "CenterPositionLon": 57.544047761750754,
+  "CenterPositionLat": 25.709897997078173
+ },
+ {
+  "ID": 364462039,
+  "Capacity": 112,
+  "Name": "",
+  "CenterPositionLon": 57.54436664446571,
+  "CenterPositionLat": 25.71025071980139
+ },
+ {
+  "ID": 364462040,
+  "Capacity": 206,
+  "Name": "",
+  "CenterPositionLon": 57.54445219627709,
+  "CenterPositionLat": 25.709718397546656
+ },
+ {
+  "ID": 364462041,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": 57.543892166666666,
+  "CenterPositionLat": 25.709406
+ },
+ {
+  "ID": 364462042,
+  "Capacity": 231,
+  "Name": "",
+  "CenterPositionLon": 57.54365857635789,
+  "CenterPositionLat": 25.7095147813397
+ },
+ {
+  "ID": 364472408,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 57.54260878160535,
+  "CenterPositionLat": 25.708231657739265
+ },
+ {
+  "ID": 366132494,
+  "Capacity": 1335,
+  "Name": "",
+  "CenterPositionLon": 56.53245169960999,
+  "CenterPositionLat": 21.011308003058296
+ },
+ {
+  "ID": 366418721,
+  "Capacity": 2581,
+  "Name": "",
+  "CenterPositionLon": 56.53695049559321,
+  "CenterPositionLat": 21.007553506877493
+ },
+ {
+  "ID": 366418722,
+  "Capacity": 1949,
+  "Name": "",
+  "CenterPositionLon": 56.53840445977813,
+  "CenterPositionLat": 21.00460247118755
+ },
+ {
+  "ID": 366418723,
+  "Capacity": 1481,
+  "Name": "",
+  "CenterPositionLon": 56.53773608876499,
+  "CenterPositionLat": 21.005710095037216
+ },
+ {
+  "ID": 366421668,
+  "Capacity": 835,
+  "Name": "",
+  "CenterPositionLon": 56.53395781114517,
+  "CenterPositionLat": 21.00618417081917
+ },
+ {
+  "ID": 366805635,
+  "Capacity": 1378,
+  "Name": "",
+  "CenterPositionLon": 56.953214171245726,
+  "CenterPositionLat": 23.772000110929046
+ },
+ {
+  "ID": 366805637,
+  "Capacity": 787,
+  "Name": "",
+  "CenterPositionLon": 56.953283649091816,
+  "CenterPositionLat": 23.771046272280003
+ },
+ {
+  "ID": 367307967,
+  "Capacity": 2106,
+  "Name": "",
+  "CenterPositionLon": 55.89370695630336,
+  "CenterPositionLat": 26.560124277010036
+ },
+ {
+  "ID": 367932868,
+  "Capacity": 390,
+  "Name": "",
+  "CenterPositionLon": 55.867692113886086,
+  "CenterPositionLat": 26.58699597287531
+ },
+ {
+  "ID": 368313835,
+  "Capacity": 1900,
+  "Name": "",
+  "CenterPositionLon": 55.867351673111614,
+  "CenterPositionLat": 26.585478717171725
+ },
+ {
+  "ID": 368890158,
+  "Capacity": 1785,
+  "Name": "",
+  "CenterPositionLon": 57.54374558974402,
+  "CenterPositionLat": 25.713799675826056
+ },
+ {
+  "ID": 368911525,
+  "Capacity": 1721,
+  "Name": "",
+  "CenterPositionLon": 56.53691945954392,
+  "CenterPositionLat": 21.169115971989086
+ },
+ {
+  "ID": 368929302,
+  "Capacity": 1550,
+  "Name": "",
+  "CenterPositionLon": 56.53299143163074,
+  "CenterPositionLat": 21.16384247784989
+ },
+ {
+  "ID": 370618635,
+  "Capacity": 69,
+  "Name": "",
+  "CenterPositionLon": 57.31735792672842,
+  "CenterPositionLat": 25.150445052925555
+ },
+ {
+  "ID": 370620735,
+  "Capacity": 3121,
+  "Name": "",
+  "CenterPositionLon": 57.31258493924375,
+  "CenterPositionLat": 25.159451398577048
+ },
+ {
+  "ID": 376034282,
+  "Capacity": 16034,
+  "Name": "Pastendes muižas parks",
+  "CenterPositionLon": 57.22594274232418,
+  "CenterPositionLat": 22.514875227792068
+ },
+ {
+  "ID": 378149390,
+  "Capacity": 1488,
+  "Name": "",
+  "CenterPositionLon": 57.557503903391385,
+  "CenterPositionLat": 24.80155542700257
+ },
+ {
+  "ID": 385849832,
+  "Capacity": 10071,
+  "Name": "",
+  "CenterPositionLon": 57.252402507228226,
+  "CenterPositionLat": 22.58556873486593
+ },
+ {
+  "ID": 392790381,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": 56.92879352850418,
+  "CenterPositionLat": 24.09052725535436
+ },
+ {
+  "ID": 392856382,
+  "Capacity": 25881,
+  "Name": "Svitenes muižas parks",
+  "CenterPositionLon": 56.37694250804827,
+  "CenterPositionLat": 23.930797614332242
+ },
+ {
+  "ID": 395620996,
+  "Capacity": 13104,
+  "Name": "Talsu dendroloģiskais parks",
+  "CenterPositionLon": 57.24210282549967,
+  "CenterPositionLat": 22.603029226310515
+ },
+ {
+  "ID": 399921600,
+  "Capacity": 10402,
+  "Name": "Jāņukalns",
+  "CenterPositionLon": 57.42443030870146,
+  "CenterPositionLat": 25.89610225610941
+ },
+ {
+  "ID": 399991149,
+  "Capacity": 27852,
+  "Name": "Vecais parks",
+  "CenterPositionLon": 57.42705106216878,
+  "CenterPositionLat": 25.91669431419639
+ },
+ {
+  "ID": 399991150,
+  "Capacity": 22232,
+  "Name": "Jaunais parks",
+  "CenterPositionLon": 57.428337782884974,
+  "CenterPositionLat": 25.90457471100517
+ },
+ {
+  "ID": 399995238,
+  "Capacity": 62697,
+  "Name": "Cērtenes Pilskalna komplekss",
+  "CenterPositionLon": 57.41139617771805,
+  "CenterPositionLat": 25.900124485519235
+ },
+ {
+  "ID": 400463324,
+  "Capacity": 1432,
+  "Name": "Slimnīcas parks",
+  "CenterPositionLon": 57.42464082978349,
+  "CenterPositionLat": 25.9143066057352
+ },
+ {
+  "ID": 401168325,
+  "Capacity": 4177,
+  "Name": "",
+  "CenterPositionLon": 56.15890320470804,
+  "CenterPositionLat": 21.166113590103805
+ },
+ {
+  "ID": 401448952,
+  "Capacity": 3204,
+  "Name": "",
+  "CenterPositionLon": 56.958261067371126,
+  "CenterPositionLat": 23.68798194065016
+ },
+ {
+  "ID": 402939972,
+  "Capacity": 386,
+  "Name": "Atpūtas komplekss/Relaxing place",
+  "CenterPositionLon": 56.84800607950253,
+  "CenterPositionLat": 24.504880354827815
+ },
+ {
+  "ID": 403110437,
+  "Capacity": 8582,
+  "Name": "",
+  "CenterPositionLon": 56.60071268302478,
+  "CenterPositionLat": 25.250542818222442
+ },
+ {
+  "ID": 408651299,
+  "Capacity": 4182,
+  "Name": "Vecumnieku parks",
+  "CenterPositionLon": 56.607651821794796,
+  "CenterPositionLat": 24.521568388276663
+ },
+ {
+  "ID": 410146367,
+  "Capacity": 2415,
+  "Name": "",
+  "CenterPositionLon": 56.60351613608474,
+  "CenterPositionLat": 24.5339078428311
+ },
+ {
+  "ID": 411318820,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": 56.95092815762377,
+  "CenterPositionLat": 24.065722737275646
+ },
+ {
+  "ID": 412658642,
+  "Capacity": 1671,
+  "Name": "",
+  "CenterPositionLon": 56.481247310707154,
+  "CenterPositionLat": 23.065900520996777
+ },
+ {
+  "ID": 420910994,
+  "Capacity": 5928,
+  "Name": "Dendroloģiskais parks",
+  "CenterPositionLon": 57.31325235477522,
+  "CenterPositionLat": 24.758471210308286
+ },
+ {
+  "ID": 430207783,
+  "Capacity": 20846,
+  "Name": "Nurmuižas parks",
+  "CenterPositionLon": 57.22835614240453,
+  "CenterPositionLat": 22.763025661427086
+ },
+ {
+  "ID": 435284599,
+  "Capacity": 679,
+  "Name": "",
+  "CenterPositionLon": 57.244646600684966,
+  "CenterPositionLat": 22.59618207042822
+ },
+ {
+  "ID": 441479952,
+  "Capacity": 1093,
+  "Name": "",
+  "CenterPositionLon": 57.42483907761699,
+  "CenterPositionLat": 25.916790602248938
+ },
+ {
+  "ID": 445326606,
+  "Capacity": 2230,
+  "Name": "",
+  "CenterPositionLon": 56.990980705790044,
+  "CenterPositionLat": 24.241485502298808
+ },
+ {
+  "ID": 446276169,
+  "Capacity": 1034,
+  "Name": "",
+  "CenterPositionLon": 56.965555296454184,
+  "CenterPositionLat": 24.014784829021902
+ },
+ {
+  "ID": 446276991,
+  "Capacity": 1116,
+  "Name": "",
+  "CenterPositionLon": 56.96537642480196,
+  "CenterPositionLat": 24.016789334104082
+ },
+ {
+  "ID": 446285244,
+  "Capacity": 373,
+  "Name": "",
+  "CenterPositionLon": 56.96107968080185,
+  "CenterPositionLat": 24.05282775412295
+ },
+ {
+  "ID": 447748100,
+  "Capacity": 315,
+  "Name": "",
+  "CenterPositionLon": 56.51071567198153,
+  "CenterPositionLat": 21.0016208755298
+ },
+ {
+  "ID": 449081023,
+  "Capacity": 7766,
+  "Name": "",
+  "CenterPositionLon": 56.529770503835486,
+  "CenterPositionLat": 21.019114458712988
+ },
+ {
+  "ID": 451611358,
+  "Capacity": 2001,
+  "Name": "Kalētu priediens",
+  "CenterPositionLon": 56.3595767187873,
+  "CenterPositionLat": 21.490183260572127
+ },
+ {
+  "ID": 451684988,
+  "Capacity": 3076,
+  "Name": "Viļakas parks",
+  "CenterPositionLon": 57.18372844811842,
+  "CenterPositionLat": 27.676691295804044
+ },
+ {
+  "ID": 462403068,
+  "Capacity": 1496,
+  "Name": "Ādolfs Pildegovičs",
+  "CenterPositionLon": 55.8922546120507,
+  "CenterPositionLat": 27.15421971288595
+ },
+ {
+  "ID": 464179090,
+  "Capacity": 60,
+  "Name": "",
+  "CenterPositionLon": 56.96473157799534,
+  "CenterPositionLat": 23.152585504882797
+ },
+ {
+  "ID": 464777539,
+  "Capacity": 3207,
+  "Name": "",
+  "CenterPositionLon": 57.70319084202914,
+  "CenterPositionLat": 24.661957958936938
+ },
+ {
+  "ID": 464779488,
+  "Capacity": 808,
+  "Name": "",
+  "CenterPositionLon": 57.701880186527674,
+  "CenterPositionLat": 24.66710439872044
+ },
+ {
+  "ID": 464784463,
+  "Capacity": 484,
+  "Name": "",
+  "CenterPositionLon": 57.70055604247412,
+  "CenterPositionLat": 24.666464459396952
+ },
+ {
+  "ID": 464979219,
+  "Capacity": 1077,
+  "Name": "",
+  "CenterPositionLon": 57.697021836390775,
+  "CenterPositionLat": 24.675741494143697
+ },
+ {
+  "ID": 464988362,
+  "Capacity": 1787,
+  "Name": "",
+  "CenterPositionLon": 57.69574730672871,
+  "CenterPositionLat": 24.675027578219375
+ },
+ {
+  "ID": 465456076,
+  "Capacity": 2756,
+  "Name": "Vika pasaku parks",
+  "CenterPositionLon": 57.59724846852547,
+  "CenterPositionLat": 25.098259446980247
+ },
+ {
+  "ID": 468714417,
+  "Capacity": 10199,
+  "Name": "",
+  "CenterPositionLon": 56.49314321080251,
+  "CenterPositionLat": 25.884200606586553
+ },
+ {
+  "ID": 484680761,
+  "Capacity": 4057,
+  "Name": "",
+  "CenterPositionLon": 55.877438127460465,
+  "CenterPositionLat": 26.549547470911424
+ },
+ {
+  "ID": 484685109,
+  "Capacity": 407,
+  "Name": "",
+  "CenterPositionLon": 55.86419410759685,
+  "CenterPositionLat": 26.50148882498203
+ },
+ {
+  "ID": 484685155,
+  "Capacity": 815,
+  "Name": "",
+  "CenterPositionLon": 55.86445512769075,
+  "CenterPositionLat": 26.504075859662702
+ },
+ {
+  "ID": 486880177,
+  "Capacity": 353,
+  "Name": "",
+  "CenterPositionLon": 56.95690761494575,
+  "CenterPositionLat": 24.024388583429474
+ },
+ {
+  "ID": 486882767,
+  "Capacity": 379,
+  "Name": "",
+  "CenterPositionLon": 56.95678360548096,
+  "CenterPositionLat": 24.063397225092046
+ },
+ {
+  "ID": 488279808,
+  "Capacity": 1022,
+  "Name": "",
+  "CenterPositionLon": 56.93316915712406,
+  "CenterPositionLat": 24.0690961322721
+ },
+ {
+  "ID": 488280851,
+  "Capacity": 257,
+  "Name": "",
+  "CenterPositionLon": 56.93674808234146,
+  "CenterPositionLat": 24.075489459723347
+ },
+ {
+  "ID": 489272560,
+  "Capacity": 11786,
+  "Name": "Spilves skvērs",
+  "CenterPositionLon": 56.97296061300884,
+  "CenterPositionLat": 24.07270184477223
+ },
+ {
+  "ID": 489644205,
+  "Capacity": 10015,
+  "Name": "",
+  "CenterPositionLon": 57.44995071009528,
+  "CenterPositionLat": 22.528702874183914
+ },
+ {
+  "ID": 493424250,
+  "Capacity": 844,
+  "Name": "",
+  "CenterPositionLon": 57.42604188198979,
+  "CenterPositionLat": 27.04941921695748
+ },
+ {
+  "ID": 493424251,
+  "Capacity": 1384,
+  "Name": "",
+  "CenterPositionLon": 57.42602578419883,
+  "CenterPositionLat": 27.05354587755364
+ },
+ {
+  "ID": 494662575,
+  "Capacity": 2079,
+  "Name": "Islandes skvērs",
+  "CenterPositionLon": 56.9500243053419,
+  "CenterPositionLat": 24.084757961674725
+ },
+ {
+  "ID": 495951748,
+  "Capacity": 772,
+  "Name": "",
+  "CenterPositionLon": 56.93557193283671,
+  "CenterPositionLat": 24.160900579763368
+ },
+ {
+  "ID": 496365718,
+  "Capacity": 824,
+  "Name": "Erevānas dārzs",
+  "CenterPositionLon": 56.9334512342226,
+  "CenterPositionLat": 24.150909324848712
+ },
+ {
+  "ID": 498896961,
+  "Capacity": 1069,
+  "Name": "",
+  "CenterPositionLon": 57.002704227006404,
+  "CenterPositionLat": 24.123819329343288
+ },
+ {
+  "ID": 498896962,
+  "Capacity": 117,
+  "Name": "",
+  "CenterPositionLon": 57.00288777372871,
+  "CenterPositionLat": 24.124751796392566
+ },
+ {
+  "ID": 507949007,
+  "Capacity": 1055,
+  "Name": "2 Solu Parks",
+  "CenterPositionLon": 56.34609474758183,
+  "CenterPositionLat": 25.5540030080931
+ },
+ {
+  "ID": 507949008,
+  "Capacity": 4569,
+  "Name": "Sporta Laukums",
+  "CenterPositionLon": 56.3452756697655,
+  "CenterPositionLat": 25.548858434397566
+ },
+ {
+  "ID": 508167845,
+  "Capacity": 8420,
+  "Name": "Bērzmuižas parks",
+  "CenterPositionLon": 56.49425497641247,
+  "CenterPositionLat": 24.125258077265247
+ },
+ {
+  "ID": 510784993,
+  "Capacity": 8392,
+  "Name": "Garozas muižas parks",
+  "CenterPositionLon": 56.50686797151706,
+  "CenterPositionLat": 24.101716415829546
+ },
+ {
+  "ID": 515860618,
+  "Capacity": 3217,
+  "Name": "Lielzalves muižas parks",
+  "CenterPositionLon": 56.32578738455112,
+  "CenterPositionLat": 25.24685475628083
+ },
+ {
+  "ID": 515862175,
+  "Capacity": 12594,
+  "Name": "Ērberģes muižas parks",
+  "CenterPositionLon": 56.36395235214534,
+  "CenterPositionLat": 25.01901476598217
+ },
+ {
+  "ID": 520267092,
+  "Capacity": 32368,
+  "Name": "Jaungulbenes muižas parks",
+  "CenterPositionLon": 57.05796235230411,
+  "CenterPositionLat": 26.59761893334492
+ },
+ {
+  "ID": 520370133,
+  "Capacity": 1070,
+  "Name": "Auglu koki",
+  "CenterPositionLon": 57.118255959526145,
+  "CenterPositionLat": 22.623860609277713
+ },
+ {
+  "ID": 521921853,
+  "Capacity": 11866,
+  "Name": "Tāšu muižas angļu parks",
+  "CenterPositionLon": 56.59800576353182,
+  "CenterPositionLat": 21.229052401516324
+ },
+ {
+  "ID": 521931274,
+  "Capacity": 8635,
+  "Name": "Padures muižas parks",
+  "CenterPositionLon": 56.74886502850171,
+  "CenterPositionLat": 21.58481730191881
+ },
+ {
+  "ID": 523065272,
+  "Capacity": 2788,
+  "Name": "Griezes parks",
+  "CenterPositionLon": 56.42569386666667,
+  "CenterPositionLat": 22.18800239966991
+ },
+ {
+  "ID": 524610758,
+  "Capacity": 1636,
+  "Name": "",
+  "CenterPositionLon": 56.88660303369107,
+  "CenterPositionLat": 23.07289118492398
+ },
+ {
+  "ID": 530281636,
+  "Capacity": 8431,
+  "Name": "",
+  "CenterPositionLon": 56.88553180323173,
+  "CenterPositionLat": 25.348680241815728
+ },
+ {
+  "ID": 530281637,
+  "Capacity": 1236,
+  "Name": "",
+  "CenterPositionLon": 56.88711640430615,
+  "CenterPositionLat": 25.35003826649454
+ },
+ {
+  "ID": 530281638,
+  "Capacity": 6117,
+  "Name": "",
+  "CenterPositionLon": 56.88547286745067,
+  "CenterPositionLat": 25.35145699357575
+ },
+ {
+  "ID": 533148484,
+  "Capacity": 3948,
+  "Name": "Alberta parks",
+  "CenterPositionLon": 56.80551479710615,
+  "CenterPositionLat": 22.528115212191985
+ },
+ {
+  "ID": 533595013,
+  "Capacity": 2065,
+  "Name": "",
+  "CenterPositionLon": 56.481730299283406,
+  "CenterPositionLat": 25.856820170097546
+ },
+ {
+  "ID": 534904066,
+  "Capacity": 175,
+  "Name": "Maija parks",
+  "CenterPositionLon": 57.22178201487239,
+  "CenterPositionLat": 21.680116781655148
+ },
+ {
+  "ID": 537197775,
+  "Capacity": 75,
+  "Name": "",
+  "CenterPositionLon": 56.9515714,
+  "CenterPositionLat": 23.62230123333333
+ },
+ {
+  "ID": 539099252,
+  "Capacity": 1017,
+  "Name": "",
+  "CenterPositionLon": 56.91863796219066,
+  "CenterPositionLat": 24.091267133647005
+ },
+ {
+  "ID": 543837978,
+  "Capacity": 615,
+  "Name": "",
+  "CenterPositionLon": 56.49077869651525,
+  "CenterPositionLat": 25.864564222696554
+ },
+ {
+  "ID": 544772389,
+  "Capacity": 2382,
+  "Name": "Jāteles muižas parks",
+  "CenterPositionLon": 56.90398151729742,
+  "CenterPositionLat": 21.764557017660724
+ },
+ {
+  "ID": 544781624,
+  "Capacity": 10381,
+  "Name": "Vangas muižas parks",
+  "CenterPositionLon": 56.78304711826456,
+  "CenterPositionLat": 21.753754827606485
+ },
+ {
+  "ID": 544868704,
+  "Capacity": 4396,
+  "Name": "Vēju dārzs",
+  "CenterPositionLon": 56.956502526440346,
+  "CenterPositionLat": 23.3416510181841
+ },
+ {
+  "ID": 546338436,
+  "Capacity": 1502,
+  "Name": "",
+  "CenterPositionLon": 56.72548307169616,
+  "CenterPositionLat": 26.609995806214503
+ },
+ {
+  "ID": 546338437,
+  "Capacity": 576,
+  "Name": "",
+  "CenterPositionLon": 56.72669407174268,
+  "CenterPositionLat": 26.609901989414826
+ },
+ {
+  "ID": 546338438,
+  "Capacity": 1075,
+  "Name": "",
+  "CenterPositionLon": 56.725311159441105,
+  "CenterPositionLat": 26.611394925489847
+ },
+ {
+  "ID": 546428944,
+  "Capacity": 633,
+  "Name": "",
+  "CenterPositionLon": 56.904053979911595,
+  "CenterPositionLat": 24.082764529433
+ },
+ {
+  "ID": 546429739,
+  "Capacity": 493,
+  "Name": "",
+  "CenterPositionLon": 56.9214439379279,
+  "CenterPositionLat": 24.08656091573192
+ },
+ {
+  "ID": 546986366,
+  "Capacity": 1639,
+  "Name": "",
+  "CenterPositionLon": 56.72517582453371,
+  "CenterPositionLat": 26.60345810174147
+ },
+ {
+  "ID": 547052898,
+  "Capacity": 106,
+  "Name": "",
+  "CenterPositionLon": 56.96494996121464,
+  "CenterPositionLat": 23.155947327565045
+ },
+ {
+  "ID": 547528153,
+  "Capacity": 239,
+  "Name": "",
+  "CenterPositionLon": 57.051066183927325,
+  "CenterPositionLat": 22.473181847562213
+ },
+ {
+  "ID": 547528154,
+  "Capacity": 282,
+  "Name": "",
+  "CenterPositionLon": 57.05146752145764,
+  "CenterPositionLat": 22.473667324242435
+ },
+ {
+  "ID": 553155038,
+  "Capacity": 1185,
+  "Name": "",
+  "CenterPositionLon": 56.85847085938954,
+  "CenterPositionLat": 24.33150304701405
+ },
+ {
+  "ID": 554560596,
+  "Capacity": 678,
+  "Name": "",
+  "CenterPositionLon": 56.96969675727813,
+  "CenterPositionLat": 23.158070874265817
+ },
+ {
+  "ID": 559110407,
+  "Capacity": 1721,
+  "Name": "",
+  "CenterPositionLon": 57.76631363796294,
+  "CenterPositionLat": 24.880741685257227
+ },
+ {
+  "ID": 562352403,
+  "Capacity": 4758,
+  "Name": "",
+  "CenterPositionLon": 56.486782260037394,
+  "CenterPositionLat": 24.049122053510484
+ },
+ {
+  "ID": 570640382,
+  "Capacity": 41686,
+  "Name": "",
+  "CenterPositionLon": 56.918655918692004,
+  "CenterPositionLat": 24.064406393283285
+ },
+ {
+  "ID": 573270406,
+  "Capacity": 2248,
+  "Name": "",
+  "CenterPositionLon": 56.943090470133725,
+  "CenterPositionLat": 24.07004724726811
+ },
+ {
+  "ID": 580246808,
+  "Capacity": 2335,
+  "Name": "",
+  "CenterPositionLon": 56.969271584623115,
+  "CenterPositionLat": 21.964768021941392
+ },
+ {
+  "ID": 585974027,
+  "Capacity": 244,
+  "Name": "",
+  "CenterPositionLon": 57.49071682848797,
+  "CenterPositionLat": 24.381953709829375
+ },
+ {
+  "ID": 588020980,
+  "Capacity": 1882,
+  "Name": "",
+  "CenterPositionLon": 56.95124777033101,
+  "CenterPositionLat": 23.120971028684604
+ },
+ {
+  "ID": 589611323,
+  "Capacity": 438073,
+  "Name": "Tērvetes dabas parks",
+  "CenterPositionLon": 56.49355585921453,
+  "CenterPositionLat": 23.37609531961831
+ },
+ {
+  "ID": 598327925,
+  "Capacity": 2714,
+  "Name": "",
+  "CenterPositionLon": 57.355941245688996,
+  "CenterPositionLat": 24.95412027347844
+ },
+ {
+  "ID": 598338166,
+  "Capacity": 2053,
+  "Name": "Mazstraupes pilsmuižas parks",
+  "CenterPositionLon": 57.354067282019976,
+  "CenterPositionLat": 24.952176654677185
+ },
+ {
+  "ID": 605523921,
+  "Capacity": 17259,
+  "Name": "",
+  "CenterPositionLon": 55.89074746726773,
+  "CenterPositionLat": 26.541786656598685
+ },
+ {
+  "ID": 615788868,
+  "Capacity": 648,
+  "Name": "",
+  "CenterPositionLon": 56.965613417298634,
+  "CenterPositionLat": 23.160601418699006
+ },
+ {
+  "ID": 616334827,
+  "Capacity": 1818,
+  "Name": "",
+  "CenterPositionLon": 57.36196445559623,
+  "CenterPositionLat": 25.088512292029964
+ },
+ {
+  "ID": 617694898,
+  "Capacity": 17866,
+  "Name": "Jaunkalsnavas arborētums",
+  "CenterPositionLon": 56.68488177921805,
+  "CenterPositionLat": 25.946381661784176
+ },
+ {
+  "ID": 621469240,
+  "Capacity": 4962,
+  "Name": "Valmiermuižas muižas parks",
+  "CenterPositionLon": 57.55596048827485,
+  "CenterPositionLat": 25.43307715976644
+ },
+ {
+  "ID": 621477851,
+  "Capacity": 1267,
+  "Name": "",
+  "CenterPositionLon": 57.555049642520345,
+  "CenterPositionLat": 25.444080026890813
+ },
+ {
+  "ID": 624355422,
+  "Capacity": 199,
+  "Name": "",
+  "CenterPositionLon": 56.51443058719479,
+  "CenterPositionLat": 20.9909576110594
+ },
+ {
+  "ID": 624403780,
+  "Capacity": 1012,
+  "Name": "",
+  "CenterPositionLon": 56.513977810919414,
+  "CenterPositionLat": 20.989133204199792
+ },
+ {
+  "ID": 625417608,
+  "Capacity": 7137,
+  "Name": "Lustes pils parks",
+  "CenterPositionLon": 56.69543166214908,
+  "CenterPositionLat": 23.345497952806987
+ },
+ {
+  "ID": 625807916,
+  "Capacity": 540,
+  "Name": "",
+  "CenterPositionLon": 57.1961311490912,
+  "CenterPositionLat": 24.703810331314646
+ },
+ {
+  "ID": 625975112,
+  "Capacity": 714,
+  "Name": "",
+  "CenterPositionLon": 57.51027614074531,
+  "CenterPositionLat": 24.711760343279987
+ },
+ {
+  "ID": 626475482,
+  "Capacity": 12790,
+  "Name": "Kokneses pils parks",
+  "CenterPositionLon": 56.64278570295827,
+  "CenterPositionLat": 25.422590076598457
+ },
+ {
+  "ID": 626688859,
+  "Capacity": 4878,
+  "Name": "Svētes pils parks",
+  "CenterPositionLon": 56.59019199017876,
+  "CenterPositionLat": 23.667525420270486
+ },
+ {
+  "ID": 626694218,
+  "Capacity": 374,
+  "Name": "",
+  "CenterPositionLon": 57.22386975363767,
+  "CenterPositionLat": 22.52036694705664
+ },
+ {
+  "ID": 626701968,
+  "Capacity": 20821,
+  "Name": "",
+  "CenterPositionLon": 57.32812307089256,
+  "CenterPositionLat": 22.80512717939889
+ },
+ {
+  "ID": 626708828,
+  "Capacity": 16078,
+  "Name": "Vilces muižas parks",
+  "CenterPositionLon": 56.42013093614108,
+  "CenterPositionLat": 23.54151458380597
+ },
+ {
+  "ID": 626848700,
+  "Capacity": 4503,
+  "Name": "Skanstes Parks",
+  "CenterPositionLon": 56.96992976291797,
+  "CenterPositionLat": 24.126381843531703
+ },
+ {
+  "ID": 626861458,
+  "Capacity": 405,
+  "Name": "",
+  "CenterPositionLon": 56.964988122254525,
+  "CenterPositionLat": 24.117230056616922
+ },
+ {
+  "ID": 626861504,
+  "Capacity": 967,
+  "Name": "",
+  "CenterPositionLon": 56.96566905090301,
+  "CenterPositionLat": 24.117947460609553
+ },
+ {
+  "ID": 627143414,
+  "Capacity": 4170,
+  "Name": "",
+  "CenterPositionLon": 57.1920164141464,
+  "CenterPositionLat": 22.882647548694777
+ },
+ {
+  "ID": 627258586,
+  "Capacity": 6845,
+  "Name": "Bornsmindes muižas parks",
+  "CenterPositionLon": 56.412233508061696,
+  "CenterPositionLat": 24.10625795551837
+ },
+ {
+  "ID": 627409780,
+  "Capacity": 5538,
+  "Name": "Lielbātas muižas parks",
+  "CenterPositionLon": 56.44380428285503,
+  "CenterPositionLat": 21.85795955617836
+ },
+ {
+  "ID": 627420561,
+  "Capacity": 13164,
+  "Name": "Rudbāržu muižas parks",
+  "CenterPositionLon": 56.64468727097832,
+  "CenterPositionLat": 21.887945921713605
+ },
+ {
+  "ID": 627441535,
+  "Capacity": 3646,
+  "Name": "",
+  "CenterPositionLon": 56.44763947973823,
+  "CenterPositionLat": 21.587588661439913
+ },
+ {
+  "ID": 627835595,
+  "Capacity": 7341,
+  "Name": "Liepupes muižas parks",
+  "CenterPositionLon": 57.46224940359198,
+  "CenterPositionLat": 24.472083363217322
+ },
+ {
+  "ID": 633879950,
+  "Capacity": 9526,
+  "Name": "Līves muižas parks",
+  "CenterPositionLon": 56.71739468640473,
+  "CenterPositionLat": 23.495380948675397
+ },
+ {
+  "ID": 634234320,
+  "Capacity": 2670,
+  "Name": "",
+  "CenterPositionLon": 57.09751490312861,
+  "CenterPositionLat": 24.685453643889666
+ },
+ {
+  "ID": 636098300,
+  "Capacity": 190,
+  "Name": "",
+  "CenterPositionLon": 56.95269812144799,
+  "CenterPositionLat": 24.08100749979046
+ },
+ {
+  "ID": 636290905,
+  "Capacity": 38240,
+  "Name": "Bišumuižas parks",
+  "CenterPositionLon": 56.9121574829544,
+  "CenterPositionLat": 24.137841710518043
+ },
+ {
+  "ID": 636405723,
+  "Capacity": 3514,
+  "Name": "",
+  "CenterPositionLon": 56.93583312915465,
+  "CenterPositionLat": 24.07896319319497
+ },
+ {
+  "ID": 636407985,
+  "Capacity": 417,
+  "Name": "",
+  "CenterPositionLon": 56.937164843705546,
+  "CenterPositionLat": 24.075974992627632
+ },
+ {
+  "ID": 636927251,
+  "Capacity": 4326,
+  "Name": "",
+  "CenterPositionLon": 56.15784686521025,
+  "CenterPositionLat": 21.22234012004957
+ },
+ {
+  "ID": 639341167,
+  "Capacity": 972,
+  "Name": "",
+  "CenterPositionLon": 56.514939875591864,
+  "CenterPositionLat": 20.988008251134282
+ },
+ {
+  "ID": 639341168,
+  "Capacity": 739,
+  "Name": "",
+  "CenterPositionLon": 56.516187110311165,
+  "CenterPositionLat": 20.98722066789603
+ },
+ {
+  "ID": 641626388,
+  "Capacity": 3121,
+  "Name": "",
+  "CenterPositionLon": 56.834326509943466,
+  "CenterPositionLat": 24.493885731008984
+ },
+ {
+  "ID": 641922436,
+  "Capacity": 164,
+  "Name": "",
+  "CenterPositionLon": 56.877938661956016,
+  "CenterPositionLat": 26.257023758057446
+ },
+ {
+  "ID": 643457560,
+  "Capacity": 34746,
+  "Name": "Ziemeru muižas parks",
+  "CenterPositionLon": 57.53495616551872,
+  "CenterPositionLat": 27.066207986103418
+ },
+ {
+  "ID": 648227045,
+  "Capacity": 10649,
+  "Name": "Āraišu arheoloģiskais muzejparks",
+  "CenterPositionLon": 57.25013077630172,
+  "CenterPositionLat": 25.28262096440153
+ },
+ {
+  "ID": 648533317,
+  "Capacity": 1894,
+  "Name": "",
+  "CenterPositionLon": 56.552552376045185,
+  "CenterPositionLat": 21.010232177787877
+ },
+ {
+  "ID": 648586619,
+  "Capacity": 7185,
+  "Name": "Raunas pils parks",
+  "CenterPositionLon": 57.330792473191124,
+  "CenterPositionLat": 25.612297013355782
+ },
+ {
+  "ID": 659900015,
+  "Capacity": 578,
+  "Name": "",
+  "CenterPositionLon": 57.05331901467341,
+  "CenterPositionLat": 25.573682974588248
+ },
+ {
+  "ID": 659900016,
+  "Capacity": 765,
+  "Name": "",
+  "CenterPositionLon": 57.05602902820983,
+  "CenterPositionLat": 25.57552775636366
+ },
+ {
+  "ID": 659900019,
+  "Capacity": 12123,
+  "Name": "Kaives muižas parks",
+  "CenterPositionLon": 57.05153873692092,
+  "CenterPositionLat": 25.631905071796957
+ },
+ {
+  "ID": 659900026,
+  "Capacity": 325,
+  "Name": "",
+  "CenterPositionLon": 57.0695623118105,
+  "CenterPositionLat": 25.626085154195643
+ },
+ {
+  "ID": 670944699,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 56.95046755004136,
+  "CenterPositionLat": 24.20812334794654
+ },
+ {
+  "ID": 670944713,
+  "Capacity": 15,
+  "Name": "",
+  "CenterPositionLon": 56.95043801931673,
+  "CenterPositionLat": 24.208362479529313
+ },
+ {
+  "ID": 670944739,
+  "Capacity": 67,
+  "Name": "",
+  "CenterPositionLon": 56.95099803830321,
+  "CenterPositionLat": 24.20637807395405
+ },
+ {
+  "ID": 670944746,
+  "Capacity": 11959,
+  "Name": "Rīgas 84. vidusskolas sporta komplekss",
+  "CenterPositionLon": 56.94993282050711,
+  "CenterPositionLat": 24.20633446977178
+ },
+ {
+  "ID": 672863088,
+  "Capacity": 93,
+  "Name": "",
+  "CenterPositionLon": 57.0574274177618,
+  "CenterPositionLat": 25.626152815491196
+ },
+ {
+  "ID": 673444069,
+  "Capacity": 13163,
+  "Name": "Ungurpils parks",
+  "CenterPositionLon": 57.77280619643589,
+  "CenterPositionLat": 24.81560745239216
+ },
+ {
+  "ID": 673938395,
+  "Capacity": 379,
+  "Name": "Donu Park",
+  "CenterPositionLon": 56.49674637087079,
+  "CenterPositionLat": 21.01037067314316
+ },
+ {
+  "ID": 674195879,
+  "Capacity": 229,
+  "Name": "",
+  "CenterPositionLon": 57.07000197255351,
+  "CenterPositionLat": 25.62414094731221
+ },
+ {
+  "ID": 674201382,
+  "Capacity": 673,
+  "Name": "",
+  "CenterPositionLon": 57.069056729770544,
+  "CenterPositionLat": 25.630624745270005
+ },
+ {
+  "ID": 674510215,
+  "Capacity": 141,
+  "Name": "",
+  "CenterPositionLon": 57.079176434625325,
+  "CenterPositionLat": 25.577765910447198
+ },
+ {
+  "ID": 674510226,
+  "Capacity": 1469,
+  "Name": "",
+  "CenterPositionLon": 57.07838080378737,
+  "CenterPositionLat": 25.577710253191306
+ },
+ {
+  "ID": 675632019,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": 56.93731312631091,
+  "CenterPositionLat": 24.04705865332337
+ },
+ {
+  "ID": 675797351,
+  "Capacity": 161,
+  "Name": "",
+  "CenterPositionLon": 56.87438777935394,
+  "CenterPositionLat": 24.3034391199676
+ },
+ {
+  "ID": 675797352,
+  "Capacity": 335,
+  "Name": "",
+  "CenterPositionLon": 56.872601859524366,
+  "CenterPositionLat": 24.303958353874616
+ },
+ {
+  "ID": 675797358,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 56.87350078833231,
+  "CenterPositionLat": 24.300046840718903
+ },
+ {
+  "ID": 675797460,
+  "Capacity": 294,
+  "Name": "",
+  "CenterPositionLon": 56.87396162447849,
+  "CenterPositionLat": 24.303920355021102
+ },
+ {
+  "ID": 675797461,
+  "Capacity": 110,
+  "Name": "",
+  "CenterPositionLon": 56.87358553967445,
+  "CenterPositionLat": 24.304280521682177
+ },
+ {
+  "ID": 675797462,
+  "Capacity": 128,
+  "Name": "",
+  "CenterPositionLon": 56.87417631852294,
+  "CenterPositionLat": 24.304485130438767
+ },
+ {
+  "ID": 675797463,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": 56.87425340203214,
+  "CenterPositionLat": 24.30408094181195
+ },
+ {
+  "ID": 675797464,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": 56.87460723857492,
+  "CenterPositionLat": 24.304150088327617
+ },
+ {
+  "ID": 676755259,
+  "Capacity": 1992,
+  "Name": "",
+  "CenterPositionLon": 57.16185455997752,
+  "CenterPositionLat": 25.663925845164208
+ },
+ {
+  "ID": 676755260,
+  "Capacity": 1553,
+  "Name": "",
+  "CenterPositionLon": 57.16091401556505,
+  "CenterPositionLat": 25.66370595601053
+ },
+ {
+  "ID": 684220780,
+  "Capacity": 6184,
+  "Name": "Sasmakas muižas parks",
+  "CenterPositionLon": 57.37927414506762,
+  "CenterPositionLat": 22.601131985111948
+ },
+ {
+  "ID": 687742149,
+  "Capacity": 3578,
+  "Name": "",
+  "CenterPositionLon": 56.99687904659924,
+  "CenterPositionLat": 24.12591976515016
+ },
+ {
+  "ID": 687744207,
+  "Capacity": 550,
+  "Name": "",
+  "CenterPositionLon": 56.94461705913903,
+  "CenterPositionLat": 24.037410809079777
+ },
+ {
+  "ID": 687770240,
+  "Capacity": 8174,
+  "Name": "",
+  "CenterPositionLon": 56.343517580801816,
+  "CenterPositionLat": 23.547116444367912
+ },
+ {
+  "ID": 687929734,
+  "Capacity": 487,
+  "Name": "",
+  "CenterPositionLon": 56.978114934309225,
+  "CenterPositionLat": 22.857862767146568
+ },
+ {
+  "ID": 687941456,
+  "Capacity": 21746,
+  "Name": "Bīriņu pils parks",
+  "CenterPositionLon": 57.24301300611092,
+  "CenterPositionLat": 24.658586578294695
+ },
+ {
+  "ID": 687964197,
+  "Capacity": 12096,
+  "Name": "Vecauces pils parks",
+  "CenterPositionLon": 56.46942344663478,
+  "CenterPositionLat": 22.888222865353754
+ },
+ {
+  "ID": 687965191,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": 56.471618859725055,
+  "CenterPositionLat": 22.885643602667695
+ },
+ {
+  "ID": 687978268,
+  "Capacity": 3512,
+  "Name": "",
+  "CenterPositionLon": 56.40271466163825,
+  "CenterPositionLat": 23.748088429554464
+ },
+ {
+  "ID": 687992536,
+  "Capacity": 4050,
+  "Name": "",
+  "CenterPositionLon": 56.405049667684736,
+  "CenterPositionLat": 23.334234959699035
+ },
+ {
+  "ID": 688461927,
+  "Capacity": 20389,
+  "Name": "Dikļu parks",
+  "CenterPositionLon": 57.594928223498556,
+  "CenterPositionLat": 25.08633793181806
+ },
+ {
+  "ID": 688461928,
+  "Capacity": 2605,
+  "Name": "",
+  "CenterPositionLon": 57.59637850740508,
+  "CenterPositionLat": 25.080814952889334
+ },
+ {
+  "ID": 689372048,
+  "Capacity": 182,
+  "Name": "",
+  "CenterPositionLon": 56.94072213959256,
+  "CenterPositionLat": 24.05154864738653
+ },
+ {
+  "ID": 689500609,
+  "Capacity": 11003,
+  "Name": "",
+  "CenterPositionLon": 56.20238579926836,
+  "CenterPositionLat": 25.309130263312444
+ },
+ {
+  "ID": 689502168,
+  "Capacity": 1365,
+  "Name": "",
+  "CenterPositionLon": 56.200642624037954,
+  "CenterPositionLat": 25.310566908996655
+ },
+ {
+  "ID": 689503398,
+  "Capacity": 4467,
+  "Name": "",
+  "CenterPositionLon": 56.20507256412569,
+  "CenterPositionLat": 25.31033892985761
+ },
+ {
+  "ID": 689507361,
+  "Capacity": 10848,
+  "Name": "",
+  "CenterPositionLon": 56.37901898890182,
+  "CenterPositionLat": 24.648578842898598
+ },
+ {
+  "ID": 689702517,
+  "Capacity": 11478,
+  "Name": "Ziemeļu rajona parks",
+  "CenterPositionLon": 56.52495014474098,
+  "CenterPositionLat": 27.34763408684062
+ },
+ {
+  "ID": 690952459,
+  "Capacity": 15374,
+  "Name": "Pils parks",
+  "CenterPositionLon": 57.1617084528527,
+  "CenterPositionLat": 26.763384774557903
+ },
+ {
+  "ID": 691266186,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": 55.86642410065588,
+  "CenterPositionLat": 26.517187394291366
+ },
+ {
+  "ID": 691506839,
+  "Capacity": 9989,
+  "Name": "Mazjumpravas muižas parks",
+  "CenterPositionLon": 56.89219061303913,
+  "CenterPositionLat": 24.198397309603337
+ },
+ {
+  "ID": 691519051,
+  "Capacity": 456,
+  "Name": "",
+  "CenterPositionLon": 56.557794047270995,
+  "CenterPositionLat": 23.77402873101067
+ },
+ {
+  "ID": 692629599,
+  "Capacity": 440,
+  "Name": "",
+  "CenterPositionLon": 56.09378151762131,
+  "CenterPositionLat": 27.542084991436237
+ },
+ {
+  "ID": 692834481,
+  "Capacity": 2134,
+  "Name": "",
+  "CenterPositionLon": 56.024081354868834,
+  "CenterPositionLat": 27.621233102429585
+ },
+ {
+  "ID": 693406874,
+  "Capacity": 5084,
+  "Name": "Odzienas muižas parks",
+  "CenterPositionLon": 56.71190510457541,
+  "CenterPositionLat": 25.68646411485764
+ },
+ {
+  "ID": 693686306,
+  "Capacity": 782,
+  "Name": "Skulptūru parks",
+  "CenterPositionLon": 55.872775736418404,
+  "CenterPositionLat": 26.520157789153735
+ },
+ {
+  "ID": 694348335,
+  "Capacity": 16590,
+  "Name": "Jaunauces pils parks",
+  "CenterPositionLon": 56.44434302692956,
+  "CenterPositionLat": 22.689220440902787
+ },
+ {
+  "ID": 694356702,
+  "Capacity": 13610,
+  "Name": "Vadakstes muižas parks",
+  "CenterPositionLon": 56.37292497966655,
+  "CenterPositionLat": 22.749168468611458
+ },
+ {
+  "ID": 694528799,
+  "Capacity": 9006,
+  "Name": "Rūdolfa (Slimnīcas) parks",
+  "CenterPositionLon": 57.15909504599567,
+  "CenterPositionLat": 26.76198433279221
+ },
+ {
+  "ID": 694534295,
+  "Capacity": 25390,
+  "Name": "Marijas (Spārītes) parks",
+  "CenterPositionLon": 57.171652140774505,
+  "CenterPositionLat": 26.770540741234246
+ },
+ {
+  "ID": 694566603,
+  "Capacity": 1193,
+  "Name": "",
+  "CenterPositionLon": 57.1632121506067,
+  "CenterPositionLat": 26.762046325510628
+ },
+ {
+  "ID": 694568699,
+  "Capacity": 1145,
+  "Name": "",
+  "CenterPositionLon": 57.16143028465574,
+  "CenterPositionLat": 26.760132181520863
+ },
+ {
+  "ID": 694583172,
+  "Capacity": 12544,
+  "Name": "Vecmoku muižas parks",
+  "CenterPositionLon": 56.99879568076399,
+  "CenterPositionLat": 23.079306799279422
+ },
+ {
+  "ID": 694781214,
+  "Capacity": 4731,
+  "Name": "Lamiņu muižas parks",
+  "CenterPositionLon": 57.09999165415021,
+  "CenterPositionLat": 22.958709343606746
+ },
+ {
+  "ID": 694800383,
+  "Capacity": 11108,
+  "Name": "Marinzejas muižas parks",
+  "CenterPositionLon": 56.56032964749471,
+  "CenterPositionLat": 26.379064763235487
+ },
+ {
+  "ID": 694814629,
+  "Capacity": 24789,
+  "Name": "Lielvircavas muižas parks",
+  "CenterPositionLon": 56.52122653396603,
+  "CenterPositionLat": 23.756792681241567
+ },
+ {
+  "ID": 696955609,
+  "Capacity": 158,
+  "Name": "Dvoriks",
+  "CenterPositionLon": 57.127815901805135,
+  "CenterPositionLat": 27.262588975999293
+ },
+ {
+  "ID": 696955610,
+  "Capacity": 407,
+  "Name": "Lāču dārz",
+  "CenterPositionLon": 57.12886873538476,
+  "CenterPositionLat": 27.25841680206728
+ },
+ {
+  "ID": 698983982,
+  "Capacity": 10117,
+  "Name": "",
+  "CenterPositionLon": 57.08597011205514,
+  "CenterPositionLat": 22.573114243803825
+ },
+ {
+  "ID": 700836712,
+  "Capacity": 71,
+  "Name": "",
+  "CenterPositionLon": 56.21686255249634,
+  "CenterPositionLat": 26.24449062258754
+ },
+ {
+  "ID": 700838461,
+  "Capacity": 316,
+  "Name": "",
+  "CenterPositionLon": 56.218002472055616,
+  "CenterPositionLat": 26.23703117597371
+ },
+ {
+  "ID": 700918609,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": 56.69022699071515,
+  "CenterPositionLat": 23.4922920226396
+ },
+ {
+  "ID": 700918611,
+  "Capacity": 625,
+  "Name": "",
+  "CenterPositionLon": 56.690212039659606,
+  "CenterPositionLat": 23.492771983197258
+ },
+ {
+  "ID": 700919315,
+  "Capacity": 1195,
+  "Name": "",
+  "CenterPositionLon": 56.69021448193599,
+  "CenterPositionLat": 23.491552503515436
+ },
+ {
+  "ID": 703189012,
+  "Capacity": 829,
+  "Name": "Renesanses dārzs",
+  "CenterPositionLon": 56.46923194551444,
+  "CenterPositionLat": 24.44339548104618
+ },
+ {
+  "ID": 704359879,
+  "Capacity": 97,
+  "Name": "",
+  "CenterPositionLon": 57.01529634536042,
+  "CenterPositionLat": 24.275902654574747
+ },
+ {
+  "ID": 705507951,
+  "Capacity": 1596,
+  "Name": "",
+  "CenterPositionLon": 55.870791818648236,
+  "CenterPositionLat": 26.514128059711506
+ },
+ {
+  "ID": 705675990,
+  "Capacity": 1973,
+  "Name": "Parks pie NMP",
+  "CenterPositionLon": 57.15934384640367,
+  "CenterPositionLat": 26.75786004677152
+ },
+ {
+  "ID": 708616175,
+  "Capacity": 6962,
+  "Name": "Tekstilnieku parks",
+  "CenterPositionLon": 57.0297894691127,
+  "CenterPositionLat": 24.04020950201314
+ },
+ {
+  "ID": 709011101,
+  "Capacity": 3385,
+  "Name": "Blīdenes muižas parks",
+  "CenterPositionLon": 56.64843066799666,
+  "CenterPositionLat": 22.783829766018535
+ },
+ {
+  "ID": 709015962,
+  "Capacity": 513,
+  "Name": "",
+  "CenterPositionLon": 56.69729520724892,
+  "CenterPositionLat": 22.68992076207667
+ },
+ {
+  "ID": 709018556,
+  "Capacity": 1225,
+  "Name": "",
+  "CenterPositionLon": 56.6988199635786,
+  "CenterPositionLat": 22.689231187465065
+ },
+ {
+  "ID": 709361024,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": 56.94823027862679,
+  "CenterPositionLat": 24.014755992865304
+ },
+ {
+  "ID": 709361025,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 56.94816453333333,
+  "CenterPositionLat": 24.014892666666665
+ },
+ {
+  "ID": 710703541,
+  "Capacity": 286,
+  "Name": "",
+  "CenterPositionLon": 55.780735993263555,
+  "CenterPositionLat": 26.3579504736775
+ },
+ {
+  "ID": 711129666,
+  "Capacity": 12380,
+  "Name": "",
+  "CenterPositionLon": 56.84716590778665,
+  "CenterPositionLat": 24.34079902771586
+ },
+ {
+  "ID": 712339282,
+  "Capacity": 276,
+  "Name": "",
+  "CenterPositionLon": 56.960943817926626,
+  "CenterPositionLat": 24.13631373428137
+ },
+ {
+  "ID": 712502398,
+  "Capacity": 1638,
+  "Name": "",
+  "CenterPositionLon": 56.97771096662444,
+  "CenterPositionLat": 24.140658864420015
+ },
+ {
+  "ID": 718215130,
+  "Capacity": 1489,
+  "Name": "",
+  "CenterPositionLon": 56.982062076581826,
+  "CenterPositionLat": 23.851660951437253
+ },
+ {
+  "ID": 718341842,
+  "Capacity": 4414,
+  "Name": "",
+  "CenterPositionLon": 57.20883949044207,
+  "CenterPositionLat": 22.153716800891814
+ },
+ {
+  "ID": 720014749,
+  "Capacity": 197,
+  "Name": "",
+  "CenterPositionLon": 56.96860673485345,
+  "CenterPositionLat": 24.102003498535435
+ },
+ {
+  "ID": 721311936,
+  "Capacity": 238,
+  "Name": "",
+  "CenterPositionLon": 56.94106176301194,
+  "CenterPositionLat": 24.04249420164229
+ },
+ {
+  "ID": 721836092,
+  "Capacity": 1043,
+  "Name": "",
+  "CenterPositionLon": 56.158460334307044,
+  "CenterPositionLat": 25.751551088239335
+ },
+ {
+  "ID": 721859140,
+  "Capacity": 1405,
+  "Name": "",
+  "CenterPositionLon": 56.15870846769716,
+  "CenterPositionLat": 25.742863411369633
+ },
+ {
+  "ID": 722012347,
+  "Capacity": 599,
+  "Name": "",
+  "CenterPositionLon": 57.49472857165528,
+  "CenterPositionLat": 25.449334130146596
+ },
+ {
+  "ID": 722012362,
+  "Capacity": 187,
+  "Name": "",
+  "CenterPositionLon": 57.494371609580234,
+  "CenterPositionLat": 25.448984276775384
+ },
+ {
+  "ID": 722237721,
+  "Capacity": 232,
+  "Name": "",
+  "CenterPositionLon": 57.49508667835023,
+  "CenterPositionLat": 25.449142437153473
+ },
+ {
+  "ID": 722721601,
+  "Capacity": 473,
+  "Name": "",
+  "CenterPositionLon": 56.50170372453019,
+  "CenterPositionLat": 27.334895600258573
+ },
+ {
+  "ID": 722781208,
+  "Capacity": 1984,
+  "Name": "Birzīte",
+  "CenterPositionLon": 56.71642342995272,
+  "CenterPositionLat": 22.400328667242086
+ },
+ {
+  "ID": 723113642,
+  "Capacity": 906,
+  "Name": "",
+  "CenterPositionLon": 57.00453662769514,
+  "CenterPositionLat": 24.263321284023572
+ },
+ {
+  "ID": 723548945,
+  "Capacity": 1014,
+  "Name": "Mežotnes pilskalns ar senpilsētu",
+  "CenterPositionLon": 56.441548458313655,
+  "CenterPositionLat": 24.045288335600706
+ },
+ {
+  "ID": 726524811,
+  "Capacity": 5434,
+  "Name": "Ropažu parks",
+  "CenterPositionLon": 56.97763893207262,
+  "CenterPositionLat": 24.633461636403535
+ },
+ {
+  "ID": 726866180,
+  "Capacity": 950,
+  "Name": "Dzirnavkalns",
+  "CenterPositionLon": 57.246337508630866,
+  "CenterPositionLat": 22.592679357960016
+ },
+ {
+  "ID": 727829412,
+  "Capacity": 1789,
+  "Name": "",
+  "CenterPositionLon": 56.98148870172074,
+  "CenterPositionLat": 24.254819868610262
+ },
+ {
+  "ID": 729365064,
+  "Capacity": 1874,
+  "Name": "",
+  "CenterPositionLon": 56.95746565891529,
+  "CenterPositionLat": 23.94749037994326
+ },
+ {
+  "ID": 733981081,
+  "Capacity": 260,
+  "Name": "",
+  "CenterPositionLon": 56.37316614725726,
+  "CenterPositionLat": 21.448975648134763
+ },
+ {
+  "ID": 736825406,
+  "Capacity": 372,
+  "Name": "",
+  "CenterPositionLon": 56.96225063160993,
+  "CenterPositionLat": 24.112974895952732
+ },
+ {
+  "ID": 738928751,
+  "Capacity": 8889,
+  "Name": "",
+  "CenterPositionLon": 56.9907599660563,
+  "CenterPositionLat": 24.157970052630784
+ },
+ {
+  "ID": 738933649,
+  "Capacity": 135,
+  "Name": "",
+  "CenterPositionLon": 56.96745217055299,
+  "CenterPositionLat": 24.24737748894333
+ },
+ {
+  "ID": 742693315,
+  "Capacity": 2724,
+  "Name": "",
+  "CenterPositionLon": 56.742264215692806,
+  "CenterPositionLat": 24.71743964862016
+ },
+ {
+  "ID": 746423927,
+  "Capacity": 198,
+  "Name": "",
+  "CenterPositionLon": 56.943585096597516,
+  "CenterPositionLat": 23.49036418432084
+ },
+ {
+  "ID": 749602231,
+  "Capacity": 100,
+  "Name": "",
+  "CenterPositionLon": 56.96172369707355,
+  "CenterPositionLat": 24.12833667751613
+ },
+ {
+  "ID": 749921411,
+  "Capacity": 18869,
+  "Name": "Asares muižas parks",
+  "CenterPositionLon": 56.1163914346847,
+  "CenterPositionLat": 25.88531483107862
+ },
+ {
+  "ID": 750067815,
+  "Capacity": 1649,
+  "Name": "",
+  "CenterPositionLon": 57.41854201657437,
+  "CenterPositionLat": 24.9786231487657
+ },
+ {
+  "ID": 750232252,
+  "Capacity": 1086,
+  "Name": "",
+  "CenterPositionLon": 57.370397187076975,
+  "CenterPositionLat": 25.03247506198868
+ },
+ {
+  "ID": 750748441,
+  "Capacity": 89,
+  "Name": "",
+  "CenterPositionLon": 56.91272222344993,
+  "CenterPositionLat": 23.78786613464283
+ },
+ {
+  "ID": 751350344,
+  "Capacity": 30735,
+  "Name": "Stāmerienas muižas parks",
+  "CenterPositionLon": 57.21634712207431,
+  "CenterPositionLat": 26.898871848670264
+ },
+ {
+  "ID": 753723125,
+  "Capacity": 5143,
+  "Name": "",
+  "CenterPositionLon": 56.72310964499108,
+  "CenterPositionLat": 21.59842333369588
+ },
+ {
+  "ID": 755823756,
+  "Capacity": 3999,
+  "Name": "",
+  "CenterPositionLon": 56.977674732703115,
+  "CenterPositionLat": 24.14427071485577
+ },
+ {
+  "ID": 757393004,
+  "Capacity": 7882,
+  "Name": "Pantenes muižas parks",
+  "CenterPositionLon": 57.86566451076786,
+  "CenterPositionLat": 25.206257612896277
+ },
+ {
+  "ID": 763104225,
+  "Capacity": 3337,
+  "Name": "Olimpiešu parks",
+  "CenterPositionLon": 57.553132013855176,
+  "CenterPositionLat": 25.429248938095874
+ },
+ {
+  "ID": 765186835,
+  "Capacity": 505,
+  "Name": "",
+  "CenterPositionLon": 55.88669915756567,
+  "CenterPositionLat": 26.492897404843166
+ },
+ {
+  "ID": 765203122,
+  "Capacity": 222,
+  "Name": "",
+  "CenterPositionLon": 55.88755500529924,
+  "CenterPositionLat": 26.49479113962692
+ },
+ {
+  "ID": 765211676,
+  "Capacity": 665,
+  "Name": "",
+  "CenterPositionLon": 55.88700837457211,
+  "CenterPositionLat": 26.490610992700624
+ },
+ {
+  "ID": 765211727,
+  "Capacity": 277,
+  "Name": "",
+  "CenterPositionLon": 55.88612502621004,
+  "CenterPositionLat": 26.49249681691026
+ },
+ {
+  "ID": 770676048,
+  "Capacity": 3877,
+  "Name": "Ropažu muižas parks",
+  "CenterPositionLon": 56.97921131818022,
+  "CenterPositionLat": 24.600450289864025
+ },
+ {
+  "ID": 770879813,
+  "Capacity": 6351,
+  "Name": "Embūtes pils parks",
+  "CenterPositionLon": 56.50476686043412,
+  "CenterPositionLat": 21.819257514714813
+ },
+ {
+  "ID": 772703703,
+  "Capacity": 1896,
+  "Name": "",
+  "CenterPositionLon": 56.95278186035221,
+  "CenterPositionLat": 24.036313376898033
+ },
+ {
+  "ID": 772703706,
+  "Capacity": 372,
+  "Name": "",
+  "CenterPositionLon": 56.95278200586706,
+  "CenterPositionLat": 24.03448003643397
+ },
+ {
+  "ID": 772703948,
+  "Capacity": 1137,
+  "Name": "",
+  "CenterPositionLon": 56.95378594910566,
+  "CenterPositionLat": 24.035548481188346
+ },
+ {
+  "ID": 773597043,
+  "Capacity": 615,
+  "Name": "",
+  "CenterPositionLon": 56.68650089152321,
+  "CenterPositionLat": 23.5029220014927
+ },
+ {
+  "ID": 777563563,
+  "Capacity": 2806,
+  "Name": "Alderu parks",
+  "CenterPositionLon": 57.0553269413939,
+  "CenterPositionLat": 24.341694147408294
+ },
+ {
+  "ID": 783027856,
+  "Capacity": 1725,
+  "Name": "",
+  "CenterPositionLon": 56.97521899298299,
+  "CenterPositionLat": 23.22671146427268
+ },
+ {
+  "ID": 783833795,
+  "Capacity": 342,
+  "Name": "",
+  "CenterPositionLon": 57.538050503058116,
+  "CenterPositionLat": 26.69564851403853
+ },
+ {
+  "ID": 783833802,
+  "Capacity": 379,
+  "Name": "",
+  "CenterPositionLon": 57.538522554712976,
+  "CenterPositionLat": 26.693945723979095
+ },
+ {
+  "ID": 784873254,
+  "Capacity": 113,
+  "Name": "Baznīcas laukums",
+  "CenterPositionLon": 57.50950540847558,
+  "CenterPositionLat": 22.352868773738308
+ },
+ {
+  "ID": 785402237,
+  "Capacity": 7973,
+  "Name": "Jura Alunāna parks",
+  "CenterPositionLon": 56.68766359624223,
+  "CenterPositionLat": 25.96848699959426
+ },
+ {
+  "ID": 786149956,
+  "Capacity": 480,
+  "Name": "Emburgas pilskalns",
+  "CenterPositionLon": 56.55573433922794,
+  "CenterPositionLat": 23.987987660923185
+ },
+ {
+  "ID": 787697681,
+  "Capacity": 1402,
+  "Name": "Kalna dārzs",
+  "CenterPositionLon": 57.511285516828586,
+  "CenterPositionLat": 22.357923145822927
+ },
+ {
+  "ID": 789143354,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 56.00485034311322,
+  "CenterPositionLat": 25.90966001603471
+ },
+ {
+  "ID": 789255019,
+  "Capacity": 226,
+  "Name": "Rare plants",
+  "CenterPositionLon": 56.507192953174744,
+  "CenterPositionLat": 23.856565453652248
+ },
+ {
+  "ID": 789760073,
+  "Capacity": 2037,
+  "Name": "",
+  "CenterPositionLon": 56.09450828135401,
+  "CenterPositionLat": 27.53869675515267
+ },
+ {
+  "ID": 789760074,
+  "Capacity": 1627,
+  "Name": "",
+  "CenterPositionLon": 56.09384418732383,
+  "CenterPositionLat": 27.537242918857842
+ },
+ {
+  "ID": 789965006,
+  "Capacity": 15152,
+  "Name": "Dikļu pils parks",
+  "CenterPositionLon": 57.597622429694404,
+  "CenterPositionLat": 25.103152933851117
+ },
+ {
+  "ID": 790416774,
+  "Capacity": 33196,
+  "Name": "Dagdas muižas parks",
+  "CenterPositionLon": 56.1037613910077,
+  "CenterPositionLat": 27.518809898219587
+ },
+ {
+  "ID": 791147848,
+  "Capacity": 460,
+  "Name": "",
+  "CenterPositionLon": 56.63706421879229,
+  "CenterPositionLat": 23.709785080741987
+ },
+ {
+  "ID": 791760981,
+  "Capacity": 14008,
+  "Name": "Indrānu dendroloģiskais parks",
+  "CenterPositionLon": 57.122973493152266,
+  "CenterPositionLat": 24.68504835838973
+ },
+ {
+  "ID": 792304356,
+  "Capacity": 2251,
+  "Name": "Dullā Daukas birzs",
+  "CenterPositionLon": 56.839658018040545,
+  "CenterPositionLat": 25.35641318181745
+ },
+ {
+  "ID": 792636992,
+  "Capacity": 8613,
+  "Name": "Piemiņas vieta 'Rumbas' Kurzemes cietokšņa aizstāvjiem",
+  "CenterPositionLon": 56.71403802505923,
+  "CenterPositionLat": 23.185398817030112
+ },
+ {
+  "ID": 792840751,
+  "Capacity": 1232,
+  "Name": "",
+  "CenterPositionLon": 56.77502558854601,
+  "CenterPositionLat": 23.14413940482482
+ },
+ {
+  "ID": 792840754,
+  "Capacity": 12023,
+  "Name": "Lestenes muižas parks",
+  "CenterPositionLon": 56.77543981206567,
+  "CenterPositionLat": 23.147276148795775
+ },
+ {
+  "ID": 792840760,
+  "Capacity": 1329,
+  "Name": "",
+  "CenterPositionLon": 56.774591145165246,
+  "CenterPositionLat": 23.139666384337648
+ },
+ {
+  "ID": 792870698,
+  "Capacity": 17540,
+  "Name": "Skultes muižas parks",
+  "CenterPositionLon": 57.373989061454296,
+  "CenterPositionLat": 24.49823311366622
+ },
+ {
+  "ID": 792872804,
+  "Capacity": 489,
+  "Name": "",
+  "CenterPositionLon": 57.37228532449954,
+  "CenterPositionLat": 24.496766852027758
+ },
+ {
+  "ID": 792981628,
+  "Capacity": 2266,
+  "Name": "Apes muižas parks",
+  "CenterPositionLon": 57.52953517988593,
+  "CenterPositionLat": 26.696377331784106
+ },
+ {
+  "ID": 793432618,
+  "Capacity": 2878,
+  "Name": "",
+  "CenterPositionLon": 57.04389940646629,
+  "CenterPositionLat": 22.80025107679503
+ },
+ {
+  "ID": 793432621,
+  "Capacity": 897,
+  "Name": "",
+  "CenterPositionLon": 57.041578391912864,
+  "CenterPositionLat": 22.797048035022755
+ },
+ {
+  "ID": 793432631,
+  "Capacity": 4746,
+  "Name": "",
+  "CenterPositionLon": 57.04315491505721,
+  "CenterPositionLat": 22.796196925390458
+ },
+ {
+  "ID": 793432633,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": 57.04294538995552,
+  "CenterPositionLat": 22.79840562352638
+ },
+ {
+  "ID": 793432634,
+  "Capacity": 348,
+  "Name": "",
+  "CenterPositionLon": 57.042736007425,
+  "CenterPositionLat": 22.7994551193105
+ },
+ {
+  "ID": 793500941,
+  "Capacity": 5485,
+  "Name": "Ozolmuižas parks",
+  "CenterPositionLon": 57.043164507888825,
+  "CenterPositionLat": 22.130598325620298
+ },
+ {
+  "ID": 794287300,
+  "Capacity": 7494,
+  "Name": "Brūnu muižas parks",
+  "CenterPositionLon": 56.691390651702015,
+  "CenterPositionLat": 23.11871870892538
+ },
+ {
+  "ID": 794812069,
+  "Capacity": 25072,
+  "Name": "Arendoles muižas parks",
+  "CenterPositionLon": 56.15123363656506,
+  "CenterPositionLat": 26.611097405386218
+ },
+ {
+  "ID": 795381009,
+  "Capacity": 666,
+  "Name": "",
+  "CenterPositionLon": 56.59914276229984,
+  "CenterPositionLat": 25.640023916758533
+ },
+ {
+  "ID": 795595740,
+  "Capacity": 6499,
+  "Name": "Brekšu muižas parks",
+  "CenterPositionLon": 56.95793556122571,
+  "CenterPositionLat": 24.286271216392187
+ },
+ {
+  "ID": 795649041,
+  "Capacity": 1078,
+  "Name": "",
+  "CenterPositionLon": 56.78993383002512,
+  "CenterPositionLat": 23.93594764917248
+ },
+ {
+  "ID": 803099323,
+  "Capacity": 6982,
+  "Name": "Dižstendes muižas parks",
+  "CenterPositionLon": 57.191807123870994,
+  "CenterPositionLat": 22.557024582781086
+ }
+]

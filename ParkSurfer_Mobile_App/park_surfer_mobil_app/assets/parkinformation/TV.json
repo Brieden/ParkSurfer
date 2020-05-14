@@ -1,0 +1,37 @@
+[
+ {
+  "ID": 332951037,
+  "Capacity": 627,
+  "Name": "",
+  "CenterPositionLon": -8.026856922007825,
+  "CenterPositionLat": 178.31415180680153
+ },
+ {
+  "ID": 332952074,
+  "Capacity": 289,
+  "Name": "",
+  "CenterPositionLon": -6.10898335,
+  "CenterPositionLat": 177.33495159999998
+ },
+ {
+  "ID": 332953046,
+  "Capacity": 554,
+  "Name": "",
+  "CenterPositionLon": -6.2865797000000025,
+  "CenterPositionLat": 176.3148176
+ },
+ {
+  "ID": 332954189,
+  "Capacity": 288,
+  "Name": "",
+  "CenterPositionLon": -5.674182004922515,
+  "CenterPositionLat": 176.11675308974174
+ },
+ {
+  "ID": 334416296,
+  "Capacity": 1154,
+  "Name": "",
+  "CenterPositionLon": -6.107710846198656,
+  "CenterPositionLat": 177.33530356851688
+ }
+]

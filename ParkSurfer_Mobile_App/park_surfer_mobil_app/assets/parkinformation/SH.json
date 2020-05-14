@@ -1,0 +1,37 @@
+[
+ {
+  "ID": 146163203,
+  "Capacity": 590,
+  "Name": "Castle Gardens",
+  "CenterPositionLon": -15.924909223639693,
+  "CenterPositionLat": -5.717504001394785
+ },
+ {
+  "ID": 455727922,
+  "Capacity": 158,
+  "Name": "Domaine du Pavillon des Briars",
+  "CenterPositionLon": -15.943433730304806,
+  "CenterPositionLat": -5.709689917145955
+ },
+ {
+  "ID": 675971226,
+  "Capacity": 37,
+  "Name": "Park 61",
+  "CenterPositionLon": -37.06610363770786,
+  "CenterPositionLat": -12.302942357781605
+ },
+ {
+  "ID": 778000491,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -15.924561982149072,
+  "CenterPositionLat": -5.718439970704845
+ },
+ {
+  "ID": 778000492,
+  "Capacity": 46,
+  "Name": "",
+  "CenterPositionLon": -15.924383184014467,
+  "CenterPositionLat": -5.7182373331222
+ }
+]

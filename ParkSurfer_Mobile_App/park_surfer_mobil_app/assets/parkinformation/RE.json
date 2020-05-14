@@ -1,0 +1,520 @@
+[
+ {
+  "ID": 30762346,
+  "Capacity": 3389,
+  "Name": "Jardin de l'État",
+  "CenterPositionLon": -20.886981681667134,
+  "CenterPositionLat": 55.45092341805565
+ },
+ {
+  "ID": 36863470,
+  "Capacity": 2520,
+  "Name": "Square Jean XXIII",
+  "CenterPositionLon": -20.93739669222406,
+  "CenterPositionLat": 55.301305544992246
+ },
+ {
+  "ID": 36863555,
+  "Capacity": 14568,
+  "Name": "Parc Boisé Fonker Laurent Vergès",
+  "CenterPositionLon": -20.94418695963676,
+  "CenterPositionLat": 55.30307446169646
+ },
+ {
+  "ID": 43119858,
+  "Capacity": 5278,
+  "Name": "Parc de Loisirs du Colorado",
+  "CenterPositionLon": -20.904206128666,
+  "CenterPositionLat": 55.42606237976251
+ },
+ {
+  "ID": 76845868,
+  "Capacity": 182,
+  "Name": "Place du Général de Gaulle",
+  "CenterPositionLon": -21.009433981992814,
+  "CenterPositionLat": 55.26993446641825
+ },
+ {
+  "ID": 82436883,
+  "Capacity": 77,
+  "Name": "",
+  "CenterPositionLon": -21.05572138631711,
+  "CenterPositionLat": 55.26641103100392
+ },
+ {
+  "ID": 128137888,
+  "Capacity": 177,
+  "Name": "",
+  "CenterPositionLon": -21.000844133139495,
+  "CenterPositionLat": 55.280771024397914
+ },
+ {
+  "ID": 137295308,
+  "Capacity": 654,
+  "Name": "Parc du 20 Décembre",
+  "CenterPositionLon": -21.165958172544475,
+  "CenterPositionLat": 55.288367342866685
+ },
+ {
+  "ID": 140356031,
+  "Capacity": 333,
+  "Name": "",
+  "CenterPositionLon": -20.885233031307187,
+  "CenterPositionLat": 55.46062006649916
+ },
+ {
+  "ID": 140833616,
+  "Capacity": 203,
+  "Name": "",
+  "CenterPositionLon": -20.881898514515292,
+  "CenterPositionLat": 55.45742820311454
+ },
+ {
+  "ID": 164716961,
+  "Capacity": 3376,
+  "Name": "Le Jardin Naturel",
+  "CenterPositionLon": -21.1436740455789,
+  "CenterPositionLat": 55.28989964400642
+ },
+ {
+  "ID": 174591840,
+  "Capacity": 1185,
+  "Name": "",
+  "CenterPositionLon": -21.055311431083304,
+  "CenterPositionLat": 55.26579132415365
+ },
+ {
+  "ID": 174591929,
+  "Capacity": 146,
+  "Name": "",
+  "CenterPositionLon": -21.05416369037776,
+  "CenterPositionLat": 55.26701609495864
+ },
+ {
+  "ID": 175636492,
+  "Capacity": 2058,
+  "Name": "Parc Saint Laurent",
+  "CenterPositionLon": -20.948744521546054,
+  "CenterPositionLat": 55.33181999652428
+ },
+ {
+  "ID": 219687483,
+  "Capacity": 133,
+  "Name": "",
+  "CenterPositionLon": -21.033423012343984,
+  "CenterPositionLat": 55.7124834203627
+ },
+ {
+  "ID": 235218657,
+  "Capacity": 341,
+  "Name": "",
+  "CenterPositionLon": -21.341375629804666,
+  "CenterPositionLat": 55.47750122725048
+ },
+ {
+  "ID": 299524319,
+  "Capacity": 74,
+  "Name": "Place S. Hussard",
+  "CenterPositionLon": -20.948280178813548,
+  "CenterPositionLat": 55.291559856935635
+ },
+ {
+  "ID": 304974537,
+  "Capacity": 4455,
+  "Name": "Parc Des Palmiers",
+  "CenterPositionLon": -21.254402501639717,
+  "CenterPositionLat": 55.49442930878792
+ },
+ {
+  "ID": 377722471,
+  "Capacity": 83,
+  "Name": "",
+  "CenterPositionLon": -21.06459313805968,
+  "CenterPositionLat": 55.52108615528343
+ },
+ {
+  "ID": 397160590,
+  "Capacity": 442,
+  "Name": "Parc de Grands Bois",
+  "CenterPositionLon": -21.36106658324768,
+  "CenterPositionLat": 55.5268971278721
+ },
+ {
+  "ID": 398371790,
+  "Capacity": 637,
+  "Name": "Square Quatrefages",
+  "CenterPositionLon": -20.94479192806094,
+  "CenterPositionLat": 55.293296478961835
+ },
+ {
+  "ID": 399517876,
+  "Capacity": 214,
+  "Name": "",
+  "CenterPositionLon": -21.348782836545272,
+  "CenterPositionLat": 55.498468146490154
+ },
+ {
+  "ID": 401446502,
+  "Capacity": 61,
+  "Name": "",
+  "CenterPositionLon": -21.343277868108398,
+  "CenterPositionLat": 55.4815756086216
+ },
+ {
+  "ID": 423437751,
+  "Capacity": 44,
+  "Name": "",
+  "CenterPositionLon": -21.300849585747695,
+  "CenterPositionLat": 55.493268434411924
+ },
+ {
+  "ID": 423437753,
+  "Capacity": 13,
+  "Name": "",
+  "CenterPositionLon": -21.30108573093275,
+  "CenterPositionLat": 55.492981198816686
+ },
+ {
+  "ID": 439036557,
+  "Capacity": 124,
+  "Name": "",
+  "CenterPositionLon": -21.34391298784489,
+  "CenterPositionLat": 55.47053302131551
+ },
+ {
+  "ID": 441963300,
+  "Capacity": 10834,
+  "Name": "Parcours de santé",
+  "CenterPositionLon": -21.08680544722606,
+  "CenterPositionLat": 55.23459620922541
+ },
+ {
+  "ID": 441981818,
+  "Capacity": 1431,
+  "Name": "",
+  "CenterPositionLon": -21.061765666523154,
+  "CenterPositionLat": 55.22639011049292
+ },
+ {
+  "ID": 465356384,
+  "Capacity": 3443,
+  "Name": "",
+  "CenterPositionLon": -21.312308870748513,
+  "CenterPositionLat": 55.54716705171946
+ },
+ {
+  "ID": 471180483,
+  "Capacity": 94,
+  "Name": "",
+  "CenterPositionLon": -21.084518145241894,
+  "CenterPositionLat": 55.229198560221846
+ },
+ {
+  "ID": 471181487,
+  "Capacity": 27,
+  "Name": "",
+  "CenterPositionLon": -21.084694771766234,
+  "CenterPositionLat": 55.22891554307591
+ },
+ {
+  "ID": 487686808,
+  "Capacity": 218,
+  "Name": "terrain",
+  "CenterPositionLon": -20.8940019,
+  "CenterPositionLat": 55.4872867
+ },
+ {
+  "ID": 562247225,
+  "Capacity": 19,
+  "Name": "Parc du Butor",
+  "CenterPositionLon": -21.38093440763553,
+  "CenterPositionLat": 55.61445360269559
+ },
+ {
+  "ID": 575790866,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": -21.27724517740698,
+  "CenterPositionLat": 55.41900746456977
+ },
+ {
+  "ID": 588424069,
+  "Capacity": 756,
+  "Name": "Aire Sportive De La Cayenne",
+  "CenterPositionLon": -21.384478259209352,
+  "CenterPositionLat": 55.60946020025965
+ },
+ {
+  "ID": 589599493,
+  "Capacity": 85,
+  "Name": "",
+  "CenterPositionLon": -21.385938530158075,
+  "CenterPositionLat": 55.61234144871806
+ },
+ {
+  "ID": 591393301,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": -21.37915695556178,
+  "CenterPositionLat": 55.61896327350904
+ },
+ {
+  "ID": 591393305,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -21.379039601694313,
+  "CenterPositionLat": 55.618550221117765
+ },
+ {
+  "ID": 591393308,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -21.379000699867802,
+  "CenterPositionLat": 55.61893569511408
+ },
+ {
+  "ID": 591393312,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": -21.378952712646516,
+  "CenterPositionLat": 55.618738038063846
+ },
+ {
+  "ID": 591612877,
+  "Capacity": 4,
+  "Name": "",
+  "CenterPositionLon": -21.378278604460117,
+  "CenterPositionLat": 55.611294725736286
+ },
+ {
+  "ID": 591612884,
+  "Capacity": 86,
+  "Name": "Parc Vert - Clinique De Saint-Joseph",
+  "CenterPositionLon": -21.378058942380665,
+  "CenterPositionLat": 55.61174255178194
+ },
+ {
+  "ID": 591953751,
+  "Capacity": 35,
+  "Name": "",
+  "CenterPositionLon": -21.37792571697125,
+  "CenterPositionLat": 55.612239462809896
+ },
+ {
+  "ID": 591953752,
+  "Capacity": 26,
+  "Name": "",
+  "CenterPositionLon": -21.3777354842797,
+  "CenterPositionLat": 55.61189071044634
+ },
+ {
+  "ID": 592796809,
+  "Capacity": 62,
+  "Name": "",
+  "CenterPositionLon": -21.380990297419622,
+  "CenterPositionLat": 55.613417748534445
+ },
+ {
+  "ID": 592796812,
+  "Capacity": 16,
+  "Name": "",
+  "CenterPositionLon": -21.381146470654134,
+  "CenterPositionLat": 55.61348598234352
+ },
+ {
+  "ID": 592796813,
+  "Capacity": 20,
+  "Name": "",
+  "CenterPositionLon": -21.380990867576273,
+  "CenterPositionLat": 55.61307356693907
+ },
+ {
+  "ID": 594056389,
+  "Capacity": 0,
+  "Name": "",
+  "CenterPositionLon": -20.926393769273393,
+  "CenterPositionLat": 55.57585072760304
+ },
+ {
+  "ID": 594056393,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": -20.922741023389495,
+  "CenterPositionLat": 55.57310248012832
+ },
+ {
+  "ID": 606746806,
+  "Capacity": 1239,
+  "Name": "Aire Sportive de Bas de Jean-Petit",
+  "CenterPositionLon": -21.37376283223071,
+  "CenterPositionLat": 55.62647520496915
+ },
+ {
+  "ID": 607045347,
+  "Capacity": 42,
+  "Name": "",
+  "CenterPositionLon": -21.31882588900455,
+  "CenterPositionLat": 55.42832114613837
+ },
+ {
+  "ID": 652759986,
+  "Capacity": 41,
+  "Name": "Rond-point de l'Oasis",
+  "CenterPositionLon": -20.941848377543874,
+  "CenterPositionLat": 55.297974667880624
+ },
+ {
+  "ID": 653627813,
+  "Capacity": 535,
+  "Name": "",
+  "CenterPositionLon": -21.0718162089615,
+  "CenterPositionLat": 55.266778841310426
+ },
+ {
+  "ID": 658562870,
+  "Capacity": 307,
+  "Name": "",
+  "CenterPositionLon": -21.02142996260431,
+  "CenterPositionLat": 55.26875795513831
+ },
+ {
+  "ID": 667909425,
+  "Capacity": 146,
+  "Name": "Parc du 20 Décembre",
+  "CenterPositionLon": -21.3784748508367,
+  "CenterPositionLat": 55.61281768621957
+ },
+ {
+  "ID": 668399355,
+  "Capacity": 56,
+  "Name": "Rond point Titan",
+  "CenterPositionLon": -20.942422172605898,
+  "CenterPositionLat": 55.29202351829457
+ },
+ {
+  "ID": 670737270,
+  "Capacity": 18,
+  "Name": "",
+  "CenterPositionLon": -21.374163261675417,
+  "CenterPositionLat": 55.624338787118305
+ },
+ {
+  "ID": 670737281,
+  "Capacity": 9,
+  "Name": "",
+  "CenterPositionLon": -21.374220618810153,
+  "CenterPositionLat": 55.62444146455429
+ },
+ {
+  "ID": 670737314,
+  "Capacity": 140,
+  "Name": "Arboretum du lycée",
+  "CenterPositionLon": -21.373392094888807,
+  "CenterPositionLat": 55.62315677604378
+ },
+ {
+  "ID": 670737315,
+  "Capacity": 37,
+  "Name": "",
+  "CenterPositionLon": -21.3739763565085,
+  "CenterPositionLat": 55.62434025599315
+ },
+ {
+  "ID": 670737316,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": -21.373803610508666,
+  "CenterPositionLat": 55.62448275221033
+ },
+ {
+  "ID": 688997512,
+  "Capacity": 1246,
+  "Name": "",
+  "CenterPositionLon": -21.052389763598516,
+  "CenterPositionLat": 55.70693952183648
+ },
+ {
+  "ID": 703809374,
+  "Capacity": 52,
+  "Name": "",
+  "CenterPositionLon": -20.96009229679639,
+  "CenterPositionLat": 55.318247663005764
+ },
+ {
+  "ID": 703809375,
+  "Capacity": 31,
+  "Name": "",
+  "CenterPositionLon": -20.9602932915784,
+  "CenterPositionLat": 55.31834111189942
+ },
+ {
+  "ID": 710071880,
+  "Capacity": 583,
+  "Name": "Jardin Marc Rivière",
+  "CenterPositionLon": -21.287639363761357,
+  "CenterPositionLat": 55.519808539334306
+ },
+ {
+  "ID": 737066838,
+  "Capacity": 204,
+  "Name": "",
+  "CenterPositionLon": -21.359481843388142,
+  "CenterPositionLat": 55.76950605964224
+ },
+ {
+  "ID": 740028203,
+  "Capacity": 14,
+  "Name": "",
+  "CenterPositionLon": -21.30191482421352,
+  "CenterPositionLat": 55.46170679383712
+ },
+ {
+  "ID": 740742651,
+  "Capacity": 21,
+  "Name": "City Stade La Chapelle",
+  "CenterPositionLon": -21.2909606319489,
+  "CenterPositionLat": 55.41698834452282
+ },
+ {
+  "ID": 740769527,
+  "Capacity": 68,
+  "Name": "",
+  "CenterPositionLon": -21.163592094582867,
+  "CenterPositionLat": 55.28763216331145
+ },
+ {
+  "ID": 741695842,
+  "Capacity": 264,
+  "Name": "",
+  "CenterPositionLon": -21.06281673373849,
+  "CenterPositionLat": 55.228491009610885
+ },
+ {
+  "ID": 746010233,
+  "Capacity": 250,
+  "Name": "",
+  "CenterPositionLon": -20.90493054121024,
+  "CenterPositionLat": 55.48198500011398
+ },
+ {
+  "ID": 775176562,
+  "Capacity": 438,
+  "Name": "",
+  "CenterPositionLon": -21.203043212619402,
+  "CenterPositionLat": 55.29470888353476
+ },
+ {
+  "ID": 776903933,
+  "Capacity": 7,
+  "Name": "Rond point",
+  "CenterPositionLon": -20.981073015844753,
+  "CenterPositionLat": 55.31638341534415
+ },
+ {
+  "ID": 780435691,
+  "Capacity": 512,
+  "Name": "",
+  "CenterPositionLon": -21.28994398050018,
+  "CenterPositionLat": 55.40514408395222
+ }
+]

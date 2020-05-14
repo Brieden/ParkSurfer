@@ -1,0 +1,436 @@
+[
+ {
+  "ID": 29218455,
+  "Capacity": 217,
+  "Name": "Juffair Park",
+  "CenterPositionLon": 26.2139661587568,
+  "CenterPositionLat": 50.59887789813163
+ },
+ {
+  "ID": 56068425,
+  "Capacity": 4302,
+  "Name": "Marina Beach Garden Park",
+  "CenterPositionLon": 26.230375969413537,
+  "CenterPositionLat": 50.59949643241889
+ },
+ {
+  "ID": 61654519,
+  "Capacity": 706,
+  "Name": "",
+  "CenterPositionLon": 26.240853007210234,
+  "CenterPositionLat": 50.53325293758267
+ },
+ {
+  "ID": 62103749,
+  "Capacity": 720,
+  "Name": "",
+  "CenterPositionLon": 26.24285266400135,
+  "CenterPositionLat": 50.53718961155442
+ },
+ {
+  "ID": 62103750,
+  "Capacity": 571,
+  "Name": "",
+  "CenterPositionLon": 26.242496268870994,
+  "CenterPositionLat": 50.53819814637249
+ },
+ {
+  "ID": 62228949,
+  "Capacity": 3235,
+  "Name": "The Country Club",
+  "CenterPositionLon": 26.23002815714558,
+  "CenterPositionLat": 50.49769101756369
+ },
+ {
+  "ID": 64309188,
+  "Capacity": 2184,
+  "Name": "Andalus Garden Park",
+  "CenterPositionLon": 26.22229727746491,
+  "CenterPositionLat": 50.585241603712184
+ },
+ {
+  "ID": 64661095,
+  "Capacity": 327,
+  "Name": "",
+  "CenterPositionLon": 26.219580434050375,
+  "CenterPositionLat": 50.5647731813043
+ },
+ {
+  "ID": 71445162,
+  "Capacity": 476,
+  "Name": "",
+  "CenterPositionLon": 26.11050485399991,
+  "CenterPositionLat": 50.635547281947126
+ },
+ {
+  "ID": 98715954,
+  "Capacity": 294,
+  "Name": "",
+  "CenterPositionLon": 26.224978844744204,
+  "CenterPositionLat": 50.597185470063
+ },
+ {
+  "ID": 99406742,
+  "Capacity": 288,
+  "Name": "",
+  "CenterPositionLon": 26.225167844467347,
+  "CenterPositionLat": 50.59573481599178
+ },
+ {
+  "ID": 100145089,
+  "Capacity": 2198,
+  "Name": "Casino Garden",
+  "CenterPositionLon": 26.25985907088032,
+  "CenterPositionLat": 50.61505389391604
+ },
+ {
+  "ID": 101078912,
+  "Capacity": 201,
+  "Name": "Hoora Park",
+  "CenterPositionLon": 26.23017171609679,
+  "CenterPositionLat": 50.590272532031115
+ },
+ {
+  "ID": 101381266,
+  "Capacity": 240,
+  "Name": "",
+  "CenterPositionLon": 26.22736103557725,
+  "CenterPositionLat": 50.58670578031387
+ },
+ {
+  "ID": 115096417,
+  "Capacity": 269,
+  "Name": "Park Gudaibiya",
+  "CenterPositionLon": 26.22325768529453,
+  "CenterPositionLat": 50.588317982620595
+ },
+ {
+  "ID": 169153349,
+  "Capacity": 1804,
+  "Name": "",
+  "CenterPositionLon": 25.833746199825786,
+  "CenterPositionLat": 50.619180243816224
+ },
+ {
+  "ID": 169153352,
+  "Capacity": 1749,
+  "Name": "",
+  "CenterPositionLon": 25.830196156899916,
+  "CenterPositionLat": 50.6173354378823
+ },
+ {
+  "ID": 169157565,
+  "Capacity": 1725,
+  "Name": "",
+  "CenterPositionLon": 25.84499430506444,
+  "CenterPositionLat": 50.61803824543638
+ },
+ {
+  "ID": 169157566,
+  "Capacity": 1866,
+  "Name": "",
+  "CenterPositionLon": 25.848209115100182,
+  "CenterPositionLat": 50.61553532610594
+ },
+ {
+  "ID": 169157569,
+  "Capacity": 1154,
+  "Name": "",
+  "CenterPositionLon": 25.838757310404514,
+  "CenterPositionLat": 50.61124726867268
+ },
+ {
+  "ID": 169157570,
+  "Capacity": 1387,
+  "Name": "",
+  "CenterPositionLon": 25.835126935522116,
+  "CenterPositionLat": 50.610660023456276
+ },
+ {
+  "ID": 169157577,
+  "Capacity": 1601,
+  "Name": "",
+  "CenterPositionLon": 25.84240260211794,
+  "CenterPositionLat": 50.61009755565136
+ },
+ {
+  "ID": 175313564,
+  "Capacity": 19789,
+  "Name": "",
+  "CenterPositionLon": 26.21867168749168,
+  "CenterPositionLat": 50.59366176758743
+ },
+ {
+  "ID": 176053167,
+  "Capacity": 4214,
+  "Name": "Lost Paradise of Dilmun Water Park",
+  "CenterPositionLon": 26.013838387816136,
+  "CenterPositionLat": 50.509800250174195
+ },
+ {
+  "ID": 182163666,
+  "Capacity": 521,
+  "Name": "Galali Garden",
+  "CenterPositionLon": 26.275392583172078,
+  "CenterPositionLat": 50.64901177007648
+ },
+ {
+  "ID": 182986567,
+  "Capacity": 872,
+  "Name": "Hidd Gardens",
+  "CenterPositionLon": 26.2349965,
+  "CenterPositionLat": 50.652876750000004
+ },
+ {
+  "ID": 182986609,
+  "Capacity": 334,
+  "Name": "",
+  "CenterPositionLon": 26.23858539532596,
+  "CenterPositionLat": 50.65686432516167
+ },
+ {
+  "ID": 183049410,
+  "Capacity": 217,
+  "Name": "Prince Khalifa Park",
+  "CenterPositionLon": 26.224596704077555,
+  "CenterPositionLat": 50.63175951848973
+ },
+ {
+  "ID": 183414845,
+  "Capacity": 513,
+  "Name": "",
+  "CenterPositionLon": 26.249788074132642,
+  "CenterPositionLat": 50.649443765879404
+ },
+ {
+  "ID": 202631402,
+  "Capacity": 338,
+  "Name": "",
+  "CenterPositionLon": 26.26698076749959,
+  "CenterPositionLat": 50.60559028621077
+ },
+ {
+  "ID": 226925899,
+  "Capacity": 392,
+  "Name": "",
+  "CenterPositionLon": 26.249776850709452,
+  "CenterPositionLat": 50.61930791436263
+ },
+ {
+  "ID": 226926245,
+  "Capacity": 247,
+  "Name": "Baza Park",
+  "CenterPositionLon": 26.254505117694016,
+  "CenterPositionLat": 50.620219235554856
+ },
+ {
+  "ID": 279800715,
+  "Capacity": 795,
+  "Name": "حديقة عالي الكبرى",
+  "CenterPositionLon": 26.15513480726329,
+  "CenterPositionLat": 50.520122636672895
+ },
+ {
+  "ID": 326074985,
+  "Capacity": 5158,
+  "Name": "Sitra sport club",
+  "CenterPositionLon": 26.15637698650816,
+  "CenterPositionLat": 50.62584879740564
+ },
+ {
+  "ID": 339366080,
+  "Capacity": 6150,
+  "Name": "Shaikh Khalifa Bin Salman Park",
+  "CenterPositionLon": 26.13527881513883,
+  "CenterPositionLat": 50.56694054586627
+ },
+ {
+  "ID": 345635714,
+  "Capacity": 2996,
+  "Name": "",
+  "CenterPositionLon": 26.15894237635385,
+  "CenterPositionLat": 50.56448229320605
+ },
+ {
+  "ID": 347530619,
+  "Capacity": 210,
+  "Name": "Al Ak Garden",
+  "CenterPositionLon": 26.141200902818415,
+  "CenterPositionLat": 50.60102858515774
+ },
+ {
+  "ID": 353489527,
+  "Capacity": 228,
+  "Name": "AlKooheji Majles Park",
+  "CenterPositionLon": 26.170652394299207,
+  "CenterPositionLat": 50.47409773442557
+ },
+ {
+  "ID": 415759907,
+  "Capacity": 787,
+  "Name": "",
+  "CenterPositionLon": 26.002573221523164,
+  "CenterPositionLat": 50.51723190020618
+ },
+ {
+  "ID": 426196367,
+  "Capacity": 1342,
+  "Name": "",
+  "CenterPositionLon": 26.1529431180742,
+  "CenterPositionLat": 50.53513498995602
+ },
+ {
+  "ID": 484019372,
+  "Capacity": 268,
+  "Name": "",
+  "CenterPositionLon": 26.25607695473408,
+  "CenterPositionLat": 50.605533573553195
+ },
+ {
+  "ID": 484585182,
+  "Capacity": 156,
+  "Name": "",
+  "CenterPositionLon": 26.26047335,
+  "CenterPositionLat": 50.62058065
+ },
+ {
+  "ID": 487780366,
+  "Capacity": 92,
+  "Name": "حديقة الزلاق",
+  "CenterPositionLon": 26.04977358152709,
+  "CenterPositionLat": 50.48782535241986
+ },
+ {
+  "ID": 488049212,
+  "Capacity": 303,
+  "Name": "",
+  "CenterPositionLon": 26.093223600222398,
+  "CenterPositionLat": 50.488840424512865
+ },
+ {
+  "ID": 489071457,
+  "Capacity": 194,
+  "Name": "",
+  "CenterPositionLon": 26.274107816189844,
+  "CenterPositionLat": 50.60958575644385
+ },
+ {
+  "ID": 489098808,
+  "Capacity": 360,
+  "Name": "Askar Garden",
+  "CenterPositionLon": 26.057158789505234,
+  "CenterPositionLat": 50.61808443300474
+ },
+ {
+  "ID": 489370450,
+  "Capacity": 380,
+  "Name": "Jaw Garden",
+  "CenterPositionLon": 26.000374740903222,
+  "CenterPositionLat": 50.619320728630036
+ },
+ {
+  "ID": 532502357,
+  "Capacity": 79,
+  "Name": "حديقة جدحفص 424",
+  "CenterPositionLon": 26.22471758789698,
+  "CenterPositionLat": 50.52737160974213
+ },
+ {
+  "ID": 547894117,
+  "Capacity": 48,
+  "Name": "",
+  "CenterPositionLon": 26.23340544809492,
+  "CenterPositionLat": 50.598941702659594
+ },
+ {
+  "ID": 548338772,
+  "Capacity": 3594,
+  "Name": "Ghous Corniche Park",
+  "CenterPositionLon": 26.25136200105264,
+  "CenterPositionLat": 50.60387240638799
+ },
+ {
+  "ID": 548836858,
+  "Capacity": 1153,
+  "Name": "",
+  "CenterPositionLon": 26.17049030201582,
+  "CenterPositionLat": 50.61681778420385
+ },
+ {
+  "ID": 549102822,
+  "Capacity": 380,
+  "Name": "Bokuwara Garden",
+  "CenterPositionLon": 26.129860930542115,
+  "CenterPositionLat": 50.55694122652663
+ },
+ {
+  "ID": 549384027,
+  "Capacity": 4,
+  "Name": "Harris",
+  "CenterPositionLon": 26.22062960532792,
+  "CenterPositionLat": 50.52422243962652
+ },
+ {
+  "ID": 605334908,
+  "Capacity": 6965,
+  "Name": "The Avenues Park",
+  "CenterPositionLon": 26.241521048664065,
+  "CenterPositionLat": 50.580986037270314
+ },
+ {
+  "ID": 605339080,
+  "Capacity": 10207,
+  "Name": "The Lagoon Park",
+  "CenterPositionLon": 26.288170724515787,
+  "CenterPositionLat": 50.663556626983635
+ },
+ {
+  "ID": 605429581,
+  "Capacity": 7006,
+  "Name": "Dohat Arad Park",
+  "CenterPositionLon": 26.262375356736165,
+  "CenterPositionLat": 50.62258386307372
+ },
+ {
+  "ID": 605429912,
+  "Capacity": 3589,
+  "Name": "Arad Fort Beach Park",
+  "CenterPositionLon": 26.254387017889513,
+  "CenterPositionLat": 50.6252357640468
+ },
+ {
+  "ID": 605442252,
+  "Capacity": 1649,
+  "Name": "Malkiyah Walkway",
+  "CenterPositionLon": 26.09558442766543,
+  "CenterPositionLat": 50.478999368523034
+ },
+ {
+  "ID": 657645368,
+  "Capacity": 921,
+  "Name": "حديقة محمد بن فارس",
+  "CenterPositionLon": 26.1233962753328,
+  "CenterPositionLat": 50.57151451386086
+ },
+ {
+  "ID": 673395708,
+  "Capacity": 67,
+  "Name": "حديقة الروضة",
+  "CenterPositionLon": 26.2769153604678,
+  "CenterPositionLat": 50.666753578326826
+ },
+ {
+  "ID": 673790438,
+  "Capacity": 225,
+  "Name": "The Grove Park",
+  "CenterPositionLon": 26.278757188175113,
+  "CenterPositionLat": 50.66921525561554
+ },
+ {
+  "ID": 771155144,
+  "Capacity": 3399,
+  "Name": "Gravity Village",
+  "CenterPositionLon": 26.027900805919504,
+  "CenterPositionLat": 50.49497930899013
+ }
+]

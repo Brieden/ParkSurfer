@@ -1,0 +1,72 @@
+[
+ {
+  "ID": 190444280,
+  "Capacity": 5968,
+  "Name": "Veuve Reserve",
+  "CenterPositionLon": -4.357518002213177,
+  "CenterPositionLat": 55.83095212302539
+ },
+ {
+  "ID": 190590059,
+  "Capacity": 1010,
+  "Name": "Freedom Square",
+  "CenterPositionLon": -4.622311775190428,
+  "CenterPositionLat": 55.45398694841278
+ },
+ {
+  "ID": 359352868,
+  "Capacity": 1718833,
+  "Name": "",
+  "CenterPositionLon": -4.325554325743599,
+  "CenterPositionLat": 55.72682039203693
+ },
+ {
+  "ID": 444482550,
+  "Capacity": 47,
+  "Name": "",
+  "CenterPositionLon": -5.864659199999999,
+  "CenterPositionLat": 55.38422125
+ },
+ {
+  "ID": 466330196,
+  "Capacity": 506,
+  "Name": "Peace Park",
+  "CenterPositionLon": -4.622253419406315,
+  "CenterPositionLat": 55.455642833761196
+ },
+ {
+  "ID": 475420640,
+  "Capacity": 1064,
+  "Name": "Paradis Des Enfants",
+  "CenterPositionLon": -4.621569454597033,
+  "CenterPositionLat": 55.45638581831556
+ },
+ {
+  "ID": 504513916,
+  "Capacity": 1153,
+  "Name": "Old Childrens playground park",
+  "CenterPositionLon": -4.626021325129629,
+  "CenterPositionLat": 55.455228042182576
+ },
+ {
+  "ID": 504513918,
+  "Capacity": 289,
+  "Name": "Seychelles library park",
+  "CenterPositionLon": -4.626394817280043,
+  "CenterPositionLat": 55.454495289379196
+ },
+ {
+  "ID": 504513920,
+  "Capacity": 881,
+  "Name": "Bazar Victoria Park",
+  "CenterPositionLon": -4.626763374994307,
+  "CenterPositionLat": 55.456571673665046
+ },
+ {
+  "ID": 699263049,
+  "Capacity": 397,
+  "Name": "Eden Park",
+  "CenterPositionLon": -4.640964119292018,
+  "CenterPositionLat": 55.4799368649567
+ }
+]

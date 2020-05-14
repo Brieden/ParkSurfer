@@ -1,0 +1,345 @@
+[
+ {
+  "ID": 75243034,
+  "Capacity": 552,
+  "Name": "Victoria Park",
+  "CenterPositionLon": 32.29547138875924,
+  "CenterPositionLat": -64.78481079669632
+ },
+ {
+  "ID": 175028440,
+  "Capacity": 6022,
+  "Name": "Scaur Hill Fort Park",
+  "CenterPositionLon": 32.285683133042845,
+  "CenterPositionLat": -64.87221110049461
+ },
+ {
+  "ID": 175028499,
+  "Capacity": 4649,
+  "Name": "Virginia Park",
+  "CenterPositionLon": 32.28997256701541,
+  "CenterPositionLat": -64.87203558489695
+ },
+ {
+  "ID": 175029313,
+  "Capacity": 10739,
+  "Name": "Hog Bay Park",
+  "CenterPositionLon": 32.27323808990398,
+  "CenterPositionLat": -64.87935644604778
+ },
+ {
+  "ID": 175194099,
+  "Capacity": 1883,
+  "Name": "Shelly Bay Park",
+  "CenterPositionLon": 32.33464519079216,
+  "CenterPositionLat": -64.73951897869652
+ },
+ {
+  "ID": 175194148,
+  "Capacity": 490,
+  "Name": "Wilkinson Memorial Park",
+  "CenterPositionLon": 32.35374146815535,
+  "CenterPositionLat": -64.71761637102077
+ },
+ {
+  "ID": 181329174,
+  "Capacity": 6,
+  "Name": "Smith's Garden",
+  "CenterPositionLon": 32.38072398526351,
+  "CenterPositionLat": -64.678247387529
+ },
+ {
+  "ID": 181329191,
+  "Capacity": 6,
+  "Name": "",
+  "CenterPositionLon": 32.37957344769018,
+  "CenterPositionLat": -64.6791207983255
+ },
+ {
+  "ID": 181329193,
+  "Capacity": 19,
+  "Name": "",
+  "CenterPositionLon": 32.37962194411754,
+  "CenterPositionLat": -64.67891458563929
+ },
+ {
+  "ID": 181329194,
+  "Capacity": 19,
+  "Name": "Bob Burns Memorial Park",
+  "CenterPositionLon": 32.38022712970148,
+  "CenterPositionLat": -64.67701073815095
+ },
+ {
+  "ID": 181379149,
+  "Capacity": 322,
+  "Name": "Somers' Garden",
+  "CenterPositionLon": 32.382247871910025,
+  "CenterPositionLat": -64.67601888970289
+ },
+ {
+  "ID": 181381775,
+  "Capacity": 4127,
+  "Name": "Great Head Park",
+  "CenterPositionLon": 32.36761770339862,
+  "CenterPositionLat": -64.65023920851206
+ },
+ {
+  "ID": 181381777,
+  "Capacity": 3803,
+  "Name": "Little Head Park",
+  "CenterPositionLon": 32.3713702157945,
+  "CenterPositionLat": -64.6522718871058
+ },
+ {
+  "ID": 181382213,
+  "Capacity": 726,
+  "Name": "Alexandra's Battery Park",
+  "CenterPositionLon": 32.38033537644317,
+  "CenterPositionLat": -64.66413804051592
+ },
+ {
+  "ID": 181494935,
+  "Capacity": 215,
+  "Name": "Barr's Bay Park",
+  "CenterPositionLon": 32.29123564650583,
+  "CenterPositionLat": -64.78830633274484
+ },
+ {
+  "ID": 181495030,
+  "Capacity": 563,
+  "Name": "Queen Elizabeth Park",
+  "CenterPositionLon": 32.292619681179936,
+  "CenterPositionLat": -64.78681310071609
+ },
+ {
+  "ID": 181495035,
+  "Capacity": 99,
+  "Name": "Point Pleasant Park",
+  "CenterPositionLon": 32.290887641995916,
+  "CenterPositionLat": -64.78682308730318
+ },
+ {
+  "ID": 181495067,
+  "Capacity": 453,
+  "Name": "City Hall lawn",
+  "CenterPositionLon": 32.294510099576215,
+  "CenterPositionLat": -64.78529048765421
+ },
+ {
+  "ID": 181495068,
+  "Capacity": 359,
+  "Name": "",
+  "CenterPositionLon": 32.29296248883971,
+  "CenterPositionLat": -64.78140335455278
+ },
+ {
+  "ID": 181771244,
+  "Capacity": 169,
+  "Name": "Kindley Field Park",
+  "CenterPositionLon": 32.369787205646865,
+  "CenterPositionLat": -64.69068800352483
+ },
+ {
+  "ID": 182591990,
+  "Capacity": 1195,
+  "Name": "Kindley Field Park",
+  "CenterPositionLon": 32.36519173195671,
+  "CenterPositionLat": -64.70296183217847
+ },
+ {
+  "ID": 182703302,
+  "Capacity": 11131,
+  "Name": "Ferry Point Park",
+  "CenterPositionLon": 32.36692000309937,
+  "CenterPositionLat": -64.7101193907999
+ },
+ {
+  "ID": 182703365,
+  "Capacity": 286,
+  "Name": "Mullet Bay Park",
+  "CenterPositionLon": 32.37841817461454,
+  "CenterPositionLat": -64.68973737886152
+ },
+ {
+  "ID": 182703366,
+  "Capacity": 742,
+  "Name": "Rocky Hill Park",
+  "CenterPositionLon": 32.377610022907604,
+  "CenterPositionLat": -64.69297664288126
+ },
+ {
+  "ID": 183366831,
+  "Capacity": 174,
+  "Name": "Blue Hole Hill Park",
+  "CenterPositionLon": 32.35163874498138,
+  "CenterPositionLat": -64.71149641725884
+ },
+ {
+  "ID": 183367467,
+  "Capacity": 455,
+  "Name": "Abbott's Cliff Park",
+  "CenterPositionLon": 32.34429891022309,
+  "CenterPositionLat": -64.72788874565605
+ },
+ {
+  "ID": 183367468,
+  "Capacity": 828,
+  "Name": "Ducks Puddle Park \u0026 Annex",
+  "CenterPositionLon": 32.354659529060946,
+  "CenterPositionLat": -64.71575181648153
+ },
+ {
+  "ID": 183597813,
+  "Capacity": 173,
+  "Name": "Victually Yard",
+  "CenterPositionLon": 32.327615028148585,
+  "CenterPositionLat": -64.83385056195709
+ },
+ {
+  "ID": 183760298,
+  "Capacity": 2192,
+  "Name": "Ireland Island North",
+  "CenterPositionLon": 32.322514384542444,
+  "CenterPositionLat": -64.8396658666467
+ },
+ {
+  "ID": 183765381,
+  "Capacity": 627,
+  "Name": "Ireland Island South",
+  "CenterPositionLon": 32.3195353538653,
+  "CenterPositionLat": -64.8429892519634
+ },
+ {
+  "ID": 183765383,
+  "Capacity": 2387,
+  "Name": "Lagoon Park",
+  "CenterPositionLon": 32.314927207264155,
+  "CenterPositionLat": -64.84476156949728
+ },
+ {
+  "ID": 184496132,
+  "Capacity": 536,
+  "Name": "John Smith's Bay Park",
+  "CenterPositionLon": 32.31953859501179,
+  "CenterPositionLat": -64.71324227975137
+ },
+ {
+  "ID": 184496188,
+  "Capacity": 87,
+  "Name": "Watch Hill Park",
+  "CenterPositionLon": 32.316933908089055,
+  "CenterPositionLat": -64.71404269005906
+ },
+ {
+  "ID": 184502638,
+  "Capacity": 748,
+  "Name": "Palmetto Park",
+  "CenterPositionLon": 32.30954572030382,
+  "CenterPositionLat": -64.76335661401836
+ },
+ {
+  "ID": 184502639,
+  "Capacity": 112,
+  "Name": "Robinson Bay Park",
+  "CenterPositionLon": 32.309859991631804,
+  "CenterPositionLat": -64.76503679681667
+ },
+ {
+  "ID": 184584704,
+  "Capacity": 6038,
+  "Name": "Aboretum",
+  "CenterPositionLon": 32.29853255784213,
+  "CenterPositionLat": -64.76778791008175
+ },
+ {
+  "ID": 184584706,
+  "Capacity": 2854,
+  "Name": "Admiralty House Park",
+  "CenterPositionLon": 32.30651017706438,
+  "CenterPositionLat": -64.80587365056525
+ },
+ {
+  "ID": 184584710,
+  "Capacity": 1686,
+  "Name": "Barnes Corner Park",
+  "CenterPositionLon": 32.2522885100674,
+  "CenterPositionLat": -64.84999811804111
+ },
+ {
+  "ID": 184584711,
+  "Capacity": 1271,
+  "Name": "Church Bay Park",
+  "CenterPositionLon": 32.24947123459252,
+  "CenterPositionLat": -64.84886508553078
+ },
+ {
+  "ID": 184584784,
+  "Capacity": 1833,
+  "Name": "Somerset Long Bay Park",
+  "CenterPositionLon": 32.30393949136007,
+  "CenterPositionLat": -64.87101851996506
+ },
+ {
+  "ID": 184584786,
+  "Capacity": 16628,
+  "Name": "South Shore Park",
+  "CenterPositionLon": 32.25517555130939,
+  "CenterPositionLat": -64.81679855027224
+ },
+ {
+  "ID": 184584796,
+  "Capacity": 636,
+  "Name": "Spanish Point Park",
+  "CenterPositionLon": 32.306782254664355,
+  "CenterPositionLat": -64.81491239471619
+ },
+ {
+  "ID": 184584832,
+  "Capacity": 562,
+  "Name": "West Whale Bay Park",
+  "CenterPositionLon": 32.255709895303035,
+  "CenterPositionLat": -64.87262411413572
+ },
+ {
+  "ID": 384155956,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 32.35941769788393,
+  "CenterPositionLat": -64.70541411747976
+ },
+ {
+  "ID": 407833564,
+  "Capacity": 4219,
+  "Name": "Audubon Bird Sanctuary",
+  "CenterPositionLon": 32.26982553704712,
+  "CenterPositionLat": -64.78402530696758
+ },
+ {
+  "ID": 409575510,
+  "Capacity": 7231,
+  "Name": "Southlands",
+  "CenterPositionLon": 32.26644011517266,
+  "CenterPositionLat": -64.7961980432845
+ },
+ {
+  "ID": 729358607,
+  "Capacity": 792,
+  "Name": "Springfield",
+  "CenterPositionLon": 32.301017771500156,
+  "CenterPositionLat": -64.86985575747843
+ },
+ {
+  "ID": 797079476,
+  "Capacity": 94,
+  "Name": "Crawl Waterfront Park",
+  "CenterPositionLon": 32.341118222934355,
+  "CenterPositionLat": -64.73722314941878
+ },
+ {
+  "ID": 797079477,
+  "Capacity": 258,
+  "Name": "St. David's Lighthouse Park",
+  "CenterPositionLon": 32.36495388508819,
+  "CenterPositionLat": -64.65194626391148
+ }
+]

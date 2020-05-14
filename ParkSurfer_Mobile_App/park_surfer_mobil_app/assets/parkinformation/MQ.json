@@ -1,0 +1,156 @@
+[
+ {
+  "ID": 100972171,
+  "Capacity": 81,
+  "Name": "Place Gilbert Gratiant",
+  "CenterPositionLon": 14.603196667215684,
+  "CenterPositionLat": -61.07061808071747
+ },
+ {
+  "ID": 261715669,
+  "Capacity": 10767,
+  "Name": "Forêt départementalo-Domaniale du Pérou",
+  "CenterPositionLon": 14.750440165876114,
+  "CenterPositionLat": -61.03999335993228
+ },
+ {
+  "ID": 263086502,
+  "Capacity": 83,
+  "Name": "Place du 22 mai",
+  "CenterPositionLon": 14.73749843650924,
+  "CenterPositionLat": -60.959605561203226
+ },
+ {
+  "ID": 283100012,
+  "Capacity": 2440,
+  "Name": "La Savane",
+  "CenterPositionLon": 14.603084817112206,
+  "CenterPositionLat": -61.06750794550085
+ },
+ {
+  "ID": 284143590,
+  "Capacity": 2247,
+  "Name": "Parc Culturel Aimé Césaire",
+  "CenterPositionLon": 14.609362163769779,
+  "CenterPositionLat": -61.072613536947486
+ },
+ {
+  "ID": 285134355,
+  "Capacity": 22,
+  "Name": "Place de l'Abbé Grégoire",
+  "CenterPositionLon": 14.611615050000001,
+  "CenterPositionLat": -61.0715507
+ },
+ {
+  "ID": 285134358,
+  "Capacity": 89,
+  "Name": "Place de l'Abbé Grégoire",
+  "CenterPositionLon": 14.611577641249365,
+  "CenterPositionLat": -61.07119519078654
+ },
+ {
+  "ID": 285531239,
+  "Capacity": 29,
+  "Name": "",
+  "CenterPositionLon": 14.611304416531022,
+  "CenterPositionLat": -61.07141943367522
+ },
+ {
+  "ID": 538117185,
+  "Capacity": 557,
+  "Name": "Plateau Sportif Jean-Pierre Pinville",
+  "CenterPositionLon": 14.540674497095178,
+  "CenterPositionLat": -61.03483561851065
+ },
+ {
+  "ID": 538868001,
+  "Capacity": 24,
+  "Name": "Place Gilbert Gratiant",
+  "CenterPositionLon": 14.602860594927098,
+  "CenterPositionLat": -61.069916248196265
+ },
+ {
+  "ID": 538868002,
+  "Capacity": 34,
+  "Name": "Place Gilbert Gratiant",
+  "CenterPositionLon": 14.602650993480895,
+  "CenterPositionLat": -61.06951911832877
+ },
+ {
+  "ID": 543419617,
+  "Capacity": 36,
+  "Name": "",
+  "CenterPositionLon": 14.602433737859613,
+  "CenterPositionLat": -61.07194728058933
+ },
+ {
+  "ID": 543419618,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 14.602748422471713,
+  "CenterPositionLat": -61.07128584248742
+ },
+ {
+  "ID": 543419619,
+  "Capacity": 11,
+  "Name": "",
+  "CenterPositionLon": 14.602550107985675,
+  "CenterPositionLat": -61.07164547075887
+ },
+ {
+  "ID": 543908699,
+  "Capacity": 64,
+  "Name": "harmonia",
+  "CenterPositionLon": 14.630003397765087,
+  "CenterPositionLat": -61.0421027820195
+ },
+ {
+  "ID": 585748625,
+  "Capacity": 930,
+  "Name": "Parc Cité Eucaliptus",
+  "CenterPositionLon": 14.617124902073986,
+  "CenterPositionLat": -60.90659362255103
+ },
+ {
+  "ID": 585750640,
+  "Capacity": 82,
+  "Name": "Terrain de sports",
+  "CenterPositionLon": 14.617577807233621,
+  "CenterPositionLat": -60.94163517347089
+ },
+ {
+  "ID": 594175284,
+  "Capacity": 2254,
+  "Name": "Espace ludique sportif et culturel Filia",
+  "CenterPositionLon": 14.618319577431011,
+  "CenterPositionLat": -60.89616809093874
+ },
+ {
+  "ID": 595840643,
+  "Capacity": 23,
+  "Name": "",
+  "CenterPositionLon": 14.618715266666666,
+  "CenterPositionLat": -60.89697356666667
+ },
+ {
+  "ID": 595840800,
+  "Capacity": 24,
+  "Name": "",
+  "CenterPositionLon": 14.618542279342927,
+  "CenterPositionLat": -60.89686365442183
+ },
+ {
+  "ID": 595843928,
+  "Capacity": 1033,
+  "Name": "",
+  "CenterPositionLon": 14.61849847310294,
+  "CenterPositionLat": -60.90998324708146
+ },
+ {
+  "ID": 723294983,
+  "Capacity": 176,
+  "Name": "",
+  "CenterPositionLon": 14.601341123283975,
+  "CenterPositionLat": -61.06733307127675
+ }
+]

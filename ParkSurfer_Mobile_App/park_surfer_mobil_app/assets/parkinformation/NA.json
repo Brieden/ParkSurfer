@@ -1,0 +1,765 @@
+[
+ {
+  "ID": 30313101,
+  "Capacity": 2686,
+  "Name": "Public Park",
+  "CenterPositionLon": -22.59241084843139,
+  "CenterPositionLat": 17.081190020633354
+ },
+ {
+  "ID": 31052409,
+  "Capacity": 3040,
+  "Name": "Zoo Park",
+  "CenterPositionLon": -22.56735421749337,
+  "CenterPositionLat": 17.08528586799505
+ },
+ {
+  "ID": 34869785,
+  "Capacity": 577,
+  "Name": "Central Park",
+  "CenterPositionLon": -26.578632511745056,
+  "CenterPositionLat": 18.134023117809775
+ },
+ {
+  "ID": 46840583,
+  "Capacity": 16785,
+  "Name": "National Botanical Garden (South West Nature Reserve)",
+  "CenterPositionLon": -22.571673587252818,
+  "CenterPositionLat": 17.095048426393625
+ },
+ {
+  "ID": 82227358,
+  "Capacity": 163,
+  "Name": "Jetty Park",
+  "CenterPositionLon": -22.680964523709868,
+  "CenterPositionLat": 14.522345232644808
+ },
+ {
+  "ID": 82227374,
+  "Capacity": 1690,
+  "Name": "Lovers Lane Park",
+  "CenterPositionLon": -22.678367185493304,
+  "CenterPositionLat": 14.522302993528793
+ },
+ {
+  "ID": 82227376,
+  "Capacity": 2110,
+  "Name": "Nordstrand Park",
+  "CenterPositionLon": -22.663601107384057,
+  "CenterPositionLat": 14.526414442915089
+ },
+ {
+  "ID": 82227377,
+  "Capacity": 1741,
+  "Name": "Strand Street Park",
+  "CenterPositionLon": -22.66682748832772,
+  "CenterPositionLat": 14.524654751175099
+ },
+ {
+  "ID": 82227379,
+  "Capacity": 2155,
+  "Name": "Strand Street Park",
+  "CenterPositionLon": -22.670723873121315,
+  "CenterPositionLat": 14.524064093541579
+ },
+ {
+  "ID": 82227383,
+  "Capacity": 3010,
+  "Name": "Marshall Park",
+  "CenterPositionLon": -22.65967337490977,
+  "CenterPositionLat": 14.5269957960401
+ },
+ {
+  "ID": 82535602,
+  "Capacity": 867,
+  "Name": "",
+  "CenterPositionLon": -22.658458625704057,
+  "CenterPositionLat": 14.535325776414577
+ },
+ {
+  "ID": 87536421,
+  "Capacity": 207,
+  "Name": "",
+  "CenterPositionLon": -22.583396972066897,
+  "CenterPositionLat": 17.116862965452626
+ },
+ {
+  "ID": 93185905,
+  "Capacity": 8587,
+  "Name": "",
+  "CenterPositionLon": -20.437955042889943,
+  "CenterPositionLat": 14.605058062959055
+ },
+ {
+  "ID": 95070441,
+  "Capacity": 1121,
+  "Name": "Dr. António Agostinho Neto Square",
+  "CenterPositionLon": -22.576045053611402,
+  "CenterPositionLat": 17.085726956366276
+ },
+ {
+  "ID": 95070443,
+  "Capacity": 471,
+  "Name": "",
+  "CenterPositionLon": -22.578215024852305,
+  "CenterPositionLat": 17.083361429370424
+ },
+ {
+  "ID": 95195219,
+  "Capacity": 3975,
+  "Name": "Parliament Garden",
+  "CenterPositionLon": -22.566665651040214,
+  "CenterPositionLat": 17.088151956356416
+ },
+ {
+  "ID": 95198206,
+  "Capacity": 609,
+  "Name": "",
+  "CenterPositionLon": -22.560436717487267,
+  "CenterPositionLat": 17.081619960361536
+ },
+ {
+  "ID": 109702266,
+  "Capacity": 197,
+  "Name": "Mole Park",
+  "CenterPositionLon": -22.67552600513699,
+  "CenterPositionLat": 14.52355871989681
+ },
+ {
+  "ID": 118696127,
+  "Capacity": 5462,
+  "Name": "Swakopmund FC",
+  "CenterPositionLon": -22.683632644047407,
+  "CenterPositionLat": 14.529897450500794
+ },
+ {
+  "ID": 120648442,
+  "Capacity": 1157,
+  "Name": "Fun park \u0026 Merry-go-Round (seasonal)",
+  "CenterPositionLon": -22.581303313711913,
+  "CenterPositionLat": 17.08839515833893
+ },
+ {
+  "ID": 121421237,
+  "Capacity": 189,
+  "Name": "",
+  "CenterPositionLon": -22.553641754033862,
+  "CenterPositionLat": 17.084926122280535
+ },
+ {
+  "ID": 121547089,
+  "Capacity": 893,
+  "Name": "",
+  "CenterPositionLon": -22.571492531254297,
+  "CenterPositionLat": 17.08549626039156
+ },
+ {
+  "ID": 121547673,
+  "Capacity": 1697,
+  "Name": "",
+  "CenterPositionLon": -22.56880428405264,
+  "CenterPositionLat": 17.087926298491293
+ },
+ {
+  "ID": 121675113,
+  "Capacity": 596,
+  "Name": "",
+  "CenterPositionLon": -22.56823940184416,
+  "CenterPositionLat": 17.08684750081134
+ },
+ {
+  "ID": 122899650,
+  "Capacity": 9575,
+  "Name": "Luna Park",
+  "CenterPositionLon": -21.42273170863262,
+  "CenterPositionLat": 15.947609605204049
+ },
+ {
+  "ID": 122982094,
+  "Capacity": 279,
+  "Name": "",
+  "CenterPositionLon": -26.578168623077282,
+  "CenterPositionLat": 18.13276098385413
+ },
+ {
+  "ID": 124323193,
+  "Capacity": 12500,
+  "Name": "",
+  "CenterPositionLon": -22.587500715296322,
+  "CenterPositionLat": 17.054558835188548
+ },
+ {
+  "ID": 148877189,
+  "Capacity": 430,
+  "Name": "Vineta Mark Park",
+  "CenterPositionLon": -22.65320049342082,
+  "CenterPositionLat": 14.530681183729026
+ },
+ {
+  "ID": 148877207,
+  "Capacity": 1349,
+  "Name": "Jukskei Park",
+  "CenterPositionLon": -22.65757314141219,
+  "CenterPositionLat": 14.529125905947708
+ },
+ {
+  "ID": 154836009,
+  "Capacity": 681,
+  "Name": "",
+  "CenterPositionLon": -22.575201669580437,
+  "CenterPositionLat": 17.09608568926414
+ },
+ {
+  "ID": 154836015,
+  "Capacity": 2611,
+  "Name": "",
+  "CenterPositionLon": -22.576112108463033,
+  "CenterPositionLat": 17.095632628226202
+ },
+ {
+  "ID": 164354159,
+  "Capacity": 423,
+  "Name": "",
+  "CenterPositionLon": -26.578799510041303,
+  "CenterPositionLat": 18.13457376976714
+ },
+ {
+  "ID": 168577990,
+  "Capacity": 2168,
+  "Name": "Meersig Park",
+  "CenterPositionLon": -22.974065833333334,
+  "CenterPositionLat": 14.4901105
+ },
+ {
+  "ID": 168707879,
+  "Capacity": 1918,
+  "Name": "",
+  "CenterPositionLon": -22.96301281960478,
+  "CenterPositionLat": 14.48948975364299
+ },
+ {
+  "ID": 178852180,
+  "Capacity": 261,
+  "Name": "",
+  "CenterPositionLon": -24.62975904626694,
+  "CenterPositionLat": 17.954643264243025
+ },
+ {
+  "ID": 197857463,
+  "Capacity": 1878,
+  "Name": "Moths Park",
+  "CenterPositionLon": -19.255544442052,
+  "CenterPositionLat": 17.722003633712607
+ },
+ {
+  "ID": 197857509,
+  "Capacity": 6287,
+  "Name": "United Nations Park",
+  "CenterPositionLon": -19.24452140706223,
+  "CenterPositionLat": 17.718899691812233
+ },
+ {
+  "ID": 197857510,
+  "Capacity": 1819,
+  "Name": "",
+  "CenterPositionLon": -19.24338464468298,
+  "CenterPositionLat": 17.717156650167244
+ },
+ {
+  "ID": 218898224,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": -20.106380608946345,
+  "CenterPositionLat": 16.150131763789446
+ },
+ {
+  "ID": 218993726,
+  "Capacity": 66,
+  "Name": "",
+  "CenterPositionLon": -20.10836142185064,
+  "CenterPositionLat": 16.152630425435717
+ },
+ {
+  "ID": 218993832,
+  "Capacity": 440,
+  "Name": "",
+  "CenterPositionLon": -20.107455830218367,
+  "CenterPositionLat": 16.152973373455687
+ },
+ {
+  "ID": 219668142,
+  "Capacity": 2024,
+  "Name": "Legare Sport Complex",
+  "CenterPositionLon": -22.452031041504096,
+  "CenterPositionLat": 18.969215984029233
+ },
+ {
+  "ID": 239890593,
+  "Capacity": 341,
+  "Name": "",
+  "CenterPositionLon": -20.461255388259598,
+  "CenterPositionLat": 16.651408558431317
+ },
+ {
+  "ID": 239890594,
+  "Capacity": 315,
+  "Name": "",
+  "CenterPositionLon": -20.46111833466578,
+  "CenterPositionLat": 16.65082267906137
+ },
+ {
+  "ID": 239890595,
+  "Capacity": 319,
+  "Name": "",
+  "CenterPositionLon": -20.460533703548972,
+  "CenterPositionLat": 16.65101796369641
+ },
+ {
+  "ID": 239890596,
+  "Capacity": 370,
+  "Name": "",
+  "CenterPositionLon": -20.46069786467747,
+  "CenterPositionLat": 16.651569242888872
+ },
+ {
+  "ID": 244026498,
+  "Capacity": 13549,
+  "Name": "Zambezi Waterfront Tourism Park",
+  "CenterPositionLon": -17.49318496548311,
+  "CenterPositionLat": 24.274112318600743
+ },
+ {
+  "ID": 245419278,
+  "Capacity": 339,
+  "Name": "",
+  "CenterPositionLon": -20.484364531958814,
+  "CenterPositionLat": 17.032632285747002
+ },
+ {
+  "ID": 245419689,
+  "Capacity": 2267,
+  "Name": "",
+  "CenterPositionLon": -20.485005767653398,
+  "CenterPositionLat": 17.032977494213085
+ },
+ {
+  "ID": 245419690,
+  "Capacity": 8994,
+  "Name": "",
+  "CenterPositionLon": -20.48694594247603,
+  "CenterPositionLat": 17.031215530873435
+ },
+ {
+  "ID": 262200457,
+  "Capacity": 769,
+  "Name": "",
+  "CenterPositionLon": -22.544728573220294,
+  "CenterPositionLat": 17.058934682205876
+ },
+ {
+  "ID": 276524887,
+  "Capacity": 5129,
+  "Name": "",
+  "CenterPositionLon": -26.67562945776214,
+  "CenterPositionLat": 16.300876347955043
+ },
+ {
+  "ID": 276524889,
+  "Capacity": 9488,
+  "Name": "",
+  "CenterPositionLon": -26.67650253967547,
+  "CenterPositionLat": 16.288392913834784
+ },
+ {
+  "ID": 359248773,
+  "Capacity": 81,
+  "Name": "",
+  "CenterPositionLon": -22.607178765084054,
+  "CenterPositionLat": 17.056800914426425
+ },
+ {
+  "ID": 360001757,
+  "Capacity": 851,
+  "Name": "Windhoek City Hill",
+  "CenterPositionLon": -22.560054676084103,
+  "CenterPositionLat": 17.08797177638743
+ },
+ {
+  "ID": 373350856,
+  "Capacity": 264372,
+  "Name": "Midgard Country Estate",
+  "CenterPositionLon": -22.04735368867924,
+  "CenterPositionLat": 17.365910960647835
+ },
+ {
+  "ID": 373416622,
+  "Capacity": 2288,
+  "Name": "JC Harries Park",
+  "CenterPositionLon": -22.95925053635233,
+  "CenterPositionLat": 14.500172923439578
+ },
+ {
+  "ID": 376068720,
+  "Capacity": 132,
+  "Name": "",
+  "CenterPositionLon": -22.605418766312837,
+  "CenterPositionLat": 16.78513620170806
+ },
+ {
+  "ID": 381544895,
+  "Capacity": 1725,
+  "Name": "Mole Park",
+  "CenterPositionLon": -22.67638990541321,
+  "CenterPositionLat": 14.522924396641312
+ },
+ {
+  "ID": 408185092,
+  "Capacity": 3222,
+  "Name": "",
+  "CenterPositionLon": -17.42181633764356,
+  "CenterPositionLat": 14.15833849148111
+ },
+ {
+  "ID": 469416975,
+  "Capacity": 1897,
+  "Name": "Lagoon Park",
+  "CenterPositionLon": -22.963015645973307,
+  "CenterPositionLat": 14.489486657359466
+ },
+ {
+  "ID": 481332545,
+  "Capacity": 181,
+  "Name": "",
+  "CenterPositionLon": -26.652785447192237,
+  "CenterPositionLat": 15.149247199236115
+ },
+ {
+  "ID": 481332546,
+  "Capacity": 152,
+  "Name": "",
+  "CenterPositionLon": -26.65256651391704,
+  "CenterPositionLat": 15.14977691860736
+ },
+ {
+  "ID": 481333243,
+  "Capacity": 73,
+  "Name": "",
+  "CenterPositionLon": -26.633960221000454,
+  "CenterPositionLat": 15.174609970768547
+ },
+ {
+  "ID": 481333244,
+  "Capacity": 54,
+  "Name": "",
+  "CenterPositionLon": -26.632627023081287,
+  "CenterPositionLat": 15.176072806394249
+ },
+ {
+  "ID": 484080203,
+  "Capacity": 1383,
+  "Name": "",
+  "CenterPositionLon": -22.56438106646678,
+  "CenterPositionLat": 17.086093394785248
+ },
+ {
+  "ID": 484316953,
+  "Capacity": 874,
+  "Name": "",
+  "CenterPositionLon": -22.535850954733135,
+  "CenterPositionLat": 17.040700337533234
+ },
+ {
+  "ID": 484420809,
+  "Capacity": 704,
+  "Name": "",
+  "CenterPositionLon": -22.666240257438833,
+  "CenterPositionLat": 14.52813870898681
+ },
+ {
+  "ID": 485010692,
+  "Capacity": 767,
+  "Name": "",
+  "CenterPositionLon": -22.51563493847199,
+  "CenterPositionLat": 17.046819891269703
+ },
+ {
+  "ID": 485398241,
+  "Capacity": 3299,
+  "Name": "",
+  "CenterPositionLon": -22.96302027232312,
+  "CenterPositionLat": 14.505314647485843
+ },
+ {
+  "ID": 485398247,
+  "Capacity": 4294,
+  "Name": "",
+  "CenterPositionLon": -22.959084785672324,
+  "CenterPositionLat": 14.505732451115387
+ },
+ {
+  "ID": 485398253,
+  "Capacity": 528,
+  "Name": "",
+  "CenterPositionLon": -22.95787607359707,
+  "CenterPositionLat": 14.511448675888214
+ },
+ {
+  "ID": 485398254,
+  "Capacity": 360,
+  "Name": "",
+  "CenterPositionLon": -22.95834806688867,
+  "CenterPositionLat": 14.512523693291982
+ },
+ {
+  "ID": 485636586,
+  "Capacity": 2112,
+  "Name": "",
+  "CenterPositionLon": -22.961360872760345,
+  "CenterPositionLat": 14.484467881190488
+ },
+ {
+  "ID": 485640316,
+  "Capacity": 365,
+  "Name": "",
+  "CenterPositionLon": -22.961299454544584,
+  "CenterPositionLat": 14.48248703064934
+ },
+ {
+  "ID": 485641397,
+  "Capacity": 1003,
+  "Name": "",
+  "CenterPositionLon": -22.96529011548975,
+  "CenterPositionLat": 14.495782139940836
+ },
+ {
+  "ID": 485641398,
+  "Capacity": 2681,
+  "Name": "",
+  "CenterPositionLon": -22.96290537979651,
+  "CenterPositionLat": 14.498764277462538
+ },
+ {
+  "ID": 485641399,
+  "Capacity": 1164,
+  "Name": "",
+  "CenterPositionLon": -22.957964114236198,
+  "CenterPositionLat": 14.506258388866536
+ },
+ {
+  "ID": 486701231,
+  "Capacity": 1884,
+  "Name": "Mattenklodt Park",
+  "CenterPositionLon": -22.590631916122472,
+  "CenterPositionLat": 17.061414427744147
+ },
+ {
+  "ID": 486871120,
+  "Capacity": 1171,
+  "Name": "Tamariskia Park",
+  "CenterPositionLon": -22.654580828251998,
+  "CenterPositionLat": 14.541315102701226
+ },
+ {
+  "ID": 486871124,
+  "Capacity": 6830,
+  "Name": "Paddock Gardens",
+  "CenterPositionLon": -22.647242055545895,
+  "CenterPositionLat": 14.529402135951434
+ },
+ {
+  "ID": 486880267,
+  "Capacity": 119,
+  "Name": "Town Hall Gardens",
+  "CenterPositionLon": -22.657349069418785,
+  "CenterPositionLat": 14.5361394837537
+ },
+ {
+  "ID": 486880268,
+  "Capacity": 78,
+  "Name": "Town Hall Gardens",
+  "CenterPositionLon": -22.65762391623526,
+  "CenterPositionLat": 14.536571688434558
+ },
+ {
+  "ID": 486880269,
+  "Capacity": 28,
+  "Name": "Town Hall Gardens",
+  "CenterPositionLon": -22.657444754949974,
+  "CenterPositionLat": 14.536579064611141
+ },
+ {
+  "ID": 486880273,
+  "Capacity": 914,
+  "Name": "Catholic church Park",
+  "CenterPositionLon": -22.660727040755543,
+  "CenterPositionLat": 14.538316630736688
+ },
+ {
+  "ID": 486880275,
+  "Capacity": 326,
+  "Name": "Municipality Garden",
+  "CenterPositionLon": -22.668169524147853,
+  "CenterPositionLat": 14.532956494776082
+ },
+ {
+  "ID": 486880284,
+  "Capacity": 317,
+  "Name": "Municipality Rock Garden",
+  "CenterPositionLon": -22.66821114675433,
+  "CenterPositionLat": 14.532052180467641
+ },
+ {
+  "ID": 486880285,
+  "Capacity": 714,
+  "Name": "Municipality Rock Garden",
+  "CenterPositionLon": -22.66805423292979,
+  "CenterPositionLat": 14.531410346285549
+ },
+ {
+  "ID": 507538555,
+  "Capacity": 217751,
+  "Name": "Avis Dam Recreational Area",
+  "CenterPositionLon": -22.575130208977626,
+  "CenterPositionLat": 17.1329385020094
+ },
+ {
+  "ID": 579545814,
+  "Capacity": 371,
+  "Name": "",
+  "CenterPositionLon": -17.899595484113117,
+  "CenterPositionLat": 15.963605771677276
+ },
+ {
+  "ID": 583353532,
+  "Capacity": 2452,
+  "Name": "",
+  "CenterPositionLon": -22.67610909152718,
+  "CenterPositionLat": 14.524562016951206
+ },
+ {
+  "ID": 583354447,
+  "Capacity": 1768,
+  "Name": "Jorg Henrichson Park",
+  "CenterPositionLon": -22.683343927133425,
+  "CenterPositionLat": 14.522592737536028
+ },
+ {
+  "ID": 586685179,
+  "Capacity": 45,
+  "Name": "5574",
+  "CenterPositionLon": -22.63041453298459,
+  "CenterPositionLat": 14.538151045218497
+ },
+ {
+  "ID": 632636865,
+  "Capacity": 7081,
+  "Name": "",
+  "CenterPositionLon": -22.594260885626273,
+  "CenterPositionLat": 17.068474601347116
+ },
+ {
+  "ID": 701749946,
+  "Capacity": 208,
+  "Name": "",
+  "CenterPositionLon": -22.56392199069659,
+  "CenterPositionLat": 17.085378227236383
+ },
+ {
+  "ID": 708079494,
+  "Capacity": 723,
+  "Name": "",
+  "CenterPositionLon": -22.56980997726195,
+  "CenterPositionLat": 17.040729505992513
+ },
+ {
+  "ID": 708343669,
+  "Capacity": 2527,
+  "Name": "",
+  "CenterPositionLon": -22.60661902499581,
+  "CenterPositionLat": 17.070412888146077
+ },
+ {
+  "ID": 708346853,
+  "Capacity": 756,
+  "Name": "",
+  "CenterPositionLon": -22.610066393112888,
+  "CenterPositionLat": 17.073555704209216
+ },
+ {
+  "ID": 708591226,
+  "Capacity": 3123,
+  "Name": "",
+  "CenterPositionLon": -20.46412645344898,
+  "CenterPositionLat": 16.6547570626442
+ },
+ {
+  "ID": 708798097,
+  "Capacity": 915,
+  "Name": "",
+  "CenterPositionLon": -22.552169405742767,
+  "CenterPositionLat": 17.086318401813458
+ },
+ {
+  "ID": 757836143,
+  "Capacity": 5700,
+  "Name": "",
+  "CenterPositionLon": -26.466446330338684,
+  "CenterPositionLat": 18.272615377790036
+ },
+ {
+  "ID": 771899043,
+  "Capacity": 2374,
+  "Name": "",
+  "CenterPositionLon": -20.470232679435743,
+  "CenterPositionLat": 16.651390874995116
+ },
+ {
+  "ID": 775773155,
+  "Capacity": 398,
+  "Name": "",
+  "CenterPositionLon": -21.98509479324245,
+  "CenterPositionLat": 16.915522880661285
+ },
+ {
+  "ID": 776239971,
+  "Capacity": 221,
+  "Name": "",
+  "CenterPositionLon": -17.395082970318857,
+  "CenterPositionLat": 15.898846249419897
+ },
+ {
+  "ID": 776239999,
+  "Capacity": 138,
+  "Name": "",
+  "CenterPositionLon": -17.397839830511366,
+  "CenterPositionLat": 15.898811199269883
+ },
+ {
+  "ID": 777021754,
+  "Capacity": 213,
+  "Name": "",
+  "CenterPositionLon": -17.396846563713186,
+  "CenterPositionLat": 15.88664452559333
+ },
+ {
+  "ID": 782043246,
+  "Capacity": 833,
+  "Name": "",
+  "CenterPositionLon": -22.949624060098607,
+  "CenterPositionLat": 14.541255327373063
+ },
+ {
+  "ID": 785173422,
+  "Capacity": 157,
+  "Name": "",
+  "CenterPositionLon": -22.5463453358487,
+  "CenterPositionLat": 17.065078735188212
+ },
+ {
+  "ID": 789845993,
+  "Capacity": 950,
+  "Name": "",
+  "CenterPositionLon": -19.249873130383317,
+  "CenterPositionLat": 17.69933216223619
+ }
+]

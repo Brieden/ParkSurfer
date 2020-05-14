@@ -1,0 +1,128 @@
+[
+ {
+  "ID": 304650890,
+  "Capacity": 1930,
+  "Name": "Unity Park",
+  "CenterPositionLon": -15.515299128114073,
+  "CenterPositionLat": 167.17442537161102
+ },
+ {
+  "ID": 307095393,
+  "Capacity": 2877,
+  "Name": "Independence Park",
+  "CenterPositionLon": -17.740088078556713,
+  "CenterPositionLat": 168.31686617490527
+ },
+ {
+  "ID": 307398402,
+  "Capacity": 1257,
+  "Name": "Seawall Park",
+  "CenterPositionLon": -17.738538135653187,
+  "CenterPositionLat": 168.31329276264714
+ },
+ {
+  "ID": 307398428,
+  "Capacity": 873,
+  "Name": "",
+  "CenterPositionLon": -17.733275248158016,
+  "CenterPositionLat": 168.31104814325266
+ },
+ {
+  "ID": 332724554,
+  "Capacity": 205,
+  "Name": "",
+  "CenterPositionLon": -19.516571516905138,
+  "CenterPositionLat": 170.23006664808173
+ },
+ {
+  "ID": 332867171,
+  "Capacity": 9399,
+  "Name": "",
+  "CenterPositionLon": -17.76161410678791,
+  "CenterPositionLat": 168.28445279384846
+ },
+ {
+  "ID": 332936896,
+  "Capacity": 1281,
+  "Name": "Iguaramanu park",
+  "CenterPositionLon": -19.551356686142512,
+  "CenterPositionLat": 169.44138031261943
+ },
+ {
+  "ID": 334446383,
+  "Capacity": 43245,
+  "Name": "Mere-Sauwia Conservation Area",
+  "CenterPositionLon": -17.464292805909178,
+  "CenterPositionLat": 168.37907773991586
+ },
+ {
+  "ID": 335285119,
+  "Capacity": 21,
+  "Name": "",
+  "CenterPositionLon": -15.447953813365244,
+  "CenterPositionLat": 167.67893572007455
+ },
+ {
+  "ID": 336136144,
+  "Capacity": 80,
+  "Name": "",
+  "CenterPositionLon": -16.3363233,
+  "CenterPositionLat": 167.73970075
+ },
+ {
+  "ID": 336736609,
+  "Capacity": 534,
+  "Name": "",
+  "CenterPositionLon": -15.542413262378787,
+  "CenterPositionLat": 167.14905047659238
+ },
+ {
+  "ID": 382134234,
+  "Capacity": 9,
+  "Name": "VILA MALL PARK",
+  "CenterPositionLon": -17.73465651007626,
+  "CenterPositionLat": 168.31251120667844
+ },
+ {
+  "ID": 711187236,
+  "Capacity": 79,
+  "Name": "",
+  "CenterPositionLon": -15.317773610287718,
+  "CenterPositionLat": 167.85773385020252
+ },
+ {
+  "ID": 711562981,
+  "Capacity": 41,
+  "Name": "",
+  "CenterPositionLon": -19.545901896723667,
+  "CenterPositionLat": 169.2745447179288
+ },
+ {
+  "ID": 711562984,
+  "Capacity": 270,
+  "Name": "",
+  "CenterPositionLon": -19.542069252407458,
+  "CenterPositionLat": 169.2809303323353
+ },
+ {
+  "ID": 711562987,
+  "Capacity": 111,
+  "Name": "",
+  "CenterPositionLon": -19.542250025675585,
+  "CenterPositionLat": 169.2814126828939
+ },
+ {
+  "ID": 711563003,
+  "Capacity": 84,
+  "Name": "",
+  "CenterPositionLon": -19.540649567216644,
+  "CenterPositionLat": 169.33029119366245
+ },
+ {
+  "ID": 711895949,
+  "Capacity": 1045,
+  "Name": "",
+  "CenterPositionLon": -15.417278034406293,
+  "CenterPositionLat": 167.7083041568683
+ }
+]
